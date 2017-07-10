@@ -6,6 +6,10 @@ This repository is used for collaborative editing of omega tau episode scripts, 
 
 Everyone can edit. Please make sure you add construstive questions and stay on topic. 
 
+## Which Files to Change
+
+The files in the _open_ directory (https://github.com/omegataupodcast/episode-prep/tree/master/open) are still being prepared. Please make your changes there. Files in the _closed_ directory (https://github.com/omegataupodcast/episode-prep/tree/master/closed) are done; you can technially still make changes, but they won't make it in the episode.
+
 ## What to change
 
 Please do not delete other people's questions. You are free to rephrase to make it clearer, but don't just delete things you don't like. For bigger edits that restructure the whole script, please create a branch.
