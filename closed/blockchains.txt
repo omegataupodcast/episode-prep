@@ -1,0 +1,157 @@
+@spfeiffr
+Tim Würtele
+Sebastian Müller
+@FWFR100‬
+Rene Schmidt
+‪@matspi131‬
+@dd_joerg
+Arnim Sommer
+Thomas Lenarz
+Andreas Stangl
+Martin Gründl
+Elias Trommer
+Melanie Peschel
+Reiner Brühl
+Stephan Janosch
+Jörg Bode
+Castrovillari, Tommaso
+Björn Engelmann
+
+
+
+
+* Define: what is a BC?
+
+* Funktionsprinzip
+  - Distributed Ledger -> Tx Log
+  - Transaktionen werden gespeichert
+    . Write-only. Write Deltas. Easy to add. Hard to establish state.
+    . Zustand aus Tx rekonstruieren?
+  - Transaktion vs. Block
+  - Anonym vs. Pseudonym
+  - Hashing
+    . Chaining
+    . CBC (nur erwähnen/falsche Richtung)
+    . Nonce. 
+    . Merkle Tree?
+  - Proof of Work
+    . geht's auch ohne den?
+    . Alternativen?
+  - Replikation
+  - Rollen: 
+    . Wallet Owner
+    . Miner
+    . Nodes  
+    . Sw Devs. How to make sure these don't "cheat"?
+  - Consensus
+    . which BC to be used? URL? 
+    . Wie wird sichergestellt, dass es bei einer BlockCHAIN bleibt 
+      und nicht zu einem BlockTREE wird?
+    . Which tx go into which block?
+  - Wie wird Fehlerkorrektur sichergestellt, kann man eine BC
+    (aus Versehen oder mit Absicht) "zerstören"?
+  - Inwiefern sind BC echtzeitfähig? Overhead?
+    
+* Historisch: 
+  . Bitcoin die erste Blockchain? 
+  . Oder war Bitcoin die erste *Anwendung*?
+  . Was war/ist der entscheidende Durchbruch?
+  . Cypher Block Chaining ist nicht neu!
+
+* Was sind die Krypto Basistechnologien?
+
+* Vor/Nachteile vgl. mit zentraler DB
+  - Wirtsch. Nutzen jenseits des Hypes
+
+* Verschiedene Ansätze
+  - Miniumum Ingredients
+  - Existierende Technologien
+
+* Skalierungsproblematik
+  - Datenmenge
+  - Energieverbrauch für den PoW
+  
+* Nutzen und Impact
+  . Vertrauen
+  . Non-repudiation
+  . Verteilung, Dezentral
+  . Welche Rolle im System "Vertrag" wird ersetzt? 
+    Änderung von Machtgefügen?
+    Resilienz erhöht? 
+    Cui Bono?
+    
+* Smart Contracts (grundsätzlichen Ideen und Grenzen)
+  - Was ist ein Vertrag im rechtlichen/wirtschaftlichen Sinne?
+  - Wie ist "Contract" hier zu verstehen?
+  - Verallgemeinerung dessen was passiert jenseits von Geld-Tx?
+  - Integrierte Programmiersprachen
+  - auch der Code selber, das Programm, ist "sicher"? 
+    "smart contract is shared prg you can trust?"
+  - Verteiltes Prozessmanagement
+  - wie find ich prg in chain? idx? wie fi det prg daten? downstream!
+  - Problem des Kontakts mit der realen Welt
+    . Autos automatisch stilllegen durch "BC-Steuergerät"?
+    . sensors supplying data to contract -> kontakt zur realen Welt
+    . Macht es diese Conn von virtueller und wirklicher Welt erst interessant?
+    . NB: geht auch ohne BC!
+    
+* Ethereum als konkrete Technologie
+  - "Applications that run exactly as programmed without any possibility of downtime, 
+     censorship, fraud or third party interference"
+  - Speichere ich alle Daten in der BC (Nutzdaten. Umfang!) oder 
+    nur den Prozessstatus + Hashes der Daten?
+   
+  
+  
+    Konkrete Hörerfrage: 
+    Ich habe den Eindruck, dass der Terminus "Smart Contract", wie er in der
+    Wissenschaftlichen Literatur verwendet wird (z.B. [1]) von der Umsetzung
+    in Ethereum abweicht. Einen Unterschied, den ich konkret benennen kann,
+    ist, dass Szabo [1] in seiner Definition das Prinzip Privity (= niemand
+    ausser den am Vertrag teilnehmenden Parteien soll a) Einblick in die
+    Vertragsdetails haben und b) Einfluss auf die Ausführung des Vertrages
+    nehmen können) festschreibt und als mögliche Umsetzung Secure Multiparty
+    Computation vorschlägt, jedoch in Ethereum
+    a) technisch bedingt ALLE Informationen, die Einfluss auf einen Vertrag
+       nehmen können in die BlockChain eingehen und daher world-readable sind, und
+    b) Auch die Vertäge selbst (in compilierter Form) in der Blockchain
+       stehen und daher world-readable sind.
+    Es wäre interessant zu wissen, ab
+    a) es noch andere Abweichungen/Unterschiede gibt und
+    b) ob es möglich ist diese Abweichung zu beheben - also z.B. Ethereum
+       mit Secure Multiparty Computation zu kombinieren.
+
+* Kategorisierung/Parametriesierung der Technologie
+
+* Andere Anwendungen von BCs
+
+* Währung als Spezialfall con Contract, wo Tx immer Geld<->Geld sind?
+  - Unterschied Kryptowährung bzw. Bezug dazu
+  - Bitcoin als Bsp? 
+
+* Security
+  - Muss/kann man eine BC geheim halten? 
+  - Wie authentifiziere ich die Teilnehmer?
+  - Kann man eine BC korrumpieren?
+  - Welche (zentrale?) Infrastruktur brauche ich noch?
+    . Who starts a BC? 
+    . Who decides which BC data structure has the "truth"? 
+    . What if that guy "forgets" that the BC exists and ignores it?
+    . Will courts enforce an ethereum contract "in the real world"?
+  
+  
+* Blockchains sind clearly hype. Was wird uns enttäuschen?
+* No free lunch!? What are the challenges with BCs.
+  - Laienkompatibel? Bitcoin ist es nicht!Hall
+
+
+* Forschung in diesem Gebiet?
+  - High-Level am Beispiel TUM / München
+  - Grundlagen vs. Anwendung
+  - Interdisplinär?
+
+
+
+
+
+
