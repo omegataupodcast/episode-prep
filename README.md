@@ -8,12 +8,11 @@ Everyone can edit. Please make sure you add construstive questions and stay on t
 
 ## How can I track what's happening here?
 
-You can check out the commits page here: https://github.com/omegataupodcast/episode-prep/commits/master
-Unfortunately there is no notification mechanism for commits that I know of.
+You can check out [the commits page](https://github.com/omegataupodcast/episode-prep/commits/master). Unfortunately there is no notification mechanism for commits that I know of.
 
 ## Which Files to Change
 
-The files in the _open_ directory (https://github.com/omegataupodcast/episode-prep/tree/master/open) are still being prepared. Please make your changes there. Files in the _closed_ directory (https://github.com/omegataupodcast/episode-prep/tree/master/closed) are done; you can technially still make changes, but they won't make it in the episode.
+The files in the [_open_](https://github.com/omegataupodcast/episode-prep/tree/master/open) are still being prepared. Please make your changes there. Files in the [_closed_](https://github.com/omegataupodcast/episode-prep/tree/master/closed)  directory are done; you can technially still make changes, but they won't make it in the episode.
 
 ## What to change
 
