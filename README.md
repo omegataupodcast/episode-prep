@@ -29,3 +29,5 @@ If you know git, you can use it as usual. If you want to learn more about it, ch
 * Select a file from the directory structure above
 * Press the edit button and make changes to the contents
 * Add a meaningful comment and press Commit Changes to save them.
+
+For details on the Markdown syntax, check out https://guides.github.com/features/mastering-markdown/
