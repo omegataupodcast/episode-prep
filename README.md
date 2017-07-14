@@ -8,7 +8,7 @@ Everyone can edit. Please make sure you add constructive questions and stay on t
 
 ## How can I track what's happening here?
 
-You can check out [the commits page](https://github.com/omegataupodcast/episode-prep/commits/master). Unfortunately there is no notification mechanism for commits that I know of.
+You can check out [the commits page](https://github.com/omegataupodcast/episode-prep/commits/master). If you have a Github-account you can click on the "watch"-button at the top of the page. You will then get notifications and emails for all new commits.
 
 ## Which Files to Change
 
