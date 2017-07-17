@@ -8,7 +8,7 @@ Everyone can edit. Please make sure you add constructive questions and stay on t
 
 ## How can I track what's happening here?
 
-You can check out [the commits page](https://github.com/omegataupodcast/episode-prep/commits/master). If you want to receive updates for every commit, you can sign up with an RSS-Reader of your choice (some browsers support RSS-feeds, too) via https://github.com/omegataupodcast/episode-prep/commits/master.atom .
+You can check out [the commits page](https://github.com/omegataupodcast/episode-prep/commits/master). If you want to receive updates for every commit, you can sign up with an RSS-Reader of your choice (some browsers support RSS-feeds, too) via https://github.com/omegataupodcast/episode-prep/commits/master.atom . Getting email notifications on each commit is not supported by GitHub, unfortunately.
 
 ## Which Files to Change
 
