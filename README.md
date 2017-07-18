@@ -4,7 +4,7 @@ This repository is used for collaborative editing of omega tau episode scripts, 
 
 ## Who can edit
 
-Everyone can edit. Please make sure you add constructive questions and stay on topic.
+Everyone can edit. Please make sure you add constructive questions and stay on topic. Also, when committing, please use the option to "Create a new branch for this commit and start a pull request.". This way, I get notified, I can see the changes, and accept them consciously.
 
 ## How can I track what's happening here?
 
