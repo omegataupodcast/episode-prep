@@ -105,6 +105,9 @@ Secondary
   - What impact does weather have on properties like range, accuracy, ...
     - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
   - Redundancy in radar systems?
+  - Thoughts on Amateur tracking
+    - e.g. https://www.flightradar24.com
+    - Privacy/security issues?
 
 
 Stuff for the Shownotes
