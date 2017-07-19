@@ -99,3 +99,9 @@ Secondary
   - What is the power range of those radars?
   - What impact does weather have on properties like range, accuracy, ...
   - Redundancy in radar systems?
+
+
+Stuff for the Shownotes
+--------------------------------------
+
+* http://www.radartutorial.eu/index.en.html
