@@ -118,11 +118,13 @@ Stuff for the Shownotes
 --------------------------------------
 
 * http://www.radartutorial.eu/index.en.html
-
+* https://www.skybrary.aero/index.php/Transponder
+* https://www.skybrary.aero/index.php/Mode_S
+* https://www.skybrary.aero/index.php/ADS-B
+* http://www.eurocontrol.int/publications/ads-b-wam-implementation-europe
 
 Contributors
 -----------------------------------
 * Committers of this file
 * Richard Goiser
 * Alex Wemmer
-®
