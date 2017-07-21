@@ -1,3 +1,6 @@
+
+
+
 Overview
 --------------------------
 
@@ -93,9 +96,36 @@ Secondary
   - Elementary Surveillance 
     - Enhanced Surveillance
   - GICB, BDS registers
+  - why are there problems when too many stations interrogate a transponder?
   
 * Bigger Picture
   - Do we still need primary? Or everything ADS-B?  
+    - Inmarsat's global ADS-B coverage idea. Enough power?
+  - What is (wide area) MLAT?
+    - what are the differences between SSR and MLAT?
+    - what are the differences between ADS-B and MLAT?
+    - will MLAT replace SSR (secondary surveillance radar)?
+  - What kind of systems (e.g. autopilot) can be queried by the secondary radar ?  
   - What is the power range of those radars?
   - What impact does weather have on properties like range, accuracy, ...
+    - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
   - Redundancy in radar systems?
+  - Thoughts on Amateur tracking
+    - e.g. https://www.flightradar24.com
+    - Privacy/security issues?
+
+
+Stuff for the Shownotes
+--------------------------------------
+
+* http://www.radartutorial.eu/index.en.html
+* https://www.skybrary.aero/index.php/Transponder
+* https://www.skybrary.aero/index.php/Mode_S
+* https://www.skybrary.aero/index.php/ADS-B
+* http://www.eurocontrol.int/publications/ads-b-wam-implementation-europe
+
+Contributors
+-----------------------------------
+* Committers of this file
+* Richard Goiser
+* Alex Wemmer
