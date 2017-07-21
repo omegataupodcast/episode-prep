@@ -105,6 +105,7 @@ Secondary
     - what are the differences between SSR and MLAT?
     - what are the differences between ADS-B and MLAT?
     - will MLAT replace SSR (secondary surveillance radar)?
+  - What kind of systems (e.g. autopilot) can be queried by the secondary radar ?  
   - What is the power range of those radars?
   - What impact does weather have on properties like range, accuracy, ...
     - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
