@@ -111,8 +111,15 @@ Secondary
     - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
   - Redundancy in radar systems?
   - Thoughts on Amateur tracking
+    - It is amazing how anybody today can build ADS-B In station for less than 80 USD using SDR DVB-T dongle and 
+	Raspberry Pi. Does this accessibility change anything on the original idea on how the technology is used?
     - e.g. https://www.flightradar24.com
     - Privacy/security issues?
+	- Authentication of ADS-B Out and spoofing [DEF CON 20 - Hacking Airplanes - Brad Haines](https://www.youtube.com/watch?v=Pk1hjIMR3ro&t=1326s)
+  - Impact of amateur tracking
+    - Are there known cases of amateur dump1090 feeds (like to flightaware or flightradar24) being used 
+	for "official" tracking of air planes, especially in areas where no "official" ADS-B In stations are 
+	installed?
 
 
 Stuff for the Shownotes
