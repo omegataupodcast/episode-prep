@@ -106,9 +106,13 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 * In terms of components and process, how much does this have in common
   with RC model planes?
 
-* Legals
+* Legals/Context
   - where can you use UAVs?
   - airports, max alt?
   - autonomous flying - what preconditions?
+  - what are your thoughts (as a glider pilot) of the integration of UAVs/Drones and real airplanes?
+    - air spaces
+    - alt limitations
+    - licensing
 
 * Who is the dog in the videos?
