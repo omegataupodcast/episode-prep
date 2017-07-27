@@ -74,11 +74,15 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 
 
 * Control
-  - What is the challenge for the transition?
+  - What is the challenge for the transition? Do you switch between feedback and 
+  feedforward controllers? If using feedforward only during the transitions, are 
+  there any limits on the disturbances (wind, rain, etc)?
   - diff motor speed vs. nacelle position
     which controls do you use for hovering, controlling a/c there?
     what are the wind limits?
-  - Which sensors are used as part of the autopilot?
+  - Which sensors are used as part of the autopilot? What is the "brain" of the Quantum Tron?
+  What micro controller? What kind of development: model-based (especially for the controllers)
+  or hand-written code, AI? Is it considered safety-critical, standards covered? 
   - What aero surfaces?
   - Talk us throught the tilting. Challenges?
 
@@ -102,9 +106,13 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 * In terms of components and process, how much does this have in common
   with RC model planes?
 
-* Legals
+* Legals/Context
   - where can you use UAVs?
   - airports, max alt?
   - autonomous flying - what preconditions?
+  - what are your thoughts (as a glider pilot) of the integration of UAVs/Drones and real airplanes?
+    - air spaces
+    - alt limitations
+    - licensing
 
 * Who is the dog in the videos?
