@@ -1,0 +1,68 @@
+Hier erstmal ein paar allgemeine Infos rund um omega tau: 
+   http://omegataupodcast.net/UeberOmegaTau.pdf
+
+Bzgl. Sprache: ich glaube Deutsch wäre besser, dann passt es besser als 
+Fortsetzung der Episode mit Prof. Bunge:
+   http://omegataupodcast.net/205-die-geophysik-der-erde/
+   
+
+
+* Vorstellung Hauke Marquardt
+
+* Was tut das BGI?
+  - Themenschwerpunkte
+    http://www.bgi.uni-bayreuth.de/?page=2&lng=de&view=1
+  - Organisation   
+  
+* Ich denke, wenn wir einfach durch Labs laufen und drüber reden,
+  passt das; ich habe trotzdem mal unten die Liste von der "Virtual Lab Tour"
+  eingebaut, als Vollständigkeitscheck :-)
+  
+  Ich würde jeweils fragen
+  - was ist das
+  - wie funktioniert das
+  - und was sind typische Forschungsfragen die man damit angeht
+  
+  Generell: 
+  Mechanik vs. Fluid vs. Chemie?
+  
+  Einige die mich besonders interessieren:
+  - Autoklav
+  
+  - Brillouin Scatterin
+  - XRay Defraction
+  - Raman Spectroscopy
+  - Mössbauer Spektroskopie
+  - Ultraschall Interferometrie
+  
+  - Deformation
+  - Pressen?
+  - Multi-Amboss
+    
+
+  - Electron Microprobe
+  - Mikroscopie
+  - Scanning Elektron-Mikro
+  - Transmission Electron-Mikro
+  
+  - Gas Mixing
+  - Hydrothermal
+  
+  - Laser Ablation
+  - Melting
+  - X-Ray Powder Diffraction
+  - X-Ray Single Crystal Diffraction
+  
+* Zusammenspiel mit den Theoretikern, Rollenteilung?  
+  
+* Was fehlt hier? Was wird an anderen Einrichtungen geforscht?
+  bspw. DESY oder ESRF?  
+
+  
+* Konkrete Forschung Hauke Marquardt  
+  - Fragestellungen 
+  - Experimentelles Vorgehen
+    Elasticity, deformation, transport properties
+  Wenn wir Lust haben, können wir auch noch über das eine oder
+  andere von hier sprechen:
+    http://www.bgi.uni-bayreuth.de/?page=5&lng=de&view=4

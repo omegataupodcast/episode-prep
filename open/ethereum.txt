@@ -1,1 +1,38 @@
-https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce
+* What is Ethereum
+  - Ethereum uses its blockchain to record state transitions in a gigantic distributed computer.
+  - Ethereum Virtual Machine
+  - Smart contracts are simply computer programs that run on the EVM.
+
+* The solidity Language
+  - the language - core features
+    - Are contracts singletons?
+    - Instances and addresses?
+    - call vs. transaction
+    - mapping(addr => somethimg) contains ALL keys? Cannot loop. Why?
+  - gas
+    - try to write code with minumum gas => risky?
+  - dynamic? Relationship to JS?
+  - Wie arbeitet man damit? 
+    - Build? 
+    - Deploy
+    - interface of contract: how to interact remotely?
+    - how to test and simulate? local vs test network
+    - ein deployter Contract kann nicht mehr geändert werden.
+      Evolution?
+  - safety + security, verificartion 
+ 
+
+* The Exploit
+  - https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce
+  - they found a programmer-introduced bug in the code that let them re-initialize 
+    the wallet, almost like restoring it to factory settings
+    -> verify contracts.
+    Does the language allow for that?
+  - In Ethereum, keeping your code DRY will directly save you money.
+  - Solidity allows you to define a “fallback method.” This is the method
+    that gets called when there’s no method that matches a given method
+    name. You define it by not giving it a name:
+  - it's kinda crazy that the contracts are a "dynamic" language like this.
+     This thing should be a verifiable state machine!
+  - What is the Viper language?
+
