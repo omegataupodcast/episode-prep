@@ -1,3 +1,7 @@
+* Preparation for recording the Episode
+  - Listen to radiolab episode http://www.radiolab.org/story/ceremony/ about the birth of another crypto-currency 
+    with different idea of privacy
+    
 * What is Ethereum
   - Ethereum uses its blockchain to record state transitions in a gigantic distributed computer.
   - Ethereum Virtual Machine
@@ -19,7 +23,7 @@
     - how to test and simulate? local vs test network
     - ein deployter Contract kann nicht mehr geändert werden.
       Evolution?
-  - safety + security, verificartion 
+  - safety + security, verification 
     warum ist das Ding nicht mindestens funktional mit gemanagten Effekten?? 
  
 * The Exploit
