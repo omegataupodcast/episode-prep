@@ -120,6 +120,8 @@ Bigger Picture
   - Privacy/security issues?
 	- Authentication of ADS-B Out and spoofing 
 	  [DEF CON 20 - Hacking Airplanes - Brad Haines](https://www.youtube.com/watch?v=Pk1hjIMR3ro&t=1326s)
+  	- Encrypting ADS-B messages? [The Security of ADS-B Transmissions](https://www.tccsecure.com/NewsResources/CipherONEBlog/TabId/1222/ArtMID/1578/ArticleID/2062/The-Security-of-ADS-B-Transmissions.aspx)
+	- [Unfiltered flight data](https://adsbexchange.com/)
 * Impact of amateur tracking
   - Are there known cases of amateur dump1090 feeds (like to flightaware or flightradar24) being used 
     for "official" tracking of air planes, especially in areas where no "official" ADS-B In stations are 
