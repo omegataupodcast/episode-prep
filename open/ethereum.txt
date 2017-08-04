@@ -6,8 +6,37 @@
   - Ethereum uses its blockchain to record state transitions in a gigantic distributed computer.
   - Ethereum Virtual Machine
   - Smart contracts are simply computer programs that run on the EVM.
+  
+  - Smart contracts sind eine vertraege, sondern bieten einen "incentive layer" fuer peer-to-peer-Netze wie das Internet oder allgemein digitale Prozesse.
+    -> Bittorrent, swarm, Grundbuch, Bankenwesen
+  
+  - Smart contracts beschreiben Gerichtsverfahren, nicht Vertrag (ganz wichtig: Nicht nur beschrieben, was erwünschtes Verhalten ist, sondern auch was die Folgen eines "Vertragsbruchs" sind)
+
+ * Stärke von ethereum ist die beliebige Interaktion von verschiedenen contracts:
+  - multi-sig-wallet
+  - grundbuch
+  - auktionen
+  - crowdfunding
+  - voting
+
+ * Andere wichtige Kernkomponenten / Beispiele:
+  - ERC20-Token.
+  - The DAO: liquid democracy einfach im Nachhinein zu bestehendem Wahlsystem hinzugefügt
+  - ENS - Ethereum Name System: auch für apping Domain Name -> SSL key, keine Certificate Authorities fuer SSL-Keys
+  - SWARM
+
+ * Dezentrale Orakel, Orakelproblem allgemein, shelling-coin, P+eps-Angriff, "Erpressungscontracts" (bitcoin-mining-pools auf Ethereum bezahlen)
+
+ * EVM
+  - Warum neue virtual machine?
+  - Account-Modell, memory, storage, 256-bit Wörter, CALLs, "revert"
+  - Gas counting / Metering: pseudo-Turing-vollstndig (delta-Klasse in der Arithmetischen Hierarchie, totale Funktionen, entscheidbare Mengen)
+
+  - web assembly (eWASM) als Kandidat für nächste EVM-Version, metering injection, etc.
 
 * The solidity Language
+  - nicht viel mit Javascript zu tun
+  - keine DSL, erste grosse Sprache, versucht alle use-cases abzudecken, bzw nicht klar welche existieren
   - the language - core features
     - Are contracts singletons?
     - Instances and addresses?
@@ -24,8 +53,10 @@
     - ein deployter Contract kann nicht mehr geändert werden.
       Evolution?
   - safety + security, verification 
-    warum ist das Ding nicht mindestens funktional mit gemanagten Effekten?? 
- 
+    warum ist das Ding nicht mindestens funktional mit gemanagten Effekten??
+  - formal verification
+    - KEVM, lem, why3, z3 assertion checker
+
 * The Exploit
   - https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce
   - they found a programmer-introduced bug in the code that let them re-initialize 
@@ -33,10 +64,25 @@
     -> verify contracts.
     Does the language allow for that?
   - In Ethereum, keeping your code DRY will directly save you money.
+  - low-level feature "delegatecall" (nicht Typ-sicher), deshalb war Funktion im Interface nicht "sichtbar"
+  - erzeugt Warnung in diversen Analyse-Tools
+  - ab Metropolis ist allgemeines "Kopier-Tool" Teil der Sprache
   - Solidity allows you to define a “fallback method.” This is the method
     that gets called when there’s no method that matches a given method
     name. You define it by not giving it a name:
   - it's kinda crazy that the contracts are a "dynamic" language like this.
      This thing should be a verifiable state machine!
-  - What is the Viper language?
 
+* Andere Sprachen:
+  - Bamboo: morphing contracts / state-machine
+  - Viper: garantiert total
+  - Babbage: grafische "Sprache"
+  - alle llvm-basierten Sprachen mit eWASM
+
+* Skalierbarkeit:
+  - allgemein: Blockchain ist nur "Richterin", nicht ausfuehren sondern nur verifizieren
+  - proof of stake + sharding ("Casper") - Verschwendung des proof-of-work loswerden
+  - state channels (Raiden / Lightning): Transaktionen ohne Blockchain
+  - cross-chain-communication (BTCRelay)
+  - interactive verification of off-chain computations (TrueBit) - disclaimer
+  - zkSNARKs ("zCash", privacy und Skalierbarkeit, privacy-Aspekt nicht abhängig von crypto-Annahmen)
