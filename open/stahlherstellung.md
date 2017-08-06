@@ -41,8 +41,8 @@ Stahlwerk
 https://de.wikipedia.org/wiki/Stahlerzeugung
 
 * Was genau ist Stahl
-* Unterschiedliche Arten
-
+* Unterschiedliche Arten / Qualitäten
+* Methoden zur Qualitätsüberwachung
 
 Stranggießanlage
 ------------------------
