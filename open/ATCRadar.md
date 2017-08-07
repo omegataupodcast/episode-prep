@@ -8,7 +8,7 @@ Overview
 * Secondary Radar idea
 * Outlook: the move to ADS-B
 
-In this episode: secondary
+In this episode: secondary radar
 
 Secondary
 --------------------------
@@ -98,28 +98,34 @@ Secondary
   - GICB, BDS registers
   - why are there problems when too many stations interrogate a transponder?
   
-* Bigger Picture
-  - Do we still need primary? Or everything ADS-B?  
-    - Inmarsat's global ADS-B coverage idea. Enough power?
-  - What is (wide area) MLAT?
-    - what are the differences between SSR and MLAT?
-    - what are the differences between ADS-B and MLAT?
-    - will MLAT replace SSR (secondary surveillance radar)?
-  - What kind of systems (e.g. autopilot) can be queried by the secondary radar ?  
-  - What is the power range of those radars?
-  - What impact does weather have on properties like range, accuracy, ...
-    - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
-  - Redundancy in radar systems?
-  - Thoughts on Amateur tracking
-    - It is amazing how anybody today can build ADS-B In station for less than 80 USD using SDR DVB-T dongle and 
-	Raspberry Pi. Does this accessibility change anything on the original idea on how the technology is used?
-    - e.g. https://www.flightradar24.com
-    - Privacy/security issues?
-	- Authentication of ADS-B Out and spoofing [DEF CON 20 - Hacking Airplanes - Brad Haines](https://www.youtube.com/watch?v=Pk1hjIMR3ro&t=1326s)
-  - Impact of amateur tracking
-    - Are there known cases of amateur dump1090 feeds (like to flightaware or flightradar24) being used 
-	for "official" tracking of air planes, especially in areas where no "official" ADS-B In stations are 
-	installed?
+  
+Bigger Picture
+-------------------------
+
+* Do we still need primary? Or everything ADS-B?  
+  - Inmarsat's global ADS-B coverage idea. Enough power?
+* What is (wide area) MLAT?
+  - what are the differences between SSR and MLAT?
+  - what are the differences between ADS-B and MLAT?
+  - will MLAT replace SSR (secondary surveillance radar)?
+* What kind of systems (e.g. autopilot) can be queried by the secondary radar ?  
+* What is the power range of those radars?
+* What impact does weather have on properties like range, accuracy, ...
+  - what about wind turbines? I hear about "windfarm mitigation" radars in the UK.
+* Redundancy in radar systems?
+* Thoughts on Amateur tracking
+  - It is amazing how anybody today can build ADS-B In station for less than 80 USD using SDR DVB-T dongle and 
+    Rspberry Pi. Does this accessibility change anything on the original idea on how the technology is used?
+  - e.g. https://www.flightradar24.com
+  - Privacy/security issues?
+	- Authentication of ADS-B Out and spoofing 
+	  [DEF CON 20 - Hacking Airplanes - Brad Haines](https://www.youtube.com/watch?v=Pk1hjIMR3ro&t=1326s)
+  	- Encrypting ADS-B messages? [The Security of ADS-B Transmissions](https://www.tccsecure.com/NewsResources/CipherONEBlog/TabId/1222/ArtMID/1578/ArticleID/2062/The-Security-of-ADS-B-Transmissions.aspx)
+	- [Unfiltered flight data](https://adsbexchange.com/)
+* Impact of amateur tracking
+  - Are there known cases of amateur dump1090 feeds (like to flightaware or flightradar24) being used 
+    for "official" tracking of air planes, especially in areas where no "official" ADS-B In stations are 
+    installed?
 
 
 Stuff for the Shownotes
