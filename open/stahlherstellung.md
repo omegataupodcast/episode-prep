@@ -49,17 +49,17 @@ Stranggießanlage
 https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
 
 
-Warmbandwerk 
+Warmbandwerk (Stefan)
 ------------------------
 https://www.thyssenkrupp-steel.com/de/newsroom/highlights/infografiken/alles-auf-dem-neuesten-stand
 https://de.wikipedia.org/wiki/Warmband
 
 
-Kaltwalzwerk
+Kaltwalzwerk (Stefan)
 ------------------------
 https://de.wikipedia.org/wiki/Kaltwalzen
 
 
-Veredelungsanlage 
+Veredelungsanlage (Stefan)
 ------------------------
 * z.B. Feurerverzinkung / Elektrolytische-Verzinkung
