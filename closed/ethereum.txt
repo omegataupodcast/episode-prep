@@ -3,10 +3,25 @@
   - Smart contracts are simply computer programs that run on the EVM.
   - Ethereum Virtual Machine
   
+  
+  
+* Was tut die BlockValidierung?  
+  
   - Smart contracts sind keine Vertraege, sondern bieten einen "incentive layer" 
     fuer peer-to-peer-Netze wie das Internet oder allgemein digitale Prozesse.
     - Bittorrent, swarm, Grundbuch, Bankenwesen
     - wozu die Incentives?
+
+
+ * EVM
+  - Warum neue virtual machine?
+    - Welche würde man denn sonst verwenden?
+
+  - Account-Modell, memory, storage, 256-bit Wörter, CALLs, "revert"
+
+  - Gas counting / Metering: pseudo-Turing-vollstndig (delta-Klasse in der 
+    Arithmetischen Hierarchie, totale Funktionen, entscheidbare Mengen)  
+
     
   - Smart contracts beschreiben Gerichtsverfahren, nicht Vertrag 
     (ganz wichtig: Nicht nur beschrieben, was erwünschtes Verhalten ist, 
@@ -20,57 +35,52 @@
   - crowdfunding
   - voting
 
- * Andere wichtige Kernkomponenten / Beispiele:
-  - ERC20-Token.
-  - The DAO: liquid democracy einfach im Nachhinein zu bestehendem Wahlsystem hinzugefügt
-  - ENS - Ethereum Name System: auch für apping Domain Name 
-    -> SSL key, keine Certificate Authorities fuer SSL-Keys
-  - SWARM
 
- * Dezentrale Orakel, Orakelproblem allgemein, shelling-coin, P+eps-Angriff, 
-   "Erpressungscontracts" (bitcoin-mining-pools auf Ethereum bezahlen)
-
- * EVM
-  - Warum neue virtual machine?
-    - Welche würde man denn sonst verwenden?
-  - Account-Modell, memory, storage, 256-bit Wörter, CALLs, "revert"
-  - Gas counting / Metering: pseudo-Turing-vollstndig (delta-Klasse in der 
-    Arithmetischen Hierarchie, totale Funktionen, entscheidbare Mengen)
-
-  - web assembly (eWASM) als Kandidat für nächste EVM-Version, metering injection, etc.
 
 * The solidity Language
   - nicht viel mit Javascript zu tun
+    gas vs. 
+
   - keine DSL, erste grosse Sprache, versucht alle use-cases abzudecken, 
     bzw nicht klar welche existieren
+
+
   - the language - core features
     - Are contracts singletons?
     - Instances and addresses?
     - call vs. transaction
     - mapping(addr => somethimg) contains ALL keys? Cannot loop. Why?
+
+  - größe von contracts
+
   - gas
     - try to write code with minumum gas => risky?
+
   - dynamic? Relationship to JS?
-  - Wie arbeitet man damit? 
-    - Build? 
-    - Deploy
-    - interface of contract: how to interact remotely?
-    - how to test and simulate? local vs test network
-    - ein deployter Contract kann nicht mehr geändert werden.
-      Evolution?
-    - Diese Infratruktur: Javascript
+    dev tools
+
   - safety + security, verification 
     warum ist das Ding nicht mindestens funktional mit gemanagten Effekten??
   - formal verification
     - KEVM, lem, why3, z3 assertion checker
 
-* Skalierbarkeit:
-  - allgemein: Blockchain ist nur "Richterin", nicht ausfuehren sondern nur verifizieren
-  - proof of stake + sharding ("Casper") - Verschwendung des proof-of-work loswerden
-  - state channels (Raiden / Lightning): Transaktionen ohne Blockchain
-  - cross-chain-communication (BTCRelay)
-  - interactive verification of off-chain computations (TrueBit) - disclaimer
-  - zkSNARKs ("zCash", privacy und Skalierbarkeit, privacy-Aspekt nicht abhängig von crypto-Annahmen)
+
+  - Wie arbeitet man damit? 
+    - how to test and simulate? local vs test network
+    - Build? 
+    - Deploy
+    - interface of contract: how to interact remotely?
+    - ein deployter Contract kann nicht mehr geändert werden.
+      Evolution?
+    - Diese Infratruktur: Javascript
+
+
+ * Dezentrale Orakel, Orakelproblem allgemein, shelling-coin, P+eps-Angriff, 
+   "Erpressungscontracts" (bitcoin-mining-pools auf Ethereum bezahlen)
+
+
+  - web assembly (eWASM) als Kandidat für nächste EVM-Version, metering injection, etc.
+
 
 * The Exploit
   - https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce
@@ -90,8 +100,25 @@
      This thing should be a verifiable state machine!
 
 * Andere Sprachen:
-  - Bamboo: morphing contracts / state-machine
   - Viper: garantiert total
+
+  - Bamboo: morphing contracts / state-machine
   - Babbage: grafische "Sprache"
   - alle llvm-basierten Sprachen mit eWASM
 
+ * Andere wichtige Kernkomponenten / Beispiele:
+  - ERC20-Token.
+  - The DAO: liquid democracy einfach im Nachhinein zu bestehendem Wahlsystem hinzugefügt
+  - ENS - Ethereum Name System: auch für apping Domain Name 
+    -> SSL key, keine Certificate Authorities fuer SSL-Keys
+  - SWARM
+
+
+* Skalierbarkeit:
+  - proof of stake + sharding ("Casper") - Verschwendung des proof-of-work loswerden
+
+  - allgemein: Blockchain ist nur "Richterin", nicht ausfuehren sondern nur verifizieren
+  - state channels (Raiden / Lightning): Transaktionen ohne Blockchain
+  - cross-chain-communication (BTCRelay)
+  - interactive verification of off-chain computations (TrueBit) - disclaimer
+  - zkSNARKs ("zCash", privacy und Skalierbarkeit, privacy-Aspekt nicht abhängig von crypto-Annahmen)
