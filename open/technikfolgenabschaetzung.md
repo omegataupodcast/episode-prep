@@ -30,7 +30,7 @@ Intro
 
 * Die Rolle von Modellen
   - Was sind gute
-  - Wie tunt man sie?
+  - Wie tunet man sie?
   - Verifikation
   - Grenzen 
     . Things we know we know - Modellkern
