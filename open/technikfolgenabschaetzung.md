@@ -43,6 +43,7 @@ Beispiele
 * Aktuell
   - Social Networks
   - Klima, CO2
+  - CRISPR
 * Zukunft
   - KI
 

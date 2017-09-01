@@ -44,6 +44,8 @@ https://de.wikipedia.org/wiki/Stahlerzeugung
 * Unterschiedliche Arten / Qualitäten
 * Methoden zur Qualitätsüberwachung
 
+* Transportinfrastruktur: tmachowinski
+
 Stranggießanlage
 ------------------------
 https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
