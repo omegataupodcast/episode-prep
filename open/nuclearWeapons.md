@@ -175,8 +175,5 @@ History and Politics
   - Is the knowledge to build this stuff available?  
   - What are the engineering challenges?
   - Or is it really about the raw materials and their refinement?
-  
- 
- 
-  
+  - What does a country like North Korea need to do to build a bomb? AKA "How to build a nuclear bomb as a developing country"
   
