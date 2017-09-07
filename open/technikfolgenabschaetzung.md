@@ -11,6 +11,7 @@ Intro
 * TFA vs. Systemanalyse
   - Definition der Systemgrenze
   - Komplexität macht Dinge inhärent unvorhersagbar - was tun?
+  - Wie steht die Kybernetik im Bezug zur TFA? Gibt es Kybernetiker die TFA machen?
 
 * Welche Themen/Kriterien
   - Ethische, ökologische, ökonomische, soziale, politisch-institutionelle und 
