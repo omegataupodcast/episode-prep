@@ -17,14 +17,19 @@ Basics of Physics
 * Critical mass.
 * The role of Isotopes
 * Atomic Bomb vs. H-Bomb
+* yield - TNT equivalent
 
 * What are the destructive effects? 
   - Heat
   - pressure
-  - EMP
+  - EMP - how vunerable would modern electronics be to the EMP?
   - radiation?
 
+* What kind of damage is expected from different yields? Some examples - radius of damages from a small yield explosion and a large yield explosion. What kind of yields are needed to destroy cities? Large cities?
+
 * Would you say radiation (and long term area denial) is a side-effect?
+
+* After how long is the area habitable again?
 
 
 The development of the A-Bomb
@@ -121,7 +126,7 @@ Delivery Systems
   - ICBM - silos
   - SRBM - subs
   - Bombers
-
+  - tactical nuclear weapons (a spectacular example: https://en.wikipedia.org/wiki/Davy_Crockett_(nuclear_device))
 
 
 Creating the Fuel
@@ -162,6 +167,8 @@ History and Politics
   - Too much devastation
   - Only as a deterrent
   - Risk of inadvertent use? -> Bad deterrent?
+  
+* Speculation about outcomes: is it just a myth that a nuclear war might lead to a total destruction of human life on Earth? Or civilization as we know it? Albert Einstein famously said "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones" - how realisitc is this statement? If there would be such a scenario, how would it happen? What would be the incentive for attacking areas not directly involved in the conflict?
 
 * Is there an agreement among historians whether "it was worth it"?  
 
@@ -170,6 +177,8 @@ History and Politics
   - British
   - Chinese
   - others?
+
+* How hard would it be to develop nuclear weapons "from scratch" nowadays (in countries which don't have them)? 
 
 * What do we think North Korea has today?
   - Is the knowledge to build this stuff available?  
