@@ -26,6 +26,8 @@ Basics of Physics
 
 * Would you say radiation (and long term area denial) is a side-effect?
 
+* After how long is the area habitable again?
+
 
 The development of the A-Bomb
 ------------------------------------------
@@ -162,6 +164,8 @@ History and Politics
   - Too much devastation
   - Only as a deterrent
   - Risk of inadvertent use? -> Bad deterrent?
+  
+* Speculation about outcomes: is it just a myth that a nuclear war might lead to a total destruction of human life on Earth? Or civilization as we know it? Albert Einstein famously said "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones" - how realisitc is this statement? If there would be such a scenario, how would it happen? What would be the incentive for attacking areas not directly involved in the conflict?
 
 * Is there an agreement among historians whether "it was worth it"?  
 
@@ -170,6 +174,8 @@ History and Politics
   - British
   - Chinese
   - others?
+
+* How hard would it be to develop nuclear weapons "from scratch" nowadays (in countries which don't have them)? 
 
 * What do we think North Korea has today?
   - Is the knowledge to build this stuff available?  
