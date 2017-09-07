@@ -17,12 +17,15 @@ Basics of Physics
 * Critical mass.
 * The role of Isotopes
 * Atomic Bomb vs. H-Bomb
+* yield - TNT equivalent
 
 * What are the destructive effects? 
   - Heat
   - pressure
-  - EMP
+  - EMP - how vunerable would modern electronics be to the EMP?
   - radiation?
+
+* What kind of damage is expected from different yields? Some examples - radius of damages from a small yield explosion and a large yield explosion. What kind of yields are needed to destroy cities? Large cities?
 
 * Would you say radiation (and long term area denial) is a side-effect?
 
@@ -123,7 +126,7 @@ Delivery Systems
   - ICBM - silos
   - SRBM - subs
   - Bombers
-
+  - tactical nuclear weapons (a spectacular example: https://en.wikipedia.org/wiki/Davy_Crockett_(nuclear_device))
 
 
 Creating the Fuel
