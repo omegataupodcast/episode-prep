@@ -1,3 +1,27 @@
+Contributors:
+* Patrick Hosford
+* Daniel Merrlin Rüscher
+* Christopher Fredette
+* Sebastian Knapp
+* Benn Britton
+* Bernd Hart
+* MalteJ 
+* Szymon Batusz
+
+
+Basics: 
+* https://en.wikipedia.org/wiki/Nuclear_weapon
+* https://en.wikipedia.org/wiki/Nuclear_weapon_design
+* https://en.wikipedia.org/wiki/Thermonuclear_weapon
+
+Relates to episodes:
+* http://omegataupodcast.net/185-nuclear-test-monitoring-and-the-ctbt/
+* http://omegataupodcast.net/248-dew-sage-and-the-f-106-delta-dart/
+* http://omegataupodcast.net/258-the-history-and-technology-of-spy-satellites/
+
+
+
+
 Basics of Physics
 -------------------------------------------
 * A few of the basics about atomic structure
@@ -210,44 +234,5 @@ History and Politics
 
  
   
-  
-  
-==================================================
 
-http://www.nonproliferation.org/experts/jeffrey-lewis/
-http://www.miis.edu/academics/faculty/FDalnokiVeress/node/23025
-http://blog.nuclearsecrecy.com/about-me/
-http://cisac.fsi.stanford.edu/people/siegfried_s_hecker
-
-https://armscontrolcenter.org/about/meet-our-experts/#PCoyle
-https://www.boozallen.com
-CTBT fragen
-http://www.ucsusa.org/
-https://www.lowyinstitute.org/issues/nuclear-weapons
-http://www.aerospace.illinois.edu/nuclear-weapons-expert-bruce-goodwin-present-stillwell-memorial-lecture
-https://cgsr.llnl.gov/about/fellows/bruce-goodwin
-
-
-Contributors:
-* Patrick Hosford
-* Daniel Merrlin Rüscher
-* Christopher Fredette
-* Sebastian Knapp
-* Benn Britton
-* Bernd Hart
-* MalteJ 
-
-
-
-
-
-Basics: 
-* https://en.wikipedia.org/wiki/Nuclear_weapon
-* https://en.wikipedia.org/wiki/Nuclear_weapon_design
-* https://en.wikipedia.org/wiki/Thermonuclear_weapon
-
-Relates to episodes:
-* http://omegataupodcast.net/185-nuclear-test-monitoring-and-the-ctbt/
-* http://omegataupodcast.net/248-dew-sage-and-the-f-106-delta-dart/
-* http://omegataupodcast.net/258-the-history-and-technology-of-spy-satellites/
 
