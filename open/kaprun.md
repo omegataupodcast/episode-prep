@@ -43,6 +43,7 @@ Zahlen
 -----------------------------------
 * Energien, Wasserflüsse/-mengen
 * Wirkungsgrade, auch im Speicherbetrieb
+* Baujahr, Alter, erwartete Lebensdauer
 
 
 Wassermanagement
