@@ -6,7 +6,8 @@ Contributors:
 * Benn Britton
 * Bernd Hart
 * MalteJ 
-* Szymon Batusz
+* Szymon Bartusz
+* Karsten Schmidt
 
 
 Basics: 
@@ -135,7 +136,7 @@ Other kinds of weapons, briefly
 * "Dirty Bomb"
 
 
-Delivery Systems
+Delivery Systems and Command Structure
 -------------------------------------------------
 
 * Delivery mechamisms, challenges involved in those
@@ -155,6 +156,9 @@ Delivery Systems
 * Are the warheads different for the different delivery mechanisms?
 
 * Readiness, time to launch
+
+* What is the command structure, for example, in the US
+
 
 
 Creating the Fuel
@@ -181,20 +185,23 @@ Testing, Design and Maintenance
 
 * Now that testing is banned, how are NW developed and evaluated?
   - Simulate: impact of modern computing on from-scratch development 
+    How do we know they are accurate? Calibration?
   - How is yield calculated without testing? 
   - What other parameters are interesting in addition to yield?
     How do you characterize a NW?
+  - I seem to know that the NIF has a role there.
 
 * Stockpile maintenance
+  - What are the basic limitations to durability?
   - What is being done to maintain the stockpile?
   - How does decay affect reliabilty and safe storage?
-  - I seem to know that the NIF has a role there.
   
 * Are we still developing new NW today?
   Seems to me the hight of the dev was 1945 to 1980s?
   Not much happened since then. Correct?  
 
-
+* What are the challenges in destroying NWs 
+  (e.g., in the context of arms reduction)
 
 History and Politics
 -------------------------------------------------
@@ -216,6 +223,9 @@ History and Politics
   - Pakistan
   - others?
 
+* Are there any significant differences in the NWs of different countries? 
+  E.g., russian vs. US?
+
 * Why do countries want the bomb? Can't use it, realistically!?
 
 * Is there an agreement among historians whether "it was worth it" to 
@@ -232,6 +242,7 @@ History and Politics
   - no financial constraints)
   - Cost and time?
 
+ 
  
   
 
