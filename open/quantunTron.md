@@ -53,7 +53,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
     - propellers
     - power distribution.
     why do so much inhouse?
-  - Which batteries?
+  - Which batteries? How heavy are the battery packs ? Would it be possible to recharge the batteries on board using solar ?
  
 * Sensors in the a/c vs. sensors in the payloads.
   - how much in a/c?    
@@ -68,7 +68,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
   - "enabling it to fly hundreds of simulated Trons at the same time"
   - how many did you crash during development?
     - and why? hardware, ESC turned off, human error?
-    - telemetry and data recording.
+    - telemetry and data recording. What telemetry system is used under this long range ?
     - This is more serious than model airplanes...
     - human error? -> checklists
 
@@ -95,7 +95,8 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
   - Skills for flying
     One button control -> why? target audience.
   - Remote control vs. autonomous
-  - BVLOS -> what is required, legally?
+  - BVLOS -> what is required, legally? 
+  - Can it fly during nights?
   - Sensors for autonomous
     - flying predefined routes with expected free airspace
     - vs. "participarting" in the airspace.
@@ -108,6 +109,7 @@ This episode will be about the Quantum Tron: https://www.quantum-systems.com/pro
 
 * Legals/Context
   - where can you use UAVs?
+  - which certification must the aircraft obtain ? (EASA, other)
   - airports, max alt?
   - autonomous flying - what preconditions?
   - what are your thoughts (as a glider pilot) of the integration of UAVs/Drones and real airplanes?

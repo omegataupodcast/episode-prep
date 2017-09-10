@@ -11,13 +11,14 @@ Intro
 * TFA vs. Systemanalyse
   - Definition der Systemgrenze
   - Komplexität macht Dinge inhärent unvorhersagbar - was tun?
+  - Wie steht die Kybernetik im Bezug zur TFA? Gibt es Kybernetiker die TFA machen?
 
 * Welche Themen/Kriterien
   - Ethische, ökologische, ökonomische, soziale, politisch-institutionelle und 
     kulturelle Fragestellungen
   - Wo ist der reine "Wissensgewinn"?
   - Werden unterschiedliche Szenarien/Optionen untersucht/verglichen?
-    -- bspws. "nur" Technikeinführung vs. Technikeinf. mit Ausgleichsmaßnahmen
+    . bspws. "nur" Technikeinführung vs. Technikeinf. mit Ausgleichsmaßnahmen
 
 * Welche Technik-/Lebensbereiche werden gewöhnlich untersucht?
   - Verkehr?
@@ -51,9 +52,10 @@ Beispiele
     . Elektro, Ökobilanz
     . Autonom
   - Selbstvalidierung: sind vorhergesagte Risiken eingetreten?
+  - Klima, CO2
 * Aktuell
   - Social Networks
-  - Klima, CO2  (Anm.: niht besser unter "Historisch"? Vorhersagen schon schon älter.)
+  - CRISPR
 * Zukunft
   - KI
 
