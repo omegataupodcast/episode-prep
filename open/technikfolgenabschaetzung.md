@@ -23,11 +23,11 @@ Intro
 * Welche Technik-/Lebensbereiche werden gewöhnlich untersucht?
   - Verkehr?
   - (Groß-)Industrie?
-+  - Landwirtschaft?
-+  - Chemie?
-+  - Pharma?
-+  - Was noch? Lässt sich das Thema so strukturieren?
-+  - Ist TFA beschränkt auf Technik? Falls ja, gibt es "Nachbardisziplinen", wie funktionieren die?
+  - Landwirtschaft?
+  - Chemie?
+  - Pharma?
+  - Was noch? Lässt sich das Thema so strukturieren?
+  - Ist TFA beschränkt auf Technik? Falls ja, gibt es "Nachbardisziplinen", wie funktionieren die?
 
 * Die Rolle von Modellen
   - Was sind gute
