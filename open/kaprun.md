@@ -1,6 +1,10 @@
 Contributor
 -----------------------------------
 * Karlchen42 
+* Bert Daanje
+* Uli Zoch
+* Klaus Schmid
+	
 
 Überblick über die Struktur
 ------------------------------------------
@@ -16,8 +20,8 @@ Contributor
   - Wasserfallboden
   - Klammsee
   - (alle künstlich, richtig?
-  - * Moserboden -> Margaritze: Flach. Da wird keine Energie gewonnen?
-    sondern "Stauseeverbund" mit Überleitungsstollen
+* Moserboden -> Margaritze: Flach. Da wird keine Energie gewonnen?
+  sondern "Stauseeverbund" mit Überleitungsstollen
 
 * Staumauern
   - wie sind Staumauern konstruiert?
@@ -77,7 +81,9 @@ Rolle im Stromnetz
 * Reaktionszeit
 * Maximales Speichervermögen, und was heißt das im Zusammenhang 
   mit Regelung und Netzstabilität?
-
+* Welche Bedeutung haben die Pump-Speicher-WKW heute?
+  - Wie wird sich das entwickeln in der Zukunft?
+  - Sind Wind/Sonne/Dezentralisierung nicht eh besser regelbar?
 
 Pumpbetrieb
 ----------------------------------
@@ -127,6 +133,7 @@ Zusammenfassung, anderes
 * Gibt es Grenzen für die sinnvolle Fallhöhe des Wassers 
   - weil sonst zu viel Energie entsteht für die Turbinen,
   - oder weil Reibung das Wasser irgendwann nicht mehr schneller werden lässt?
+  - oder fließt nicht genug nach?
  
 * Könnte man sowas heute noch bauen? 
   - Aufwand? Widerstand?
