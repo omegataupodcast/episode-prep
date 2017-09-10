@@ -1,3 +1,7 @@
+Contributor
+-----------------------------------
+* Karlchen42 
+
 Überblick über die Struktur
 ------------------------------------------
 * Einordnung: 
@@ -37,6 +41,13 @@
 * Was ist eine geeignete Location? Warum hier?
   - "Trichter" für möglichst viel Schmelzwasser?
   - Alpenhauptkamm -> Südlicher und nördlicher Stauregen
+
+* Geschichte
+  - Baujahr
+  - Wie baut(e) man sowas? Schrägaufzug!
+  - erwartete Lebensdauer (damals und von jetzt an)
+  - Wie kamen bspw. die großen Turbinen und Pumpen hoch,
+    auch "in der Neuzeit" bei der Umrüstung.
 
 
 Zahlen
@@ -117,5 +128,7 @@ Zusammenfassung, anderes
   - weil sonst zu viel Energie entsteht für die Turbinen,
   - oder weil Reibung das Wasser irgendwann nicht mehr schneller werden lässt?
  
-* Könnte man sowas heute noch bauen? Aufwand? Widerstand?
+* Könnte man sowas heute noch bauen? 
+  - Aufwand? Widerstand?
+  - Genehmigung, Ökologische Aspekte?
  
