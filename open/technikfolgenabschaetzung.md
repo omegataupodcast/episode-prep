@@ -17,10 +17,21 @@ Intro
   - Ethische, ökologische, ökonomische, soziale, politisch-institutionelle und 
     kulturelle Fragestellungen
   - Wo ist der reine "Wissensgewinn"?
+  - Werden unterschiedliche Szenarien/Optionen untersucht/verglichen?
+    . bspws. "nur" Technikeinführung vs. Technikeinf. mit Ausgleichsmaßnahmen
+
+* Welche Technik-/Lebensbereiche werden gewöhnlich untersucht?
+  - Verkehr?
+  - (Groß-)Industrie?
+  - Landwirtschaft?
+  - Chemie?
+  - Pharma?
+  - Was noch? Lässt sich das Thema so strukturieren?
+  - Ist TFA beschränkt auf Technik? Falls ja, gibt es "Nachbardisziplinen", wie funktionieren die?
 
 * Die Rolle von Modellen
   - Was sind gute
-  - Wie tunt man sie?
+  - Wie tunet man sie?
   - Verifikation
   - Grenzen 
     . Things we know we know - Modellkern
@@ -41,9 +52,9 @@ Beispiele
     . Elektro, Ökobilanz
     . Autonom
   - Selbstvalidierung: sind vorhergesagte Risiken eingetreten?
+  - Klima, CO2
 * Aktuell
   - Social Networks
-  - Klima, CO2
   - CRISPR
 * Zukunft
   - KI
@@ -52,6 +63,7 @@ Beispiele
   - Zukunftsforschung
   - Technikethik
   - Nachhaltigkeit
+  - "Club of Rome - Grenzen des Wachstums" - ist das auch TFA?
   
 * Lösungsansätze: immer gesetzliche Regulierung?
 
@@ -76,6 +88,3 @@ ITAS
 * Institut vs. Kommission
   - Kunden des Instituts
   - ZUsammenarbeit mit der Regierung/Parlament
-  
-  
-  
