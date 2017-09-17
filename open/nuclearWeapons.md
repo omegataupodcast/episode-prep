@@ -205,7 +205,9 @@ Testing, Design and Maintenance
 
 History and Politics
 -------------------------------------------------
+* Rivalry between Los Alamos National Lab and Lawrence Livermore National Lab / SUNDIAL (Proposed 10 gigaton yield weapon)
 * Permanent readiness (Bombers with weapons in the air)
+* Historical nuclear attack readiness/response plans
 
 * (Almost) Accidents, Losses of Weapons
   There was a B-52 above Spain ....
