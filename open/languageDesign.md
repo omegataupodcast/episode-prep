@@ -1,15 +1,21 @@
-What is a language
--------------------------------------
+Dothraki Background
+---------------------------------------
 
 * Language Creation: why?
+* What is Dothraki
+* Can you speak some :-) ?
+  - is it in the tradition of a particular family? Roman, Germanic?
+* How did you get to develop it?
+* Vocabulary. How big.
+* Is it somehow special for the time, context (100 words for snow ...)
 
-* Are all languages formally (i.e., through an accepted written grammar) defined?
+Ingredients of a Language
+-------------------------------------
 
-* Sounds 
-* Symbols
-* Syllables
+Illustrate ingredients based on Dothraki, but also maybe in 
+comparison to other languages you might know.
 
-* Building Blocks of Linguistics
+* Building Blocks of Linguistics (let's talk about some of those)
   - Phonetics, the study of the physical properties of speech sound production and perception
   - Phonology, the study of sounds as abstract elements in the speaker's mind that distinguish meaning (phonemes)
   - Morphology, the study of morphemes, or the internal structures of words and how they can be modified
@@ -20,6 +26,11 @@ What is a language
   - Stylistics, the study of linguistic factors (rhetoric, diction, stress) that place a discourse in context
   - Semiotics, the study of signs and sign processes (semiosis), indication, designation, likeness, analogy, metaphor, symbolism, signification, and communicatio
 
+
+* Sounds 
+* Syllables
+* Symbols
+
 * Some differences between languages, examples!
   - Case
   - Tenses
@@ -28,16 +39,7 @@ What is a language
   - Articles
   - ...
 
-
-Dothraki Background
----------------------------------------
-
-* What is Dothraki
-* Can you speak some :-) ?
-  - is it in the tradition of a particular family? Roman, Germanic?
-* How did you get to develop it?
-* Vocabulary. How big.
-* Is it somehow special for the time, context (100 words for snow ...)
+* Are all languages formally (i.e., through an accepted written grammar) defined?
 
 
 Developing Dothraki
@@ -46,13 +48,11 @@ Developing Dothraki
 * Importance of context for the meaning of a word
 * Ambiguities? Language is imprecise. Good or bad? 
 
-
 Facets
 -------------------------------
 
 * Evolution over time.
 * Dialects vs. Accents
-
 
 Wrap up
 ----------------------------------------
