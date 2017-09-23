@@ -67,6 +67,7 @@ Beispiele
 * Lösungsansätze: immer gesetzliche Regulierung?
 
 * Wie vermeidet man unseriöse "Technopanik"
+  - Bsp. Grüne waren vor 30 Jahren gegen Digitalisierung und das Internet
 
 * Fatalistisch: Man kann eine Erfindung eh nicht geheimhalten, also warum TFA?
 
@@ -83,6 +84,8 @@ ITAS
     . Inter- und Transdisziplinarität
   
 * Was sind konkret die Outputs? Handlungs- und Gestaltungsoptionen
+
+* Wer sind die Auftraggeber?
 
 * Institut vs. Kommission
   - Kunden des Instituts
