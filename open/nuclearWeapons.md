@@ -136,6 +136,27 @@ Other kinds of weapons, briefly
 * "Dirty Bomb"
 
 
+Creating the Fuel
+-------------------------------------------------
+
+* What is Weapons grade, why do we need "purer" stuff there?
+
+* Refinement, Purification, Centrifuges
+
+* Which other rare elements are needed in addition to Plutonium and/or Uranium?
+
+
+
+
+
+
+
+
+
+
+
+
+
 Delivery Systems and Command Structure
 -------------------------------------------------
 
@@ -159,16 +180,6 @@ Delivery Systems and Command Structure
 
 * What is the command structure, for example, in the US
 
-
-
-Creating the Fuel
--------------------------------------------------
-
-* What is Weapons grade, why do we need "purer" stuff there?
-
-* Refinement, Purification, Centrifuges
-
-* Which other rare elements are needed in addition to Plutonium and/or Uranium?
 
 
 
