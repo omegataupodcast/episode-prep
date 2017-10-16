@@ -114,7 +114,9 @@ Specific CRISPR applications
 
 * It is currently a research tool or "industry ready?
   - how would it be used in research?
-  
+
+* https://www.heise.de/tp/features/Genmanipulierte-menschliche-Embryonen-Zweifel-am-Durchbruch-3848037.html - nice summary about  (technical, but also ethical) issues. 
+
 * Research tool "mouse editing"?
   - What is a knock-out mouse, how did 
   - How did you create them before,
