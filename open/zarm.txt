@@ -1,0 +1,126 @@
+Thorben Könemann
+-------------------------------------------------------------
+
+https://www.zarm.uni-bremen.de/fileadmin/user_upload/drop_tower/Users_Manual_0412.pdf
+
+* Überblick
+  - Drop, Catapult
+  - for Micrograv research
+  - Who operates?
+  - Who are "customers"?
+    (local industry? OHB?)
+
+* A bit of history
+
+* Parameter:
+  - Größe d Kapsel/Experiment, Masse (nicht Gewicht :-))
+  - Dauer
+  - Fallhöhe
+
+* Aufbau
+  - Steel tube
+  - Guidance? Active? Rails?
+  - Who has designed the tower, what  guided its size/design?
+  - Qual of vacuum. How long to pump down? 
+    Multiple falls in one pump cycle?
+  - Elevator to get capsule up?
+  - How to slow down the fall?
+    35g. Polystyrene. Rather primitive :-)
+
+* Catapult?
+  - how does cat work?
+  - Same qual? 30g. Not all exp.  170 km/h.
+  - predict exactly how high it goes?
+
+* Qualität der Micrograv
+  - Why relevant?
+  - Residual gs 10-6 to 10-5 of g
+  - Konstanz
+  - Compare to space?
+  - Smooth transition to 0g on drop
+
+* Andere Formen der Schwerelosigkeitserzeugung  
+  - Zusammenarbeit im Rahmen von Forschungsprogrammen
+  - Turm zur "Vorforschung"?
+
+* Explain the drop bus.
+  - structure, platforms
+  - electrical power, PDU
+  - Capsule Control System. 
+    What lanaguage? LabView. National Instruments G.
+  - How much realtime telemetry vs. data collection and later evaluation?
+  - Do you supply cameras or other imaging systems and stuff?
+
+  
+* Experiment Design
+  - impact of acc on the exp? Distortion? Initial impulses?
+  - How long is exp preparation? Looks rather sophisticated, some of them.
+  - Multiple capsules for prep in parallel?
+  - Monitoring during drop, Telemetrie?
+  - How is the balancing done?
+    rigid design so that nothing moves during flight.
+  - What do I do if I need between 0 and 1g? Like moon?
+  - Integration of Experiment with CCS.
+    - automation
+    - sequencing 
+    - triggering
+  - What is prohibited on the capsule? Limits on Exp Design.
+  - Env cond: Pressure, Temp, Gs of couse
+
+* A Drop Sequence
+  - Control Room. Automation of the drop sequence?
+  - How long 3 drops per day!
+  - Walk us through a sequence
+  - A single campaign usually counts 8 to 24 drops (1 to 3 weeks, two drops a day)
+
+
+* Other Faciltites at ZARM
+  - Vibration Test Labs
+  - Thermal Labs
+  - Centrifuge
+  
+
+
+* Research
+
+Eigene Forschung vs. "Service" für andere?
+research: gravity itself?
+
+
+Eigene
+* STRÖMUNGSMECHANIK: 
+  Mehrphasenströmungen sowie auf Zündungs- und Verbrennungsvorgänge, Akustik und Antriebssysteme.
+* WELTRAUMWISSENSCHAFTEN: 
+  Quantenmechanik, Gravitationsphysik sowie zur Überprüfung des Äquivalenzprinzips, welches eine wesentliche Grundlage der Allgemeinen Relativitätstheorie darstellt. 
+* RAUMFAHRTTECHNOLOGIE: 
+  Die Entwicklung hochgenauer Messinstrumente und Präzisionstriebwerke mit geringer Schubkraft zählen daher ebenso zu den Forschungsschwerpunkten wie die Planung konkreter Satellitenmissionen.
+
+* External
+  Here we can chat about some interesting experiments in these fields.
+  - Astrophysics
+  - Biology
+  - Chemistry
+  - Combustion
+  - Droptes
+  - Drop Your Thesis!
+  - Fluid Dynamics
+  - Fundamental Physics
+  - Materials Science
+
+Martin Castillo
+-------------------------------------------------------------
+
+* What is Zinksulfid, what are some of the properties?
+* How is it relevant for displays?
+  - which properties
+  - how will displays based on Zinksulfid work?
+* How do we know that it is a good material, considering we
+  have not yet built any displays? Or have we?
+* Where are we in terms of the tech maturity level, which kind
+  of research is necessary?
+* What kind of research are you conducting, and how does this
+  relate to the drop tower and microgravity?
+* Walk me through the campaign, the specific experiments
+  and how the tower was used.
+* Next Steps?
+
