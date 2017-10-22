@@ -2,7 +2,7 @@ Dothraki Background
 ---------------------------------------
 
 * Language Creation: why?
-  there are already ca. 3000 languages on the planet
+  - there are already ca. 3000 languages on the planet
 * What is Dothraki
 * Why does GoT have this language? Why is is spoken (!) on the show?
 * Can you speak some :-) ?
