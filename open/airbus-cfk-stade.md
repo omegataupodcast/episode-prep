@@ -5,11 +5,18 @@ Grundlagen zu FVK und CFK
 * Fasern + Harz
 * Überblick Fertigungsprozess und Herausforderungen
   
-  
+Fasern und Matrixsystem
+---------------------------------
+* mehr Glasfaser zukünftig und nur an den Haupt-Lastpfaden C-Faser? (Kostensenken, Trend im Automobilbereich folgen (falsche Strategie Bmw nur C-Faser, richtig im Flugzeugbau?)
+* Thermoplast oder Duroplast
+  - Thermoplaste im Flugbereich? (Temperaturprobleme, Steifigkeit, ...)
+  - Recycling ein Thema?
+
 FVK in der Fliegerei
 ----------------------------------
 * Warum FVK in der Fliegerei generell?
   - Wieviel Gewichtseinsparung vgl. mit Metall?
+  - Wie hoch Leichtbaukosten akzeptabel (€/kg)?
   - Bessere aerodynmische Güte weil keine Nieten notwendig sind?
   - Anderes Design des Flügels wegen der flexibleren Formbarkeit?
 * Warum insbesondere CFK?
@@ -34,6 +41,7 @@ Fertigung A350
 * A350 - was aus CfK, welche andere Verbundwerkstoffe
 * Flügelschalen
     . Wie dick?
+    - welcher Laminataufbau?
   - Schritt 1: Einlegen der Fasern
   - Schritt 2: Injektion des Harzes (passiert im Autoklav?)
     . Wie?
@@ -45,30 +53,43 @@ Fertigung A350
     . Temp, Druck?
     . Regelung, Präzision?
   - Schritt 3: Zuschneiden
+    - Wasserstrahl oder Fräsen?
 * Rumpfpanele
   - Schritt 1: Faserverlegung
   - Schritt 2: Autoklav
   - Schritt 3: Zuschneiden
 * Auslegung der Fasern in definierten Richtungen?
+  - Noch isotrop oder mittlerweile ortho-/anisotrop?
+  - schwarzer Metallbau: mittlerweile FKV gerechte Designs? (Vermeidung überdimensionierung, Kosten)
+    - Bauteilzertifizierung (teuer, sehr sehr langwierig)
+      - gewillt umzusetzen? Trend eher ALU-Druckguss anstatt FKV
   - Zusammenspiel mit dem Engineering.
   - Auslegungs/Rechen/CAD Tools die Faserrichtung berücksichtigen?
-* Gibt es vorgefertigte Komponenten die mit eingebaut werden müssen? 
+  - Berücksichtigung Lebensdauer/ Versuche Lastspiel etc?
+* Gibt es vorgefertigte Komponenten die mit eingebaut werden müssen?
+  - Metalleinleger
   - Stringer!
   - Prepregs
 * Handarbeit vs. Automatisierung
 * Wer baut die Formen?
 * Wie werden dann die Teile weiterverarbeitet, also mit dem Rest
   des Flugzeugs integriert? Klassisch verschraubt? Verklebt?
+  - Kleben mittlerweile akzeptiert (Vorschriften, Prüfungen, ...)
 * Wie lange dauert Produktionsprozess? Vgl. mit Traditionell?
 
 Qualitätssicherung
 ----------------------------------------
 * Wieviel Safety-Margin ist reingerechnet wegen Toleranzen in der Fertigung?
+ - Lebensdauer
+ - Failsafe/ Safe-Life oder Damage Tolerance findet Anwendung?
 * Eingangskontrolle der Fasern? Dürfen ja nicht gerissen sein.
 * Kann man eine "gebackene" Kohlestruktur QA'en? Nicht destruktiv? 
 
 Anderes
 -------------------------------------------
+* Funktionsintegration
+  - Piezokeramiken (bspw. aktive verstellbare Flügel)
+  - Schadenserkennung (Strom durch C-Faser)
 * Gesundheitsaspekte der Mitarbeiter
 * Reparieren im Feld
 * Airbus: Grundlagenarbeit vs. Produktionstechnik vs. konkrete Anwendung im Flugzeug
