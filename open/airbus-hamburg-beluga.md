@@ -1,3 +1,8 @@
+Fragen von:
+---------------------------------------
+* Karsten's 8-jährigem Sohn
+
+
 Grundlegendes zur Beluga Infrastruktur
 -------------------------------------------------
 * Was wird alles transportinert, von wo nach wo?
@@ -48,9 +53,11 @@ Flugzeugkonstruktion und -fertigung
 Crew
 ------------------------------------------
 * Beluga Crews == Testpiloten, oder separate Crews?
+  - Besatzung 2? Plus Flight Engineer? Lademeister?
 * Immer gleiche Route am Tag? Wie sieht eine Schicht aus?
 * Fliegerisches
   - merkt man das Volumen? 
+  - Reichweite/Geschwindigkeit geringer wegen Widerstand?
   - Seitenwind? 
   - Taxiing?
   - Welches Type Rating?
