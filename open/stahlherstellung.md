@@ -1,14 +1,26 @@
-Überblicksmaterial
+Überblick oder Dinge die nirgends reinpassen
 ----------------------------------------
-
-* https://www.thyssenkrupp-steel.com/de/unternehmen/der-weg-zum-stahl/weg-zum-stahl.html
+* Grob: was ist Stahl
+* Wieviele solche Werke gibt es denn in DE oder EU?
+* Leittechnik: wieviel ist da inzwischen "modern"?
 
 
 Rohstoffanlieferung im Hafen
 ------------------------
-* Was ist Stahl?
-* Welche Rohstoffe werden angeliefert? Woher?
-* Gibt es weitere Rohstoffe, die nicht per Schiff angeliefert werden?
+
+-* Welche Rohstoffe: 
+  - Eisenerz
+    . kommt das noch "in Steinform"? Wo/wie wird das getrennt?
+  - Schrott
+    . Welche Metalle? Trennung?
+* Woher kommen die Rohstoffe?
+  . Wo wird Eisenerz abgebaut?
+  . Unterschiedliche Arten und deren Eignung für (welche) Stähle?
+* Auf welchen Verkehrswegen? 
+  Es ist ja vermutlich kein Zufall dass der Rhein direkt nebenan ist.
+* Welche Zusatzstoffe werden benötigt?
+  die nicht per Schiff angeliefert werden?
+* Auf welchem Weg verlassen die Endprodukte das Werk?
 
 
 Kokerei
@@ -17,16 +29,41 @@ https://de.wikipedia.org/wiki/Koks
 https://de.wikipedia.org/wiki/Kokerei
 
 * Was ist Koks?
-* Das ist der Brennstoff für den Hochofen, hat nix mit Stahl an sich zu tun <- Das ist nicht richtig. Der Kohlenstoff aus dem Koks ist essentiell für die Stahlherstellung.
+  Das ist der Brennstoff für den Hochofen, hat nix mit Stahl an sich zu tun 
+  <- Das ist nicht richtig. Der Kohlenstoff aus dem Koks ist essentiell für 
+     die Stahlherstellung.
 * Warum braucht man das im Hochofen?
-* Wie wird das hergestellt?
+  - Warum reicht nicht "normale Kohle"?
+  - Brennwert? 
+  - "Stabilität" im Hochofen
+* Koken ist eine Art "Anreicherung", flüchtige Teile der Kohle werden separiert
+  Anpassung
+  - Wassergehalt
+  - Aschegehalt
+  - Schwefelgehalt
+  - Korngröße
+  - Festigkeit
+  - Abrieb
+* Wie funktioniert der Kokungsprozess?
 
 
 Sinteranlage
 --------------------
 https://de.wikipedia.org/wiki/Sintern
 
-* Was wird gesintert und warum?
+* Ziel: Herstellung von gleich großen/dichten? Eisenerzstücken
+  "Ziel ist, einen möglichst selbstgehenden Möller zu erzeugen."
+* Wie wird das Eisenerz vorbereitet? 
+  - Zerkleinern
+  - Sortieren
+* Was ist sintern? Eine Art "backen"?
+* Sintern vs. Pelletisierung
+* Wo wird denn der recycelte Stahl zugeführt?
+  Wird der auch vorbereitet?
+
+* Welche weiteren Zutaten werden für den Hochofenprozess
+  benötigt, und wo werden diese hinzugefügt? Werden die
+  "mit reingesintert"?
 
 
 Hochofen
@@ -35,17 +72,78 @@ https://de.wikipedia.org/wiki/Hochofen
 
 * Aka Eisenwerk, Hüttenwerk
 * Macht aus Eisenerz Roheisen
+  Reduktion, also "Oxidentfernung" durch Heizen.
+* Zusatzstoffe? Warum?
+  - Siliciumdioxid (Quarzsand)
+  - Calciumoxid (Kalk)
+* Schichtung der Inhalte? Warum so hoch?
+* Komponenten des Möller
+  - Bunker (Erz + Koks), Mischbetten
+  - Gichtgasabführung. Was ist Gichtgas?
+  - Winderhitzer (Sauerstoff, klar. Aber warum warm?)
+  - Abführung von Roheisen, Schlacke
+  - Schlacke vs. Roheisen
+* Material wird von oben eingebracht. Wie kommt's da rauf?
+  - Wagen vs. Förderbänder
+  - Gichtgasschleuse
+* Struktur (Prinzip Kamin)
+  - Schacht
+  - Kohlensack
+  - Rest
+  - Gestell
+* Kontinuierlicher Prozess vs. einzelne Beladungen?
+  - Wie wird Material eingebracht ohne die laufen Verbrennung zu stören?
+  - Struktur der Schichtung im Hochofen
+  - "Phasen" des Prozesses, was passiert chemisch?
+* Wie wird der Prozess denn gesteuert, überwacht?
+  - Welche Parameter lassen sich (in einem gegebenen Ofen) variieren?
+* Innen: Feuerfest? Welche Materialien?
+  - Wie ändert sich die Beanspruchung über die Höhe?
+  - Wird auch aktiv gekühlt?
+* Wie wird die Hitze beim Winderhitzer erreicht?
+  - Wie warm/heiß ist die eingeblasene Luft?
+  - Wie genau funktionieren die Cowper?
+* Abstich alle paar Stunden. Also doch "gepulst"?
+  - "Anbohren"?
+  - Das System aus Rinnen und Füchsen ist entsprechend komplex 
+    und bedarf der sorgfältigen Überwachung. Warum?
+  - In welcher Form kommen Schlacke und Roheisen raus? 
+    Wie wird getrennt?
+  - "Stichlochstopfmaschine"
 
+* Moderner Hochofen "neu" eingerichtet. 
+  - Was ist neu, besser?
+  - Wie misst man "Qualität" eines Hochofens?
+* Was ist "Frischen"?
+* Durchsatz? Ist der Hochofen das Bottleneck/Designziel?
+* Wie fährt man so einen Hochofen rauf und runter?
+  - Dämpfen vs. Ausblasen
+  - Wie oft muss man ihn zwecks Wartung abschalten?
+  - Anblasen. Unterschied zu normaler Beschickung?
+
+* Wie wird Roheisen und Schlacke weitertransportiert?
+  - Torpedowagen
+* Energieverbrauch?
 
 Stahlwerk
 ------------------------
 https://de.wikipedia.org/wiki/Stahlerzeugung
 
 * Was genau ist Stahl
+  - Gusseisen vs. Stahl
+  - Chemische Struktur?
+* Welche Stahlarten gibt es denn
+  - Unterschiedliche Arten / Qualitäten
+  - Und wie unterscheiden die sich?
+    . Klassifikationssysteme und Nomenklaturen
+    . Schiffsbau, Schweißbar, Betonverstärkung, Panzer, AKW-Stähle
+  - Spielt Härte, Festigkeit eine Rolle?
+  - Wie unterscheidet sich rostfreier Stahl?
+  - Was ist dann Edelstahl?
 * Unterschiedliche Arten / Qualitäten
 * Methoden zur Qualitätsüberwachung
 
-* Transportinfrastruktur: tmachowinski
+
 
 Stranggießanlage
 ------------------------
@@ -100,3 +198,7 @@ Infos (Nora)
      Linz-Donawitz-Verfahren (Sauerstofflanze, bis 1600 °C, Kühlung durch Beifügen von Schrott)
      Elektrostahlverfahren (Elektroden -> Lichtbogen, bis 3500 °C)
   3. Ausschmieden und Walzen zu Stangenmaterial, Schienen oder Blechen
+
+* Weitere Resourcen 
+  - http://www.tis-gdv.de/tis/tagungen/svt/svt00/dudziak/dudziak.htm#2
+  - https://www.thyssenkrupp-steel.com/de/unternehmen/der-weg-zum-stahl/weg-zum-stahl.html
