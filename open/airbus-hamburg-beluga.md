@@ -2,6 +2,7 @@ Fragen von:
 ---------------------------------------
 * Karsten's 8-jährigem Sohn
 * Helge Zembold
+* Eugen Torixa
 
 
 Grundlegendes zur Beluga Infrastruktur
@@ -49,7 +50,7 @@ Flugzeugkonstruktion und -fertigung
 * Berücksichtigung bei der Konstruktion der Flieger?
 * Und bei der Allokation der Fertigungsstandorte? 
   Wenn Transport nicht klappt... bspw. für den 380?
-
+* Könnte man das nicht anders machen? Ist das nicht sehr teuer?
 
 Crew
 ------------------------------------------

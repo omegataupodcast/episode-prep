@@ -129,9 +129,13 @@ Stahlwerk
 ------------------------
 https://de.wikipedia.org/wiki/Stahlerzeugung
 
-* Was genau ist Stahl
+* Was genau ist Stahl im vgl. zu Roheisen
   - Gusseisen vs. Stahl
   - Chemische Struktur?
+    Stichwort Kohlenstoff Eisenkohlenstoffdiagramm
+    Eigenschaften von Kohlenstoff auf das Gefüge
+    Schmelzpunkt (Durch den Hohen Kohlenstoffanteil niedrigererer Schmelzpunkt 
+      von Roheisen gegenüber Stahl und damit gesparter Energie
 * Welche Stahlarten gibt es denn
   - Unterschiedliche Arten / Qualitäten
   - Und wie unterscheiden die sich?
@@ -197,6 +201,8 @@ Infos (Nora)
      Heute vor allem zwei Verfahren:
      Linz-Donawitz-Verfahren (Sauerstofflanze, bis 1600 °C, Kühlung durch Beifügen von Schrott)
      Elektrostahlverfahren (Elektroden -> Lichtbogen, bis 3500 °C)
+     Früher: Thomasstahl (Luft statt Sauerstoff, odruch sich der in der Luft 
+     vorhandene Stickstoff im Gefüge eingelagert hat.
   3. Ausschmieden und Walzen zu Stangenmaterial, Schienen oder Blechen
 
 * Weitere Resourcen 
