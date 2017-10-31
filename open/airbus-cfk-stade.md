@@ -11,6 +11,7 @@ Fasern und Matrixsystem
 * Thermoplast oder Duroplast
   - Thermoplaste im Flugbereich? (Temperaturprobleme, Steifigkeit, ...)
   - Recycling ein Thema?
+  - Thermoplast: Geringere Zykluszeiten (z.B. Einsatz von Organoblechen) im Vergleich zu Duroplasten -> Kostensenkung/ Thema in der Luftfahrt?
 
 FVK in der Fliegerei
 ----------------------------------
@@ -19,7 +20,7 @@ FVK in der Fliegerei
   - Wie hoch Leichtbaukosten akzeptabel (€/kg)?
   - Bessere aerodynmische Güte weil keine Nieten notwendig sind?
   - Anderes Design des Flügels wegen der flexibleren Formbarkeit?
-* Warum insbesondere CFK?
+* Warum insbesondere CFK (3K oder 50K)?
 * Warum eher wenig Glasfaser?
 * Historie: welche Flugzeugteile bei welchem Modell?
 * Besondere Herausforderung bei der CFK-Verarbeitung
@@ -43,7 +44,7 @@ Fertigung A350
     . Wie dick?
     - welcher Laminataufbau?
   - Schritt 1: Einlegen der Fasern
-  - Schritt 2: Injektion des Harzes (passiert im Autoklav?)
+  - Schritt 2: Injektion des Harzes (passiert im Autoklav?) -> Prepreg: Rovings bereits imprägniert...
     . Wie?
     . Wie stellt man sicher, dass das Harz in den 2.7cm
       gleichmäßig verteilt ist?
@@ -52,8 +53,9 @@ Fertigung A350
     . Dauer
     . Temp, Druck?
     . Regelung, Präzision?
+    • wieviele gibt es in Stade?
   - Schritt 3: Zuschneiden
-    - Wasserstrahl oder Fräsen?
+    - Wasserstrahl, Laser oder Fräsen?
 * Rumpfpanele
   - Schritt 1: Faserverlegung
   - Schritt 2: Autoklav
@@ -62,7 +64,7 @@ Fertigung A350
   - Noch isotrop oder mittlerweile ortho-/anisotrop?
   - schwarzer Metallbau: mittlerweile FKV gerechte Designs? (Vermeidung überdimensionierung, Kosten)
     - Bauteilzertifizierung (teuer, sehr sehr langwierig)
-      - gewillt umzusetzen? Trend eher ALU-Druckguss anstatt FKV
+      - gewillt umzusetzen? Trend eher ALU-Druckguss/MMV anstatt FKV
   - Zusammenspiel mit dem Engineering.
   - Auslegungs/Rechen/CAD Tools die Faserrichtung berücksichtigen?
   - Berücksichtigung Lebensdauer/ Versuche Lastspiel etc?
@@ -71,6 +73,7 @@ Fertigung A350
   - Stringer!
   - Prepregs
 * Handarbeit vs. Automatisierung
+  - welche Automatisierung sinnvoll: Tapelegen?
 * Wer baut die Formen?
 * Wie werden dann die Teile weiterverarbeitet, also mit dem Rest
   des Flugzeugs integriert? Klassisch verschraubt? Verklebt?
@@ -83,7 +86,11 @@ Qualitätssicherung
  - Lebensdauer
  - Failsafe/ Safe-Life oder Damage Tolerance findet Anwendung?
 * Eingangskontrolle der Fasern? Dürfen ja nicht gerissen sein.
-* Kann man eine "gebackene" Kohlestruktur QA'en? Nicht destruktiv? 
+* Kann man eine "gebackene" Kohlestruktur QA'en? Nicht destruktiv?
+* Werden Bauteile zertifiziert oder das Halbzeug (zwei Möglichkeiten Bauteile in der Luftfahrt einzusetzen)?
+  - welche Methode ist sinnvoller?
+  - Tendenz eher zur Bauteilzertifizierung -> wenige Hersteller die Material nach Airbus Norm zertifizieren -> teuer (C-ORGANO: m^2 > 200 €)
+
 
 Anderes
 -------------------------------------------
