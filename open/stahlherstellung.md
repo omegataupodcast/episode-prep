@@ -1,9 +1,15 @@
+Beitragende
+--------------------------------
+Thomas Kolanus
+Werner Engel
+
 Überblick oder Dinge die nirgends reinpassen
 ----------------------------------------
 * Grob: was ist Stahl
 * Wieviele solche Werke gibt es denn in DE oder EU?
 * Leittechnik: wieviel ist da inzwischen "modern"?
-
+* Generell: Chemische Vorgänge
+* Generell: QA, Monitoring
 
 Rohstoffanlieferung im Hafen
 ------------------------
@@ -65,10 +71,18 @@ https://de.wikipedia.org/wiki/Sintern
   benötigt, und wo werden diese hinzugefügt? Werden die
   "mit reingesintert"?
 
+* Wie wird die Qualität des Stahls konstant gehalten wenn doch
+  Schrott mit eingebaut wird den man "nicht kennt". 
 
 Hochofen
 ------------------------
 https://de.wikipedia.org/wiki/Hochofen
+
+* Der Hochofen ist ein metallurgischer Reaktor, in dem im Gegenstrom die
+Möllersäule mit heißer Luft, dem sogenannten Wind, reagiert. Durch
+Verbrennen des Kohlenstoffs aus dem Koks entstehen die für die Reaktion
+nötige Wärme und Kohlenstoffmonoxid, das die Möllersäule durchströmt und
+das Eisenerz reduziert. 
 
 * Aka Eisenwerk, Hüttenwerk
 * Macht aus Eisenerz Roheisen
@@ -114,7 +128,6 @@ https://de.wikipedia.org/wiki/Hochofen
 * Moderner Hochofen "neu" eingerichtet. 
   - Was ist neu, besser?
   - Wie misst man "Qualität" eines Hochofens?
-* Was ist "Frischen"?
 * Durchsatz? Ist der Hochofen das Bottleneck/Designziel?
 * Wie fährt man so einen Hochofen rauf und runter?
   - Dämpfen vs. Ausblasen
@@ -123,7 +136,12 @@ https://de.wikipedia.org/wiki/Hochofen
 
 * Wie wird Roheisen und Schlacke weitertransportiert?
   - Torpedowagen
-* Energieverbrauch?
+
+* Energieverbrauch? Wirtschaftlichkeit in DE?
+
+* Alternative zu Hochofen: Elektrostahl. Trade-offs?
+* Was passiert mit der Schlacke?
+
 
 Stahlwerk
 ------------------------
@@ -144,11 +162,33 @@ https://de.wikipedia.org/wiki/Stahlerzeugung
   - Spielt Härte, Festigkeit eine Rolle?
   - Wie unterscheidet sich rostfreier Stahl?
   - Was ist dann Edelstahl?
+    Herstellung im Elektroofen wo z.b. die Legierungselemente Chrom Oder Mangan 
+    beigemischt werden die wegen des Hohen Schmelzpunktes den LIchtbogen brauchen.
 * Unterschiedliche Arten / Qualitäten
 * Methoden zur Qualitätsüberwachung
-
-
-
+  - Härteprüfung nach Rockwell/Brinell/Vickers
+  - Überprüfung auf Fehlstellen durch Ultraschall (Krautkrämer)
+  - Röntgen des Stahls
+  - Zugversuch
+  -> Streckgrenze, "Verformbar", damit sicherer bei Bauwerken als Gusseisen
+* Es wird ja flüssiges Roheisen verarbeitet - 
+  wie kommt das vom Hochofen ins Stahlwerk?  
+* Was ist "Frischen"? 
+  - Anblasen mit Sauerstoff
+  - Oxidieren von C -> Flüssiger Stahl
+* Wann und wo werden die Zusatzstoffe eingebracht?
+* Gibt es verschiedene Werke für verschiedene Stähle? 
+  Oder werden in einem Werk mehrere Arten hergestellt?
+* "Vergiessen" zum Halbzeug. Was ist ein Halbzeug?
+* beruhigt vs unberuhigt vergossenen Stahl. 
+* Blasverfahren vs. Herdfrischverfahren.
+  - Unterschiede?
+  - Welches wird hier gemacht?
+    O2 einblasen um unerwünschte Elemente zu verbrennen
+  - Wie wird geprüft ob alles verbrannt ist?
+* Alternative Direktreduktion   
+ 
+  
 Stranggießanlage
 ------------------------
 https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
@@ -168,6 +208,10 @@ https://de.wikipedia.org/wiki/Kaltwalzen
 Veredelungsanlage (Stefan)
 ------------------------
 * z.B. Feurerverzinkung / Elektrolytische-Verzinkung
+* Wärmebehandlung
+* Gefügeunterschiede gehärtet nicht gehärtet  
+  am Beispiel Randschichthärten: wie für Zahnräder für verschleißfreie Oberfläche genutzt
+  
 
 
 Infos (Nora)

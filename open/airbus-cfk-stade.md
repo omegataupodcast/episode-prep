@@ -1,4 +1,6 @@
-
+Beitragende:
+-------------------------------------
+Karsten Schmidt
 
 Grundlagen zu FVK und CFK
 ----------------------------------------
