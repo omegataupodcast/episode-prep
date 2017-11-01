@@ -7,7 +7,7 @@ Werner Engel
 ----------------------------------------
 * Grob: was ist Stahl
 * Wieviele solche Werke gibt es denn in DE oder EU?
-* Leittechnik: wieviel ist da inzwischen "modern"?
+* Generell: wieviel ist da inzwischen "modern"?, Leittechnik, Manuelle Arbeiten, Automatisierung
 * Generell: Chemische Vorgänge
 * Generell: QA, Monitoring
 
@@ -193,20 +193,80 @@ Stranggießanlage
 ------------------------
 https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
 
+* Kontinuierliche Produktion von "Stahlstrang"
+* Kokillen?
+* Form, Querschnitt
+* Wie? Walzen? Kontinuierliche "Verengung"?
+* Vertikal vs. Horizontal?
+* Elements
+  - Pfanne
+  - Verteiler
+  - Kokille
+  - Aktive Kühlung
+  - Treib/Richt/Rollen
+  - Querteilung/Säge
+    . Typische Längen?
+* Gleichmäßige Abkühlung/Aushärtung?
+* Wie verhindert man Reoxidation mit der Luft?
+* Wieso bäckt die ganze Anlage nicht mit Stahl zu?
+  - Materialien?
+* Was ist das Endprodukt dieses Arbeitsschrittes?
+  - Rund, rechteckig?
+* Wie lange dauert es bis alles richtig ausgekühlt ist?
+
+* In welcher Form wird Stahl denn verkauft, was bekommt die
+  verarbeitende Industrie als Arbeitsmaterial?
 
 Warmbandwerk (Stefan)
 ------------------------
 https://www.thyssenkrupp-steel.com/de/newsroom/highlights/infografiken/alles-auf-dem-neuesten-stand
 https://de.wikipedia.org/wiki/Warmband
 
+* Walzen von was? Rohstoff?
+* Was kommt raus? Wie lang ist das Band?
+* "Oberhalb der Rekristallisationstemperatur" => Chemische Umbauten? Welche?
+* Austentit vs. Ferrit
+* Wie "warm"? Wie geschieht Erhitzung?
+  - Walzen vs. Pressen?
+* Schritte, jeweils Mechanismus, Dicke
+  - Stauchpresse
+  - Vorstrasse V1
+  - Vorstrasse V2
+  - Fertigstrasse
+* Warum immer wieder Kühlen/Wasser zwischendrin?
+* Haspeln zum Aufwickeln?
 
 Kaltwalzwerk (Stefan)
 ------------------------
 https://de.wikipedia.org/wiki/Kaltwalzen
 
+* Rohstoff? Die Haspeln aus dem Warmwalzwerk?
+* Hier keine chemischen Prozess mehr!?
+  - Wird da wirklich gar nicht erhitzt?
+* Was kommt raus? 
+  - Blech? 
+  - Welche Dicken?
+  - Welche Breiten?
+* Was ist "Glühen", was passiert da?
+  - Da dann doch wieder kristalline Umordnung?
+
+* Findet hier (oder schon beim Warmwalzen) eine Oberflächen-
+  bearbeitung statt?
+  - Chemisch
+  - Mechanisch?
+  
+* Inwiefern sind denn die ganzen Schritte eng ge/entkoppelt?
+  Gibt es Puffer/Lagerplätze dazwischen?
+
 
 Veredelungsanlage (Stefan)
 ------------------------
+
+* Sind das chemische oder "mechanische" Prozess?
+  - ändert sich das Material,
+  - oder wird etwas aufgebracht
+* Alles an der Oberfläche? Denn die (kristall-)Struktur kann
+  ja nicht mehr verändert werden (Rostfreiheit bspw. nicht hier, richtig?)
 * z.B. Feurerverzinkung / Elektrolytische-Verzinkung
 * Wärmebehandlung
 * Gefügeunterschiede gehärtet nicht gehärtet  
