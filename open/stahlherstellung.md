@@ -8,21 +8,20 @@ Werner Engel
 * Grob: was ist Stahl
 * Wieviele solche Werke gibt es denn in DE oder EU?
 * Generell: wieviel ist da inzwischen "modern"?, Leittechnik, Manuelle Arbeiten, Automatisierung
-  . auf die Automatisierung / Monitoring von Anlagen können wir in der FBA4 eingehen, System habe ich in Betrieb genommen (Stefan)
+  - auf die Automatisierung / Monitoring von Anlagen können wir in der FBA4 eingehen, System habe ich in Betrieb genommen (Stefan)
 * Generell: Chemische Vorgänge
 * Generell: QA, Monitoring 
 
 Rohstoffanlieferung im Hafen
 ------------------------
-
--* Welche Rohstoffe: 
+* Welche Rohstoffe: 
   - Eisenerz
     . kommt das noch "in Steinform"? Wo/wie wird das getrennt?
   - Schrott
     . Welche Metalle? Trennung?
 * Woher kommen die Rohstoffe?
-  . Wo wird Eisenerz abgebaut?
-  . Unterschiedliche Arten und deren Eignung für (welche) Stähle?
+  - Wo wird Eisenerz abgebaut?
+  - Unterschiedliche Arten und deren Eignung für (welche) Stähle?
 * Auf welchen Verkehrswegen? 
   Es ist ja vermutlich kein Zufall dass der Rhein direkt nebenan ist.
 * Welche Zusatzstoffe werden benötigt?
@@ -266,12 +265,13 @@ Veredelungsanlage (Ansprechpartner: Sabine Zeizinger - Anlage: Feuerverzinkungsa
 * Sind das chemische oder "mechanische" Prozess?
   - ändert sich das Material,
   - oder wird etwas aufgebracht
-* Alles an der Oberfläche? Denn die (kristall-)Struktur kann
-  ja nicht mehr verändert werden (Rostfreiheit bspw. nicht hier, richtig?)
+* Alles an der Oberfläche? Denn die (kristall-)Struktur kann ja nicht mehr verändert werden (Rostfreiheit bspw. nicht hier, richtig?)
 * z.B. Feurerverzinkung / Elektrolytische-Verzinkung
 * Wärmebehandlung
-* Gefügeunterschiede gehärtet nicht gehärtet  
+* Gefügeunterschiede gehärtet nicht gehärtet
   am Beispiel Randschichthärten: wie für Zahnräder für verschleißfreie Oberfläche genutzt
+* Wofür wird das Material aus der FBA verwendet?
+
   
 
 
