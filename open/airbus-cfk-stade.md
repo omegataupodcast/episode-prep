@@ -1,6 +1,7 @@
 Beitragende:
 -------------------------------------
 Karsten Schmidt
+Valerio Oddone
 
 Grundlagen zu FVK und CFK
 ----------------------------------------
@@ -81,6 +82,8 @@ Fertigung A350
   des Flugzeugs integriert? Klassisch verschraubt? Verklebt?
   - Kleben mittlerweile akzeptiert (Vorschriften, Prüfungen, ...)
 * Wie lange dauert Produktionsprozess? Vgl. mit Traditionell?
+* Beim Podcast über Windradflügel hieß es, dass CFK Verarbeitung wegen des elektrisch 
+  leitenden Staub schwierig ist. Ist das hier auch ein Thema?
 
 Qualitätssicherung
 ----------------------------------------
