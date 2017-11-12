@@ -188,6 +188,8 @@ https://de.wikipedia.org/wiki/Stahlerzeugung
     O2 einblasen um unerwünschte Elemente zu verbrennen
   - Wie wird geprüft ob alles verbrannt ist?
 * Alternative Direktreduktion   
+* Old Steel Processes 
+  - In inorganic chemistry courses I learned that Japanese Samurai used to make their swords by hammering the hot iron between sheets of rice paper. Carbon from the paper would enter the outer layer of the sword making it hard, while the iron inside stayed ductile (early composite material production!). Did any such processes remain in modern steel production?
  
   
 Stranggießanlage
