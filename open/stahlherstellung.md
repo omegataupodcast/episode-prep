@@ -8,8 +8,9 @@ Werner Engel
 * Grob: was ist Stahl
 * Wieviele solche Werke gibt es denn in DE oder EU?
 * Generell: wieviel ist da inzwischen "modern"?, Leittechnik, Manuelle Arbeiten, Automatisierung
+  . auf die Automatisierung / Monitoring von Anlagen können wir in der FBA4 eingehen, System habe ich in Betrieb genommen (Stefan)
 * Generell: Chemische Vorgänge
-* Generell: QA, Monitoring
+* Generell: QA, Monitoring 
 
 Rohstoffanlieferung im Hafen
 ------------------------
@@ -217,7 +218,7 @@ https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
 * In welcher Form wird Stahl denn verkauft, was bekommt die
   verarbeitende Industrie als Arbeitsmaterial?
 
-Warmbandwerk (Stefan)
+Warmbandwerk (Ansprechpartner: Sebastian Weber / Christian Matten - Anlage: Warmbandwerk 2)
 ------------------------
 https://www.thyssenkrupp-steel.com/de/newsroom/highlights/infografiken/alles-auf-dem-neuesten-stand
 https://de.wikipedia.org/wiki/Warmband
@@ -236,7 +237,7 @@ https://de.wikipedia.org/wiki/Warmband
 * Warum immer wieder Kühlen/Wasser zwischendrin?
 * Haspeln zum Aufwickeln?
 
-Kaltwalzwerk (Stefan)
+Kaltwalzwerk (Ansprechpartner: Thomas Hülser - Anlage: TAKO (gekoppelte Beiz-Tandem-Straße)
 ------------------------
 https://de.wikipedia.org/wiki/Kaltwalzen
 
@@ -259,7 +260,7 @@ https://de.wikipedia.org/wiki/Kaltwalzen
   Gibt es Puffer/Lagerplätze dazwischen?
 
 
-Veredelungsanlage (Stefan)
+Veredelungsanlage (Ansprechpartner: Sabine Zeizinger - Anlage: Feuerverzinkungsanlage 4)
 ------------------------
 
 * Sind das chemische oder "mechanische" Prozess?
