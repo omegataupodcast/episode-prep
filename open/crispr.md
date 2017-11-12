@@ -42,6 +42,8 @@ What is Genome Editing
   Practical, because no breeding of generations and 
   generations in order to change genome.
 
+* Does (irrational) fear of GMOs carry over to CRISPR/Cas9 editing? 
+* Do legal restrictions on GMOs apply to CRISPR edited organisms?
 
 The natural occuring thing
 ------------------------------------------
@@ -96,6 +98,8 @@ How to do Genome Editing with CRISPR/Cas
 
   "Occasionally, though, the enzyme still cuts in the wrong place, which
    is one of the stumbling blocks for wider use, especially in the clinic."
+
+  - More on accuracy of CRISPR: How about reports on multiple non-targeted (undesirable) changes? Up to thousands? Was that completely rebutted?
 
 
   - How do you quality control that the editing went well?
