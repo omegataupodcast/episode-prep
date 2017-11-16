@@ -1,8 +1,10 @@
 Beitragende:
 -------------------------------------
-Karsten Schmidt
-Valerio Oddone
-Alexander Wolf
+* Karsten Schmidt
+* Valerio Oddone
+* Alexander Wolf
+* tsaiwu
+* aWo-git
 
 Grundlagen zu FVK und CFK
 ----------------------------------------
