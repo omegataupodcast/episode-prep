@@ -2,6 +2,7 @@ Beitragende:
 -------------------------------------
 Karsten Schmidt
 Valerio Oddone
+Alexander Wolf
 
 Grundlagen zu FVK und CFK
 ----------------------------------------
