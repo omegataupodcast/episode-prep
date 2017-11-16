@@ -102,8 +102,10 @@ Anderes
 * Funktionsintegration
   - Piezokeramiken (bspw. aktive verstellbare Flügel)
   - Schadenserkennung (Strom durch C-Faser)
+  - Heath Monitoring (zum Beispiel durch Integration von Glasfasern mit Bragg-Gittern)
 * Gesundheitsaspekte der Mitarbeiter
 * Reparieren im Feld
+* Reparaturfähigkeit im Allgemeinen -> Welche Technologie zur Detektion (siehe auch QA) -> Welche Technologie zur Reparatur, gerade an Bauteilübergängen (Wie wird eine Oberflächenbeschädigung repariert, unter der Verstärkungen wie Stringer oder Spanten angebracht sind)
 * Airbus: Grundlagenarbeit vs. Produktionstechnik vs. konkrete Anwendung im Flugzeug
 * Versorgung mit Kohle ein Problem?
 
