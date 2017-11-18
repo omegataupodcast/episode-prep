@@ -9,6 +9,14 @@ http://ksg-gfs.de
 * "Nahezu 100 Ingenieure, Physiker und Techniker, davon die meisten mit universitärer 
   Qualifikation und sehr langer Zugehörigkeit zum Unternehmen, sorgen für die 
   professionelle Umsetzung aller Aufgaben"
+  
+(Atom-)Kraftwerkssteuerung allgemein
+------------------------------------
+* Was muss überhaupt alles gesteuert werden? 
+* Wie viele voneinander unabhängige Steuersysteme/Regelungskreise gibt es?
+* Gibt es einen zentralen Kontrollraum, in dem alles gesteuert wird?
+* Wie viele Menschen arbeiten dort?
+* Was ist wirklich KraftwerksSTEUERUNG, was ist Regelung?
 
 Ausbildung
 ---------------------
@@ -21,15 +29,13 @@ Ausbildung
   - Grundlagenschulungen zu Kraftwerkstechnologien
   - Theorieschulungen zu Kraftwerkstechnik, -systemen und -betrieb
   - Praktische Trainings an Full-Scope-Simulatoren
+    Wird alles in Echtzeit simuliert, oder gibt es auch beschleunigte Simulationen?
   - Thermohydraulikschulungen am weltweit einzigartigen Reaktor-Glasmodell
-* Wird auch Teamarbeit, Leadership, Entscheidungsfindung trainiert?
+* Wird auch Teamarbeit, Leadership, Entscheidungsfindung, Weitergabe von Informationen "nach außen" (z.B. Polizei oder Presse) trainiert?
   Wie geht man vor?
 * Wie oft müssen Kraftwerksfahrer hier her zum Training?
 * Gibt's auch Training im "Heimatkraftwerk"?
   Gibt es dort auch Simulatoren?
-  
-  
-  
 
 
 Steuerungsphilosophie
@@ -58,8 +64,11 @@ Simulatoren
 --------------------------------
 * "Die Simulatoren sind nahezu identische Abbilder ihrer Referenzkraftwerke 
    hinsichtlich des Kontrollraumes."
-* Woher kennt man Anforderungen=
+* Woher kennt man Anforderungen? 
 * Wer stellt die Simulatoren her? 
   Das sind Einzelstücke?
+* Was wird in HW/was in SW gemacht?
+* Wie findet eine Kalibrierung (ein Abgleich der Simulatoren mit ihren Referenzkraftwerken) statt? 
+  (Wird z.B. berücksichtigt, wie schwergängig ein Schalter ist oder wie die Beleuchtungs- oder Belüftungsverhältnisse im Kontrollraum sind??)
 * Was steckt an Software/IT dahinter?
 * (Wie) Spielt das Glasmodell mit den Simulatoren zusammen?
