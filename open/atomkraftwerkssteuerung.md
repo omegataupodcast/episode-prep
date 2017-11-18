@@ -5,10 +5,12 @@ http://ksg-gfs.de
 ---------------------------
 * Was macht die KSG-GFS?
 * Zusammenhang mit den Kraftwerken und deren Betreibern?
+* Wer finanziert die Einrichtung?
 * Wofür die beiden Abkürzungen, KSG und GFS?
 * "Nahezu 100 Ingenieure, Physiker und Techniker, davon die meisten mit universitärer 
   Qualifikation und sehr langer Zugehörigkeit zum Unternehmen, sorgen für die 
   professionelle Umsetzung aller Aufgaben"
+* Gibt es ähnliche Einrichtungen auch in anderen Ländern?
   
 (Atom-)Kraftwerkssteuerung allgemein
 ------------------------------------
@@ -36,6 +38,7 @@ Ausbildung
 * Wie oft müssen Kraftwerksfahrer hier her zum Training?
 * Gibt's auch Training im "Heimatkraftwerk"?
   Gibt es dort auch Simulatoren?
+* Wird in irgendeiner Form auch der Rückbau von Atomkraftwerken berücksichtigt oder trainiert?
 
 
 Steuerungsphilosophie
