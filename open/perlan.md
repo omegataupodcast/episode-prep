@@ -1,3 +1,5 @@
+Fabian Hoffmann
+Davide Sivolella
 Simon Grafenhorst
 Stefan Weigel 
 Ramón Meyer	
@@ -35,3 +37,7 @@ Wieso sie ein Festfahrwerk haben. Wie wurde die Abwägung zwischen konstruktiver
 
  Wie sind die beiden Rumpfhälften verklebt ( http://www.perlanproject.org/blog/perlan-2-set-shop ) und warum ist das Seitenleitwerk oben spitz bzw abgerundet? Hier ( http://www.ssa.org/.../ThePerlanProject-Newsletter-May... ) steht auf der letzten Seite bei "Fundraising Progress" was drin von Autopilot, ansonsten habe ich da aber nichts mehr zu gefunden. Gibt es einen Autopilot?
 Freue mich schon auf die Folge ;)
+fantastic! I knew you would do an episode on this project! I'm looking forward to it! I understand the project is sponsored by Airbus, so my question is what or how does Airbus benefit from it? will there be any spinoff applicable to the aerospace industry and/or to terrestrial applications? Cheers
+
+ 
+Hallo, ich bin vor einigen Wochen auf euer Projekt gestoßen, und finde es wirklich toll :). Ich fände es wirklich spannend wie das ganze Thema Tragflächenauslegung und Flattersicherheit bei der Perlan 2 gehandhabt wurde. Die Perlan 2 fliegt ja in Höhen wo durch den enorm niedriegen Luftdruck enorm schnell geflogen werden muss um genügend Auftrieb zu erzeugen. Vielen vielen Dank :)
