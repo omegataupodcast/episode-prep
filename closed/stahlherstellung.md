@@ -2,6 +2,9 @@ Beitragende
 --------------------------------
 Thomas Kolanus
 Werner Engel
+Carsten Voss
+Valerio Oddone
+Wolfgang van Oorschot 
 
 Überblick oder Dinge die nirgends reinpassen
 ----------------------------------------
@@ -210,6 +213,13 @@ https://de.wikipedia.org/wiki/Stranggie%C3%9Fen
   - Querteilung/Säge
     . Typische Längen?
 * Gleichmäßige Abkühlung/Aushärtung?
+* H: Bei einem Praktikum wurden dem Konverter Zusätze beigegeben - in Säcken in 
+  die Pfanne geworfen ... hinterher flog dann noch die Europalette hinterher 
+  und brutzelte weg....ist das üblich ?
+* H: Früher wurden holländische Holzpantoffeln getragen im Stahlwerk....bei einem 
+  Bruch der Pfanne ergoss sich die Schmelze in Kanäle und falls das nicht 
+  reichte oder man zu dicht stand sollten die Holzschuhe ankokeln und isolierend 
+  wirken .... was sind die heutigen Maßnahmen bei Pfannenbruch u.ä.?  
 * Wie verhindert man Reoxidation mit der Luft?
 * Wieso bäckt die ganze Anlage nicht mit Stahl zu?
   - Materialien?

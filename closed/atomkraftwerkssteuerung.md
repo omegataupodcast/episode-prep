@@ -1,6 +1,9 @@
 http://ksg-gfs.de
 
 
+
+
+
 Überblick
 ---------------------------
 * Was macht die KSG-GFS?
@@ -9,6 +12,7 @@ http://ksg-gfs.de
 * "Nahezu 100 Ingenieure, Physiker und Techniker, davon die meisten mit universitärer 
   Qualifikation und sehr langer Zugehörigkeit zum Unternehmen, sorgen für die 
   professionelle Umsetzung aller Aufgaben"
+
   
 (Atom-)Kraftwerkssteuerung allgemein
 ------------------------------------
@@ -17,25 +21,7 @@ http://ksg-gfs.de
 * Gibt es einen zentralen Kontrollraum, in dem alles gesteuert wird?
 * Wie viele Menschen arbeiten dort?
 * Was ist wirklich KraftwerksSTEUERUNG, was ist Regelung?
-
-Ausbildung
----------------------
-* "Grundausbildung" Ablauf?
-  - Was sind denn die Voraussetzungen?
-* Woher kommen die Vorschriften? 
-  - Wer überwacht die KSG-GfS
-  - Geben Sie Feedback zurück an die?
-* Welche Aspekte sind Teil der Ausbildung?
-  - Grundlagenschulungen zu Kraftwerkstechnologien
-  - Theorieschulungen zu Kraftwerkstechnik, -systemen und -betrieb
-  - Praktische Trainings an Full-Scope-Simulatoren
-    Wird alles in Echtzeit simuliert, oder gibt es auch beschleunigte Simulationen?
-  - Thermohydraulikschulungen am weltweit einzigartigen Reaktor-Glasmodell
-* Wird auch Teamarbeit, Leadership, Entscheidungsfindung, Weitergabe von Informationen "nach außen" (z.B. Polizei oder Presse) trainiert?
-  Wie geht man vor?
-* Wie oft müssen Kraftwerksfahrer hier her zum Training?
-* Gibt's auch Training im "Heimatkraftwerk"?
-  Gibt es dort auch Simulatoren?
+* Unterschiede - SIede vs. Druck
 
 
 Steuerungsphilosophie
@@ -54,6 +40,8 @@ Steuerungsphilosophie
 * Die KKW sind ja relativ alt - (wie) wurde die Leittechnik erneuert?
 
 
+
+
 Notfälle und der Umgang damit?
 ----------------------------------
 * Einzelne durchsprechen
@@ -62,13 +50,86 @@ Notfälle und der Umgang damit?
 
 Simulatoren
 --------------------------------
+* Wer stellt die Simulatoren her? 
+
+* Woher kennt man Anforderungen? 
+  Das sind Einzelstücke?
+
+* Software
+
+Physik
+
+Regelung vs. State Machines?
+
+
+
+* Originalisntrumente?
+
+
+
 * "Die Simulatoren sind nahezu identische Abbilder ihrer Referenzkraftwerke 
    hinsichtlich des Kontrollraumes."
-* Woher kennt man Anforderungen? 
-* Wer stellt die Simulatoren her? 
-  Das sind Einzelstücke?
 * Was wird in HW/was in SW gemacht?
+
+
 * Wie findet eine Kalibrierung (ein Abgleich der Simulatoren mit ihren Referenzkraftwerken) statt? 
-  (Wird z.B. berücksichtigt, wie schwergängig ein Schalter ist oder wie die Beleuchtungs- oder Belüftungsverhältnisse im Kontrollraum sind??)
+  (Wird z.B. berücksichtigt, wie schwergängig ein Schalter ist oder wie die Beleuchtungs- 
+  oder Belüftungsverhältnisse im Kontrollraum sind??)
+
 * Was steckt an Software/IT dahinter?
 * (Wie) Spielt das Glasmodell mit den Simulatoren zusammen?
+
+* Funktionen für den Spielleiter
+
+
+
+Ausbildung
+---------------------
+* "Grundausbildung" Ablauf?
+  - Was sind denn die Voraussetzungen?
+  - Systemkomponenten -> Leitz Ordner
+  
+* Woher kommen die Vorschriften? 
+  - Wer überwacht die KSG-GfS
+  - Geben Sie Feedback zurück an die?
+  - Kompendium
+
+* Wie oft müssen Kraftwerksfahrer hier her zum Training?
+
+  
+* Welche Aspekte sind Teil der Ausbildung?
+  - Grundlagenschulungen zu Kraftwerkstechnologien
+  - Theorieschulungen zu Kraftwerkstechnik, -systemen und -betrieb
+  - Praktische Trainings an Full-Scope-Simulatoren
+    Wird alles in Echtzeit simuliert, oder gibt es auch beschleunigte Simulationen?
+  - Thermohydraulikschulungen am weltweit einzigartigen Reaktor-Glasmodell
+  
+* Erkenntnisse Rückfluss an die Hersteller => Empf an Technik
+
+  
+* Trainer kreativ? VOrgaben?
+  - Kombination
+
+Augenhöhe ...
+
+* Wird auch Teamarbeit, Leadership, Entscheidungsfindung, 
+  - Wie geht man vor?
+  - Fehlerkultur
+
+* CRM -> 
+
+  - Kommen hier als Team - dynamik vs "einschleichen"?
+
+Weitergabe von Informationen 
+  "nach außen" (z.B. Polizei oder Presse) trainiert?
+
+* Gibt's auch Training im "Heimatkraftwerk"?
+  Gibt es dort auch Simulatoren?
+
+* Abschalten vor dem Totalschaden?
+
+* Ist der Job an sich langweilig?
+
+
+Wo geht's hin.
+ENDE
