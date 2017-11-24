@@ -15,13 +15,22 @@ FVK in der Fliegerei
 * Warum FVK in der Fliegerei generell?
   - Wieviel Gewichtseinsparung vgl. mit Metall?
   - Andere Vorteile?
+* Warum insbesondere CFK?
+* Warum eher wenig Glasfaser?
+
+Verbund
+
+
+WErkstoff vs. Prozess vs. In der praxis
+
+* Historie: welche Flugzeugteile bei welchem Modell?
+
   - Bessere aerodynmische Güte weil keine Niete notwendig sind?
     ... oder wird trotzdem noch genietet?
     ... sind das die gleichen Niete wie bei Alu?
   - Anderes Design des Flügels wegen der flexibleren Formbarkeit?
-* Warum insbesondere CFK?
-* Warum eher wenig Glasfaser?
-* Historie: welche Flugzeugteile bei welchem Modell?
+
+
 
 Airbus in Stade
 -----------------------------
@@ -65,10 +74,12 @@ Fertigung A350
   - Noch isotrop oder mittlerweile ortho-/anisotrop?
   - schwarzer Metallbau: mittlerweile FKV gerechte Designs? 
     (Vermeidung überdimensionierung, Kosten)
-    - Bauteilzertifizierung (teuer, sehr langwierig)
+
+
+
+
     - gewillt umzusetzen? Trend eher ALU-Druckguss/MMV anstatt FKV
   - Zusammenspiel mit dem Engineering.
-  - Auslegungs/Rechen/CAD Tools die Faserrichtung berücksichtigen?
   - Berücksichtigung Lebensdauer/ Versuche Lastspiel etc?
 * Gibt es vorgefertigte Komponenten die mit eingebaut werden müssen?
   - Metalleinleger
@@ -89,10 +100,17 @@ Fertigung A350
 
 Qualitätssicherung
 ----------------------------------------
+Kohle
+
+- Bauteilzertifizierung (teuer, sehr langwierig)
+
+
+* Eingangskontrolle der Fasern? Dürfen ja nicht gerissen sein.
+
+
 * Wieviel Safety-Margin ist reingerechnet wegen Toleranzen in der Fertigung?
  - Lebensdauer
  - Failsafe/ Safe-Life oder Damage Tolerance findet Anwendung?
-* Eingangskontrolle der Fasern? Dürfen ja nicht gerissen sein.
 * Kann man eine "gebackene" Kohlestruktur QA'en? Nicht destruktiv?
 * Werden Bauteile zertifiziert oder das Halbzeug 
   (zwei Möglichkeiten Bauteile in der Luftfahrt einzusetzen)?

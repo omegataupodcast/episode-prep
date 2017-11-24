@@ -44,6 +44,20 @@ comparison to other languages you might know, such as English :-)
 * Morphology, the study of morphemes, or the internal structures 
   of words and how they can be modified
   - does this relate to cases, etc?
+  - confer additional meaning
+  
+case  
+
+did 
+
+gender vs. sex
+  
+lightly inflectional
+- time
+- case
+- plural
+  
+read the HoT?
 
 * Syntax, the study of how words combine to form grammatical 
   phrases and sentences
@@ -51,21 +65,48 @@ comparison to other languages you might know, such as English :-)
   - Chinese is an uninflected language and conveys meaning through word order, 
     adverbials or shared understanding of the context
 
-* Semantics, the study of the meaning of words (lexical semantics) and
-  fixed word combinations (phraseology), and how these combine to form the
-  meanings of sentences
- 
+  place before time
+
+esperanto systematic?
+
+smaller lang => complicated sentences that explain more
+
+Emoji => Emotion
+
 * Pragmatics, the study of how utterances are used in communicative
   acts, and the role played by context and non-linguistic knowledge in the
   transmission of meaning
   - what are "pragmatic" words?
+
+
+* Semantics, the study of the meaning of words (lexical semantics) and
+  fixed word combinations (phraseology), and how these combine to form the
+  meanings of sentences
+
+Semantics => additio
+Grammar  
+
+English Dict => self-defined
+growing a lang guy steele 
+programming lang
+ 
+ 
  
 * Discourse analysis, Stylistics, Semiotics (outside the scope here)
+
+* Are all languages formally (i.e., through an 
+  accepted written grammar) defined?
+
+introduce a new one
+whose 
+
+  01
 
 * Kinds of alphabets:
   - Western vs. Chinese
   - How big, how many symbols, typically?
-  
+
+* Created vs. Grown Langauge
 
 
 * Sounds 
@@ -83,17 +124,26 @@ comparison to other languages you might know, such as English :-)
     . some languages do not have (indefinite) articles.
   - ...
 
-* Are all languages formally (i.e., through an accepted written grammar) defined?
-
 * Is Dothraki part of a particular language family?
   - which families are there?
   - how are they roughly different?
 
-* Created vs. Grown Langauge
-
+Twitter 140
+example von china
 
 Developing Dothraki
 ------------------------------------
+* Is it somehow special for the time, context (100 words for snow ...)
+* Dialects vs. Accents
+
+* Why does GoT have this language? Why is is spoken (!) on the show?
+  - why is it important to be "complete, correct"?
+  
+  - subtitled?  
+* Next Projects. Next Languages.
+* BOOK!
+
+
 
 * Importance of context for the meaning of a word
 
@@ -103,9 +153,7 @@ Developing Dothraki
   - Dothraki examples?
   - Why have all this background?
   
-* Dialects vs. Accents
-* Why does GoT have this language? Why is is spoken (!) on the show?
-* Is it somehow special for the time, context (100 words for snow ...)
+
 
 
 
@@ -114,10 +162,6 @@ Wrap up
 * How can you be sure this language is realistic, practical?
   It is not really used, is it?
   
-* Next Projects. Next Languages.
-
-
-
 
 
 
