@@ -1,5 +1,13 @@
 Fluss/Staukraftwerke
 -------------------------------------------------------------
+* Unterschiede zu "Fall"-Kraftwerken?
+
+* Welche Charakteristika bestimmen die Auslegung?
+  - Fallhöhe, Geschwindigkeit?
+  - Volumen?
+  - Elektrische Leistung?
+  - Was sonst?
+* Was ist üblicherweise vorgegeben, was ist variabel?
 
 
 Generelle Challenges im Engineering von Wasserkraftwerken
@@ -26,6 +34,7 @@ Generelle Challenges im Engineering von Wasserkraftwerken
 * Was genau macht Voith? "Nur" Turbinen?
 * Was macht Generatoren effizient?
 
+
 Beispiele
 -------------------------------------------------------------
 * Montage Selingue in Mali Montage 1979-1981
@@ -42,6 +51,10 @@ Beispiele
   http://www.germancooperation-afghanistan.de/de/project/mit-wasserkraft-zuverl%C3%A4ssige-energie-f%C3%BCr-die-hauptstadt
 
 * Aktuelle Projekte
+  - Xiluodu: Größtes, 850MW. Herausforderungen? 
+  - Gilgel Gibe II: A 500 meter water drop for 350 km/h runner speed
+  - Dreischluchten-Damm
+  - Itaipu 
 
 Turbinenfertigung
 -------------------------------------------------------------
