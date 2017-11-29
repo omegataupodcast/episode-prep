@@ -34,6 +34,8 @@ Generelle Challenges im Engineering von Wasserkraftwerken
 * Was genau macht Voith? "Nur" Turbinen?
 * Was macht Generatoren effizient?
 
+* Auswuchten?
+
 
 Beispiele
 -------------------------------------------------------------
