@@ -31,6 +31,7 @@ Generelle Challenges im Engineering von Wasserkraftwerken
   - Protection
   - Excitation - Thyricon
   - Optimization
+* Schutz gegen Fremdkörper im Wasser - was halten die Turbinen aus; außerdem: Wassertiere?
 * Was genau macht Voith? "Nur" Turbinen?
 * Was macht Generatoren effizient?
 
