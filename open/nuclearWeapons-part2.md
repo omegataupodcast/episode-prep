@@ -20,6 +20,8 @@ Delivery Systems and Command Structure
   - SRBM - subs
   - Bombers: Bombs, Cruise Missiles
   - MIRVs
+
+* How are the weapons secured (i.e. the famous launch codes)? - Probably not that much public information on that...
   
 * Tactical NWs (like: Davy Crockett) seem to be a rather odd idea.
 
