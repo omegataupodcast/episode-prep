@@ -29,8 +29,12 @@ Generelle Challenges im Engineering von Wasserkraftwerken
   - Größe?
   - Leistung?
 * Welche steuerbaren Teile haben diese Turbinen?
+* Schutz gegen Fremdkörper im Wasser 
+  - was halten die Turbinen aus
+  - Wassertiere?
 * Separate Pumpturbinen vs. Integrierte: Trade-off?
 * Ventile (groß!) und andere Organe
+* Was macht Generatoren effizient?
 * Automation, Regelung
   - Turbinensteuerung - was muss gesteuert/geretelt werden?
   - Koordination mit dem Generator?
@@ -38,7 +42,6 @@ Generelle Challenges im Engineering von Wasserkraftwerken
   - Protection
   - Excitation - Thyricon
   - Optimization
-* Was macht Generatoren effizient?
 
 * Was genau macht Voith? "Nur" Turbinen?
   (Das ist dann auch die Überleitung zu den Beispielen)
