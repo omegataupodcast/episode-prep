@@ -48,6 +48,8 @@ Testing, Design and Maintenance
   - monitoring, test -> CTBT episode
 
 * Effects of atmospheric nuclear testing on the environment/climate.
+  - Remainings of testings still in the atmosphere ? (-> WW1/WW2 Shipwreks reused to have "clean" steel)
+  - Not just testing (and use) cause polution. Also environmental damages around research/production sites (Majak, Hanford...)
 
 * How many tests over history?  
 
