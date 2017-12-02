@@ -23,6 +23,8 @@ Hubschrauberfliegen
   - Hovern
   - Neigung des Heli vs. Neigung des Rotors
   - Typische Manöver
+  - Notfallverfahren/manöver ? (Ausser Autorotation)
+  - Lärmschutz, gibt es besondere Anflugverfahren ? 
 * Gefahren?
   - Autorotation als "Notlandungsansatz"
   - Überlastung?
