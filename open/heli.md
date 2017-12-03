@@ -8,7 +8,7 @@ Hubschrauberfliegen
   - Anzahl Blätter unterschiedlich, warum?
   - Twin Rotor statt Heckrotor
 * Dynamisch instabil, aktive Steuerung
-  - gibt's da heute automatische Regelungen?
+  - gibt's da heute Autopiloten?
 * Steuerorgane
   - Pitch
   - Cyclic
@@ -42,6 +42,10 @@ Die Ecureuil
   - Fracht/Personen
   - Logging
   - Leitungs/Pipelines, Vorseilzug
+* Gibt's Avionik-Unterstützung für 
+  - das präzise Hovern an einer Stelle/Höhe
+  - für das Abfliegen präziser Bahnen beim Kalken?
+  - etc?
 * Warum setzt ihr grade diesen Heli ein?
   - Grade für Außenlasten gäbe es ja stärkere ...
 
