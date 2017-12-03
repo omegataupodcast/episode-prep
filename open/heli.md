@@ -43,6 +43,7 @@ Die Ecureuil
   - Logging
   - Leitungs/Pipelines, Vorseilzug
 * Warum setzt ihr grade diesen Heli ein?
+  - Grade für Außenlasten gäbe es ja stärkere ...
 
 Praxis
 -----------------------------------------------
