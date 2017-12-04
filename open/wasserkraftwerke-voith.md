@@ -12,6 +12,7 @@ Fluss/Staukraftwerke
   - Fallhöhe, Geschwindigkeit?
   - Volumen?
   - Elektrische Leistung?
+  - Lage und damit Transport zur Baustelle?
   - Was sonst?
 
 * Was ist üblicherweise vorgegeben, was ist variabel?
@@ -28,7 +29,9 @@ Generelle Challenges im Engineering von Wasserkraftwerken
   - Form?
   - Größe?
   - Leistung?
+  - Anforderungen an den Berg, Bergbau oder Gesteinsbeschaffenheit?
 * Welche steuerbaren Teile haben diese Turbinen?
+* Aufbau/Queerschnitt des Fallrohres/Schachtes. Anforderungen?
 * Schutz gegen Fremdkörper im Wasser 
   - was halten die Turbinen aus
   - Wassertiere?
@@ -39,7 +42,7 @@ Generelle Challenges im Engineering von Wasserkraftwerken
   - Turbinensteuerung - was muss gesteuert/geretelt werden?
   - Koordination mit dem Generator?
   - Diagnose
-  - Protection
+  - Protection/Notabschaltung
   - Excitation - Thyricon
   - Optimization
 
@@ -52,6 +55,7 @@ Beispiele
   - die Art des KW, Leistung
   - die Lage des KW
   - Was hat Voith gemacht?
+  - Typische Projectlaufzeiten - von Konzeptionierung, Behördenengineering & Planug, Bau
   - spezifische Herausforderungen/Lösungsansätze
   - Anekdoten :-)
 
@@ -75,8 +79,9 @@ Turbinenfertigung / Großturbinenhalle
 -------------------------------------------------------------
 * Arbeitsschritte
 * Gießen - woher kommt das Rohmaterial?
-* Auswuchten?
-* ... ansonsten lass ich mich zu Fragen inspirieren auf Basis
-  dessen was ich dort dann sehe.
+* Auswuchten? - mittels Maschinen oder 'erfahrenen alten Hasen'
+* Knowledgetransfer von fertigungspezifischem Wissen
+* ... ansonsten lass ich mich zu Fragen inspirieren auf Basis dessen was ich dort dann sehe.
+
 
 
