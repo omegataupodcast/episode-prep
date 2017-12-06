@@ -1,6 +1,6 @@
 @MschFr
 
-* Über das KW
+* Über das KW (Name?)
   - Art: Kohle
   - Dampfkraftwerk. Erklären.
   - Blöcke
@@ -17,7 +17,9 @@
 
 * Kohlezufuhr und -management
   - Wie viel jeden Tag
+  - Einkauf (wie viel wird wie gekauft (spot, langfristige Verträge) und wie lange ist die Verzögerung bis die Kohle geliefert wird)
   - Woher kommt die Kohle?
+  - Schwefelgehalt und dessen Einfluss
   - Wie sehr macht sich der Brennwert der Kohle nach Lieferland bemerkbar?
   - Energiebilanz gesamt?
   - Anlieferung
@@ -27,8 +29,10 @@
     . Warum hier und nicht beim Produzent?
 
 * Kesselhaus
+  - Baujahr und Hersteller
   - Brennkammer
     . Größe, Materialien
+    . Aufbau des Kessels. Wieiel Züge
     . In welcher Form wird Kohle verbrannt und eingbracht?
   - Block 9 ist ja relativ neu; wie unterscheidet sich dieser Kessel von älteren?
   - Wasser/Dampfkreislauf
@@ -40,14 +44,20 @@
   - Diverse Vorwärmer: Wasser, Luft, Dampf
   - Wie funktionieren die Wärmetauscher im Brennraum eigentlich genau?
   - Wie viel Kohle wird da pro Stunde/Tag/was auch immer verbrannt?
+  - Wartungsarbeiten wärend Stillstand, was geht Kaputt, was muss repariert werden
+    . Welche Art QA/QC wird gemacht. prozentsatz UT/RT.
 
 * Maschinenhaus
   - Dampfturbinen
+    . Baujahr und Hersteller
     . Größe, Druck, Drehzahl
+    . Verschleißteile?
     . Wo sind die Dampf-Regelventile die Transnet steuern will?
   - Generatoren
+    . Baujahr und Hersteller
     . Funktionsweise
     . Regelung
+    . Lagerung des Rotors
   - Wasserpumpen
   - Überkritisches Wasser statt Dampf: 
     . Vorteile?
@@ -55,6 +65,7 @@
     . Stand der Technik?
   - Wirkungsgrad Stromerzeugung
     . Was bestimmt den Wirkungsgrad? 
+    . Höhe Eigenverbrauch
     . Warum unterschiedlich je nach Block? 
   - Was ist eine Dampfsammelschiene
     - warum will man das haben?
