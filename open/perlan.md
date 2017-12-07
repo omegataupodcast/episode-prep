@@ -54,9 +54,13 @@ Missions
 * Wave forcast
   - what goes into the models?
   - who prepares them?
+  - wave model for 100'000ft (are these conventional waves)?
+  - standard models capable of predictions in 100'000ft?
 * Wind speeds on the ground and aloft?
   - Generally, what's the weather like on good days?
 * Flight/Mission Planning
+  - How about airspaces?
+  - Any other traffic at FL1000?
 * Cooperation with ground support
   - Radio?
   - Telemetry?
@@ -108,5 +112,6 @@ Eric Neubronner
 Melvin Sell 
 Gerhard Wesp 
 Rick Sheppe
+Matthias Lüthi
 
 
