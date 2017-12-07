@@ -82,6 +82,6 @@ Turbinenfertigung / Großturbinenhalle
 * Auswuchten? - mittels Maschinen oder 'erfahrenen alten Hasen'
 * Knowledgetransfer von fertigungspezifischem Wissen
 * ... ansonsten lass ich mich zu Fragen inspirieren auf Basis dessen was ich dort dann sehe.
-
+* Was unterscheidet Wasser-Turbinen von Dampf-Turbinen, wie sie in allen anderen Großkraftwerken der Welt zu finden sind?
 
 
