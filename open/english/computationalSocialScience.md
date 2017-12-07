@@ -20,6 +20,7 @@ https://www.gesis.org/forschung/angewandte-informatik/computational-social-scien
 https://www.uni-bamberg.de/ma-politik/schwerpunkte/computational-social-sciences/
 https://www.hfp.tum.de/professuren/professur-fuer-computational-social-science-and-big-data/
 https://www.hfp.tum.de/professuren/professur-fuer-policy-analysis/
+https://www.esciencecenter.nl/projects/humanities_and_social_sciences
 
 Konferenzen
 -------------------
