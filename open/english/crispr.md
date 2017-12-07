@@ -11,6 +11,7 @@ Introduction
      snippets of DNA from viruses that have attacked the bacterium"
   - What was the breakthrough?
   - Why is it important?
+  - Why do some people talk about CRISPR/CAS-9 and others CRISPR? Is there a difference?
   
 
 Definitions of some terms
@@ -25,6 +26,7 @@ discussion to work. I think the following should suffice:
 * RNA
 * Enzymes
 * Nuclease
+* Palindrome? Repeat? 
 
 
 What is Genome Editing
