@@ -7,6 +7,7 @@ Hubschrauberfliegen
   - Starrer vs. beweglicher Rotor
   - Anzahl Blätter unterschiedlich, warum?
   - Twin Rotor statt Heckrotor
+  - Rotationsgeschwindigkeit begrenzt durch Schallgeschwindigkeit - Warum?
 * Dynamisch instabil, aktive Steuerung
   - gibt's da heute Autopiloten?
 * Steuerorgane

@@ -46,7 +46,10 @@ Applications
   - Challenges?
     . avoid quenching, how?
     . how do you cool it?
+    . How much energy/Helium is needed for cooling and does this limit further application?
   - Manufacturing
+    . What limits the design of magnets (not the material but shapes etc.)? Physical or manufacturing?
+    . How does one make sure to cool everything? Just place some wires into a bath of liquid Helium or sophisticated cooling techniques?
   - use in ITER?
 
 * Superconducting Cables:
