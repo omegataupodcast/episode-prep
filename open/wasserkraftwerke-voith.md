@@ -35,12 +35,14 @@ Generelle Challenges im Engineering von Wasserkraftwerken
 * Schutz gegen Fremdkörper im Wasser 
   - was halten die Turbinen aus
   - Wassertiere?
-* Separate Pumpturbinen vs. Integrierte: Trade-off?
+* Besonderheiten bei Pumpspeicherkraftwerken?
+* Separate Pumpturbinen vs. Integrierte: Trade-off? 
 * Ventile (groß!) und andere Organe
 * Was macht Generatoren effizient?
 * Automation, Regelung
   - Turbinensteuerung - was muss gesteuert/geretelt werden?
-  - Koordination mit dem Generator?
+  - Ansprechzeiten (Sekunden?)
+  - Koordination mit dem Generator? Rolle als schnelle Reserve im Stromnetz
   - Diagnose
   - Protection/Notabschaltung
   - Excitation - Thyricon
@@ -48,6 +50,11 @@ Generelle Challenges im Engineering von Wasserkraftwerken
 
 * Was genau macht Voith? "Nur" Turbinen?
   (Das ist dann auch die Überleitung zu den Beispielen)
+  
+Ökonomie von Pumpspeicherkraftwerken (PSK)
+------------------------------------------
+
+* Berichte in letzter Zeit zeigen an, dass Photovoltanik den PSK den lukrativen "Mittagsmarkt" abgegraben haben. Daher verdienen die Betreiber eher schlecht. Daher werden existierende PSK eher auf "Verschleiß gefahren". Anderes Nutzungsszenario als "Glätter" in einem regenerativen dezentralen Großkraftwerk denkbar? Damit wieder höherer ökonomischer Anreiz?
 
 Beispiele
 -------------------------------------------------------------
