@@ -44,8 +44,10 @@
   - Diverse Vorwärmer: Wasser, Luft, Dampf
   - Wie funktionieren die Wärmetauscher im Brennraum eigentlich genau?
   - Wie viel Kohle wird da pro Stunde/Tag/was auch immer verbrannt?
-  - Wartungsarbeiten wärend Stillstand, was geht Kaputt, was muss repariert werden
+     - Zumischung von andere Brennstoffe? Abfälle? Holzpellets?
+  - Wartungsarbeiten wärend Stillstand, was geht Kaputt, was muss repariert werden
     . Welche Art QA/QC wird gemacht. prozentsatz UT/RT.
+  - Luft oder Sauerstoff? (Effekte für CO2-Speicher)
 
 * Maschinenhaus
   - Dampfturbinen
@@ -89,7 +91,7 @@
 * Stromnetzanbindung
   - Anbindung an 2 Netze
   - Umspannwerke
-  - Eigenbedarf, Hochfahren 
+  - Eigenbedarf, Hochfahren, Reactionszeit 
   - Besonderheiten Bahnstrom
     Separate Spannung kann man transformieren (?),
     aber für andere Frequenz braucht man nen sep. Generator?
@@ -145,9 +147,9 @@
   - was wird getan?
 
 * Diverses
-  - Unterschied Steinkohle vs. Braunkohle. Alle Steinkohle gleich?
+  - Unterschied Steinkohle vs. Braunkohle. Alle Steinkohle gleich? Schwefel?
   - Was ist ein "überkritisches" KW? Was hat sich über die Jahre weiterentwickelt?
-  - Radioaktivität im Umfeld von KOhlekraftwerken?
+  - Radioaktivität im Umfeld von KOhlekraftwerken? Wieviel? Woher? Abgase?
   - Wo kann man besichtigen, was lohnt sich?
   - Rückbau von KohleKW, da mittelfristig Auslaufmodell (?)
     Stichwort Renaturierung oder Konversionsflächen.
