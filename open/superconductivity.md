@@ -36,6 +36,8 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
 
 Applications
 ---------------------------------------------------
+For all of the applications: discuss their use in ITER and accelerators.
+
 * Why is superconductors relevant?
   - wouldn't *very low* resistance be good enough?
 
@@ -60,14 +62,18 @@ Applications
   - plus a coolant - how is it integrated?
 
 
-Superconducting Magnets:
-* https://en.wikipedia.org/wiki/Superconducting_magnet
-* http://www.fusionforenergy.europa.eu/mediacorner/newsview.aspx?content=995
-* http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/components/magnets.htm
-
-Superconducting RF cavities:
-* https://en.wikipedia.org/wiki/Superconducting_radio_frequency
+* Superconducting Magnets:
+    https://en.wikipedia.org/wiki/Superconducting_magnet
+    http://www.fusionforenergy.europa.eu/mediacorner/newsview.aspx?content=995
+    http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/components/magnets.htm
+  - these are "just" wound up wires - what is the challenge?
+  - Goal is to create strong magnetic field. What limits that?  
+    - Heat?
+    - Liquid cooling vs. mechanical cooling.
+  - Quenching - the "accident" at LHC
+    
+* Superconducting RF cavities:
+    https://en.wikipedia.org/wiki/Superconducting_radio_frequency
+  - what are RF cavities?
+  - these are not just wound up wires, how do they work?
  
-The classical text books in the field are:
-* https://global.oup.com/academic/product/superconducting-magnets-9780198548102?cc=fr&lang=en&
-* http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527408428.html
