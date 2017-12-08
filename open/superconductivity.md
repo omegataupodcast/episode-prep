@@ -60,6 +60,9 @@ For all of the applications: discuss their use in ITER and accelerators.
        - material properties, brittleness
     . How does one make sure to cool everything? Just place some wires into a bath of liquid Helium or sophisticated cooling techniques?
   - use in ITER?
+  - How do you to electrically connect superconducting cold parts with normal 
+    temperature conductors. This gets specially interesting with superconductors 
+    cooled by liquid helium and high currents in Kiloampere range.
 
 * Superconducting Cables:
     https://en.wikipedia.org/wiki/Rutherford_cable
