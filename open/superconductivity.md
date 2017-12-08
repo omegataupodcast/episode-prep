@@ -91,6 +91,10 @@ For all of the applications: discuss their use in ITER and accelerators.
     - Liquid cooling vs. mechanical cooling.
     - Effect of the generated magnetic field on the superconductivity
   - Quenching - the "accident" at LHC
+  - How are supercon magnets protected from heating due to neutrons produced 
+    by fusion reactions? Do they all just have very low scattering cross section 
+    with the liquid helium coolant and supercon magnet?
+
   
 * Magnetic levitation:
   - Superconductor and a conventional magnet
