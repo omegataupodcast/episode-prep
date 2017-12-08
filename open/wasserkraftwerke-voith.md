@@ -51,11 +51,13 @@ Generelle Challenges im Engineering von Wasserkraftwerken
 * Was genau macht Voith? "Nur" Turbinen?
   (Das ist dann auch die Überleitung zu den Beispielen)
   
-Umwelt-Effekte?
+  
+Umwelt-Effekte
 ---------------
 * Änderungen in Natur? Fluss? Seasonal changes in water flow? Displacements by a lake? Evaporation?
 * Fische? Fish ladders?
 * Katastrofen-Risiken? Terror?
+
 
 Ökonomie von Pumpspeicherkraftwerken (PSK)
 ------------------------------------------
