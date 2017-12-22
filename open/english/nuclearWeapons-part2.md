@@ -20,8 +20,15 @@ Delivery Systems and Command Structure
   - SRBM - subs
   - Bombers: Bombs, Cruise Missiles
   - MIRVs
+  
+* Delivery mechanisms for moving targets
+  - ABMs (A-135, Safeguard (LIM-49 Spartan, Sprint))
+  - Air-to-Air missiles (AIR-2 Genie, AIM-26 Falcon)
 
 * How are the weapons secured (i.e. the famous launch codes)? - Probably not that much public information on that...
+  - Stronglinks and weaklinks, Parameter recognition, Two-man rule
+  - Sharing of information on the safeguards with the Soviet Union
+  - Alleged launch code 'OOOOOOOO' https://web.archive.org/web/20120511191600/http://www.cdi.org/blair/permissive-action-links.cfm
   
 * Tactical NWs (like: Davy Crockett) seem to be a rather odd idea.
 
@@ -37,7 +44,7 @@ Delivery Systems and Command Structure
 
 * What is the command structure, for example, in the US
 
-
+* How does the command structure work for delivering US B61s on German Tornados (JaBoG 33), or in other cases of NATO's nuclear sharing policy?
 
 
 Testing, Design and Maintenance
