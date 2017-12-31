@@ -8,14 +8,32 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
 
 
 * What is normal conductivity?
-  - zero resistance
-  - but still magnetic field ("expelled")
+  - zero resistance (not just very low)
+  - "jump" in conductivity
+    . not a continuous reduction.
+    . at T = TCrit
 * What is superconductivity physically?
   - quantum mech phenomenon
+  - Cooper Pairs
+  - often R or I is connected to H, what happens to magnetic field?
+    - magnetic field ("expelled")
   - Meissner Effect
+  - Ginzburg Landau parameter?
+  - What is quenching? When/why does it happen?
 * Why only at low temperatures?
 * Which materials? 
-  - what do they have in common? Alloys?
+  (for each of them discuss their properties/trade-offs, roughly)
+  (this is an overview, we can discuss their use in cables, magnets
+  and cavitities when we discuss these applications/componets below)
+  - LTS
+    . Nb - soft type II
+    . NbTi – hard type II
+    . Nb3Sn – hard type II
+   - HTS
+     . Discovery and crystal structure - different mechanism?
+     . Superconducting properties – grain boundaries/anisotropy
+     . BiSCCO and MgB2 – wires
+     . tapes and cable designs
 * Different kinds:
   - reponse to magnetic field (and maximum current density)
   - T-crit
@@ -23,46 +41,61 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
   - material
 * How do we find out about it?
   - history... first discovery?
+    Kammerling Onnes 1905 – resistivity of Pb / liquefaction of He and Dewars
   - theoretical models?
   - experiments?
   - serendipidy?
-* Resistance is actually zero, not just close to it.
-  - drops to zero below T-crit
-    - Suddenly? What happens at T-crit? Relation T to limiting magnetic field?
-  - Can we get to good enough materials in practice to actually achieve this?
+* What are the characteristics we want to get for new SCs
+  - higher TCrit (makes cooling easier)
+    what are useful "thresholds"?
+  - what else?
 * Ceramic High Temp superconductors
   - YBCO (with some missing oxygen atoms in the lattice!)
     - Oxides are usually insulators at RT, in contrast to the "classical" superconductors?
   - Perovskites are also hot in Photovoltaics. Any connection there?
-* Higher Temps are better because cooling becomes easier;
-  what are useful "thresholds"?
-  - Relevance of Tc > 77 K, price of cooling.
-* What is quenching? When/why does it happen?
-* Actual speed of the electrons? Speed of the signal? Is it faster than in a normal conductor?
 
 Applications
 ---------------------------------------------------
-For all of the applications: discuss their use in ITER and accelerators.
-
 * Why is superconductors relevant?
   - wouldn't *very low* resistance be good enough?
+
+* Overview End User Applications
+  - Early applications – magnets for MRI, maglev
+  - High field magnets for science research – accelerators, fusion
+  - Grid components – transmission lines, FCLs
+  - Superconducting electronics, sensors
+
+Components:
+---------------------------------------------------
+For all of the applications: discuss their use in ITER and accelerators.
+We can/should spend most of our time on the use in magnets, the other
+applications we can keep shorter.
+
 
 * Superconducting wires
     https://en.wikipedia.org/wiki/Superconducting_wire
     http://lss.fnal.gov/archive/2012/conf/fermilab-conf-12-571-td.pdf
   - why? thinner, less heat, ultimately better efficiency ratio
   - Challenges?
-    . avoid quenching, how?
     . how do you cool it?
+    . avoid quenching, how?
     . How much energy/Helium is needed for cooling and does this limit further application?
+    . How do you control the required amount of helium? 
+      What does it depend on?
   - Manufacturing
-    . What limits the design of magnets (not the material but shapes etc.)? Physical or manufacturing? 
-       - material properties, brittleness
-    . How does one make sure to cool everything? Just place some wires into a bath of liquid Helium or sophisticated cooling techniques?
+    . What limits the design of magnets (not the material but shapes etc.)? 
+      Physical or manufacturing? 
+      material properties, brittleness
+    . How does one make sure to cool everything? 
+      Just place some wires into a bath of liquid Helium 
+      or sophisticated cooling techniques?
   - use in ITER?
   - How do you to electrically connect superconducting cold parts with normal 
     temperature conductors. This gets specially interesting with superconductors 
     cooled by liquid helium and high currents in Kiloampere range.
+  - The SC is basically a "short circuit" - 
+    how do you design a "power supply" for that?
+  
 
 * Superconducting Cables:
     https://en.wikipedia.org/wiki/Rutherford_cable
@@ -70,6 +103,7 @@ For all of the applications: discuss their use in ITER and accelerators.
   - sounds like "thicker wires". Difference? 
     multiple wires in one bigger cable
   - plus a coolant - how is it integrated?
+    . coolant => free space => movement => heat. How do you solve that?
   - Parameters determining whether a superconducting cable is more economic than suffering the electric losses?
      - AC vs DC?
 
@@ -79,6 +113,11 @@ For all of the applications: discuss their use in ITER and accelerators.
    
 * SQUIDs:
     https://en.wikipedia.org/wiki/SQUID
+    
+* Superconducting RF cavities:
+    https://en.wikipedia.org/wiki/Superconducting_radio_frequency
+  - what are RF cavities?
+  - these are not just wound up wires, how do they work?
     
 * Superconducting Magnets:
     https://en.wikipedia.org/wiki/Superconducting_magnet
@@ -90,18 +129,22 @@ For all of the applications: discuss their use in ITER and accelerators.
     - Heat?
     - Liquid cooling vs. mechanical cooling.
     - Effect of the generated magnetic field on the superconductivity
-  - Quenching - the "accident" at LHC
+  - Quenching 
+    . the "accident" at LHC
+    . how do you design against it?
+    . monitoring, detection .. and then?
   - How are supercon magnets protected from heating due to neutrons produced 
     by fusion reactions? Do they all just have very low scattering cross section 
     with the liquid helium coolant and supercon magnet?
-
+  - Other design issues
+    . Mechanical
+    . Brittleness
+    . AC loss – hysteresis and coupling losses in pulsed, fast ramped magnets
+    . Explanation of CISCCs, strands, void fraction, fatigue performance
+    . QA for the magnets, different production locations, learning curve
+  - Repeat the basics of a Tokamak; and how are these SC magnets used here?
+    . Copper coils, field lines, maximum current due to resistance and heat
+    . How do magnets confine the plasma, ionization, plasma pressure, beta, Lawson criterion, plasma instabilities
+    . The end of conventional magnets for fusion
   
-* Magnetic levitation:
-  - Superconductor and a conventional magnet
-  
-* Superconducting RF cavities:
-    https://en.wikipedia.org/wiki/Superconducting_radio_frequency
-  - what are RF cavities?
-  - these are not just wound up wires, how do they work?
  
- * Storing energy in superconducting rings
