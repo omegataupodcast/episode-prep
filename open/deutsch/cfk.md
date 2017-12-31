@@ -65,20 +65,24 @@ qualifizierbar luftfahrt
 Fertigungsverfahren, heute und morgen - CTC
 ---------------------------------------------------------
 
-Injektion
+* Injektion
 
-trockenfaser
+* Trockenfaser
   
 * Funktionsintegration
   - Piezokeramiken (bspw. aktive verstellbare Flügel)
   - Schadenserkennung (Strom durch C-Faser)
   - Heath Monitoring (zum Beispiel durch Integration von Glasfasern mit Bragg-Gittern)
 
-produktionsplanung, prozesse
-faserwinkelabweichung
+* Zerstörungsfreies erkennen von Schäden im Material, wie z.B. Delamination, die von außen nicht (einfach) erkennbar sind. (Abgesehen von Funktionsintegration s.o., d.h. in Fällen ohne integrierte Schadenserkennung)
 
-qa
+* Produktionsplanung, Prozesse
+* Faserwinkelabweichung
 
+* Quality assurance
+* Testen von Materialeigenschaften
 
-Testen von Materialeigenschaften
-
+* Wie konstruiert man Verbindungen zu Bauteilen aus anderen Materialien, wie z.B. Aluminium/Stahl/Kunststoffen, mit signifikant anderen Eigenschaften und Konstruktionsgrundsätzen? 
+  - Beispielsweise andere Wärmeausdehnungseigenschaften, geringere Steigikeit und isotropes Verhalten eines Stahlbauteils gegenüber dem sehr richtungsabhängigen Verhalten von Faserbauteilen. 
+  - Bohren von Löchern für einfache Schraubverbindungen schwächt ein CFK-Bauteil enorm.
+  - -> Kleben, Legen von Ösen aus den Prepregs, Verstärkung der Bauteile an Verindungsstellen ...? Was ist zu beachten?
