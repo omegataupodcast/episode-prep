@@ -8,7 +8,7 @@
     . Historie
     . Noch aktiv?
   - Blöcke sind eigentlich fast sep. Kraftwerke,
-    außer Kohleinfrastruktur und Netzanbindung
+    außer Kohleinfrastruktur und Netzanbindung (mögliches Gegenbeispiel (?): Kraftwerk Shamrock als „Sammelschienenanlage“, siehe: http://wiki.huen-un-perduen.de/index.php?title=Kraftwerk_Shamrock )
   - Leistung
     . Strom vs. Wärme
     . Einordnung
@@ -17,13 +17,15 @@
 
 * Kohlezufuhr und -management
   - Wie viel jeden Tag
-  - Einkauf (wie viel wird wie gekauft (spot, langfristige Verträge) und wie lange ist die Verzögerung bis die Kohle geliefert wird)
+  - Einkauf (wie viel wird wie gekauft (spot, langfristige Verträge) und wie lange ist die Verzögerung bis die Kohle geliefert wird), für wie viele Tage wird Kohle bevorratet?
   - Woher kommt die Kohle?
   - Schwefelgehalt und dessen Einfluss
   - Wie sehr macht sich der Brennwert der Kohle nach Lieferland bemerkbar?
+  - In wie weit werden Kraftwerke an bestimmte Kohlearten bzw. Kohle aus bestimmten Revieren optimiert? (Gemeint ist nicht die Unterscheidung zwischen Stein- und Braunkohle.)
   - Energiebilanz gesamt?
   - Anlieferung
   - Logistische Herausforderungen, Lagerung? Abwasser vom Lager?
+  - Besteht eine erhöhte Brandgefahr, wenn die Kohle zu lange gelagert wird? Muss sie ggf. umgelagert oder durchmischt werden?
   - Mühlen und andere Aufbereitung
     . Energiebilanz?
     . Warum hier und nicht beim Produzent?
@@ -48,6 +50,7 @@
   - Wartungsarbeiten wärend Stillstand, was geht Kaputt, was muss repariert werden
     . Welche Art QA/QC wird gemacht. prozentsatz UT/RT.
   - Luft oder Sauerstoff? (Effekte für CO2-Speicher)
+  - Welche Arten von Feuerung gibt es? (Wirbelschichtfeuerung, Staubfeuerung, Schmelzkammerfeuerung, Rostfeuerung, ...) Wie funktionieren diese und was sind die Vor- und Nachteile?
 
 * Maschinenhaus
   - Dampfturbinen
@@ -90,6 +93,7 @@
 
 * Stromnetzanbindung
   - Anbindung an 2 Netze
+  - Muss der Kraftwerksbetreiber Netzendgelte o. ä. für den produzierten Strom bezahlen?
   - Umspannwerke
   - Eigenbedarf, Hochfahren, Reactionszeit 
   - Besonderheiten Bahnstrom
@@ -138,6 +142,7 @@
   - Schritte
   - Was ist der limitierende Faktor hier?
   - Manuelle Tätigkeiten
+  - Welche Zeitabstände sind ggf. beim Wiederanfahren zu beachten? Wie unterscheidet sich dies zwischen neuen und alten Kraftwerken?
 
 
 * Revisionen und Wartung?
@@ -147,13 +152,15 @@
   - was wird getan?
 
 * Diverses
-  - Unterschied Steinkohle vs. Braunkohle. Alle Steinkohle gleich? Schwefel?
+  - Unterschied Steinkohle vs. Braunkohle. Alle Steinkohle gleich? Schwefel? Was wäre wenn man Steinkohle in einem Braunkohlekraftwerk verbrennen würde bzw. anders herum?
   - Was ist ein "überkritisches" KW? Was hat sich über die Jahre weiterentwickelt?
-  - Radioaktivität im Umfeld von KOhlekraftwerken? Wieviel? Woher? Abgase?
+  - Radioaktivität im Umfeld von Kohlekraftwerken? Wieviel? Woher? Abgase?
   - Wo kann man besichtigen, was lohnt sich?
   - Rückbau von KohleKW, da mittelfristig Auslaufmodell (?)
     Stichwort Renaturierung oder Konversionsflächen.
   - Carbon Capture/Storage. Stand?
+  - Ist das betrachtete Kraftwerk schwarzstartfähig? Falls ja: Wie funktioniert dies bei diesem Kraftwerk?
+  - Wie viele Personen arbeiten ständig (also auch nachts) im Kraftwerk, wie viele zu „Büroarbeitszeiten“? Wie viel der Arbeit sind Wartungs- und Instandhaltungsarbeiten? Welche Arbeiten gibt es noch?
 
 
 
@@ -191,7 +198,7 @@ Carbon capture and sequestration. Wie geht das wirklich.
 
 Effizienz Nummern im Vergleich zu bekannten Systemen.
 
-Supply chain. Zug, Mengen, Reserven.
+Supply chain. Zug, Mengen, Reserven. Wie viele Züge/Schiffe pro Tag?
 
 Wie wird die Kohle klein gemacht?
 
