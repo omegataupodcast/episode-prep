@@ -48,6 +48,7 @@ Die Ecureuil
   - Logging
   - Leitungs/Pipelines, Vorseilzug
   - Luft- und Filmaufnahmen?
+  - Sturmschäden? Friederike?
 * Gibt's Avionik-Unterstützung für 
   - das präzise Hovern an einer Stelle/Höhe
   - für das Abfliegen präziser Bahnen beim Kalken?
