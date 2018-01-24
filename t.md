@@ -4,6 +4,7 @@ Rascal is based on functional programming, leveraging immutable tree structures 
 
 Markus Voelter: **Convecton, a web-based language workbench - architectural decisions**
 
+Concecton is a language workbench we are currently building at itemis. It will run in the browser/cloud, and focus on domain experts as opposed to programmers. In this talk, I will illustrate how the requirements to be suitable for end users drove product design and software architecture. I will also introduce some aspects of our meta languages.
 
 Eelco Visser: **Automating the Verification of Language Definitions**
 
