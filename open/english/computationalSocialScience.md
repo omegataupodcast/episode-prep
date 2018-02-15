@@ -1,7 +1,7 @@
 Wikipedia
 -------------------
-https://en.wikipedia.org/wiki/Computational_social_science
-
+https://en.wikipedia.org/wiki/Computational_social_science           
+https://en.wikipedia.org/wiki/Digital_humanities
 
 Papers
 -------------------
@@ -11,7 +11,8 @@ and Economic Development
 ](http://computationalsocialscience.org/wp-content/uploads/2015/10/CSSSA_2015_submission_3.pdf) by Zining Yang         
 [Political Economy Lecture Notes
 ](https://economics.mit.edu/files/8753) by Daron Acemoglu         
-
+[Computational History and Data-Driven Humanities
+](https://www.springer.com/us/book/9783319462233)
 
 
 ANalyse von Daten         
@@ -34,3 +35,22 @@ http://summerschool.computationalsocialscience.eu/
 http://symposium.computationalsocialscience.eu/         
 
 
+Questions
+---------------------
+
+* Availability bias/'Missing Not at Random' problem, especially in cliodynamics
+    - Incomplete historical/social data leading to false conclusions
+    - Systematic ways to recognize it? 
+    - Mathematical/computing techniques to minimize or correct for it? 
+    
+* Current practical uses? Are there any companies or institutes using computational social science research to improve their products/services?
+    - Google and Facebook? http://firstmonday.org/ojs/index.php/fm/article/view/3993/3269
+    - Stock market investors? 
+        + NewsReader, Event Detection, etc.
+        
+    
+    
+
+
+    
+    
