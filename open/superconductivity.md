@@ -1,3 +1,4 @@
+
 Superconductivity
 ------------------------------------------------
 
@@ -10,13 +11,13 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
 * What is normal conductivity?
   - zero resistance (not just very low)
   - "jump" in conductivity
-    . not a continuous reduction.
-    . at T = TCrit
+    + not a continuous reduction.
+    + at T = TCrit
 * What is superconductivity physically?
   - quantum mech phenomenon
   - Cooper Pairs
   - often R or I is connected to H, what happens to magnetic field?
-    - magnetic field ("expelled")
+    + magnetic field ("expelled")
   - Meissner Effect
   - Ginzburg Landau parameter?
   - What is quenching? When/why does it happen?
@@ -26,14 +27,16 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
   (this is an overview, we can discuss their use in cables, magnets
   and cavitities when we discuss these applications/componets below)
   - LTS
-    . Nb - soft type II
-    . NbTi – hard type II
-    . Nb3Sn – hard type II
+    + Nb - soft type II
+    + NbTi – hard type II
+    + Nb3Sn – hard type II
    - HTS
-     . Discovery and crystal structure - different mechanism?
-     . Superconducting properties – grain boundaries/anisotropy
-     . BiSCCO and MgB2 – wires
-     . tapes and cable designs
+     + Discovery and crystal structure - different mechanism?
+     + Superconducting properties – grain boundaries/anisotropy
+     + BiSCCO and MgB2 – wires
+     + tapes and cable designs
+   - Are there constraints on what materials can possibly be superconductors? Theoretical limits that say materials with certain properties can never be a superconductor? 
+   - Conversely, do we know anything about what makes a material more likely to be a high temperature superconductor? 
 * Different kinds:
   - reponse to magnetic field (and maximum current density)
   - T-crit
@@ -51,7 +54,7 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
   - what else?
 * Ceramic High Temp superconductors
   - YBCO (with some missing oxygen atoms in the lattice!)
-    - Oxides are usually insulators at RT, in contrast to the "classical" superconductors?
+    + Oxides are usually insulators at RT, in contrast to the "classical" superconductors?
   - Perovskites are also hot in Photovoltaics. Any connection there?
 
 Applications
@@ -77,16 +80,16 @@ applications we can keep shorter.
     http://lss.fnal.gov/archive/2012/conf/fermilab-conf-12-571-td.pdf
   - why? thinner, less heat, ultimately better efficiency ratio
   - Challenges?
-    . how do you cool it?
-    . avoid quenching, how?
-    . How much energy/Helium is needed for cooling and does this limit further application?
-    . How do you control the required amount of helium? 
+    + how do you cool it?
+    + avoid quenching, how?
+    + How much energy/Helium is needed for cooling and does this limit further application?
+    + How do you control the required amount of helium? 
       What does it depend on?
   - Manufacturing
-    . What limits the design of magnets (not the material but shapes etc.)? 
+    + What limits the design of magnets (not the material but shapes etc.)? 
       Physical or manufacturing? 
       material properties, brittleness
-    . How does one make sure to cool everything? 
+    + How does one make sure to cool everything? 
       Just place some wires into a bath of liquid Helium 
       or sophisticated cooling techniques?
   - use in ITER?
@@ -103,7 +106,7 @@ applications we can keep shorter.
   - sounds like "thicker wires". Difference? 
     multiple wires in one bigger cable
   - plus a coolant - how is it integrated?
-    . coolant => free space => movement => heat. How do you solve that?
+    + coolant => free space => movement => heat. How do you solve that?
   - Parameters determining whether a superconducting cable is more economic than suffering the electric losses?
      - AC vs DC?
 
@@ -130,21 +133,21 @@ applications we can keep shorter.
     - Liquid cooling vs. mechanical cooling.
     - Effect of the generated magnetic field on the superconductivity
   - Quenching 
-    . the "accident" at LHC
-    . how do you design against it?
-    . monitoring, detection .. and then?
+    + the "accident" at LHC
+    + how do you design against it?
+    + monitoring, detection .. and then?
   - How are supercon magnets protected from heating due to neutrons produced 
     by fusion reactions? Do they all just have very low scattering cross section 
     with the liquid helium coolant and supercon magnet?
   - Other design issues
-    . Mechanical
-    . Brittleness
-    . AC loss – hysteresis and coupling losses in pulsed, fast ramped magnets
-    . Explanation of CISCCs, strands, void fraction, fatigue performance
-    . QA for the magnets, different production locations, learning curve
+    + Mechanical
+    + Brittleness
+    + AC loss – hysteresis and coupling losses in pulsed, fast ramped magnets
+    + Explanation of CISCCs, strands, void fraction, fatigue performance
+    + QA for the magnets, different production locations, learning curve
   - Repeat the basics of a Tokamak; and how are these SC magnets used here?
-    . Copper coils, field lines, maximum current due to resistance and heat
-    . How do magnets confine the plasma, ionization, plasma pressure, beta, Lawson criterion, plasma instabilities
-    . The end of conventional magnets for fusion
+    + Copper coils, field lines, maximum current due to resistance and heat
+    + How do magnets confine the plasma, ionization, plasma pressure, beta, Lawson criterion, plasma instabilities
+    + The end of conventional magnets for fusion
   
  
