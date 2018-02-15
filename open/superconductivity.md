@@ -35,6 +35,8 @@ General one on superconductivity and the “usual” LTS materials NbTi and Nb3S
      + Superconducting properties – grain boundaries/anisotropy
      + BiSCCO and MgB2 – wires
      + tapes and cable designs
+   - Are there constraints on what materials can possibly be superconductors? Theoretical limits that say materials with certain properties can never be a superconductor? 
+   - Conversely, do we know anything about what makes a material more likely to be a high temperature superconductor? 
 * Different kinds:
   - reponse to magnetic field (and maximum current density)
   - T-crit
