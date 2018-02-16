@@ -46,7 +46,7 @@ Questions
 * Current practical uses? Are there any companies or institutes using computational social science research to improve their products/services?
     - Google and Facebook? http://firstmonday.org/ojs/index.php/fm/article/view/3993/3269
     - Stock market investors? 
-        + NewsReader, Event Detection, etc.
+        + [NewsReader](http://www.newsreader-project.eu/), [Event Detection](http://www.newsreader-project.eu/files/2012/12/NWR-D4-2-2.pdf), etc.
         
     
     
