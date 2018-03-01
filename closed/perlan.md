@@ -19,27 +19,30 @@ Intro & Goals
 
 The Aircraft
 ------------------------------------------
-* General
-  - Layout
-  - Dimensions
-  - L/D
-  - Vne 
 * Pressure cabin?
   - Trade-off with pressure suits
   - To which alt does the cabin pressurize?
-  - What is the max flight alt of Perlan II?
   - other life support equip? Redundant oxygen?
   - Rebreather?
+* General
+  - Layout
+  - Dimensions
+  - round windows
 * Special Profiles/Cross-sections 
   - for low Re-numbers (why do we have those?)
   - mass balancing for aerosurfaces
+  - experimental? Which FAR
+  - Vne 
+  - What is the max flight alt of Perlan II?
+  - flapped
+  - L/D
 * Design and Calculations
-  - From which other a/c did you learn what?
+X  - From which other a/c did you learn what?
   - In particular from Perlan I
   - Wing Design and Flutter
   - Why the rounded rudder tip?
 * Avionics
-  - special wave tracking/mapping?
+X  - special wave tracking/mapping?
   - Does a pressure-based flight recorder work at those altitudes?
 * Night lighting?
 * Which science instrumentation?
@@ -54,10 +57,11 @@ Missions
 * Wave forcast
   - what goes into the models?
   - who prepares them?
-  - wave model for 100'000ft (are these conventional waves)?
-  - standard models capable of predictions in 100'000ft?
-* Wind speeds on the ground and aloft?
-  - Generally, what's the weather like on good days?
+X  - wave model for 100'000ft (are these conventional waves)?
+X  - standard models capable of predictions in 100'000ft?
+X* Wind speeds on the ground and aloft?
+X  - Generally, what's the weather like on good days?
+
 * Flight/Mission Planning
   - How about airspaces?
   - Any other traffic at FL1000?
@@ -69,23 +73,36 @@ Missions
   - Logging
   - Calibration?
 * Who had the world record before? By how much did you beat it?
-* What do you guys expect is possible beyond it?
 
+* What do you guys expect is possible beyond it?
+Penetraing
 
 
 PILOT
 ==================================================
-
-* At what airspeeds do you typically fly?
+* Walk us through a typical flying day
+  - Briefing
+  - Weather
+  - Preflight: what's special for Perlan II?
+* What did you learn from Perlan 1, beyond the fact that
+   you want a pressure cabin?
+* How do you stay in the wave?
+  - Experience?
+  - Feel?
+  - Avionics?
+* How does the airplane handle "down low"
+  - are there typically high winds on good days
+    close to the ground? Challenge?
+* At what airspeeds do you typically fly up high?
 * Coffin Corner. 
   - Careful flying
   - special a/c design?
-* What is the plan if the pressure cabin dies?
+* Did you train what to do if the pressure cabin dies?
   - Special trainign wrt. to hypoxia?
   - Drogue chute
   - Ballistic chute - interesting, never really quite worked for gliders so far
-* What are some of the challenges in this very high wave flying?
 * What other contingencies are planned for?
+* What are some other challenges in this very high wave flying?
 * Autopilot?
 * Collaboration with ATC during a flight
 * How did you guys select the pilots?
