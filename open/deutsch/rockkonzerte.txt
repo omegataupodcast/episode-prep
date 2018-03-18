@@ -1,0 +1,121 @@
+Im Vorfeld
+----------------------------------
+* Venue Planung
+  - Wann beginnt eine Tourplanung?
+  - Was sind gute?
+  - Kriterien? Akustik?
+  - Welche Infrastruktur braucht man vor ort? Strom?
+* Tourplanung
+  - Jeden Tag ein Konzerttag?
+  - Reisen per Nightliner?
+  - Oder per Jumbo ;-) ?
+* Logistik
+  - Packen, Laden
+  - Management, Planung: Verkehrsmittel immer der LKW?
+  - Lagerung vor Ort?
+  - Zoll und andere Formlitäten
+  - ... mit 5 Sattelzügen kommt ihr aber nirgends hin, oder? Mieten! 
+* Wer tut was?
+  - Bandmanager
+  - Tour Organizer (ihr)
+  - Lokaler Promotor?
+  - wer noch?
+
+  
+Am Tag
+-------------------------------  
+* Vor Ort
+  - Was bringt die Band mit, was nicht?
+  - Wann kommen die Trucks an
+  - Aufbau innerhalb eines (dreiviertel) Tages?
+* Die Venue
+  - Wie unterschiedlich sind die Venues?
+    Sind da immer alle aufbauten gleich? 
+    Sind Hallen/Bühnen standardisiert?
+    Kuckt man sich die Venues vorher an?
+  - Welche Infos hat man vorher?
+  - Welche Genehmigungen braucht man vorher? Vorschriften?
+* Aufbau
+  - Personal, Roadies?
+* Staging
+  - PKW Mover / Drehscheiben / Hubpodeste
+  - Schwerlastsonderlösungen für PKW und LKW  
+* Rigging
+  - Vorschriften
+  - Winden, + Sicherung
+  - Was sind kinetische Präsentationssysteme
+    . Kinetisches Elektro-Kettenzugsystem
+  - Standsicherheitsnachweisen, Statiken, Lastermittlungen,
+    Gefährdungsanalysen und entsprechenden Abnahmen zur Dokumentation des
+    sicheren Betriebes von Traversen-Systemen und Sonderkonstruktionen.  
+  - seil- und maschinentechnisch gestützten Höhenzugangstechniken 
+  - Trassen im Dach: Sicherung vs. verfahrbar?
+* Custom Builds 
+  - Konstruktion
+  - Beispiele
+  - Zusammenspiel mit Video und Displays
+* Licht
+  - Steuerung, Dramaturgie
+  - Automatisch oder manuell?
+    Getriggert durch was?
+    Hängt das mit an Signalen (MIDI) aus der Musik? Von Hand?
+  - Design und Planung
+  - Energieversorgung ein Problem?
+  - Equipment
+    . Scheinwerfer
+    . Moving Lights, LEDs, Verfolger, 
+    . Effektscheinwerfer?
+    . Steuerpulte + Programmierung
+* Pyro
+  - Nebel! Feuermelder?
+  - Pyro? Speziell? Safety? Feuerwehr.
+* Sound
+  - Von was hängt es ab wieviel Leistung man braucht?
+  - Sounddesign, abh. vom Raum
+  - Drinnen vs. Draußen
+  - Akustik-Simulationen und Probeaufbauten 
+  - Lautsprecher vs. Mikrofon
+  - Mischpulte analog vs. digital
+  - Peripheriegeräten: Audioprozessoren, Endstufen, 
+    Zuspielgeräte, professionelle Effektgeräte
+  - Wie geht man mit Brechung um? 
+    Unterschiedlicher Sound an unterschiedl. Stellen?
+* Video  
+  - Zusammenspiel mit Licht?
+  - Zusammenspiel mit Bau?
+* Größenordnungen. Wieviel hat man bei großen Acts von allem?
+* Was bringt typischerweise die Band mit? 
+  - Instrumente?
+  - Ton/Sound Mischpulte?
+* TÜV? Andere Abnahmen
+
+
+Geht dann los 
+-------------------------------
+* Security. Trennung von Band + Publikum
+  Unterschiedliches Publikum, je nach Band
+* Evakuierung? Feuer.
+* Ton? Soundcheck? Was genau passiert da?
+  Wer macht den Monitormix?
+* Was ist "Preproduction"?
+
+
+Während der Show
+-----------------------------
+* Licht- und Tonmensch von der Band?
+* FOH Platz
+* Warum ist das immer ZU LAUT (>110 dB)
+
+
+Nach der Show
+--------------------------------------
+* Abbau sofort
+* Wann schlafen die Roadies :-)
+* Wann ist typischerweise Abfahrt?
+
+
+
+
+
+
+
