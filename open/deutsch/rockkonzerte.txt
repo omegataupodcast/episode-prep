@@ -50,6 +50,7 @@ Am Tag
     sicheren Betriebes von Traversen-Systemen und Sonderkonstruktionen.  
   - seil- und maschinentechnisch gestützten Höhenzugangstechniken 
   - Trassen im Dach: Sicherung vs. verfahrbar?
+  - Bühne im Freien: Ballastierung, Notfallplan bzgl. der Bühne selbst (Videowände etc. mit großer Angriffsfläche für Wind -> abhängen? Wenn ja wie?)
 * Custom Builds 
   - Konstruktion
   - Beispiele
@@ -71,9 +72,11 @@ Am Tag
   - Pyro? Speziell? Safety? Feuerwehr.
 * Sound
   - Von was hängt es ab wieviel Leistung man braucht?
+  - Unterschiedliche Beschallungskonzepte (Cardioid vs. einfach in Linie bei den Bässen, Delay Lines, gibt es weitere?)
   - Sounddesign, abh. vom Raum
   - Drinnen vs. Draußen
-  - Akustik-Simulationen und Probeaufbauten 
+  - Akustik-Simulationen und Probeaufbauten
+  - Line Arrays: Beam Steering - wie viel kann man damit machen, wie präzise müssen die Arrays ausgerichtet werden?
   - Lautsprecher vs. Mikrofon
   - Mischpulte analog vs. digital
   - Peripheriegeräten: Audioprozessoren, Endstufen, 
