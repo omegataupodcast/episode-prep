@@ -14,33 +14,33 @@
   - Why the F-18?
     
   - Phase 1
-    . Initially no modifications: up to 55 deg
+    - Initially no modifications: up to 55 deg
       (Einar Enevoldson -> Perlan)
-    . This phase used to work on research techniques. Such as?
-    . How were the characteristics observed?
+    - This phase used to work on research techniques. Such as?
+    - How were the characteristics observed?
       yarn tufts, smoke generators, anti-freeze with dye in it, pressure sensors
       pictures from chase plane
-    . Importance of Strakes, LEX
+    - Importance of Strakes, LEX
   
   - Phase 2
-    . Modification: Vectoring (2D or 3D?); 3 Paddles
+    - Modification: Vectoring (2D or 3D?); 3 Paddles
     
-    . Up to 70 deg, High Roll Rate up to 65 deg
-    . How exactly was the integration of the vectoring paddles
+    - Up to 70 deg, High Roll Rate up to 65 deg
+    - How exactly was the integration of the vectoring paddles
       and the regular surfaces?
       No special handles in cockpit for vectoring...
-    . Custom Flight Control System
+    - Custom Flight Control System
       Can be switched on in flight, regular one for t/o and landing
 
-    . Isn't this high AoA also a problem for engine air supply?
+    - Isn't this high AoA also a problem for engine air supply?
   
   - Phase 3
-    . Movable Strakes (F-18 has some anyway...!?)
+    - Movable Strakes (F-18 has some anyway...!?)
       on both sides of the aircraft's nose
-    . Instead of rudder, at high AoA
+    - Instead of rudder, at high AoA
     
-    . How did Vectoring and the strakes integrate?
-    . Never seen them used operationally.
+    - How did Vectoring and the strakes integrate?
+    - Never seen them used operationally.
 
   - High Alpha kinda got out of fashion again, right?
     F-22 has 2D-vectoring, I think a Su-35 has 3D?
@@ -69,14 +69,14 @@
   - An F-15 with canards and thrust vectoring.
   - Another one in this line :-)
   - STOL -> shorter runways
-    . Demonstrated vectored takeoffs with rotation at speeds as low as 42 mph (68 km/h)
-    . Landing on just 1,650 ft (500 m) of runway compared to 7,500 ft 
+    - Demonstrated vectored takeoffs with rotation at speeds as low as 42 mph (68 km/h)
+    - Landing on just 1,650 ft (500 m) of runway compared to 7,500 ft 
       (2,300 m) for the standard F-15
   - MTD -> Maneouvering
-    . Thrust reversal in flight to produce rapid deceleration
-    . Controlled flight at angles of attack up to about 85 degrees
+    - Thrust reversal in flight to produce rapid deceleration
+    - Controlled flight at angles of attack up to about 85 degrees
   - ACTIVE
-    . Advanced Control Technology for Integrated VEhicles
+    - Advanced Control Technology for Integrated VEhicles
       Pitch/Yaw Balance Beam Nozzles (P/YBBN)
   - Was this fundamental research, or an improvement program specifically for the F-15?
 
@@ -86,15 +86,15 @@
   - Why would one do this? Advantages?
   - Compare to classic swept-wing a/c.
   - Challenges?
-    . Ailerons? 
-    . Roll-coupling modes?
-    . Other?
+    - Ailerons? 
+    - Roll-coupling modes?
+    - Other?
   - AD-1 was custom built, right?
   - ... and AD-1 flew.
   - What was different on the F-8?
-    . AD-1 was slow speed, up to 280 km/h.
-    . supersonic - how is this a different challenge?
-    . decoupling of the longitudinal and lateral-directional motions of the 
+    - AD-1 was slow speed, up to 280 km/h.
+    - supersonic - how is this a different challenge?
+    - decoupling of the longitudinal and lateral-directional motions of the 
       unsymmetrical aircraft, as well as to satisfy conventional flight control 
       objectives,
   
@@ -131,9 +131,9 @@
   - Why the F-8? (easy wing removal)
 
   - used in practice?  
-    . not in fighters, right?
-    . C-17
-    . "Supercritical wings are now commonplace on virtually 
+    - not in fighters, right?
+    - C-17
+    - "Supercritical wings are now commonplace on virtually 
        every modern subsonic commercial transport."
 
 * F8 Digital Fly-by-wire
@@ -153,22 +153,22 @@
 * Boeing 720 CID
   - Controlled Impact Demonstrator OR Crash in the Desert
   - research goals?
-    . reduction postcrash fire through the use of antimisting fuel
-    . acquire transport crash structural data
-    . demonstrate the effectiveness of seat-restraint and cabin structural system
+    - reduction postcrash fire through the use of antimisting fuel
+    - acquire transport crash structural data
+    - demonstrate the effectiveness of seat-restraint and cabin structural system
   - what were the challenges? 
-    . Remote control?
-    . what else?
+    - Remote control?
+    - what else?
   - How was the a/c instrumented?
   - What was the planned scenario?
     "... as the wings were sliced open by eight posts cemented into the runway "
   - Talk about the proceeding of the actual experiment.
-    . remote control
-    . markings on the ground
-    . observation/filming?
-    . "... the aircraft turned slightly to the right of the desired path ..."
-    . So, was the experiment a success? 
-    . what did we learn? where should we sit on airliners :-) ?
+    - remote control
+    - markings on the ground
+    - observation/filming?
+    - "... the aircraft turned slightly to the right of the desired path ..."
+    - So, was the experiment a success? 
+    - what did we learn? where should we sit on airliners :-) ?
   - In some sense, the crash failed. Why was this?
   
 
@@ -176,10 +176,10 @@
   - why :-) ?
     Kelly Space and Technology's Eclipse Astroliner
   - Challenge: 
-    . high wing loading. 
-    . High alpha during tow?
-    . line tension
-    . tow plane lifts off first.
+    - high wing loading. 
+    - High alpha during tow?
+    - line tension
+    - tow plane lifts off first.
   - It was a QF106 - remotely piloted?
   - low tow, under the vortices.
     Use F-18 to find out where they are.
