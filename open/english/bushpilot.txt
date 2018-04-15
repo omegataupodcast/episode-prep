@@ -11,11 +11,12 @@
 
 * Challenges
   - terrain
-  - weather
+  - weather: takeoff/landing on hot days only possible early in the morning/late in the evening?
   - nav aids: would this be possible w/o GPS?
   - typical airfields
   - is this dangerous?
   - what special safety precautions?
+  - ermegency procedures (emergency landing possible? where? survival after emergency landing?)
   
 * the a/c
   - why this particular one?
