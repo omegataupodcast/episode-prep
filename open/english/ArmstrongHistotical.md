@@ -1,10 +1,12 @@
+Intro Al
+
 * Schweizer Deep Stall demonstration project
   - What is Deep Stall?
   - Why this project?
-  - What were the modifications?
   - "aerodynamics were dominated by long wings rather than a long, 
      pointed nose or forward strake"?
   - "stability-and-control derivatives"
+  - What were the modifications?
   - What kind of maneouvers?
   - Relationship to "real" airplanes? HARV, X-31?
   
@@ -18,7 +20,8 @@
       (Einar Enevoldson -> Perlan)
     - This phase used to work on research techniques. Such as?
     - How were the characteristics observed?
-      yarn tufts, smoke generators, anti-freeze with dye in it, pressure sensors
+      yarn tufts, smoke generators, anti-freeze with dye in it, 
+      pressure sensors
       pictures from chase plane
     - Importance of Strakes, LEX
   
@@ -44,9 +47,11 @@
 
   - High Alpha kinda got out of fashion again, right?
     F-22 has 2D-vectoring, I think a Su-35 has 3D?
+
   
 * X-31
   - together with MBB / DLR
+
   - also thrust vectoring and FCS
   
   - new a/c, but with parts from others: EAP, TKF 90, F-18, V-22, ... lots!!
@@ -61,6 +66,7 @@
   - also 70 deg. 180 deg turn in post-stall.
   
   - late 1990s: VECTOR
+
 
 
 * F-15B ACTIVE
@@ -81,61 +87,30 @@
   - Was this fundamental research, or an improvement program specifically for the F-15?
 
   
+  
+  
 * F-8 Oblique Wing / AD-1
   - Let's explain the shape :-)
+
+  - AD-1 was custom built, right?
+  - ... and AD-1 flew.
+
   - Why would one do this? Advantages?
+
   - Compare to classic swept-wing a/c.
+
   - Challenges?
     - Ailerons? 
     - Roll-coupling modes?
     - Other?
-  - AD-1 was custom built, right?
-  - ... and AD-1 flew.
+
   - What was different on the F-8?
     - AD-1 was slow speed, up to 280 km/h.
     - supersonic - how is this a different challenge?
     - decoupling of the longitudinal and lateral-directional motions of the 
       unsymmetrical aircraft, as well as to satisfy conventional flight control 
-      objectives,
+      objectives.
   
-* X-29A Forward Swept Wing
-  - Describe Layout 
-  - F-5/20 fuselage, right?
-  - Why?
-    "The high pitch instability of the airframe led to wide predictions of extreme maneuverability."
-  - "three surface a/c". Which?
-  - inherently unstable. 
-    Why? 
-    And is this good?
-    40 Hz FCS
-  - FCS had to be "careful" in order to avoid departure, so the resulting agility
-    was not increased compared to classical a/c.
-  - Also, F-16 is also unstable and FCS controlled. So what would have been
-    the specific advantage of the FSW?
-  - Also a carbon fibre "first": Wings needed to be very stiff. Why? 
-    aeroelastic tailoring to control structural divergence
-    (Concordia) 
-  - Was it a success? 
-    ... including the use of "aeroelastic tailoring to control structural
-    divergence", aircraft control and handling during extreme
-    instability, three-surface longitudinal control, a "double-hinged
-    trailing-edge flaperon at supersonic speeds", effective high angle
-    of attack control, vortex control, and demonstration of military
-    utility...
-  
-
-* F8 Supercritical wing
-  - what is a supercritical airfoil/wing?
-    why is it useful? transonic/supersonic.
-    a bit of aerodynamic basics...
-  - Why the F-8? (easy wing removal)
-
-  - used in practice?  
-    - not in fighters, right?
-    - C-17
-    - "Supercritical wings are now commonplace on virtually 
-       every modern subsonic commercial transport."
-
 * F8 Digital Fly-by-wire
   - we know what FBW is
   - useful b/c: lighter, more precise, easier to add redundancy
@@ -145,7 +120,61 @@
   - "The heart of the system was an off-the-shelf backup Apollo digital 
     flight-control computer and inertial sensing unit"
   - Interestingly, all mechanical flight control was removed - FBW not "added".
-  - later: the original Apollo system was replaced with a triple redundant digital system.
+  - later: the original Apollo system was replaced with a triple redundant 
+    digital system.
+  
+  
+* F8 Supercritical wing
+  - what is a supercritical airfoil/wing?
+    why is it useful? transonic/supersonic.
+    a bit of aerodynamic basics...
+
+less lift
+  - Why the F-8? (easy wing removal)
+
+  - used in practice?  
+    - not in fighters, right?
+    - C-17
+    - "Supercritical wings are now commonplace on virtually 
+       every modern subsonic commercial transport."  
+
+supercruise <-  
+  
+* X-29A Forward Swept Wing
+  - Describe Layout 
+  - F-5/20 fuselage, right?
+
+  - Also a carbon fibre "first": Wings needed to be very stiff. Why? 
+    aeroelastic tailoring to control structural divergence
+    (Concordia) 
+
+    "just as good as aft"
+  
+  - Why?
+    "The high pitch instability of the airframe led to wide 
+    predictions of extreme maneuverability."
+  - "three surface a/c". Which?
+  - inherently unstable. 
+    Why? 
+    And is this good?
+    40 Hz FCS
+  - FCS had to be "careful" in order to avoid departure, so the resulting agility
+    was not increased compared to classical a/c.
+  - Also, F-16 is also unstable and FCS controlled. So what would have been
+    the specific advantage of the FSW?
+  - Was it a success? 
+    ... including the use of "aeroelastic tailoring to control structural
+    divergence", aircraft control and handling during extreme
+    instability, three-surface longitudinal control, a "double-hinged
+    trailing-edge flaperon at supersonic speeds", effective high angle
+    of attack control, vortex control, and demonstration of military
+    utility...
+  
+Lots of experiemtns: wings, alpha, vector, fsw, 
+none really used
+
+------------------------------------------------------------------
+
   
 * SR-71
   (not clear what you worked on there ... I will just ask you about it :-))
