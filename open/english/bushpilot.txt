@@ -1,24 +1,43 @@
 * Intro Daniel
 
 * Definition Bushpilot; what is a bushpilot?
+  - buffalo in norther canada
 
 * Context
   - Where do you fly?
   - Which organisation? 
-  - What missions
-  - Describe a typical day.
+    . What does this organzation do?
+    . Note: we'll keep the religious part out of the interview,
+      just as I leave the "war" part out of the interviews with
+      military pilots
+  - Very diverse fleet of a/c
+    . Examples
+    . Why so diverse?
+  - What missions (typical)
   - How did you get there?
+  - Describe a typical day.
 
 * Challenges
   - terrain
-  - weather: takeoff/landing on hot days only possible early in the morning/late in the evening?
+  - weather
+    . takeoff/landing on hot days only possible early in the morning/late in the evening?
   - nav aids: would this be possible w/o GPS?
   - typical airfields
+    . things to think about during t/o or landing?
+    . how do you learn this?
+    . is there a standard/regs for such an airfield?
   - is this dangerous?
   - what special safety precautions?
-  - ermegency procedures (emergency landing possible? where? survival after emergency landing?)
+  - ermegency procedures 
+    . emergency landing possible? where? 
+    . survival after emergency landing?
+    . a/c repair off base
   
 * the a/c
   - why this particular one?
   - used quite a bit in the bush
   - equipment?
+  
+* Compared to other flying jobs?
+  - pros/cons
+  - entry prerequisites? A way to collect "airline hours"?
