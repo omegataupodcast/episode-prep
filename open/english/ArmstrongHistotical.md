@@ -3,12 +3,14 @@ Intro Al
 * Schweizer Deep Stall demonstration project
   - What is Deep Stall?
   - Why this project?
+  - Did this project reduce fears about uncontrollable deep stalls related to T-tail airplane design? (DC-9, MD-80/82/88/90, B717, B727, CRJ, ERJ, etc)
   - "aerodynamics were dominated by long wings rather than a long, 
      pointed nose or forward strake"?
   - "stability-and-control derivatives"
   - What were the modifications?
   - What kind of maneouvers?
   - Relationship to "real" airplanes? HARV, X-31?
+  - Did this research impact later T-tail design?
   
 * F-18 High Alpha Research Vehicle 
   - The relevance of High Alpha for fighters  
@@ -85,6 +87,7 @@ Intro Al
     - Advanced Control Technology for Integrated VEhicles
       Pitch/Yaw Balance Beam Nozzles (P/YBBN)
   - Was this fundamental research, or an improvement program specifically for the F-15?
+  - Do you think thrust vectoring will be used in commerical aviation, or only for high performance general aviation or military planes?
 
   
   
