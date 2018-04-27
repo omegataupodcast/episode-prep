@@ -5,59 +5,55 @@ https://de.wikipedia.org/wiki/Meereskunde
 -> Polarstern
 -> Meeresboden
 
-Einleitung
 --------------------------------------------
+(M) Einleitung
 * Vorstellung Ben Rabe + AWI
 * Vorstellung Sunke Schmidtko + GEOMAR
 
-* Über was wir reden
+* (N) Über was wir reden
   - Wasserzusammensetzung, Strömungen, Klima
   - im "normalen" und Polarmeer
   - nicht der Meeresboden, das wird ne separate Episode
+  - Meere und nicht Seen
   
 Zusammensetzung  
 ---------------------------------------
-* Unterschiedliche Meere (wieviele haben wir denn da? Wie werden die abgegrenzt?
+* (N) Unterschiedliche Meere (wieviele haben wir denn da? Wie werden die abgegrenzt?
   - Rand und Nebenmeere Schelf Meere    vs   tiefe Ozeane
     - Nord und Ostsee, Schwarzes Meer etc
     - Mittelmeer
     - Tropische Meere
     - Arktische Meere 
 
-* Parameter
+* (M) Parameter
   - Physikalische Größen, deren Verlauf über die Tiefe und Relevanz:
     (Größen die die Eigenschaften von Wasser im phys. Sinne ändern)
     (Einfluss auf die Dichte von Wasser haben)
     . Druck
     . Temperatur 
-    . Salzgehalt
-  - Chemische Größen teilweise komplex bio-geo-che
+    . Salzgehalt (wie kommt das da rein?)
+  - Chemische Größen (teilweise komplex bio-geo-che)
     . Sauerstoffgehalt
     . Durchsichtigkeit
     . pH Wert
+    . Einfluss des Salz auf das Gefrierverhalten?
   - weitere Eigenschaften
     . Akustische Eigenschaften (abh. von Temp und Druck)
+      UBoot :-)
 
-* Gibt es da typische regionale Unterschiede? 
-  - wie sand am meer
+* (N) Gibt es da typische regionale Unterschiede? 
+  - wie Sand am Meer
   - global vs regional
 
-* Gibt es definierte Schichten? 
+* (M) Gibt es definierte Schichten? 
   - So wie in der Atmosphäre? 
     eher wie in einem geschichteten Cocktail / Cafe Latte
   - Temperatur
     UBoote verstecken sich unter irgendeiner Temperatur-Linie
     (Thermokline?)
 
-* Änderung all dieser Charakteristiken 
+* (N) Änderung all dieser Charakteristiken 
   - über die Geschichte
-  - aufgrund anderer (periodischer?) Einflüsse?
-    . Taeglich durch gezeiten / solare einstrahlung regen. ...
-    . Wie lange sind Perioden? "Decadal"
-    . Jahreszeiten
-    . El Nino
-  - an der oberflaeche sind kurze zeitraeume praegend
-    in der tiefe dekadische und laenger
   - Einfluss des Menschen   
     . kurz anreißen -- soll ja keine Klima-Episode werden
     . Erwärmung
@@ -65,29 +61,44 @@ Zusammensetzung
       (95% im Ozean. reden aber trotzdem über Atmo: Wärmekapazität)              
     . Versauerung
 
-* Wie spielt Chemie und Biologie in diese Parameter rein?
+  - (M) aufgrund anderer (periodischer?) Einflüsse?
+    . Taeglich durch Gezeiten / solare Einstrahlung, Regen. ...
+    . Wie lange sind Perioden? "Decadal"
+    . Jahreszeiten
+    . El Nino
+  - an der oberflaeche sind kurze zeitraeume praegend
+    in der tiefe dekadische und laenger
+
 
 
 Strömungen
 ----------------------------------------
-* Klassifikation
+* (M) Klassifikation
   - groß/klein, 
   - Oberflächen-, Boden-, Tiefenströmungen
   - ständig, periodisch, zeitweilig auftretende Strömungen
   - geradlinige, zyklonale, antizyklonale Strömungen
   - Turbulent vs. Laminar?
 
-* Was treibt 
+* (N) Wellen == Oberflächenströmung?
+
+* (M) Was treibt 
   - windgetrieben vs 
   - thermohaline (dichte getrieben) 
     (mit unterschiedlichen Ursachen für Dichteunterschiede?)
 
-* Golfstrom kennt jeder; was noch?
+* (N) Einfluss von
+  - Tiefe
+  - Beschaffenheit des Grundes (Berge, Inseln)
+
+--- Großräumige Str ----
+  
+* (M) Golfstrom kennt jeder; was noch?
   - Groß, ständig, (mehr oder weniger) gerade, ... 
     SUNKE: hier kann man sehr gut ein video einspielen 
     https://www.nasa.gov/topics/earth/features/perpetual-ocean.html
 
-* Zirkulationen im Atlantik
+* (M) Zirkulationen im Atlantik (als Bsp)
   - North Atlantic Circulation
     . Warm and Cold collide
     . Führt ja auch zur Entstehung von Wolken/Tiefdruckgebieten
@@ -98,12 +109,12 @@ Strömungen
       SUNKE: videos zu floats und glidern und verankerungen 
       ich such mal welche raus, ein paar hatte ich frueher mal erstellt:
       https://vimeo.com/user1607995
-  - Tropical Atlantic
+  - (N) Tropical Atlantic
     . "The dominant climate phenomenon in the tropical Atlantic is 
        a north/south movement of the tropical rain belt"
     . ITCC
     . Deep Equatorial Jets
-  - Atlantic Overturning Circulation
+  - (M) Atlantic Overturning Circulation
     . Created by? 
     . Once it has left the tropics, the water cools off rapidly and thus heats the 
       overlying air. 
@@ -114,15 +125,13 @@ Strömungen
       importance for the climate in the North Atlantic area. 
       Was noch?
 
-* Andere große?
-
-* Wasser + Eis 
+* (N) Wasser + Eis 
   - Wechselwirkungen der Ozeane/Wasser mit dem sich darin bildenden Eis
   - Bzw. Einfluss des der Eismenge auf obige Eigenschaften
   (ware wichtig vorher auf Therm Hal Zirkulation einzugehen .. dichte unterschiede
    als Motor der Ozeanzirkulation ehe man auf dieses Thema im detail eingehen kann)
   
-* Vertikaler Austausch durch Konvektion  
+* (M) Vertikaler Austausch durch Konvektion  
   - In der Atmo ist es Thermik, also aufgeheizte Luft unten.
   - Cooling von Oberflächenwasser
   - ...such as the rising of warmer waters, and a spatially and 
@@ -131,7 +140,7 @@ Strömungen
   - Wo findet das vor allem statt? Und warum?
   - Klimarelevanz? O, CO2
   
-* Ocean Mixing  
+* (N) Ocean Mixing  
   - smaller scale
   - Was durchmischt die? Konvektion? (Nein, aber trotzdem gute provozierende Frage :-))
   - "Such an understanding is necessary to be able to identify, out of a million or 
@@ -141,7 +150,8 @@ Strömungen
 * Upper Ocean Circulation - was ist das?
 
 * Austausch horizontal durch was? Kräft!
-  - Gravitation, Dichteausgleich
+  - Gravitation (Gezeiten)
+  - Dichteausgleich
   - Abfluss/Kompensation
     physikalischer oder chemischer Eigenschaft
   - Wind
@@ -159,7 +169,9 @@ Strömungen
     to target the physical­-biogeochemical coupling in specific phenomena 
     such as eddies or filaments.
 
-Klima
+
+
+(Klima)
 ----------------------------------------
 * Wärmepuffer  
 
@@ -180,6 +192,29 @@ Klima
            atmosphere und weil sich der ozean nicht per satellit 
            beobachten laesst (ausser die obersten 1-5cm)
   
+  
+   
+Forschungsschiffe und -reise  
+----------------------------------------
+* Welche gibt's denn?
+  - Polarstern
+  - Sonne
+  - fährt man auch mal mit ausländischen?
+* Leben an Bord
+  - Fährt man immer von hier aus? Oder fliegt man da hin?
+  - Kabinen
+  - Arbeitsalltag
+  - Vor-/Nachbereitungen: Proposal schreiben, Review?
+* Ausrüstung der Schiffe
+  - Sensorik, Boote, 
+  - Seaglider
+  - Autonomous profiling drifters
+* Wie kommuniziert man mit diesen Sensoren? Radiowellen nicht sooo effektiv.
+* Was ist das Southern Ocean Observing System?
+* Fernerkundung? Satellit? 
+  - nur obere 0-5cm des ozeans,,, radiowellen gehen nicht durch wasser
+  - abschirmung .. im wasser kommunikation vor allem durch schall 
+ 
   
 
 Simulation und Rechnen
@@ -208,27 +243,6 @@ Simulation und Rechnen
          anderen sinn oder zweck, kein modell macht alles gut, jedes macht
          irgendwas gut was man untersuchen kann, abhaengigkeiten testen kann
   
-  
-Forschungsschiffe und -reise  
-----------------------------------------
-* Welche gibt's denn?
-  - Polarstern
-  - Sonne
-  - fährt man auch mal mit ausländischen?
-* Leben an Bord
-  - Fährt man immer von hier aus? Oder fliegt man da hin?
-  - Kabinen
-  - Arbeitsalltag
-  - Vor-/Nachbereitungen: Proposal schreiben, Review?
-* Ausrüstung der Schiffe
-  - Sensorik, Boote, 
-  - Seaglider
-  - Autonomous profiling drifters
-* Wie kommuniziert man mit diesen Sensoren? Radiowellen nicht sooo effektiv.
-* Was ist das Southern Ocean Observing System?
-* Fernerkundung? Satellit? 
-  - nur obere 0-5cm des ozeans,,, radiowellen gehen nicht durch wasser
-  - abschirmung .. im wasser kommunikation vor allem durch schall 
 
 Wrap Up
 -------------------------------------

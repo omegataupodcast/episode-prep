@@ -1,0 +1,134 @@
+* Introduction Paolo Ienne
+
+* Basics Processor
+  - ALU
+  - Registers
+  - Controller
+  - Memory (Data)
+  - Memory (Program)
+  - Program Counter
+  -> how do those play together; later explain details
+ 
+* Computer Architecture vs. Processor Architecture
+  - Difference between the two
+  - CPU
+  - other Processors, eg. for graphics
+  - RAM
+  - Caches
+  - Buses
+
+* More details on Processor components
+  - Actual computation (ALU)
+    . arithmentic
+    . logic
+    . what goes in and out, buses
+  - instruction decoder
+    . what are machine instructions, how are they structured
+    . how long, different word lenghts
+    . fixed length, var length
+    . big/little endian
+  - Register 
+    . Small memory locations in processor, access fast!
+    . Adress registers
+    . data registers
+    . instruction pointer registers
+  - Connections
+    . data bus
+    . address bus
+    . Why external memory, why not just lots of registers?
+  - L1, L2 caches, memory hierarchy
+    . generally the importance of caching, 
+    . the challenge of cache invalidation
+  - Control unit?
+  - Interrupts 
+    . do all processors have them?
+    . what is the challenge?
+
+* Variants
+  - von Neumann vs. Harvard architecture
+  - RISK cs. CISC: trade-offs?
+  - 8, 16, 32, 64 bit is about what?
+  
+* Integration of the components, von Neumann Cycle:
+  fetch, decode, execute, writeback
+
+* Microcode 
+  - what is this?
+  - in which language is it "written"?
+  - abstraction levels
+  
+* How is a processor booted? Steps!
+
+* Optimization in modern Processors
+  - Pipelining & Instruction-Level Parallelism
+  - Caching also part of this aspect?
+  - Deeper Pipelines – Superpipelining
+  - Superscalar Execution - what is this?
+  - Branch Prediction
+    static vs. dynamic
+    two-bit prediction scheme
+    (a bit like 
+  - Speculative Execution
+    can only be done for stuff with no sideeffects, right?
+  - Explicit Parallelism – VLIW
+  - Register Renaming
+  - Instruction Scheduling, Register Renaming & OoO Execution
+  - Threads 
+    SMT, Hyper-Threading
+  - Multi-Core
+
+  -> How much improvements do these all bring?
+
+* How are these things integrated with compilers?
+  - Do compilers specifically "generate code" for these features?
+    how? examples?
+  - spatial vs. temporal computing?
+
+* Security
+  - EP
+  - ASLR
+  - endbrach 
+   shadow stack
+   
+* Energy efficiency
+  - is this only a proc h/w issue,
+  - or also relates to proc design?
+
+* Differences between different processors, Milestones
+  - over time 
+    Intel 8086, 80286, 386, Pentium, .... Core I7
+    Motorola 68000
+    IBM Alpha
+    IBM Power
+  - In parallel:
+    Intel
+    ARM
+    GPUs
+    FPU
+  - word width, frequency
+   
+* Processor design as a process ("idea to chip")
+  - Layers
+    . Specification
+    . Architecture
+    . Register Transfer (VHDL)
+    . Netlist (Gates and memories)
+    . Netlist (Transistors)
+    . Layout
+  - Where do the requirements come from?
+  - How are ideas "tried out"?
+  - (How) do you do performance prediction? Models?
+  - Is the physical layout important (length of connections, speed of light)
+  
+* Your work: Custom processors
+  - Why? Cost aspects sw/hw
+  - ASIC/FPGAs?
+  - ARC 625D what is this?
+  - conf options.
+  - Design Methodologies
+  - Arch Description Language
+    How does the C code in LISA become H/W
+    
+  
+* Research - what is currently being researched?
+  

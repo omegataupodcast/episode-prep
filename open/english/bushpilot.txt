@@ -1,43 +1,94 @@
 * Intro Daniel
 
-* Definition Bushpilot; what is a bushpilot?
-  - buffalo in norther canada
 
 * Context
-  - Where do you fly?
+* Definition Bushpilot; what is a bushpilot?
+    school for bush flying
+  - buffalo in norther canada
+
   - Which organisation? 
     . What does this organzation do?
     . Note: we'll keep the religious part out of the interview,
       just as I leave the "war" part out of the interviews with
       military pilots
+  - What missions (typical)
+  - How did you get there?
+
+  - Where do you fly?
   - Very diverse fleet of a/c
     . Examples
     . Why so diverse?
-  - What missions (typical)
-  - How did you get there?
+    area of flying size
   - Describe a typical day.
+    4.2 hours today. .2 IMC, 4 hours dodging IMC, 
+    6 sectors, 3 unimproved runways, 36 passengers, 
+    1663kg (3658lbs) of cargo. 
+    - what times
+    star topyo
 
+* the a/c: carac
+  - why this particular one?
+  STOL
+  - used quite a bit in the bush
+  - equipment?
+  low wing loading
+  how fast
+  
 * Challenges
   - terrain
-  - weather
-    . takeoff/landing on hot days only possible early in the morning/late in the evening?
-  - nav aids: would this be possible w/o GPS?
+
   - typical airfields
+    . well.known set of a/f?
+      state of the airstrip is known.
+
+
+   how many do you fly into?
+    all visual
+    
+
+    narrow
     . things to think about during t/o or landing?
     . how do you learn this?
     . is there a standard/regs for such an airfield?
-  - is this dangerous?
-  - what special safety precautions?
+  - "landing procedure"
+  - go arounding
+
+  takeoff?
+
+  - ATC? But guy on ground
+
+  - weather
+    . mornings
+    . wind
+    . takeoff/landing on hot days only possible early in the morning/late in the evening?
+    can't land b/c weather
+
   - ermegency procedures 
     . emergency landing possible? where? 
     . survival after emergency landing?
+    . sat phone
+    . spot trackers
+
+  crahses?
+  - what special safety precautions?
+ahat does MAF do differently.
+full coverage insurance
+
+  - VFR, IFR?
+  - nav aids: would this be possible w/o GPS?
+
+  - is this dangerous? dangers?
+  trainings refreshers
+
+
+
+
+  - logistics
     . a/c repair off base
-  
-* the a/c
-  - why this particular one?
-  - used quite a bit in the bush
-  - equipment?
-  
+
 * Compared to other flying jobs?
   - pros/cons
   - entry prerequisites? A way to collect "airline hours"?
+
+africa
+* what do you do next?
