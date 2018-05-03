@@ -71,7 +71,7 @@ Zusammensetzung
 
 
 
-Strömungen
+Horizontale Strömungen
 ----------------------------------------
 * (M) Klassifikation
   - groß/klein, 
@@ -83,15 +83,18 @@ Strömungen
 * (N) Wellen == Oberflächenströmung?
 
 * (M) Was treibt 
-  - windgetrieben vs 
-  - thermohaline (dichte getrieben) 
+  - Wind
+  - Luftdruck
+  - Zentrifugal/Coriolis/Trägheit
+  - Gravitation (Gezeiten)
+  - Dichteausgleich (thermohaline)
     (mit unterschiedlichen Ursachen für Dichteunterschiede?)
+  - Abfluss/Kompensation
+    physikalischer oder chemischer Eigenschaft
 
 * (N) Einfluss von
   - Tiefe
   - Beschaffenheit des Grundes (Berge, Inseln)
-
---- Großräumige Str ----
   
 * (M) Golfstrom kennt jeder; was noch?
   - Groß, ständig, (mehr oder weniger) gerade, ... 
@@ -131,6 +134,11 @@ Strömungen
   (ware wichtig vorher auf Therm Hal Zirkulation einzugehen .. dichte unterschiede
    als Motor der Ozeanzirkulation ehe man auf dieses Thema im detail eingehen kann)
   
+* Wie erforscht man Strömungen? Radiologische Zusätze? 
+  
+Vertikale Strömungen
+----------------------------------------
+ 
 * (M) Vertikaler Austausch durch Konvektion  
   - In der Atmo ist es Thermik, also aufgeheizte Luft unten.
   - Cooling von Oberflächenwasser
@@ -149,18 +157,7 @@ Strömungen
 
 * Upper Ocean Circulation - was ist das?
 
-* Austausch horizontal durch was? Kräft!
-  - Gravitation (Gezeiten)
-  - Dichteausgleich
-  - Abfluss/Kompensation
-    physikalischer oder chemischer Eigenschaft
-  - Wind
-  - Luftdruck
-  - Zentrifugal/Coriolis/Trägheit
-
 * Wie beeinflusst Eis diese Strömungen?
-
-* Wie erforscht man Strömungen? Radiologische Zusätze?
 
 * Physical processes in upwelling regions
   - pronounced meso- and submesoscale variability such as eddies and filaments. 
