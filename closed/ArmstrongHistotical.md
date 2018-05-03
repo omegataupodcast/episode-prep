@@ -174,12 +174,13 @@ Lots of experiemtns: wings, alpha, vector, fsw,
 none really used
 
 ------------------------------------------------------------------
-
-
-Supersonic Laminar Flow using a modified F-16XL
   
 * SR-71
   (not clear what you worked on there ... I will just ask you about it :-))
+  coldflow?
+  aerospike
+
+  pilots?
   
 * Boeing 720 CID
   - Controlled Impact Demonstrator OR Crash in the Desert
@@ -187,12 +188,16 @@ Supersonic Laminar Flow using a modified F-16XL
     - reduction postcrash fire through the use of antimisting fuel
     - acquire transport crash structural data
     - demonstrate the effectiveness of seat-restraint and cabin structural system
+
   - what were the challenges? 
     - Remote control?
     - what else?
+
   - How was the a/c instrumented?
+
   - What was the planned scenario?
     "... as the wings were sliced open by eight posts cemented into the runway "
+
   - Talk about the proceeding of the actual experiment.
     - remote control
     - markings on the ground
@@ -200,29 +205,60 @@ Supersonic Laminar Flow using a modified F-16XL
     - "... the aircraft turned slightly to the right of the desired path ..."
     - So, was the experiment a success? 
     - what did we learn? where should we sit on airliners :-) ?
+why ignition?  
   - In some sense, the crash failed. Why was this?
-  
+
+when was this?
+- AMK principle idea wrong?  
+- did he do t/o and landing?
+- why only trim tabs?
+- FAA research?  
 
 * F-106A Eclipse aero-tow demonstration
   - why :-) ?
     Kelly Space and Technology's Eclipse Astroliner
+
   - Challenge: 
     - high wing loading. 
+
+    - starlifter lifts first
     - High alpha during tow?
+    - low tow, under the vortices.
+      Use F-18 to find out where they are.
+
+mishap in grafenwöhr
+
     - line tension
     - tow plane lifts off first.
-  - It was a QF106 - remotely piloted?
-  - low tow, under the vortices.
-    Use F-18 to find out where they are.
-  - tow equipment on palette
-  - landing separate; did they light the engine, or did
-    the Six land as a glider?
+    - engine off
+    - landing separate; did they light the engine, or did
+      the Six land as a glider?
 
+  - It was a QF106 - remotely piloted?
+  - tow equipment on palette
+
+bit like virgin galactic - monster airplane
+-> nothing
+
+commercial resrarcg
 
 * X-30A National AeroSpace Plane
   https://en.wikipedia.org/wiki/Rockwell_X-30
+
+  Waverider!
+  
   
 * Aero-Gravity Assist
-  Waverider!
 
 * Update on Prandtl
+
+
+
+
+
+
+
+
+
+
+
