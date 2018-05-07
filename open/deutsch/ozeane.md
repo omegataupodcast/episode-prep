@@ -11,17 +11,18 @@ https://de.wikipedia.org/wiki/Meereskunde
 * Vorstellung Sunke Schmidtko + GEOMAR
 
 * (N) Über was wir reden
-  - Wasserzusammensetzung, Strömungen, Klima
+  - Wasserzusammensetzung, Strömungen, Eis
   - im "normalen" und Polarmeer
-  - nicht der Meeresboden, das wird ne separate Episode
-  - Meere und nicht Seen
+  - Klima nur am Rande
+  - nicht der Meeresboden, Flora und Fauna
   
 Zusammensetzung  
 ---------------------------------------
-* (N) Unterschiedliche Meere (wieviele haben wir denn da? Wie werden die abgegrenzt?
-  - Rand und Nebenmeere Schelf Meere    vs   tiefe Ozeane
-    - Nord und Ostsee, Schwarzes Meer etc
-    - Mittelmeer
+* (N) Definitionen
+    - Wodurch definiert sich ein Meer? Größe? Salzgehalt? Fehlender Abfluss?
+    - Unterscheidet man verschiedene Arten von Meeren? Wenn ja, welche?
+        (Randmeer, Binnenmeer, ...)
+        Unterschied Binnenmeer <-> Salzsee
     - Tropische Meere
     - Arktische Meere 
 
@@ -43,23 +44,27 @@ Zusammensetzung
 
 * (N) Gibt es da typische regionale Unterschiede? 
   - wie Sand am Meer
-  - global vs regional
+  - global vs regional (XX unklar)
 
-* (M) Gibt es definierte Schichten? 
+* (M) Gibt es definierte Schichten? (XX Vorschlag: vor dem Kapitel "Strömungen" besprechen)
   - So wie in der Atmosphäre? 
     eher wie in einem geschichteten Cocktail / Cafe Latte
   - Temperatur
     UBoote verstecken sich unter irgendeiner Temperatur-Linie
     (Thermokline?)
+  - gibt es so etwas wie Inversion?
 
 * (N) Änderung all dieser Charakteristiken 
-  - über die Geschichte
+  - Erdgeschichtlich
   - Einfluss des Menschen   
     . kurz anreißen -- soll ja keine Klima-Episode werden
     . Erwärmung
       Atmo vs. Erwärmung Ozean
       (95% im Ozean. reden aber trotzdem über Atmo: Wärmekapazität)              
     . Versauerung
+    . Gibt es einen großräumigen menschlichen Einfluss auf die Meere,
+      der nicht über die Atmosphäre wirkt? (z.B. Einleitung von Stoffen)
+   - Haben unterseeische Vulkane o.ä. einen signifikanten Einfluss?
 
   - (M) aufgrund anderer (periodischer?) Einflüsse?
     . Taeglich durch Gezeiten / solare Einstrahlung, Regen. ...
@@ -73,7 +78,7 @@ Zusammensetzung
 
 Horizontale Strömungen
 ----------------------------------------
-* (M) Klassifikation
+* (M) Klassifikation XXVorschlag: (N)
   - groß/klein, 
   - Oberflächen-, Boden-, Tiefenströmungen
   - ständig, periodisch, zeitweilig auftretende Strömungen
@@ -93,7 +98,7 @@ Horizontale Strömungen
     physikalischer oder chemischer Eigenschaft
 
 * (N) Einfluss von
-  - Tiefe
+  - Tiefe/Druck
   - Beschaffenheit des Grundes (Berge, Inseln)
   
 * (M) Golfstrom kennt jeder; was noch?
@@ -115,7 +120,7 @@ Horizontale Strömungen
   - (N) Tropical Atlantic
     . "The dominant climate phenomenon in the tropical Atlantic is 
        a north/south movement of the tropical rain belt"
-    . ITCC
+    . ITCC XX unklar
     . Deep Equatorial Jets
   - (M) Atlantic Overturning Circulation
     . Created by? 
@@ -132,9 +137,8 @@ Horizontale Strömungen
   - Wechselwirkungen der Ozeane/Wasser mit dem sich darin bildenden Eis
   - Bzw. Einfluss des der Eismenge auf obige Eigenschaften
   (ware wichtig vorher auf Therm Hal Zirkulation einzugehen .. dichte unterschiede
-   als Motor der Ozeanzirkulation ehe man auf dieses Thema im detail eingehen kann)
-  
-* Wie erforscht man Strömungen? Radiologische Zusätze? 
+   als Motor der Ozeanzirkulation ehe man auf dieses Thema im Detail eingehen kann)
+   
   
 Vertikale Strömungen
 ----------------------------------------
@@ -166,9 +170,12 @@ Vertikale Strömungen
     to target the physical­-biogeochemical coupling in specific phenomena 
     such as eddies or filaments.
 
+* Wie erforscht man Strömungen? Radiologische Zusätze? 
 
+Optionale Themen:
 
-(Klima)
+(Klima)  XX Vorschlag: Dieses Kapitel streichen. Oder auf eine Frage reduzieren und diese nur kurz und knapp beantworten:
+"Warum sind die Meere so wichtig für das Klima?"
 ----------------------------------------
 * Wärmepuffer  
 
@@ -198,6 +205,8 @@ Forschungsschiffe und -reise
   - Sonne
   - fährt man auch mal mit ausländischen?
 * Leben an Bord
+  - Warum müssen da überhapt Wissenschaftler mit? Geht nicht alles automatisiert bzw.
+    von der Schiffsbesatzung durchzuführen?
   - Fährt man immer von hier aus? Oder fliegt man da hin?
   - Kabinen
   - Arbeitsalltag
@@ -243,6 +252,12 @@ Simulation und Rechnen
 
 Wrap Up
 -------------------------------------
+* Wofür sind die besprochenen Themen wichtig (außer natürlich allgemeinem Interesse und
+  generellen Zielen wie Bekämpfung von Artensterben etc.)
+  . Klima/Klimawandel?
+  . Fischfang?
+  . Schifffahrt?
+  . ...?
 * Ozeanographie und Klimawissenschaft
 * Hat Ozeanografie durch Klimawandel an Wichtigkeit gewonnen?
   
