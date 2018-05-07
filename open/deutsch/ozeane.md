@@ -43,16 +43,10 @@ Zusammensetzung
       UBoot :-)
 
 * (N) Gibt es da typische regionale Unterschiede? 
-  - wie Sand am Meer
-  - global vs regional (XX unklar)
+  - in den verschiedenen Meeren weltweit,
+  - oder innerhalb einzelner Teile desselben Meeres (Buchten)? XXFIXED
 
-* (M) Gibt es definierte Schichten? (XX Vorschlag: vor dem Kapitel "Strömungen" besprechen)
-  - So wie in der Atmosphäre? 
-    eher wie in einem geschichteten Cocktail / Cafe Latte
-  - Temperatur
-    UBoote verstecken sich unter irgendeiner Temperatur-Linie
-    (Thermokline?)
-  - gibt es so etwas wie Inversion?
+
 
 * (N) Änderung all dieser Charakteristiken 
   - Erdgeschichtlich
@@ -78,7 +72,7 @@ Zusammensetzung
 
 Horizontale Strömungen
 ----------------------------------------
-* (M) Klassifikation XXVorschlag: (N)
+* (M) Klassifikation Vorschlag: (N) XXFIXED
   - groß/klein, 
   - Oberflächen-, Boden-, Tiefenströmungen
   - ständig, periodisch, zeitweilig auftretende Strömungen
@@ -120,7 +114,7 @@ Horizontale Strömungen
   - (N) Tropical Atlantic
     . "The dominant climate phenomenon in the tropical Atlantic is 
        a north/south movement of the tropical rain belt"
-    . ITCC XX unklar
+    . Intertropical Convection Zone (ITCZ) XXFIXED
     . Deep Equatorial Jets
   - (M) Atlantic Overturning Circulation
     . Created by? 
@@ -142,7 +136,6 @@ Horizontale Strömungen
   
 Vertikale Strömungen
 ----------------------------------------
- 
 * (M) Vertikaler Austausch durch Konvektion  
   - In der Atmo ist es Thermik, also aufgeheizte Luft unten.
   - Cooling von Oberflächenwasser
@@ -151,6 +144,14 @@ Vertikale Strömungen
   - Prozesse neben Konvektion?
   - Wo findet das vor allem statt? Und warum?
   - Klimarelevanz? O, CO2
+  
+* (M) Gibt es definierte Schichten? XXFIXED
+  - So wie in der Atmosphäre? 
+    eher wie in einem geschichteten Cocktail / Cafe Latte
+  - Temperatur
+    UBoote verstecken sich unter irgendeiner Temperatur-Linie
+    (Thermokline?)
+  - gibt es so etwas wie Inversion?  
   
 * (N) Ocean Mixing  
   - smaller scale
