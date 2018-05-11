@@ -16,6 +16,7 @@
   - RAM
   - Caches
   - Buses
+  - SoC (System on a Chip)
 
 * More details on Processor components
   - Actual computation (ALU)
@@ -43,10 +44,18 @@
   - Interrupts 
     . do all processors have them?
     . what is the challenge?
-
+    . predictability and provability of processors and the effect that interrupts play
+    . Real-Time computing and Interrupts
+  - Clock / clock decoder
+    . power used in distributing clock over the processor. Some say this is very significant.
+  Loose ends:
+  - North Bridge / South Bridge
+  - Execution levels: protection
+  - Virtualization: support for hypervisors.
+  
 * Variants
   - von Neumann vs. Harvard architecture
-  - RISK cs. CISC: trade-offs?
+  - RISC cs. CISC: trade-offs? Growing together?
   - 8, 16, 32, 64 bit is about what?
   
 * Integration of the components, von Neumann Cycle:
@@ -56,6 +65,8 @@
   - what is this?
   - in which language is it "written"?
   - abstraction levels
+  - Rumors of a Minix operating system in the processor?
+  - Fixing bugs like SPECTRE in the processor?
   
 * How is a processor booted? Steps!
 
@@ -74,8 +85,9 @@
   - Register Renaming
   - Instruction Scheduling, Register Renaming & OoO Execution
   - Threads 
-    SMT, Hyper-Threading
+    SMT, Hyper-Threading, SIMD
   - Multi-Core
+    Identical vs specialized cores
 
   -> How much improvements do these all bring?
 
@@ -93,19 +105,27 @@
 * Energy efficiency
   - is this only a proc h/w issue,
   - or also relates to proc design?
+  - Clock? See above
+  - Thermodynamic limit to energy efficiency?
 
 * Differences between different processors, Milestones
   - over time 
-    Intel 8086, 80286, 386, Pentium, .... Core I7
+    Z80
+    Intel 8080, 8086, 80286, 386, Pentium, .... Core I7
+    "Transputer"
     Motorola 68000
     IBM Alpha
     IBM Power
+    Curiosity: VAX, Cray
   - In parallel:
     Intel
     ARM
     GPUs
     FPU
+    FPGA as coprocessor? Or as fabric for (ARM) processor cores?
   - word width, frequency
+  - Specialized processors for programming systems (e.g. processor that has FORTH as its "assembly" 
+    and has a separate stack memory)?
    
 * Processor design as a process ("idea to chip")
   - Layers
