@@ -139,6 +139,10 @@
   - How are ideas "tried out"?
   - (How) do you do performance prediction? Models?
   - Is the physical layout important (length of connections, speed of light)
+  - 45 nm process vs 14 nm process vs etc.
+    . What size does this refer to, and how is it reduced?
+    . Practical impact - improved speed? power efficiency? anything else?
+    . Where are we and how far can we expect to go? 
   
 * Your work: Custom processors
   - Why? Cost aspects sw/hw
