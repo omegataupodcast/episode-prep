@@ -48,6 +48,7 @@
     . Real-Time computing and Interrupts
   - Clock / clock decoder
     . power used in distributing clock over the processor. Some say this is very significant.
+    . Internal synchronization issues in processor?
   Loose ends:
   - North Bridge / South Bridge
   - Execution levels: protection
