@@ -37,6 +37,7 @@
     . data bus
     . address bus
     . Why external memory, why not just lots of registers?
+    . Direct Memory Access (DMA) by other devices - how common/important is it in practice?
   - L1, L2 caches, memory hierarchy
     . generally the importance of caching, 
     . the challenge of cache invalidation
