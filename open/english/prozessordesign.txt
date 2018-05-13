@@ -37,6 +37,7 @@
     . data bus
     . address bus
     . Why external memory, why not just lots of registers?
+    . Direct Memory Access (DMA) by other devices - how common/important is it in practice?
   - L1, L2 caches, memory hierarchy
     . generally the importance of caching, 
     . the challenge of cache invalidation
@@ -48,6 +49,7 @@
     . Real-Time computing and Interrupts
   - Clock / clock decoder
     . power used in distributing clock over the processor. Some say this is very significant.
+    . Internal synchronization issues in processor?
   Loose ends:
   - North Bridge / South Bridge
   - Execution levels: protection
@@ -139,6 +141,10 @@
   - How are ideas "tried out"?
   - (How) do you do performance prediction? Models?
   - Is the physical layout important (length of connections, speed of light)
+  - 45 nm process vs 14 nm process vs etc.
+    . What size does this refer to, and how is it reduced?
+    . Practical impact - improved speed? power efficiency? anything else?
+    . Where are we and how far can we expect to go? 
   
 * Your work: Custom processors
   - Why? Cost aspects sw/hw
