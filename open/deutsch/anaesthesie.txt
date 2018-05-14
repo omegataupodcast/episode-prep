@@ -4,6 +4,8 @@
 * Was ist Anästhesie
   - als Technik
   - vs. als Fachgebiet
+  - Anwendungsgebiete
+  - Wie wirkt Anästhesie? Leiten die Nerven noch Signale weiter? Was wird ausgeschaltet, Nerven, Rückenmark, Hirn, ...?
 
 * Arbeitsteilung Operateur/Anästhesist im OP
 
@@ -21,6 +23,7 @@
  
 * Welche Funktionen funktionieren in einer Vollnarkose noch?
   - was machen Maschinen?
+  - Wie wirkt sich Anästhesie auf Reflexe aus? (z.B. Blinzeln, Kniereflex, Atmung, ...)
 
 
 Technik
