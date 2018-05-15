@@ -1,5 +1,19 @@
+Martin Hammerschmied 
+TI Zeit
+Manu
+Simon Kohn 
+Bastian Bechtold @paperflyer
+TomTomMiro
+Martin Rützler
+Martin Stoffers
+@Jatairdo
+Stefan May
+Mathias
+Vium	
 
-Überblick
+
+
+Was ist eine (Voll-)Narkose
 ------------------------------------------------------
 * Was ist Anästhesie
   - als Technik
@@ -7,22 +21,46 @@
 
 * Arbeitsteilung Operateur/Anästhesist im OP
 
-* Vollnarkose vs. Lokalanästhesie vs. Hypnose
+* Vollnarkose vs. Lokalanästhesie
   - "Hirn aus" vs. "Nerven aus"?
-  - Hypnose als Alternative?
+  - Schmerzen unterdrücken vs. Erinnerungen daran verhindern?
+  - Hypnose als Alternative?  
 
 * Vollnarkose ist Kombination aus
   - Schmerzausschaltung
   - Aufhebung des Bewusstseins
   - Dämpfung vegetativer Funktionen 
  
+* Was ist einen Plexusanästhesie?
+ 
 * Was ist Narkose für ein Zustand, insbesondere bzgl. der Bewusstseins
   - verglichen mit Schlaf
+  - verglichen mit Koma
+  - verglichen mit künstl Koma
   - verglichen mit dem Tod
  
-* Welche Funktionen funktionieren in einer Vollnarkose noch?
-  - was machen Maschinen?
+* In der Narkose ...
+  - was kriegt man in einer Narkose (noch) mit?
+  - wahrnehmen, aber nicht signalisieren/kommunizieren?
+  - Reflexe? (z.B. Blinzeln, Kniereflex, Atmung, ...)
+  - Sinnesschärfung
 
+* Was muss durch Maschinen kompensiert werden?
+  - Atmung?
+  - Herz macht weiter, oder?
+
+* Übergangszustände
+  - Aufwachen: "Jemand spricht mich an und fragt mich wie es mir geht. 
+    Aber wer bin ich u wie geht es mir?") 
+  - Wegtreten: "Ich sprech in den letzten Sek., aber was rede ich da?"
+  - Schrittweises "ausgehen" der Sinne:
+    Hörer: Ich erinnere mich bei/vor einer Vollnarkose noch die Worte: "Jetzt ist
+    er weg, dann können wir ja loslegen", gehört zu haben (Bewegen und
+    Schauen ging auch nicht mehr). Wie oft wird über sowas berichtet/kommt
+    das vor?
+
+* Wie lange kann man eine Narkose andauern lassen?
+  “wir lassen ihn noch schlafen” (Auswirkungen);
 
 Technik
 ------------------------------------------------------
@@ -32,27 +70,71 @@ Technik
   - Aufhebung des Bewusstseins -> Hypnotika, Sedativa oder Inhalationsanästhetika
   - Dämpfung vegetativer Funktionen 
   - wie werden diese zugeführt und dosiert?
+
+* Wird heute in Kliniken bei „normalen“ Eingriffen, Ketamin (Ketanest) eingesetzt? 
+  Oder nur in der Notfallmedizin am Unglücksort?
+ 
+* Wie wirkt Anästhesie? 
+  - Leiten die Nerven noch Signale weiter? Was wird ausgeschaltet, Nerven, Rückenmark, Hirn, ...?
+  - Weiss man das im Detail?
  
 * Reagiert der Körper mit Narkose anders als ohne 
   (abgesehen vom offensichtlichen Schmerz f. d. Patienten)
 
 * Welche Funktionen werden in einer Narkose überwacht?
+  - Blutdruck
+  - Puls
+  - Temperatur
+  ...
+
+* Woran erkennt man den Zustand, Tiefe einer Narkose?
+  - CO2
+  - dass der Patient "aufwacht"?
 
 * Unterschiedliche Narkosen je nach OP
   - Schwere
   - Dauer
   - ?
 
-* Unterschiede Alter/Größe/?
-  
-* Woran erkennt man, dass der Patient "aufwacht"?
+* Unterschiede je nach 
+  - Alter 
+  - Größe
+  - Gewicht
+  - Blutwerte
+  - innere Einstellung
+  - Alkohol
+  - Sport
+  - Schmerzempfindlichkeit,...?)? 
+  Wie erfährt man als Arzt diese weniger messbaren Werte?
+     
+* Spezielle Zustände nach der Narkose, welche gibt es und wie erklären sie sich 
+  - Delirzustände
+  - Nach einer Vollnarkose sprechen die Patienten (teilweise nach Wochen
+    noch) Dinge aus wie „der schöne grüne Himmel“ und realisieren es nicht.
+    Woher kommt dieser Effekt ? 
 
 * Ungewollte Nebeneffekte: Muskelrelaxation?
   - ist ja nicht bei allen Muskeln so hilfreich
+  - andere Komplikationen?
+
+* Inwiefern ist eine Narkose an sich eine Belastung für den Körper?
+  - sterben auch mal Menschen aufgrund einer Narkose?
+    Statistiken?
+  - oder ist das "Urlaub", weil Maschinen funktionen übernehmen?
+
+* Welche anderen Aspekte, neben den reinen Lebensfunktionen, muss man in einer OP erhalten?
+  - Wie verhindert man eine Unterkühlung der Patienten? 
+  - Beatmung, Tubus
+
+* Wieso wird beim Kaiserschnitt das Baby nicht narkotisiert?
+
+* Geschichte der Anästhesie.
+
 
 Eine OP
 -----------------------------------------
 * Vorbereitung Narkose, Voraussetzungen
+
 * Ablauf
   - Einleitung der Narkose
   - Feststellung dass der Patient "schläft"
@@ -61,14 +143,18 @@ Eine OP
   
 * Aufwachraum
 
-* Teilnarkose: 
-
 * Intensivmedizin  
   - was sieht man auf so einem Intensiv-Equipment?
 
+Können wir einen OP und einen Intensivplatz besichtigen um zu 
+besprechen mit welchen Geräten man da arbeitet?
 
 Patientensicherheit
 -----------------------------------------------
 * was jenseits der Anä-Lebenserhaltung?
 * was kann man aus der Fliegerei lernen?
   
+  
+Wrap Up
+--------------------------------------
+* Bezug zur Schmerztherapie
