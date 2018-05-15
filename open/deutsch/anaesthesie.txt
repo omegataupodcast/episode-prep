@@ -7,8 +7,9 @@
 
 * Arbeitsteilung Operateur/Anästhesist im OP
 
-* Vollnarkose vs. Lokalanästhesie
+* Vollnarkose vs. Lokalanästhesie vs. Hypnose
   - "Hirn aus" vs. "Nerven aus"?
+  - Hypnose als Alternative?
 
 * Vollnarkose ist Kombination aus
   - Schmerzausschaltung
