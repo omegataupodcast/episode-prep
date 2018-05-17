@@ -1,4 +1,4 @@
-* Introduction Paolo Ienne
+* Introduction 
 
 * Basics Processor
   - ALU
