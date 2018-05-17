@@ -41,12 +41,23 @@ Was ist eine (Voll-)Narkose
  
 * In der Narkose ...
   - was kriegt man in einer Narkose (noch) mit?
+	. Wach und Schmerz 
+	. Wach, kein Schmerz 
+	. Explizite Erinnerung 
+	. Implizite Erinnerung
+	Blöd, wenn man Schmerzen hat, das aber nicht sagen kann
   - wahrnehmen, aber nicht signalisieren/kommunizieren?
   - Reflexe? (z.B. Blinzeln, Kniereflex, Atmung, ...)
   - Sinnesschärfung
 
+
+
 * Was muss durch Maschinen kompensiert werden?
-  - Atmung?
+  - Atmung
+  - Kreislaufregulation (Blutverlust)
+  - teilweise Stoffwechsel
+  - Temperatur 
+  - Hirnfunktion
   - Herz macht weiter, oder?
 
 * Übergangszustände
@@ -86,10 +97,21 @@ Technik
   - Puls
   - Temperatur
   ...
+  
+* ... und kompensiert
+  - Atmung
+	  - Kreislaufregulation (Blutverlust)
+  - teilweise Stoffwechsel
+  - Temperatur 
+  - Hirnfunktion
+  - Herz macht weiter, oder?
+
 
 * Woran erkennt man den Zustand, Tiefe einer Narkose?
   - CO2
   - dass der Patient "aufwacht"?
+  - EEG
+  - Neuronale Restblockaden
 
 * Unterschiedliche Narkosen je nach OP
   - Schwere
@@ -109,6 +131,7 @@ Technik
      
 * Spezielle Zustände nach der Narkose, welche gibt es und wie erklären sie sich 
   - Delirzustände
+  - Schlechtsein?
   - Nach einer Vollnarkose sprechen die Patienten (teilweise nach Wochen
     noch) Dinge aus wie „der schöne grüne Himmel“ und realisieren es nicht.
     Woher kommt dieser Effekt ? 
@@ -121,6 +144,7 @@ Technik
   - sterben auch mal Menschen aufgrund einer Narkose?
     Statistiken?
   - oder ist das "Urlaub", weil Maschinen funktionen übernehmen?
+  - ASA Levels	
 
 * Welche anderen Aspekte, neben den reinen Lebensfunktionen, muss man in einer OP erhalten?
   - Wie verhindert man eine Unterkühlung der Patienten? 
@@ -153,6 +177,16 @@ Patientensicherheit
 -----------------------------------------------
 * was jenseits der Anä-Lebenserhaltung?
 * was kann man aus der Fliegerei lernen?
+* Fehlerkultur
+* Hierarchie, CRM
+* Straffrei
+* Anonymes Reporting, CHIRP
+* Systematischer Umgang mit Fehlern und Learnings
+* Blaming einer Person vs. Swiss Cheese Model
+* DIe Hygiene-Checklisten-Studie
+* Abwägung von Standards/Best Practices vs. Erfahrung/Abweichung
+* ... aber ECHTE Fehler müssen auch geahndet werden, oder?
+* Second Hurt, Second Victim
   
   
 Wrap Up
