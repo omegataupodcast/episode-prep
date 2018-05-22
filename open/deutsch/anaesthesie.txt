@@ -188,6 +188,7 @@ Patientensicherheit
 * Abwägung von Standards/Best Practices vs. Erfahrung/Abweichung
 * ... aber ECHTE Fehler müssen auch geahndet werden, oder?
 * Second Hurt, Second Victim
+* Welche Nebenwirkung / Langzeitschäden sind hier zu erwarten ? --> Wie hängt das mit der Intensität zusammen (jeden Tag schmerzatbletten / lokale anästesie -> welche folgen ) ? 
   
   
 Wrap Up
