@@ -157,4 +157,6 @@
     
   
 * Research - what is currently being researched?
+ - Limits of current CPU manufacturing and design processes (few atom layers left)
+ - Quantum Computing - Differences, What will be possible and what will NOT be possible
   
