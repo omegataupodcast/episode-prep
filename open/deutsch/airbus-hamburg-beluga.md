@@ -43,6 +43,7 @@ Die Beluga
 * Gewichte.
 * Große Klappe :-)
 * Nachfolger? Braucht man dann auch neue Halle?
+* Wird Airbus der einzige Betreiber bleiben?
 
 
 Flugzeugkonstruktion und -fertigung
