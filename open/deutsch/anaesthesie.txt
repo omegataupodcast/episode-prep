@@ -51,7 +51,6 @@ Was ist eine (Voll-)Narkose
   - Sinnesschärfung
 
 
-
 * Was muss durch Maschinen kompensiert werden?
   - Atmung
   - Kreislaufregulation (Blutverlust)
@@ -72,6 +71,7 @@ Was ist eine (Voll-)Narkose
 
 * Wie lange kann man eine Narkose andauern lassen?
   “wir lassen ihn noch schlafen” (Auswirkungen);
+
 
 Technik
 ------------------------------------------------------
@@ -96,8 +96,9 @@ Technik
   - Blutdruck
   - Puls
   - Temperatur
+  - Adrenalin? Durch Schmerzen?
   ...
-  
+   
 * ... und kompensiert
   - Atmung
 	  - Kreislaufregulation (Blutverlust)
@@ -112,6 +113,12 @@ Technik
   - dass der Patient "aufwacht"?
   - EEG
   - Neuronale Restblockaden
+
+* Dosierung?
+  - von hand?
+  - automatisch?
+  - was passiert bei zu wenig ...
+  - ... oder bei zu viel?
 
 * Unterschiedliche Narkosen je nach OP
   - Schwere
@@ -141,7 +148,6 @@ Technik
   - andere Komplikationen?
 
 * Inwiefern ist eine Narkose an sich eine Belastung für den Körper?
-  - Unverträglichkeiten des Narkosemittels? Maligne Hypothermie?
   - sterben auch mal Menschen aufgrund einer Narkose?
     Statistiken?
   - oder ist das "Urlaub", weil Maschinen funktionen übernehmen?
