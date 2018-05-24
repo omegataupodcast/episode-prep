@@ -1,23 +1,25 @@
-* Introduction 
+* Introduction of Lex Augusteijn
 
-* Basics Processor
+Basics 
+----------------------------------------------------
+
+* Computer Architecture vs. Processor Architecture
+  - Difference between the two
+  - CPU vs. other Processors, eg. for graphics
+  - RAM
+  - Caches
+  - Buses
+  - SoC (System on a Chip)
+
+* We'll talk mostly about the CPU, so: Basics Processor
   - ALU
   - Registers
   - Controller
   - Memory (Data)
   - Memory (Program)
   - Program Counter
-  -> how do those play together; later explain details
+  how do those play together roughly; later explain details
  
-* Computer Architecture vs. Processor Architecture
-  - Difference between the two
-  - CPU
-  - other Processors, eg. for graphics
-  - RAM
-  - Caches
-  - Buses
-  - SoC (System on a Chip)
-
 * More details on Processor components
   - Actual computation (ALU)
     . arithmentic
@@ -38,31 +40,29 @@
     . address bus
     . Why external memory, why not just lots of registers?
     . Direct Memory Access (DMA) by other devices - how common/important is it in practice?
+  - Clock / clock decoder
+    . power used in distributing clock over the processor. Some say this is very significant.
+    . Internal synchronization issues in processor?
+  - Control unit?
+  - Integration of the components, von Neumann Cycle:
+    . fetch, decode, execute, writeback
   - L1, L2 caches, memory hierarchy
     . generally the importance of caching, 
     . the challenge of cache invalidation
-  - Control unit?
   - Interrupts 
     . do all processors have them?
     . what is the challenge?
     . predictability and provability of processors and the effect that interrupts play
     . Real-Time computing and Interrupts
-  - Clock / clock decoder
-    . power used in distributing clock over the processor. Some say this is very significant.
-    . Internal synchronization issues in processor?
-  Loose ends:
-  - North Bridge / South Bridge
-  - Execution levels: protection
-  - Virtualization: support for hypervisors.
+  - Loose ends:
+    . Chipset: North Bridge / South Bridge
+    . Execution levels: protection, rings
   
 * Variants
   - von Neumann vs. Harvard architecture
   - RISC cs. CISC: trade-offs? Growing together?
   - 8, 16, 32, 64 bit is about what?
   
-* Integration of the components, von Neumann Cycle:
-  fetch, decode, execute, writeback
-
 * Microcode 
   - what is this?
   - in which language is it "written"?
@@ -72,17 +72,19 @@
   
 * How is a processor booted? Steps!
 
+Optimizations in Modern Processors
+----------------------------------------------------
+
 * Optimization in modern Processors
   - Pipelining & Instruction-Level Parallelism
   - Caching also part of this aspect?
   - Deeper Pipelines – Superpipelining
   - Superscalar Execution - what is this?
   - Branch Prediction
-    static vs. dynamic
-    two-bit prediction scheme
-    (a bit like 
+    . static vs. dynamic
+    . two-bit prediction scheme
   - Speculative Execution
-    can only be done for stuff with no sideeffects, right?
+    . can only be done for stuff with no sideeffects, right?
   - Explicit Parallelism – VLIW
   - Register Renaming
   - Instruction Scheduling, Register Renaming & OoO Execution
@@ -97,12 +99,16 @@
   - Do compilers specifically "generate code" for these features?
     how? examples?
   - spatial vs. temporal computing?
+  
+
+Additional Concerns
+----------------------------------------------------
 
 * Security
   - EP
   - ASLR
   - endbrach 
-   shadow stack
+  - shadow stack
    
 * Energy efficiency
   - is this only a proc h/w issue,
@@ -110,51 +116,46 @@
   - Clock? See above
   - Thermodynamic limit to energy efficiency?
 
-* Differences between different processors, Milestones
-  - over time 
-    Z80
-    Intel 8080, 8086, 80286, 386, Pentium, .... Core I7
-    "Transputer"
-    Motorola 68000
-    IBM Alpha
-    IBM Power
-    Curiosity: VAX, Cray
-  - In parallel:
-    Intel
-    ARM
-    GPUs
-    FPU
-    FPGA as coprocessor? Or as fabric for (ARM) processor cores?
-  - word width, frequency
-  - Specialized processors for programming systems (e.g. processor that has FORTH as its "assembly" 
-    and has a separate stack memory)?
+* Virtualization: support for hypervisors.
+
+
+History
+----------------------------------------------------
+
+* over time 
+  - Z80
+  - Intel 8080, 8086, 80286, 386, Pentium, .... Core I7
+  - Motorola 68000
+  - IBM Alpha
+  - IBM Power
+  - Curiosity: VAX, Cray
+* In parallel:
+  - Intel
+  - ARM
+  - GPUs
+  - FPU
+  - FPGA as coprocessor? Or as fabric for (ARM) processor cores?
+
+* Specialized processors for programming systems (e.g. processor that 
+  has FORTH as its "assembly" and has a separate stack memory)?
    
-* Processor design as a process ("idea to chip")
-  - Layers
-    . Specification
-    . Architecture
-    . Register Transfer (VHDL)
-    . Netlist (Gates and memories)
-    . Netlist (Transistors)
-    . Layout
-  - Where do the requirements come from?
-  - How are ideas "tried out"?
-  - (How) do you do performance prediction? Models?
-  - Is the physical layout important (length of connections, speed of light)
-  - 45 nm process vs 14 nm process vs etc.
-    . What size does this refer to, and how is it reduced?
-    . Practical impact - improved speed? power efficiency? anything else?
-    . Where are we and how far can we expect to go? 
-  
-* Your work: Custom processors
-  - Why? Cost aspects sw/hw
-  - ASIC/FPGAs?
-  - ARC 625D what is this?
-  - conf options.
-  - Design Methodologies
-  - Arch Description Language
-    How does the C code in LISA become H/W
+Processor Design ("idea to chip")
+--------------------------------------------------
+* Layers
+  - Specification
+  - Architecture
+  - Register Transfer (VHDL)
+  - Netlist (Gates and memories)
+  - Netlist (Transistors)
+  - Layout
+* Where do the requirements come from?
+* How are ideas "tried out"?
+* (How) do you do performance prediction? Models?
+* Is the physical layout important (length of connections, speed of light)
+* 45 nm process vs 14 nm process vs etc.
+  - What size does this refer to, and how is it reduced?
+  -  Practical impact - improved speed? power efficiency? anything else?
+  - Where are we and how far can we expect to go? 
     
-  
 * Research - what is currently being researched?
   
