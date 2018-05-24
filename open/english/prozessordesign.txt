@@ -158,4 +158,6 @@ Processor Design ("idea to chip")
   - Where are we and how far can we expect to go? 
     
 * Research - what is currently being researched?
+ - Limits of current CPU manufacturing and design processes (few atom layers left)
+ - Quantum Computing - Differences, What will be possible and what will NOT be possible
   
