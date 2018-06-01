@@ -1,3 +1,18 @@
+LEX:
+
+ Virtual memeory, MMU
+> Power as a topic in itself, e.g. DVS (dynamic voltage scaling) and DFS
+> (frequency), clock-gating and power gating. Leakage.
+> Clock domains
+> Embedded vs. big core CPU
+> Bugs ( Pentium floating point, security bugs, like Spectre)
+> Moore's low and processor speed/complexity over the years. Gate counts.
+> Media processors
+> Physical limits: atom size, wire domination, power density.
+> Silicon technology?
+>
+
+
 * Introduction of Lex Augusteijn
 
 Basics 
