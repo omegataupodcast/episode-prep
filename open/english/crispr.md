@@ -1,8 +1,7 @@
 Introduction
 -------------------------------
 
-* Introduction of Krzysztof
-  - why is it us talking about this :-)
+* Introduction of Guest
 
 * What is CRISPR
   - Abbreviation?
@@ -141,16 +140,6 @@ Specific CRISPR applications
 * Why is it that CRISPR can be applied to all organisms, 
   not just the typical model ones?
 
-
-How was it found
--------------------------------------
-
-* Talk a bit about the process of discovering it
-  - over the years, timeline
-  - recent breakthrough
-  - seredipidous?
-
-* What has changed since it was discovered?
 
 Wrap Up
 -------------------------------------
