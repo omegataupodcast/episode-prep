@@ -10,5 +10,8 @@ Die Grundlagen des Hubschrauberfliegen an sich haben wir inzwischen auch erklär
 * Fliegerisches & Gerät im Vergleich: BK 117
 * Fliegerisches & Gerät im Vergleich: Bo 105
 * Aufgaben und Einsätze
+* Besatzungen
+  - Struktur, auch je nach Einsatz
+  - wie wird man Hubschrauberpilot bei der Polizei?
 * Begleitung im Einsatz / Mitflug
   - Aufzeichung Intercom (später rausschneiden wegen Datenschutz)
