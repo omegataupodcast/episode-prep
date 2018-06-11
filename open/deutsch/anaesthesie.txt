@@ -81,6 +81,8 @@ Technik
   - Aufhebung des Bewusstseins -> Hypnotika, Sedativa oder Inhalationsanästhetika
   - Dämpfung vegetativer Funktionen 
   - wie werden diese zugeführt und dosiert?
+  - complications of the blood/brain barrier?
+  - effects on the rest of the body?
 
 * Wird heute in Kliniken bei „normalen“ Eingriffen, Ketamin (Ketanest) eingesetzt? 
   Oder nur in der Notfallmedizin am Unglücksort?
@@ -119,6 +121,7 @@ Technik
   - automatisch?
   - was passiert bei zu wenig ...
   - ... oder bei zu viel?
+  - margins of working: what is the ratio between "deadly" or "damaging" vs "just enough"?
 
 * Unterschiedliche Narkosen je nach OP
   - Schwere
@@ -142,6 +145,9 @@ Technik
   - Nach einer Vollnarkose sprechen die Patienten (teilweise nach Wochen
     noch) Dinge aus wie „der schöne grüne Himmel“ und realisieren es nicht.
     Woher kommt dieser Effekt ? 
+  - any additional problems for people undergoing repeated narcosis? serial operations?
+  - lasting damage possible?
+  - difference between long and short operations?
 
 * Ungewollte Nebeneffekte: Muskelrelaxation?
   - ist ja nicht bei allen Muskeln so hilfreich
