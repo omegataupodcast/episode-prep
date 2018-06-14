@@ -1,0 +1,36 @@
+- Vorstellung
+  . wo sind wir hier
+
+- Was genau machen Sie
+  . wie groß die Firma?
+  . Privatinitiative?
+  . seit wann?
+
+- Rohstoffe
+  . welche 
+  . was darf nicht drin sein?
+  . Woher kommen die Rohstoffe
+    . geographisch?
+    . Veträge?
+  . und wie kommen die zu Ihnen?
+
+- Wirkungsgrade 
+  . Abfälle (bzw. andere verwertbare Outputs)
+  . was wird mit den Abfällen sonst getan
+    . Müllverbrennung?
+
+- Einspeise-Infrastruktur
+  . welches Netz
+  . welche Spannung
+  . wer definiert wann wieviel eingespeist wird
+
+- Vergütung, Tarife, Subventionen
+  . EEG
+
+- Der Entwicklung vom Bauernhof zum Kraftwerk
+  Plan B statt Landwirtschaft?
+
+============================
+
+- Wie funktioniert der Kraftwerksprozess
+- Komponenten, Steuierung
