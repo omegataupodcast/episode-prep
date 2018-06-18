@@ -1,0 +1,53 @@
+Einführung 
+-----------------------------------------------------
+* Kurzer Überblick über die Johanniter Luftrettung
+  - Helis
+  - Standorte
+  - Geschichte
+* Eingliederung in Luftrettungsinfrastruktur
+* Arbeitsteilung Johanniter / Heli-Flight
+
+Pilot
+-------------------------------
+* Spezielle Lizenzen/Quali der Piloten für Ambulanzflüge?
+* Warum grade die AS 365
+  - Leistungsdaten des Hubschraubers
+  - Ausstattung/Instrumente
+  - Walk-around um den Heli
+* Wann/warum IFR? Problem des Starts/Landung?
+* Wetterlimits
+  - Heli
+  - Patient
+* Typischer Ablauf eines Fluges aus Sicht der Piloten;
+  - Flugplan? 
+  - Zeitlicher Vorlauf?
+* Kann die Dauphin an alles Krankenhäusern landen?
+* Klassische Rettungsheli-Notfalleinsätze, so wie die 135 und 145
+  macht der ITH nicht? 
+* Arbeit, Schichten, Standby
+  
+Mediziner
+---------------------------------
+* Medizinische Ausrüstung (durchaus im Detail)
+* Warum grade die Standorte? 
+  - Grade Reichelsheim und Gießen sind ja nah beieinander. 
+  - Wegen ihrer zentralen Lage in DE?
+* Einige Beispiele für Missionen aus medizinsicher Sicht?
+  - Grenzen? Wann ist der Patient nicht mehr transportfähig?
+  - Vorbereitungen des Patienten?
+  - Steht vermutlich oft im Zusammenhang mit Spezialkliniken,
+    sonst wäre ein weiter Transport ja eher sinnvoll
+* Fliegt der betreuende Arzt mit?
+  - oder sind immer Ärzte der Johanniter an Bord?
+* Übergabe: mobile Lebenserhaltungsgeräte?
+* Ist der (oft dann wohl) lange Anflug von Gießen
+  oder Reichelsheim aus kein Problem? 
+  - Oder sind die Einsätze planbar und nicht eilig?
+* Wann per Heli, wann Krankenwagen?
+
+Mitflug
+------------------------------------------
+Ich würde (soweit es niemand stört) erzählen was 
+passiert, den einen oder anderen O-Ton einfachen und
+im Flug das Intercom/Funk aufzeichen. Damit lässt sich
+ein schönes Bild eines Einsatzes zeichnen.
