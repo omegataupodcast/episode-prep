@@ -26,6 +26,7 @@ Pilot
 * Klassische Rettungsheli-Notfalleinsätze, so wie die 135 und 145
   macht der ITH nicht? 
 * Arbeit, Schichten, Standby
+* Internationale Überstellungen / Repatriierung
   
 Mediziner
 ---------------------------------
