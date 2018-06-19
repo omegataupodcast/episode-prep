@@ -21,6 +21,7 @@ Pilot
 * Typischer Ablauf eines Fluges aus Sicht der Piloten;
   - Flugplan? 
   - Zeitlicher Vorlauf?
+* Wo tankt ihr? Zwischenlandungen?
 * Kann die Dauphin an alles Krankenhäusern landen?
 * Klassische Rettungsheli-Notfalleinsätze, so wie die 135 und 145
   macht der ITH nicht? 
@@ -44,6 +45,7 @@ Mediziner
   oder Reichelsheim aus kein Problem? 
   - Oder sind die Einsätze planbar und nicht eilig?
 * Wann per Heli, wann Krankenwagen?
+
 
 Mitflug
 ------------------------------------------
