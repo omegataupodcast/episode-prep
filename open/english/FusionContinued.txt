@@ -12,14 +12,22 @@ How does/did each of them contribute?
 1990s: Deuterium-tritium fuel
 2000s: Supercomputers
 
-The Current Status of ITER
+The Current Status
 ----------------------------------------
-Only a Summary - we've had the episode!
+* Quick recap of ITER's goal
+* What is the current state of ITER
+  - building progress
+  - project/financial status
+* Overview over other relevant fusion research
+* Updated timeframe for real-world fusion energy?
+  20 years :-) ?
 
 Engineering/Materials:
 --------------------------------
 * Why is the complexity of fusion a reason for confidence in its future?
-* How should we evaluate the outlook for fusion startups compared to governmental projects?
+* Fusion startups
+  - which exist?
+  - outlook compared to governmental projects?
 * To what degree does fusion actually solve the fission's radioactive waste 
   and weapons proliferation problems? (as Jason mentioned)
 * How does the environmental footprint of a fusion plants´ part production and 
@@ -35,15 +43,15 @@ Economics
 --------------------------------------
 * What electricity network architecture is necessary for the accommodation 
   of future fusion plants? 
+  - It's traditional/centralized, right?
   - See also: North/South connection project in Germany and its difficulties
   - how does it fit with decentralization, smaller plants?
-* What could be a suitable form of organisation to enable the efficient planning and construction of fusion plants?
-  Can the ENTSO-E integrate these plants into the existing European grid structure, or are other ways of management necessary? 
+* What could be a suitable form of organisation to run these plants?
 * How likely is it that fusion plants will be operated by current energy enterprises? 
   (Business models: Public-Private Partnerships, could Fusion lead to 
    socialisation of electricity infrastructure?)
 * Does the heavy industry need to adapt for the production of fusion plant components? 
-  (Are the required materials exotic? Do they require unusual manufacturing processes?)
+  (Are the required materials exotic do they require unusual manufacturing processes?)
 
 
 Future
