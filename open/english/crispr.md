@@ -25,7 +25,6 @@ discussion to work. I think the following should suffice:
 * RNA
 * Enzymes
 * Nuclease
-* Palindrome? Repeat? 
 
 
 What is Genome Editing
@@ -41,12 +40,10 @@ What is Genome Editing
 
 * Gene Editing on Living cells seems to be new? 
   Practical, because no breeding of generations and 
-  generations in order to change genome.
+  generations necessary in order to change genome.
 
-* Does (irrational) fear of GMOs carry over to CRISPR/Cas9 editing? 
-* Do legal restrictions on GMOs apply to CRISPR edited organisms?
 
-The natural occuring thing
+From natural CRISPR to CRISPR/Cas9
 ------------------------------------------
 
 * CRISPR is actually a naturally-occurring, ancient defense 
@@ -71,12 +68,14 @@ How to do Genome Editing with CRISPR/Cas
 
 * Guide RNA 
 
-* Cutting DNA alone is not enough, because the cell might repair it randomly. 
+* Cutting DNA alone is not enough, 
+  because the cell might repair it randomly. 
   So we have to supply the spare.
 
 * Simple: a transfection
-  (compared to what earlier?)
-
+  - what is this?
+  - compared to what earlier?
+  
 * How does it work, specifically
 
 * Different usage scenarios: 
@@ -97,14 +96,14 @@ How to do Genome Editing with CRISPR/Cas
    you want. All you have to do is design a target sequence using an online tool 
    and order the guide RNA to match."
 
-  "Occasionally, though, the enzyme still cuts in the wrong place, which
-   is one of the stumbling blocks for wider use, especially in the clinic."
-
-  - More on accuracy of CRISPR: How about reports on multiple non-targeted (undesirable) changes? Up to thousands? Was that completely rebutted?
-
-
-  - How do you quality control that the editing went well?
+* Accuracy
   - how reliable are the editing processes?
+  - Occasionally the enzyme still cuts in the wrong place
+    - Problem in practice?
+    - reports on multiple non-targeted changes? 
+      Up to thousands? 
+      Was that completely rebutted?
+  - How do you quality control that the editing went well?
   - is this a "on average" thing?
 
 * Target many genes at once. 
@@ -120,14 +119,12 @@ Specific CRISPR applications
 * It is currently a research tool or "industry ready?
   - how would it be used in research?
 
-* https://www.heise.de/tp/features/Genmanipulierte-menschliche-Embryonen-Zweifel-am-Durchbruch-3848037.html - nice summary about  (technical, but also ethical) issues. 
+* The prob that many genes are involved in many things is still there, right?
 
 * Research tool "mouse editing"?
   - What is a knock-out mouse, how did 
   - How did you create them before,
   - how do you do it with CRISPR?
-
-* The prob that many genes are involved in many things is still there, right?
 
 * Applications
   - from creating monkeys with targeted mutations 
@@ -140,18 +137,22 @@ Specific CRISPR applications
 * Why is it that CRISPR can be applied to all organisms, 
   not just the typical model ones?
 
-* Which patent battles are being fought over medically relevant
-  CRISPR? How do they (or might their outcomes) affect academic
-  research and clinical trials? Are commercial investments halted
-  until the patent issues are resolved?
 
 
 Wrap Up
 -------------------------------------
 
+* Does (irrational) fear of GMOs carry over to CRISPR/Cas9 editing? 
+
+* Do legal restrictions on GMOs apply to CRISPR edited organisms?
+
 * CRISPR could become a major force in ecology and conservation, 
+
+* Which patent battles are being fought over medically relevant
+  CRISPR? How do they (or might their outcomes) affect academic
+  research and clinical trials? Are commercial investments halted
+  until the patent issues are resolved?
 
 * Ethical issues?
  
-* Do you know the fantastic music/video by A Capella Science on that topic? https://youtu.be/k99bMtg4zRk
-
+s
