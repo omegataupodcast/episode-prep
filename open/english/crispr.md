@@ -140,6 +140,11 @@ Specific CRISPR applications
 * Why is it that CRISPR can be applied to all organisms, 
   not just the typical model ones?
 
+* Which patent battles are being fought over medically relevant
+  CRISPR? How do they (or might their outcomes) affect academic
+  research and clinical trials? Are commercial investments halted
+  until the patent issues are resolved?
+
 
 Wrap Up
 -------------------------------------
