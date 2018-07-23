@@ -1,0 +1,116 @@
+Steps to getting here
+--------------------------------
+How does/did each of them contribute?
+
+1920s: Understanding stars 
+  chem energy => binding energy
+  fusion 4 x 1 nuclei  => 1x4
+  mass defect
+  
+1950s: A kick-start for fusion
+  perhapsatron
+
+1960s: The tokamak 
+  stellarator
+
+1960s: Superconducting magnets
+
+1970s: Bootstrap current
+  
+1980s: H-mode
+  
+1980s: Plasma shaping
+  mech stress
+  airbus 
+
+1990s: Deuterium-tritium fuel
+  first gen fuel
+  benefit of fusion no radioact
+ 
+2000s: Supercomputers
+  
+
+
+The Current Status
+----------------------------------------
+* What is the current state of ITER
+  - building progress
+  - project/financial status
+* Quick recap of ITER's goal
+* Updated timeframe for real-world fusion energy?
+  20 years :-) ?
+
+* Overview over other relevant fusion research
+  Stellarator
+  
+* Fusion startups
+  - which exist?
+  - outlook compared to governmental projects?
+  - cold fusion
+
+
+
+Engineering/Materials:
+--------------------------------
+* Why is the complexity of fusion a reason for confidence 
+  in its future?
+  
+* How much maintainability can be introduced into 
+  fusion plant design? 
+  (Making part replacement easier 
+  to shorten maintenance downtimes)
+
+* iter does not take away the energy
+
+* What is a reasonable prognosis for the availability of 
+  a future fusion plant? 
+  (How much maintenance downtime per productive uptime)  
+  
+* How does the environmental footprint of a fusion 
+  plants´ part production and 
+  construction compare to those of the alternatives 
+  mentioned in the book? 
+  (The CO2 output of solar cell production is 
+  mentioned, that of the materials for 
+  fusion (Tungsten etc.) is not)  
+  
+* To what degree does fusion actually solve the fission's 
+  radioactive waste 
+  and weapons proliferation problems? 
+  (as Jason mentioned)
+
+
+
+Economics
+--------------------------------------
+* What electricity network architecture is necessary 
+  for the accommodation 
+  of future fusion plants? 
+  - It's traditional/centralized, right?
+  - See also: North/South connection project in Germany 
+    and its difficulties
+  - how does it fit with decentralization, smaller plants?
+
+* how many of these would we need?
+
+* economic positive energy
+
+* What could be a suitable form of organisation to run 
+  these plants?
+* How likely is it that fusion plants will be operated by current energy enterprises? 
+  (Business models: Public-Private Partnerships, 
+  could Fusion lead to 
+   socialisation of electricity infrastructure?)
+* Does the heavy industry need to adapt for the 
+production of fusion plant components? 
+  (Are the required materials exotic do they 
+  require unusual manufacturing processes?)
+
+* against fusion
+* why not just solar?
+
+Future
+-------------------------
+* What are the communities' plans for after ITER?
+
+your researxh
