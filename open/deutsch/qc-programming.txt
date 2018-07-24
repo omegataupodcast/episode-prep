@@ -1,0 +1,93 @@
+Recap
+----------------------------------
+* Prinzip
+
+* Zustandsraum eines QBits
+  - 1/0, +/-
+  - Superposition
+  - Entanglement
+
+* Engineering 
+  - Relativ kleiner Zustandsraum: 64 QBits
+  - wie baut man so Dinger
+  - wie groß sind die Dinger? Laboraufbau oder USB Device :-)? 
+
+
+Computational Model
+------------------------------------------
+* Was ist ein Computational Model
+  - Befehl und Mutable State
+  - Funktional
+  als Beispiele
+
+* QC is stateful. not functional. Sogar noch "schlimmer",
+  denn auch lesen ändert Zustand
+
+* QC sind immer Coprozessoren
+  (wie Analogcomputer oder Grafikkarten)
+* Klassisches Programm wird verwendet zu
+  - Datenaufbereitung
+  - Programmaufbau (Processing Chain, "Versuchsaufbau")
+  - Steuerung des QC
+  - Auslesen/Messen der Ergebnisse
+* Classical state -> H -> Quantum state -> compute -> H -> Classical State
+
+* Es gibt also eine API gegen die man "klassisch programmieren" kann
+
+* Quantenprogramm kann sehr gut simuliert werden
+  - mittels Vektor- und Matrixalgebra,
+  - aber natürlich ohne die Speedups wegen denen
+    man Quantencomputer überhaupt verwendet
+  - was genau macht es dann "klassisch infeasible"?
+  
+* Generelles Problem: lesen hat einen Seiteneffekt!
+  - Es kollabiert die Quantenfunktion - siehe später
+    (was genau passiert da?)
+  - das ist FUNDAMENTAL anders als bei KC
+
+* Es gibt keine High Level Operatoren, sondern eine Reihe
+  von Basics, die AND, OR, XOR, etc. entsprechen
+  - X, H, CNOT.... welche noch?
+  - diese entsprechen iGG  (teilweise seltsamen) 
+    physikalischen Operationen auf Atomen
+  
+* We've developed the unit circle state machine -> abstraction, 
+  forget lower vector math level
+
+* Alle Ops reversibel
+  - heißt was?
+  - warum ist das wichtig?
+  
+* Die QBits sind nicht dauerhaft stabil. Was bedeutet das
+  für den Umgang mit QCs im Rahmen von Programmen?
+
+* Es gibt Fehler im Setup, and generell Quantum Noise.
+  Was tut man dagegen?
+
+* Gate mOdel vs. Annealing Model    	
+
+* What abt testing if you can‘t read
+
+
+Eure Anwendung
+-----------------------------------------
+* Kann man mit 64QBits was sinnvolles tun?
+* Can QCs do anything sensible except simulating Q systems? Bio research.
+
+* Warum grade Finance? FFM :-) ?
+* Tradeoff: wenig(er) allgemein, aber dafür schneller.
+
+* Was sind Monte Carlo Simulationen?
+* Wofür werden die im Finanzumfeld verwendet?
+* Warum braucht man QC dafür?
+
+* Markus: Ich verstehe die Motivation (schnell, schnell, schnell bei
+  expontentiell wachsenden Datenmengen), aber wie implementiert man
+  das auf QC?
+
+* Was konkret macht ihr derzeit?
+
+Material
+-----------------------------------------
+https://www.youtube.com/watch?v=F_Riqjdh2oM
+
