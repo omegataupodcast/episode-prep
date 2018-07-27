@@ -85,7 +85,7 @@ Eure Anwendung
   expontentiell wachsenden Datenmengen), aber wie implementiert man
   das auf QC?
 
-* Was konkret macht ihr derzeit?
+* Was konkret macht ihr derzeit?						
 
 Material
 -----------------------------------------

@@ -8,7 +8,8 @@ Operations/Verkehrsleitung
   - Flugzeug kaputt Hub
   - Flugzeug kaputt Woanders
   - Besatzungen/Verfügbarkeit
-  - Vulkanausbruch :-)
+  - Vulkanausbruch oder andere "Großwetterereignisse"
+    Hurricane/Typhoon und Blizzard im Winter an der US Ostküste
 * Software Tools
 
 
@@ -27,6 +28,10 @@ Dispatching
   - Zeit
   - Besonerheiten
 * Unterschiede Kurz vs. Langstrecke
+
+* Tankering
+  - wir nehmen Sprit mit von der billigen Tankstelle zur teuren
+  - Planung wenn es gar keinen Sprit gibt; kann man trotzdem fliegen, ohne Fracht, mit Zwischenlandung...
 
 * Verantwortlich oder "nur" Berater?
 * Zusammenspiel mit ATC zwecks Flugplan

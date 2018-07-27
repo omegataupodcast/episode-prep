@@ -15,29 +15,34 @@ Robert Eg.
 
 Was ist eine (Voll-)Narkose
 ------------------------------------------------------
+* Arbeitsteilung Operateur/Anästhesist im OP
+
+
 * Was ist Anästhesie
   - als Technik
   - vs. als Fachgebiet
 
-* Arbeitsteilung Operateur/Anästhesist im OP
 
 * Vollnarkose vs. Lokalanästhesie
-  - "Hirn aus" vs. "Nerven aus"?
-  - Schmerzen unterdrücken vs. Erinnerungen daran verhindern?
-  - Hypnose als Alternative?  
 
 * Vollnarkose ist Kombination aus
   - Schmerzausschaltung
   - Aufhebung des Bewusstseins
   - Dämpfung vegetativer Funktionen 
- 
-* Was ist einen Plexusanästhesie?
- 
+
 * Was ist Narkose für ein Zustand, insbesondere bzgl. der Bewusstseins
   - verglichen mit Schlaf
   - verglichen mit Koma
   - verglichen mit künstl Koma
   - verglichen mit dem Tod
+ 
+
+
+  - "Hirn aus" vs. "Nerven aus"?
+  - Schmerzen unterdrücken vs. Erinnerungen daran verhindern?
+  - Hypnose als Alternative?  
+
+ 
  
 * In der Narkose ...
   - was kriegt man in einer Narkose (noch) mit?
@@ -48,16 +53,9 @@ Was ist eine (Voll-)Narkose
 	Blöd, wenn man Schmerzen hat, das aber nicht sagen kann
   - wahrnehmen, aber nicht signalisieren/kommunizieren?
   - Reflexe? (z.B. Blinzeln, Kniereflex, Atmung, ...)
-  - Sinnesschärfung
 
 
-* Was muss durch Maschinen kompensiert werden?
-  - Atmung
-  - Kreislaufregulation (Blutverlust)
-  - teilweise Stoffwechsel
-  - Temperatur 
-  - Hirnfunktion
-  - Herz macht weiter, oder?
+* Was ist einen Plexusanästhesie?
 
 * Übergangszustände
   - Aufwachen: "Jemand spricht mich an und fragt mich wie es mir geht. 
@@ -68,65 +66,19 @@ Was ist eine (Voll-)Narkose
     er weg, dann können wir ja loslegen", gehört zu haben (Bewegen und
     Schauen ging auch nicht mehr). Wie oft wird über sowas berichtet/kommt
     das vor?
-
-* Wie lange kann man eine Narkose andauern lassen?
-  “wir lassen ihn noch schlafen” (Auswirkungen);
+  - Sinnesschärfung
 
 
 Technik
 ------------------------------------------------------
-* Narkosemittel
-  - historisch vs. heute
-  - Schmerzausschaltung -> hochwirksame Schmerzmittel
-  - Aufhebung des Bewusstseins -> Hypnotika, Sedativa oder Inhalationsanästhetika
-  - Dämpfung vegetativer Funktionen 
-  - wie werden diese zugeführt und dosiert?
-  - complications of the blood/brain barrier?
-  - effects on the rest of the body?
-
-* Wird heute in Kliniken bei „normalen“ Eingriffen, Ketamin (Ketanest) eingesetzt? 
-  Oder nur in der Notfallmedizin am Unglücksort?
- 
-* Wie wirkt Anästhesie? 
-  - Leiten die Nerven noch Signale weiter? Was wird ausgeschaltet, Nerven, Rückenmark, Hirn, ...?
-  - Weiss man das im Detail?
- 
-* Reagiert der Körper mit Narkose anders als ohne 
-  (abgesehen vom offensichtlichen Schmerz f. d. Patienten)
-
-* Welche Funktionen werden in einer Narkose überwacht?
-  - Blutdruck
-  - Puls
-  - Temperatur
-  - Adrenalin? Durch Schmerzen?
-  ...
-   
-* ... und kompensiert
+* Was muss durch Maschinen kompensiert werden?
   - Atmung
-	  - Kreislaufregulation (Blutverlust)
+  - Kreislaufregulation (Blutverlust)
   - teilweise Stoffwechsel
   - Temperatur 
   - Hirnfunktion
   - Herz macht weiter, oder?
 
-
-* Woran erkennt man den Zustand, Tiefe einer Narkose?
-  - CO2
-  - dass der Patient "aufwacht"?
-  - EEG
-  - Neuronale Restblockaden
-
-* Dosierung?
-  - von hand?
-  - automatisch?
-  - was passiert bei zu wenig ...
-  - ... oder bei zu viel?
-  - margins of working: what is the ratio between "deadly" or "damaging" vs "just enough"?
-
-* Unterschiedliche Narkosen je nach OP
-  - Schwere
-  - Dauer
-  - ?
 
 * Unterschiede je nach 
   - Alter 
@@ -138,16 +90,52 @@ Technik
   - Sport
   - Schmerzempfindlichkeit,...?)? 
   Wie erfährt man als Arzt diese weniger messbaren Werte?
-     
-* Spezielle Zustände nach der Narkose, welche gibt es und wie erklären sie sich 
-  - Delirzustände
-  - Schlechtsein?
-  - Nach einer Vollnarkose sprechen die Patienten (teilweise nach Wochen
-    noch) Dinge aus wie „der schöne grüne Himmel“ und realisieren es nicht.
-    Woher kommt dieser Effekt ? 
-  - any additional problems for people undergoing repeated narcosis? serial operations?
-  - lasting damage possible?
-  - difference between long and short operations?
+
+* Woran erkennt man den Zustand, Tiefe einer Narkose?
+  - CO2
+  - dass der Patient "aufwacht"?
+  - EEG
+  - Neuronale Restblockaden
+
+
+
+* Unterschiedliche Narkosen je nach OP
+  - Schwere
+  - Dauer
+  - ?
+
+
+
+
+
+* Narkosemittel
+  - historisch vs. heute
+  - Schmerzausschaltung -> hochwirksame Schmerzmittel
+  - Aufhebung des Bewusstseins -> Hypnotika, Sedativa oder Inhalationsanästhetika
+  - Dämpfung vegetativer Funktionen 
+  - wie werden diese zugeführt und dosiert?
+  - complications of the blood/brain barrier?
+  - effects on the rest of the body?
+
+
+* Wie lange kann man eine Narkose andauern lassen?
+  “wir lassen ihn noch schlafen” (Auswirkungen);
+
+
+* Wird heute in Kliniken bei „normalen“ Eingriffen, Ketamin (Ketanest) eingesetzt? 
+  Oder nur in der Notfallmedizin am Unglücksort?
+ 
+ 
+ 
+ 
+* Wie wirkt Anästhesie? 
+  - Leiten die Nerven noch Signale weiter? 
+    Was wird ausgeschaltet, Nerven, Rückenmark, Hirn, ...?
+  - Weiss man das im Detail?
+ 
+* Reagiert der Körper mit Narkose anders als ohne 
+  (abgesehen vom offensichtlichen Schmerz f. d. Patienten)
+
 
 * Ungewollte Nebeneffekte: Muskelrelaxation?
   - ist ja nicht bei allen Muskeln so hilfreich
@@ -162,15 +150,66 @@ Technik
 * Welche anderen Aspekte, neben den reinen Lebensfunktionen, muss man in einer OP erhalten?
   - Wie verhindert man eine Unterkühlung der Patienten? 
   - Beatmung, Tubus
+* Geschichte der Anästhesie.
+* Viele Anästhesisten sind ja auch als Notärzte im Rettungsdiesnt tätig - was gibt es hierzu zu erzählen? 
+ 
+     
+* Spezielle Zustände nach der Narkose, welche gibt es und wie erklären sie sich 
+  - Delirzustände
+  - Schlechtsein?
+  - Nach einer Vollnarkose sprechen die Patienten (teilweise nach Wochen
+    noch) Dinge aus wie „der schöne grüne Himmel“ und realisieren es nicht.
+    Woher kommt dieser Effekt ? 
+  - any additional problems for people undergoing repeated narcosis? serial operations?
+  - lasting damage possible?
+  - difference between long and short operations?
+
 
 * Wieso wird beim Kaiserschnitt das Baby nicht narkotisiert?
 
-* Geschichte der Anästhesie.
-* Viele Anästhesisten sind ja auch als Notärzte im Rettungsdiesnt tätig - was gibt es hierzu zu erzählen? 
 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+* Dosierung?
+  - von hand?
+  - automatisch?
+  - was passiert bei zu wenig ...
+  - ... oder bei zu viel?
+  - margins of working: what is the ratio between "deadly" or "damaging" vs "just enough"?
+
+ 
+* Welche Funktionen werden in einer Narkose überwacht?
+  - Blutdruck
+  - Puls
+  - Temperatur
+  - Adrenalin? Durch Schmerzen?
+  ...
+   
+* ... und kompensiert
+  - Atmung
+	  - Kreislaufregulation (Blutverlust)
+  - teilweise Stoffwechsel
+  - Temperatur 
+  - Hirnfunktion
+  - Herz macht  weiter, oder?
 
 Eine OP
 -----------------------------------------
+* VOrbereitendes
+
 * Vorbereitung Narkose, Voraussetzungen
 
 * Ablauf
@@ -187,20 +226,32 @@ Eine OP
 Können wir einen OP und einen Intensivplatz besichtigen um zu 
 besprechen mit welchen Geräten man da arbeitet?
 
+
+
+
 Patientensicherheit
 -----------------------------------------------
 * was jenseits der Anä-Lebenserhaltung?
+
+
 * was kann man aus der Fliegerei lernen?
+
+
+* DIe Hygiene-Checklisten-Studie
+
+bei EUch oder allgemein in der Anä?
+
 * Fehlerkultur
+* Anonymes Reporting, CHIRP
+
 * Hierarchie, CRM
 * Straffrei
-* Anonymes Reporting, CHIRP
 * Systematischer Umgang mit Fehlern und Learnings
 * Blaming einer Person vs. Swiss Cheese Model
-* DIe Hygiene-Checklisten-Studie
 * Abwägung von Standards/Best Practices vs. Erfahrung/Abweichung
 * ... aber ECHTE Fehler müssen auch geahndet werden, oder?
 * Second Hurt, Second Victim
+
 * Welche Nebenwirkung / Langzeitschäden sind hier zu erwarten ? --> Wie hängt das mit der Intensität zusammen (jeden Tag schmerzatbletten / lokale anästesie -> welche folgen ) ? 
   
   
