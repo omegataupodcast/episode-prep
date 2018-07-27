@@ -66,7 +66,15 @@ Computational Model
 
 * Gate mOdel vs. Annealing Model    	
 
-* What abt testing if you can‘t read
+* What about testing if you can‘t read without influencing the computation?
+
+
+Quantum Algoithms
+---------------------------------
+* Welche Probleme eignen sich für QC?
+* Eigenschaften von Quantenalgorithmen?
+* Beispiele.
+
 
 
 Eure Anwendung
@@ -84,6 +92,11 @@ Eure Anwendung
 * Markus: Ich verstehe die Motivation (schnell, schnell, schnell bei
   expontentiell wachsenden Datenmengen), aber wie implementiert man
   das auf QC?
+  
+* Andere Anwendungen?
+  - natürlicher Zufallszahlengenerator
+  - Quantum Uhren
+  - ...
 
 * Was konkret macht ihr derzeit?						
 
