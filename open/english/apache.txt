@@ -1,0 +1,48 @@
+* Overview
+  - Purpise
+  - Variants & Differences
+  - Timeline
+
+* Structure and Design
+  - How is the Longbow different?
+  - Armor
+  - Pilot in the back - why?
+  - Crash protection?
+  - No escape system, right?
+
+* Systems
+  - Redundancy
+
+* Weapons
+  - Gun
+  - Rockets
+  - Mavericks
+  - sidewinders? other a2a?
+
+* Avionics
+  - Displays and Systems
+  - Longbow Radar
+  - Helmet mounted Display
+    - gun slewing
+    - flying ("the tunnel")
+  - what do the chin turret sensors do?
+  - Weather/night
+
+* A preflight check
+
+* Flying the Apache
+  - Crew Collaboration
+  - Can both fly (systems and qual?)
+  - NoE?
+
+
+* Missions
+  - Tank Busting
+  - Support of ground forces
+  - Recon
+  
+  - Who is the Army's "AWACS"?
+  - Collaboration with ground crew
+  - Collaboration with other flying units; USAF?
+  - Data Integration with other systems
+

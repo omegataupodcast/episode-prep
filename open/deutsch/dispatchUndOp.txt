@@ -41,6 +41,11 @@ Dispatching
 * Anekdoten
 * ATC != Verkehrsflusssteuerung
 
+* SPezifische Eigenheiten einzelner Länder
+  - Russland
+  - China
+  - Afrika?
+
 Flight Following
 --------------------------------
 * advise pilots if conditions change. 

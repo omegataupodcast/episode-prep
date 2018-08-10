@@ -76,6 +76,9 @@ Quantum Algoithms
 * Beispiele.
 
 
+## Probability vs, Prob Amplitude -> complex numbers
+## Directions regarding the paradigms used in future higher level quantum prog lang
+
 
 Eure Anwendung
 -----------------------------------------
