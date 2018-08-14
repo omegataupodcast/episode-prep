@@ -1,31 +1,49 @@
-* Overview
-  - Purpise
-  - Variants & Differences
-  - Timeline
 
-* Structure and Design
-  - How is the Longbow different?
-  - Armor
+autopilotuser
+driver lance
+gittaca
+richard goyette
+Werner Engel
+Ulrich Bär
+
+
+ 
+
+* Overview
+  - Purpose historically and today
+  - Variants, Differences, Timeline
+  - We will primarily talk about the D variant.
+
+* Structure, Design, Systems
+  - do a little walkaround and talk about the main systems/components
+  - Numbers: speed, altitude, endurance/range
   - Pilot in the back - why?
   - Crash protection?
-  - No escape system, right?
-
-* Systems
-  - Redundancy
+  - No crew escape system, right?
+  - X-shaped rotor. Strange.
+  - How is the Longbow different beyond the obvious radar on the mast?
+  
+* Robustness
+  - Self-Sealing Tanks
+  - How does the main rotor sustain a hit?
+  - FOD & turbines, cable cutters
+  - redundancy with the controls between the two operators (in case of wounds/injury/etc)?
 
 * Weapons
   - Gun
   - Rockets
   - Mavericks
-  - sidewinders? other a2a?
+  - sidewinders? other Air-to-Air?
+
 
 * Avionics
   - Displays and Systems
+  - What do the chin turret sensors do?
+  - Acqusition systems and target classification
   - Longbow Radar
   - Helmet mounted Display
     - gun slewing
     - flying ("the tunnel")
-  - what do the chin turret sensors do?
   - Weather/night
 
 * A preflight check
@@ -33,16 +51,30 @@
 * Flying the Apache
   - Crew Collaboration
   - Can both fly (systems and qual?)
-  - NoE?
-
+  - Low-level flying
+    dangers: trees, sand, power lines
+  - Crew escape in emergency?
+  - Autorotate from low alt?
+  - How does the upwards facing exhausts affect airflow through 
+    the rotor (lift/turbulence etc)?
+    As the helicopter’s velocity increases, the exhaust gases would hit the rotor 
+    blade further back (towards the tail). How do they compensate for this?
 
 * Missions
   - Tank Busting
   - Support of ground forces
   - Recon
   
-  - Who is the Army's "AWACS"?
   - Collaboration with ground crew
-  - Collaboration with other flying units; USAF?
+  - Collaboration with other flying units; 
+    . USAF?
+    . Kiowas, back in the day. Why no more?
   - Data Integration with other systems
+  - Who is the Army's "AWACS"?
 
+  - No air-to-air refuelling. How is in-mission refuelling done?
+
+  - CAS: low/agile helos vs. A-10s vs. loitering drones
+  - air 2 air: training und chancen?
+
+* Exercise in the baltics
