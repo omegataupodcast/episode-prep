@@ -1,12 +1,9 @@
-
 autopilotuser
 driver lance
 gittaca
 richard goyette
 Werner Engel
 Ulrich Bär
-
-
  
 
 * Overview
@@ -77,4 +74,7 @@ Ulrich Bär
   - CAS: low/agile helos vs. A-10s vs. loitering drones
   - air 2 air: training und chancen?
 
-* Exercise in the baltics
+* Some of your work with the Apache
+  - exercise in the baltics
+  - where else did you fly, and what did you do?
+  
