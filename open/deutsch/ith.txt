@@ -6,14 +6,15 @@ Einführung
   - Geschichte
 * Eingliederung in Luftrettungsinfrastruktur
 * Arbeitsteilung Johanniter / Heli-Flight
+* Aufgabe: Intensiv-Transport, nicht "normale" Luftrettung
 
 Pilot
 -------------------------------
-* Spezielle Lizenzen/Quali der Piloten für Ambulanzflüge?
 * Warum grade die AS 365
   - Leistungsdaten des Hubschraubers
   - Ausstattung/Instrumente
   - Walk-around um den Heli
+* Spezielle Lizenzen/Quali der Piloten für Ambulanzflüge?
 * Wann/warum IFR? Problem des Starts/Landung?
 * Wetterlimits
   - Heli
@@ -22,7 +23,8 @@ Pilot
   - Flugplan? 
   - Zeitlicher Vorlauf?
 * Wo tankt ihr? Zwischenlandungen?
-* Kann die Dauphin an alles Krankenhäusern landen?
+* Kann die Dauphin an allen Krankenhäusern landen?
+  Ist ja doch größer als die 135 / 145
 * Klassische Rettungsheli-Notfalleinsätze, so wie die 135 und 145
   macht der ITH nicht? 
 * Arbeit, Schichten, Standby
@@ -30,18 +32,26 @@ Pilot
   
 Mediziner
 ---------------------------------
-* Medizinische Ausrüstung (durchaus im Detail)
+* Welche Arten von medizinischen "Diensten" wird erbracht?
+  - Sind die Transporte meist "einfach" Anästhesie/
+    Lebenserhaltung/Intensivmedizin, 
+  - oder sind das auch "spezielle" Probleme, 
+    zum Beispiel (zufällig herausgegriffen)
+    Nierenversagen?
+* Fliegt der betreuende Arzt mit?
+  - oder sind immer Ärzte der Johanniter an Bord?
+* Medizinische Ausrüstung 
+  - was ist festinstalliert
+  - was bringen die Fachärzte typischerweise mit?
+  - Übergabe: mobile Lebenserhaltungsgeräte?
+* Einige Beispiele für Missionen aus medizinsicher Sicht?
+  - Vorbereitungen des Patienten?
+  - Grenzen? Wann ist der Patient nicht mehr transportfähig?
+  - Steht vermutlich oft im Zusammenhang mit Spezialkliniken,
+    sonst wäre ein weiter Transport ja eher sinnvoll
 * Warum grade die Standorte? 
   - Grade Reichelsheim und Gießen sind ja nah beieinander. 
   - Wegen ihrer zentralen Lage in DE?
-* Einige Beispiele für Missionen aus medizinsicher Sicht?
-  - Grenzen? Wann ist der Patient nicht mehr transportfähig?
-  - Vorbereitungen des Patienten?
-  - Steht vermutlich oft im Zusammenhang mit Spezialkliniken,
-    sonst wäre ein weiter Transport ja eher sinnvoll
-* Fliegt der betreuende Arzt mit?
-  - oder sind immer Ärzte der Johanniter an Bord?
-* Übergabe: mobile Lebenserhaltungsgeräte?
 * Ist der (oft dann wohl) lange Anflug von Gießen
   oder Reichelsheim aus kein Problem? 
   - Oder sind die Einsätze planbar und nicht eilig?
