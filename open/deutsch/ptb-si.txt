@@ -1,0 +1,50 @@
+* PTB == Metrologie != Meteorologie (Hinweis auf damals)
+
+* Wer ist "SI"
+  - Wie wird das weltweit koordiniert?
+  - Meterkonvention von 1875
+  - Internationale Büro für Maß und Gewicht
+
+* Bissle Geschichte
+
+* Basiseinheit (Kohärent vs. nicht kohärent)
+* Größe vs. Dimension vs. Einheit
+
+
+* Welche Einheiten
+  - Masse kg
+    . warum nicht gramm? 
+    . und nur diese per Prototyp, die anderen per Natur 
+    . Neudefinition
+  - Temp K
+  - Zeit s
+  
+  - Länge m - früher mal der Urmeter 
+  - Strom A
+  - Stoffmenge mol
+  - Lichtstärke cd
+
+* Warum ist es wichtig was genau die Basiseinheit ist?
+  "1873 wurde dann anstelle von m das cm als Grundeinheit definiert"
+
+* Für jede:
+  - wie definiert
+  - wie technischj festgelegt
+  - Eichung vs. Kalibrierung
+
+* Zukünftige Neudefinition für alle auf Basis von Naturkonstanten.
+
+* Abgeleitete SI EInheuten - also eigener Name, aber berechent. 
+
+* Wo wird SI nicht verwendet?
+  - paar Länder
+  - Luftfahrt
+  - Physik: eV?
+
+* Die nicht SI-ler (USA, GB): 
+  sind die Einheuten wenigstens koordiniert, also von SI abgeleitet?
+
+* Gibt es noch andere, "offizielle" Einheitensysteme? Bspw. das bit?
+
+
+
