@@ -72,6 +72,7 @@ Ulrich Bär
   - No air-to-air refuelling. How is in-mission refuelling done?
 
   - CAS: low/agile helos vs. A-10s vs. loitering drones
+  - Helo gun/maverick vs. LGB from plane. Damage Assessment easier?
   - air 2 air: training und chancen?
 
 * Some of your work with the Apache
