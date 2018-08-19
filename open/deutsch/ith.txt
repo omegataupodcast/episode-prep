@@ -44,6 +44,8 @@ Mediziner
   - was ist festinstalliert
   - was bringen die Fachärzte typischerweise mit?
   - Übergabe: mobile Lebenserhaltungsgeräte?
+  - Was genau ist dann der Unterschied zu den 135/145?
+    Die machen ja auch Notfall/Anä/Intensiv?
 * Einige Beispiele für Missionen aus medizinsicher Sicht?
   - Vorbereitungen des Patienten?
   - Grenzen? Wann ist der Patient nicht mehr transportfähig?
