@@ -1,0 +1,55 @@
+* Zeit(verlaufs-)messung vs. Zeitfestlegung
+
+* Was ist die Aufgabe der PTB im Zusammenhang mit "Zeit"
+
+* Internationale Standards
+  - Atomzeit TAI 
+
+* Verbreitung der Zeit
+  - DCF 77
+  - NTP Server?
+  - sonst?
+  - Wie wird der Delay der Weitergabesysteme berücksichtigt?
+
+* Atomuhr
+  - high-level: was ist das? Cs.
+  - Bezug zur Definition der Sekunde bei SI
+  - Eigenbau/Einzelstück?
+  
+* Fontänenuhren CSF1 / CSF2 
+  - Funktion
+  - Messtechnik & Signalaufbereitung
+  - Fehler?
+
+* Atomstrahluhren CS1 und CS2
+  - Funktion
+  - Messtechnik & Signalaufbereitung
+  - Fehler?
+
+* Generell
+  - Funktionsprinzip
+  - Welche Präzision? Und wieviel ist notwendig?
+  - Haben sich die über die Zeit verändert?
+
+* Warum vier Uhren, warum zwei Arten?
+
+* Wie wird die Zeit weltweit koordiniert? 
+  Gibt ja "PTBs" in anderen Ländern
+
+* Next Gen 
+  - Entwicklung optischer Uhren auf der Basis eines lasergekühlten
+    gespeicherten Ytterbiumions (171Yb+) und eines Aluminiumions (27Al+),
+    ultrakalter neutraler Strontiumatome (87Sr-Gitteruhr) und auf der
+    Basis eines optischen Kernübergangs in 229Th im Hinblick auf eine
+    zukünftige Neudefinition der Zeiteinheit
+  - Übergänge von Atomen und Ionen im optischen Spektralbereich nutzen.
+  - Ytterbium-Ions. Methoden, die optischen Frequenzen fehlerfrei auf 
+    elektronisch zählbare Frequenzen und 1-Sekunden-Impulse zu übertragen.
+  - Warum sind diese besser? Und ist das echt nötig?	
+
+* Was macht die PTB/Zeit noch?
+  - Internationale Satellitenzeitvergleiche 
+  - Zeitsystems Galileo
+  - Entwicklung von Methoden zur optischen Frequenzübertragung mittels
+    Glasfasern und zum Vergleich weit entfernter optischer Uhren.
+  - ESA-Mission ACES (Atomic Clock Ensemble in Space).
