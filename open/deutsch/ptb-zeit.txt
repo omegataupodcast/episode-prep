@@ -16,12 +16,12 @@
   - Bezug zur Definition der Sekunde bei SI
   - Eigenbau/Einzelstück?
   
-* Fontänenuhren CSF1 / CSF2 
+* Atomstrahluhren CS1 und CS2
   - Funktion
   - Messtechnik & Signalaufbereitung
-  - Fehler?
-
-* Atomstrahluhren CS1 und CS2
+  - Fehler?  
+  
+* Fontänenuhren CSF1 / CSF2 
   - Funktion
   - Messtechnik & Signalaufbereitung
   - Fehler?

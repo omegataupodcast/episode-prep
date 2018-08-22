@@ -1,5 +1,7 @@
 * PTB == Metrologie != Meteorologie (Hinweis auf damals)
 
+* Eichung vs. Kalibrierung
+
 * Wer ist "SI"
   - Wie wird das weltweit koordiniert?
   - Meterkonvention von 1875
@@ -7,34 +9,57 @@
 
 * Bissle Geschichte
 
-* Basiseinheit (Kohärent vs. nicht kohärent)
 * Größe vs. Dimension vs. Einheit
 
+* Basiseinheiten (Kohärent vs. nicht kohärent)
 
 * Welche Einheiten
   - Masse kg
-    . warum nicht gramm? 
-    . und nur diese per Prototyp, die anderen per Natur 
-    . Neudefinition
+    . warum nicht Gramm? 
   - Temp K
   - Zeit s
-  
+  - Länge m
+  - Strom A
+  - Stoffmenge mol
+  - Lichtstärke cd
+
+* Abgeleitete SI EInheuten - also eigener Name, aber berechent. 
+
+
+* Warum ist es wichtig was genau die Basiseinheit ist?
+  "1873 wurde dann anstelle von m das cm als Grundeinheit definiert"
+
+* Deren Definition im aktuellen SI
+  - Masse kg (via Prototyp, der sich dummerweise ändert)
+  - Temp K
+  - Zeit s
+  ---------
   - Länge m - früher mal der Urmeter 
   - Strom A
   - Stoffmenge mol
   - Lichtstärke cd
 
-* Warum ist es wichtig was genau die Basiseinheit ist?
-  "1873 wurde dann anstelle von m das cm als Grundeinheit definiert"
-
-* Für jede:
+* Für jede (außer Sekunde, da separate Episode zu Zeit) Überblick darüber:
   - wie definiert
-  - wie technischj festgelegt
-  - Eichung vs. Kalibrierung
+  - wie technisch festgelegt
 
-* Zukünftige Neudefinition für alle auf Basis von Naturkonstanten.
-
-* Abgeleitete SI EInheuten - also eigener Name, aber berechent. 
+* Neudefinition der Einheiten ab 2019
+  - Die numerischen Werte ändern sich nicht, richtig?
+  - Also: warum? 
+    . Was ist das Problem mit dem aktuellen System?
+    . Beim kg ist's klar, aber sonst?
+  - Four of the SI base units – namely kg, A, K and mol – will be redefined in terms of constants
+  - will be based on fixed numerical values of 
+    . the Planck constant (h)
+    . the elementary charge (e)
+    . the Boltzmann constant (kB)
+    . and the Avogadro constant (NA),
+  - Sind diese Konstanten absolut präzise? Gibt's da nicht auch Unsicherheit
+    die sich dadurch in die SI Einheiten fortpflanzt?
+  - Further, the definitions of all seven base units of the SI will also 
+    be uniformly expressed using the explicit-constant formulation, 
+  - was bedeutet das für die experimentelle "Messung" der Größen?
+    Mir scheint, es wird komplizierter?
 
 * Wo wird SI nicht verwendet?
   - paar Länder
