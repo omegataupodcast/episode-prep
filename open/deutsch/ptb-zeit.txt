@@ -28,13 +28,14 @@
 
 * Generell
   - Funktionsprinzip
-  - Welche Präzision? Und wieviel ist notwendig?
+  - Welche Präzision? Und wieviel ist notwendig? Comparison of measurement accuracy with relativistic differences in time 
+    (was it something like a 1e-17 error corresponds to 5 km/h walking speed or 30 cm lifting in the earths gravity?)
   - Haben sich die über die Zeit verändert?
 
 * Warum vier Uhren, warum zwei Arten?
 
 * Wie wird die Zeit weltweit koordiniert? 
-  Gibt ja "PTBs" in anderen Ländern
+  Gibt ja "PTBs" in anderen Ländern (USA=NIST? NL=NEN? They have slightly different assignments. Is there a relation with SI?)
 
 * Next Gen 
   - Entwicklung optischer Uhren auf der Basis eines lasergekühlten
