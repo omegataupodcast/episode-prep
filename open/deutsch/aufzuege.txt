@@ -1,0 +1,97 @@
+Klassische Aufzüge
+--------------------------------------
+
+* Ein bisschen Historie
+
+* Und die Rolle von ThyssenKrupp Elevator
+
+* Seil, Kabine, Schacht.
+  - typische Seildurchmesser
+  - mehrer Seile wegen Redundanz
+  - wie groß maximal die Kabine?
+
+* Wie macht man Absturzsicherung für den (unwahrscheinlichen)
+  Fall, dass das Seil reißt?
+  - Erkennung des Fallens
+  - Bremsen
+
+
+Limitierungen
+--------------------------------------
+
+* Limitierungen der Höhe 
+  - Seilmasse?
+  - Reisezeiten?
+
+* Kabinengröße, auch psychologisch
+
+* Grenzen sinnvoller Geschwindigkeiten  
+  - technisch
+  - vs. für Passagiere; Ohrdruck, Beschleunigungen
+  
+* Andere Kapa-Grenzen  
+  - Anzahl Schächte ein Problem in hohen/großen Gebäuden
+    wegen der notwendigen Grundfläche
+  - Ist auch die Masse des Gesamtsystems ein Problem? Für das Gebäude?
+  - zu oft halten -> zu langsam in Summe
+  
+* Ansätze zur Optimierung
+  - Parallele Schächte mit Ziel-Vorwahl
+    . Bei Bosch in Renningen
+    . Überfordert das die Nutzer?
+  - Expressaufzüge die erst weiter oben halten
+    (verschwendet den Schacht drunter)
+  - Double Decker -- können nur nebeneinander halten
+  - Zwei Kabinen pro Schacht 
+    . TKE TWIN system
+    . können sich nicht überholen
+    . wie wird das Seil geführt? Muss ja die obere Kabine "umfahren"
+  - "Umsteige" Aufzüge
+
+
+Multi
+--------------------------------------
+
+* Kein Seil mehr!
+
+* Technisches 
+  - Antrieb und Verankerung via Linearmotoren
+    . was ist das?
+    . Wie bei Transrapid :-)
+    . Absturzsicherung wie? Psychologie1
+  - Auch horizontales Fahren möglich
+    . Weichen 
+    . ne Art "Vertikale Metro" im Gebäude
+    . Fixe Routen? Im Kreis? Oder on demand?
+  - andere Herausforderungen
+
+* Steuerungssystem?
+  - wie wird zentral Koordiniert?
+
+* Um wieviel ist der Durchsatz steigerbar
+  - Keine Höhenbeschränkung (Seil!)
+  - Mehrere Cabs pro Schacht
+  - Damit in Summe weniger Fläche
+  - Zu oft halten ist aber immer noch ein Problem, oder?
+    (Ziel-Vorwahl wird man vielleicht trotzdem wollen?)
+  - Flexiblerer Ausbau
+    (Steigerung durch mehr Kabinen statt neuen Schächten)
+
+* Status? Schon in Betrieb?  
+
+    
+
+Testturm  
+----------------------
+
+* Sinn und Zweck
+
+* Daten, Architektur, Besucherterasse
+
+* Verwendung für klassiche Aufzüge
+
+* Verwendung für Multi
+
+
+
+
