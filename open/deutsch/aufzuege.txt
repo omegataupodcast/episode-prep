@@ -86,12 +86,18 @@ Testturm
 
 * Sinn und Zweck
 
-* Daten, Architektur, Besucherterasse
+* Daten, Architektur, Besucherterrasse
 
-* Verwendung für klassiche Aufzüge
+* Verwendung für klassische Aufzüge
 
 * Verwendung für Multi
 
+* Technische Vorkehrungen um flexibel andere Aufzugsysteme zu installieren?
+
+* Was genau tut man beim *Testen* von Aufzügen?
+  - Belastung 
+  - Zu schnell?
+  - Mal "fallen lassen" und schauen ob die Absturzsicherung tut?
 
 
 
