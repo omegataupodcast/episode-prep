@@ -1,1 +1,72 @@
-https://qz.com/1355672/stacking-concrete-blocks-is-a-surprisingly-efficient-way-to-store-energy/
+
+
+Energiespeicherung generell
+---------------------------------
+* Elektrisch, Mechanisch, Chemisch?
+
+* Mechanisch:
+  - kinetisch (rotation)
+  - potentiell (höhe)
+  
+* PSK als Pot-Speciehr
+
+Warum wird das wichtiger mit erneuerbaren?
+  Trends.
+
+Dezentral vs. zentral? "Alle teslas werden speichern"
+
+Ist SPcierjung wichtiger oder Transport? Stichwort HGÜ
+
+Warum sind PSK nicht gut genug?
+
+
+Grav Stor
+
+Warum nicht so :-)
+   https://qz.com/1355672/stacking-concrete-blocks-is-a-surprisingly-efficient-way-to-store-energy/
+
+Vergleich mit PumpedAirStorage?
+
+Überblick.
+
+KLingt verrückt :-)
+
+Große Masse, aber kleines deltaH
+PSK: (vielleicht) kleinere Masse, aber großes deltaH
+Vergleich der Speiherkapas
+
+Konstruktionskosten r2, storage capacity r4 -> gut!
+Haben das andere nicht auch?
+wie lange baut man an sowas? 
+Investment-Kosten verglichen mit anderen?
+
+Bürgerproteste weniger, weil's nicht in "schönen Bergen" sein muss wie PSKs?
+
+Wie hoch kann der Zylinder geliftete werden?
+
+Wie wir das abgedichtet?
+Sealing the piston and the exterior walls - geomembrane and concrete.
+Sealing ring around the Piston to withstand hydraulic pressure
+  rolling membrane. Explain!
+  
+Was muss über die Zeit ersetzt werden? Maintenance?
+
+
+Wie "sägt" man so einen Zylinder raus?
+
+Typische Größen?
+
+Ganz Ulm: über'n Nebel :-)
+
+Umweltrisiken?
+
+Welche Gesteine? Dichte, Stabilität, Dichtheit, was sonst für Kriterien?
+Wird das Loch mit Beton ausgegossen?
+Gibt's das überall?
+
+Business Cases
+  wie würde sowas betrieben?
+  wie unterscheidet sich das von PSKs?
+
+
+Mit Robert Werner?
