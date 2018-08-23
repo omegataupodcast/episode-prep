@@ -9,6 +9,7 @@ Klassische Aufzüge
   - typische Seildurchmesser
   - mehrer Seile wegen Redundanz
   - wie groß maximal die Kabine?
+  - Ohne Seil? [Später?]
 
 * Wie macht man Absturzsicherung für den (unwahrscheinlichen)
   Fall, dass das Seil reißt?
@@ -28,6 +29,8 @@ Limitierungen
 * Grenzen sinnvoller Geschwindigkeiten  
   - technisch
   - vs. für Passagiere; Ohrdruck, Beschleunigungen
+  - Weather related (swinging buildings need slower elevators)
+  - Different accellerations for distances?
   
 * Andere Kapa-Grenzen  
   - Anzahl Schächte ein Problem in hohen/großen Gebäuden
@@ -70,7 +73,11 @@ Multi
     - welche Informationsquellen hat der Aufzug um zu entscheiden welcher Schacht für welche Fahrt in welcher Richtung verwendet wird?
     - Lernt ein Aufzug auf Basis seiner Nutzungshistorie?
     - Fahrtplanung anhand einfacher heuristik, komplexer Programme, statistischer Modelle, Machine Learning, ...? (bei https://play.elevatorsaga.com wird es schnell komplex)
+       - In the morning more elevators pre-loading to ground floor. After lunch time, collect more elevators on restaurant floors?
+       - Assigning passengers to elevators based on their destination.
     - wie wirken sich Prioriätsfahrten aus?
+    - Express elevators for multiples?
+    - Software systems and modularity? Open Source?
 
 * Um wieviel ist der Durchsatz steigerbar
   - Keine Höhenbeschränkung (Seil!)
