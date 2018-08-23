@@ -67,6 +67,10 @@ Multi
 
 * Steuerungssystem?
   - wie wird zentral Koordiniert?
+    - welche Informationsquellen hat der Aufzug um zu entscheiden welcher Schacht für welche Fahrt in welcher Richtung verwendet wird?
+    - Lernt ein Aufzug auf Basis seiner Nutzungshistorie?
+    - Fahrtplanung anhand einfacher heuristik, komplexer Programme, statistischer Modelle, Machine Learning, ...? (bei https://play.elevatorsaga.com wird es schnell komplex)
+    - wie wirken sich Prioriätsfahrten aus?
 
 * Um wieviel ist der Durchsatz steigerbar
   - Keine Höhenbeschränkung (Seil!)
