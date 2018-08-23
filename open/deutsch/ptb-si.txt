@@ -6,6 +6,7 @@
   - Wie wird das weltweit koordiniert?
   - Meterkonvention von 1875
   - Internationale Büro für Maß und Gewicht
+  - Abgrenzung zur Normung (DIN, ...)
 
 * Bissle Geschichte
 
@@ -23,8 +24,12 @@
   - Stoffmenge mol
   - Lichtstärke cd
 
-* Abgeleitete SI EInheuten - also eigener Name, aber berechent. 
-
+* Abgeleitete SI Einheiten - also eigener Name, aber berechnet. 
+  - gesetzliche anerkannte Einheiten
+    - Seemeile, ursprünglich als Bogenminute auf dem Äquator, mittlerweile offiziell als exakt 1852,0 Meter definiert 
+    - Liter
+  - nicht anerkannte Einheiten
+    - Zoll (Inch). Bei Bildschirmen, Felgen, usw. muss in Deutschland immer auch eine Umrechnung in SI-Einheit angegeben werden?
 
 * Warum ist es wichtig was genau die Basiseinheit ist?
   "1873 wurde dann anstelle von m das cm als Grundeinheit definiert"
@@ -63,11 +68,11 @@
 
 * Wo wird SI nicht verwendet?
   - paar Länder
-  - Luftfahrt
+  - Luftfahrt, Seefahrt
   - Physik: eV?
 
 * Die nicht SI-ler (USA, GB): 
-  sind die Einheuten wenigstens koordiniert, also von SI abgeleitet?
+  - sind die Einheiten wenigstens koordiniert, also von SI abgeleitet?
 
 * Gibt es noch andere, "offizielle" Einheitensysteme? Bspw. das bit?
 
