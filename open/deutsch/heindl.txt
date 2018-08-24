@@ -25,6 +25,8 @@ Energiespeicherung generell
 
 * Pumpspeicherkraftwerke als derzeit größte Speicher
   - Warum sind PSK nicht gut genug?
+  
+* Different applications: for equipment that needs enormous bursts of energy (e.g. COMPASS fusion reactor in Prague uses flywheels)
 
 
 Gravity Storage - Idee und Benefits
@@ -85,4 +87,4 @@ Andere mechanische Alternativen
 --------------------------------------
 * PumpedAirStorage
 * https://qz.com/1355672/stacking-concrete-blocks-is-a-surprisingly-efficient-way-to-store-energy/
-
+* https://www.aresnorthamerica.com
