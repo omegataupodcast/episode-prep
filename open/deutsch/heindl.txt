@@ -57,17 +57,24 @@ Gravity - Challenges
 * Typische Größen
   - Konstruktionskosten r2, storage capacity r4 -> gut!
   - Haben das andere nicht auch? Seen zum Beispiel? Geht ja auch mit dem Volumen.
+  - Wie ist es um die weiteren Abmessungen bestellt (Länge des Zylinders, Rohre und Turbinen)
   - Wie lange baut man an sowas? 
   - Investment-Kosten verglichen mit anderen?
 
 * Wie hoch würde der Zylinder gehoben? Stabilitätsgrenzen?
 
-* Wie "sägt" man so einen Zylinder raus?
+* Konstruktion 
+  - Wie "sägt" man so einen Zylinder raus?
+  - Betonmantel
+  - Dichtung
+  - Druckleitungen
+  - Turbinen, welche Typen, Leistung?
+  - Wo kommt das Wasser her, wo geht es hin?
 
 * Welche Gesteine? Dichte, Stabilität, Dichtheit, 
   - was sonst für Kriterien?
-  - Gibt's das überall?
-
+  - Gibt's das überall? 
+  - Wieviel Potential in Deutschland, Europa, ...?
 
 * Abdichtung
   - Sealing the piston and the exterior walls - geomembrane and concrete.
@@ -81,7 +88,6 @@ Gravity - Challenges
 * Business Cases
   - wie würde sowas betrieben?
   - wie unterscheidet sich das von PSKs?
-
 
 Andere mechanische Alternativen
 --------------------------------------
