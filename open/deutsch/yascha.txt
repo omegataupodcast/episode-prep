@@ -1,0 +1,68 @@
+* Kurze Intro
+  - Background
+  - How did you get here...
+  - Book, Podcast
+
+* Liberale Demokratie
+  - Warum sind BEIDE Komponenten des Wortes wichtig
+
+* Populismus - Definition(en)
+  - "verständlich reden" und populäre Themen aufgreifen reicht nicht!
+  - unzulässig vereinfachend
+  - systemfeindliche
+  
+
+* Ursachen für Populismus
+  - Wirtschaft:
+    . Angst vor wirtschaftlichem Abstieg oder gesellschaftlicher Irrelevanz
+    . Wirtschaftskrise von 2007/8 
+      Populismusphasen nach anderen Krisen?
+    . Unmut über Kapitalismus-Exzesse
+    . Genereller: Veränderungsangst, Globalisierung, Roboter&AI
+  - Unzufriedenheit mit etabliertem politischem System
+    . Visions-/Planlosigkeit der Politik
+    . Korruption/Geld in der Politik "eh alles egal"
+    . Fall Maasen
+    . Unequal Voting, no more One Citizen, One Vote (Lessig's Argument)
+  - Demokratie als Idee und Prinzip ist gut. Aber die aktuelle "Implementierung" ist
+    . zu kompliziert
+    . zu langsam (die Welt wird immer schneller, die Politik nicht)
+      man sagt ja oft, da muss eine Generation "aussterben" bis sich was
+      ändert. Aber Leute leben länger, die Änderungen kommen schneller.
+      Keine Strategie!
+    . zu undurchsichtig
+    . sind die aktuelle Kompromisse in (großen) Koalitionen wirklich
+      The Will of the People? Oder Emergent Chaos?
+    - Software-Analogie: wir brauchen Refactorings :-)
+  - Flüchtlinge/Einwanderer
+  - Komplexität der Gesellschaft
+    Frei nach Tainter: es ist einfach mal wieder Zeit für nen Kolllaps
+    war mal Gast: http://omegataupodcast.net/184-societal-complexity-and-collapse/
+
+* Warum hat Rechts-Populismus soviel Zulauf, und nicht links?
+  - warum wählen Frustrierte nicht mehr SPD bzw. Dems?
+
+* Warum passiert das grade jetzt, überall, quasi gleichzeitig?
+  Ursachen könne ja nicht in den länderspezifischen Systemen/Parteien liegen
+  - Medien/Kommerzialisierung
+  - Social Media/Filterblase/Emotionsverstärker
+  - Die großen Themen? 
+    . Klimaveränderung
+    . Aufstieg von China etc., damit relativer Abstieg des Westens?
+      Schrumpfung führt immer zu "Verteilungskämpfen"
+    . AI? (bin ja skeptisch ob das bei der Masse schon angekommen ist)
+
+* Harari: Organisationsformen der Gesellschaft stehen immer im Bezug zu Technologien.
+  Kommunismus hätte im 16. Jh nicht geklappt mangels Kommunikation & Transport f d 
+  Umverteilung. Brauchen wir einfach ein "Neues System", sind Verwerfungen daher 
+  ganz normal und unvermeidbar?
+  
+* Was tut man dagegen?
+  - Vereinfachung des Politischen Systems. 
+    . Kann das System das?
+    . Oder ist es selber-verkomplizierend?
+  - Explizit mehr Dinge lokal entscheiden als Gegengewicht zu Globalisierung?
+  - "Geldregen" wie UBI oder höhere Sozialausgaben?
+  - Hilft mehr Bildung?
+
+

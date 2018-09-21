@@ -9,12 +9,36 @@ Recap
 
 * Engineering 
   - Relativ kleiner Zustandsraum: 64 QBits
+    klein?
   - wie baut man so Dinger
   - wie groß sind die Dinger? Laboraufbau oder USB Device :-)? 
 
 
 Computational Model
 ------------------------------------------
+* QC sind immer Coprozessoren
+  (wie Analogcomputer oder Grafikkarten)
+
+* Klassisches Programm wird verwendet zu
+  - Datenaufbereitung
+  - Programmaufbau (Processing Chain, "Versuchsaufbau")
+  - Steuerung des QC
+  - Auslesen/Messen der Ergebnisse
+
+* Generelles Problem: lesen hat einen Seiteneffekt!
+  - Es kollabiert die Quantenfunktion - siehe später
+    (was genau passiert da?)
+  - das ist FUNDAMENTAL anders als bei KC
+
+* Quantenprogramm kann sehr gut simuliert werden
+  - mittels Vektor- und Matrixalgebra,
+  - aber natürlich ohne die Speedups wegen denen
+    man Quantencomputer überhaupt verwendet
+  - was genau macht es dann "klassisch infeasible"?
+  
+* Es gibt also eine API gegen die man "klassisch programmieren" kann
+  
+  
 * Was ist ein Computational Model
   - Befehl und Mutable State
   - Funktional
@@ -23,51 +47,32 @@ Computational Model
 * QC is stateful. not functional. Sogar noch "schlimmer",
   denn auch lesen ändert Zustand
 
-* QC sind immer Coprozessoren
-  (wie Analogcomputer oder Grafikkarten)
-* Klassisches Programm wird verwendet zu
-  - Datenaufbereitung
-  - Programmaufbau (Processing Chain, "Versuchsaufbau")
-  - Steuerung des QC
-  - Auslesen/Messen der Ergebnisse
-* Classical state -> H -> Quantum state -> compute -> H -> Classical State
-
-* Es gibt also eine API gegen die man "klassisch programmieren" kann
-
-* Quantenprogramm kann sehr gut simuliert werden
-  - mittels Vektor- und Matrixalgebra,
-  - aber natürlich ohne die Speedups wegen denen
-    man Quantencomputer überhaupt verwendet
-  - was genau macht es dann "klassisch infeasible"?
-  
-* Generelles Problem: lesen hat einen Seiteneffekt!
-  - Es kollabiert die Quantenfunktion - siehe später
-    (was genau passiert da?)
-  - das ist FUNDAMENTAL anders als bei KC
+* DAtenflussmodell
 
 * Es gibt keine High Level Operatoren, sondern eine Reihe
   von Basics, die AND, OR, XOR, etc. entsprechen
   - X, H, CNOT.... welche noch?
   - diese entsprechen iGG  (teilweise seltsamen) 
     physikalischen Operationen auf Atomen
-  
-* We've developed the unit circle state machine -> abstraction, 
-  forget lower vector math level
 
 * Alle Ops reversibel
   - heißt was?
   - warum ist das wichtig?
   
-* Die QBits sind nicht dauerhaft stabil. Was bedeutet das
-  für den Umgang mit QCs im Rahmen von Programmen?
 
-* Es gibt Fehler im Setup, and generell Quantum Noise.
-  Was tut man dagegen?
 
-* Gate mOdel vs. Annealing Model    	
+* Classical state -> H -> Quantum state -> compute -> H -> Classical State
 
-* What about testing if you can‘t read without influencing the computation?
 
+
+  
+
+  
+* We've developed the unit circle state machine -> abstraction, 
+  forget lower vector math level
+
+
+fehlerkorrektur
 
 Quantum Algoithms
 ---------------------------------
@@ -78,6 +83,9 @@ Quantum Algoithms
 
 ## Probability vs, Prob Amplitude -> complex numbers
 ## Directions regarding the paradigms used in future higher level quantum prog lang
+
+
+
 
 
 Eure Anwendung
@@ -102,6 +110,26 @@ Eure Anwendung
   - ...
 
 * Was konkret macht ihr derzeit?						
+
+
+
+----------------------------
+
+* Die QBits sind nicht dauerhaft stabil. Was bedeutet das
+  für den Umgang mit QCs im Rahmen von Programmen?
+
+
+
+
+
+* Es gibt Fehler im Setup, and generell Quantum Noise.
+  Was tut man dagegen?
+
+* Gate mOdel vs. Annealing Model    	
+
+* What about testing if you can‘t read without influencing the computation?
+
+* Open Source
 
 Material
 -----------------------------------------
