@@ -13,17 +13,20 @@
   
 
 * Ursachen für Populismus
+
   - Wirtschaft:
     . Angst vor wirtschaftlichem Abstieg oder gesellschaftlicher Irrelevanz
     . Wirtschaftskrise von 2007/8 
       Populismusphasen nach anderen Krisen?
     . Unmut über Kapitalismus-Exzesse
     . Genereller: Veränderungsangst, Globalisierung, Roboter&AI
+
   - Unzufriedenheit mit etabliertem politischem System
     . Visions-/Planlosigkeit der Politik
     . Korruption/Geld in der Politik "eh alles egal"
     . Fall Maasen
     . Unequal Voting, no more One Citizen, One Vote (Lessig's Argument)
+
   - Demokratie als Idee und Prinzip ist gut. Aber die aktuelle "Implementierung" ist
     . zu kompliziert
     . zu langsam (die Welt wird immer schneller, die Politik nicht)
@@ -34,7 +37,16 @@
     . sind die aktuelle Kompromisse in (großen) Koalitionen wirklich
       The Will of the People? Oder Emergent Chaos?
     - Software-Analogie: wir brauchen Refactorings :-)
+
   - Flüchtlinge/Einwanderer
+    . Als direktes Problem
+    . als indirektes Problem (mehr Einwanderer führen aus Systemsicht einfach
+      immer zu mehr Abneigungen/Neid/Schuldzuweisungen und damit zu einem
+      Anstieg von Rechtsradikalismus?
+    . Also: "Wir schaffen das" war sachlich richtig und in der Situation auch
+      die einzig mögliche Reaktion, aber die Aussage ohne konkret erkennbaren
+      Plan ist zu einfach?
+
   - Komplexität der Gesellschaft
     Frei nach Tainter: es ist einfach mal wieder Zeit für nen Kolllaps
     war mal Gast: http://omegataupodcast.net/184-societal-complexity-and-collapse/
@@ -60,7 +72,7 @@
 * Was tut man dagegen?
   - Vereinfachung des Politischen Systems. 
     . Kann das System das?
-    . Oder ist es selber-verkomplizierend?
+    . Oder ist es selbst-verkomplizierend?
   - Explizit mehr Dinge lokal entscheiden als Gegengewicht zu Globalisierung?
   - "Geldregen" wie UBI oder höhere Sozialausgaben?
   - Hilft mehr Bildung?
