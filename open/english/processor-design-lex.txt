@@ -1,0 +1,219 @@
+* Introduction of Lex Augusteijn
+
+Basics
+----------------------------------------------------
+
+* Moore's law
+  - The first microprocessors appeared early seventies. 
+  - They are where silicon chips made out of transistors and they still are.
+  - They have grown 
+    . from around 3000 transistors 
+    . to 3 billion by 2011, 
+    . 1 million times more complex in 4 decades.
+  - That is 2^20 in 40 years, around 2x every 2 year.
+  - That is Moore's law, predicted by Gordon Moore (co-founder of Intel) in 1965.
+  - The law still holds.
+
+* How was this achieved?
+  - Money: with Moore's law, the silicon industry has grown in size, 
+    making the huge investment possible for every new generation
+  - Self-fulfilling prophecy: ones the law was formulated, people (market) 
+    expected it to be fulfilled and comnpanies where forced to deliver by strong competition
+  - Design automation: as computers grew more powerful, they were used to 
+  design new chips with, creating a powerfull self-supporting cycle
+
+* What brings Moore's law:
+  - more transistors per chip (around the size of a fingernail, 
+    though it has grown slighly over time)
+  - smaller transistors are faster  than bigger ones (60 kHz to 3GHz in 30 years, 
+    this 50.000 x, which is around 2x every 2 years)
+  - smaller transistors consume less power than bigger ones
+
+
+Terminology
+----------------------------------------------------
+
+* (5 minutes) Computer Architecture vs. Processor Architecture
+  - Difference between the two
+  - CPU vs. other Processors, eg. for graphics
+  - RAM
+  - Caches
+  - Buses
+  - SoC (System on a Chip)
+
+* (10 minutes) We'll talk mostly about the CPU, so: Basics Processor
+  - ALU
+  - Registers
+  - Controller
+  - Memory (Data)
+  - Memory (Program)
+  - Program Counter
+  how do those play together roughly; later explain details
+ 
+* Variants
+  - von Neumann vs. Harvard architecture
+  - RISC cs. CISC: trade-offs? Growing together?
+  - 8, 16, 32, 64 bit is about what?
+ 
+ 
+  BASICALLY WE WILL SKIP THIS
+  AND ONLY MENTION IF WE NEED IT TO EXPLAIN AN OPTIMIZATION
+* More details on Processor components
+  - Actual computation (ALU)
+    . arithmentic
+    . logic
+    . what goes in and out, buses
+  - instruction decoder
+    . what are machine instructions, how are they structured
+    . how long, different word lenghts
+    . fixed length, var length
+    . big/little endian
+  - Register 
+    . Small memory locations in processor, access fast!
+    . Adress registers
+    . data registers
+    . instruction pointer registers
+  - Connections
+    . data bus
+    . address bus
+    . Why external memory, why not just lots of registers?
+    . Direct Memory Access (DMA) by other devices - how common/important is it in practice?
+  - Clock / clock decoder
+    . power used in distributing clock over the processor. Some say this is very significant.
+    . Internal synchronization issues in processor?
+  - Control unit?
+  - Integration of the components, von Neumann Cycle:
+    . fetch, decode, execute, writeback
+  - L1, L2 caches, memory hierarchy
+    . generally the importance of caching, 
+    . the challenge of cache invalidation
+  - Interrupts 
+    . do all processors have them?
+    . what is the challenge?
+    . predictability and provability of processors and the effect that interrupts play
+    . Real-Time computing and Interrupts
+  - Loose ends:
+    . Chipset: North Bridge / South Bridge
+    . Execution levels: protection, rings
+    
+  
+* Microcode 
+  - what is this?
+  - in which language is it "written"?
+  - abstraction levels
+  - Rumors of a Minix operating system in the processor?
+  - Fixing bugs like SPECTRE in the processor?
+  
+* How is a processor booted? Steps!
+
+
+
+Optimizations in Modern Processors
+----------------------------------------------------
+
+* Optimization in modern Processors
+  - Pipelining & Instruction-Level Parallelism
+  - Caching also part of this aspect?
+  - Deeper Pipelines – Superpipelining
+  - Superscalar Execution - what is this?
+  - Branch Prediction
+    . static vs. dynamic
+    . two-bit prediction scheme
+  - Speculative Execution
+    . can only be done for stuff with no sideeffects, right?
+  - Explicit Parallelism – VLIW
+  - Register Renaming
+  - Instruction Scheduling, Register Renaming & OoO Execution
+  - Threads 
+    SMT, Hyper-Threading, SIMD
+  - Multi-Core
+    Identical vs specialized cores
+
+  -> How much improvements do these all bring?
+  
+* What is done in special-purpose processors:
+  - graphics cards
+  - embedded processors
+  - server/cloud CPUs
+    
+* How are these things integrated with compilers?
+  - Do compilers specifically "generate code" for these features?
+    how? examples?
+  - spatial vs. temporal computing?
+  
+
+Additional Concerns
+----------------------------------------------------
+
+* Security
+  - EP
+  - ASLR
+  - endbrach 
+  - shadow stack
+   
+* Energy efficiency
+  - is this only a proc h/w issue,
+  - or also relates to proc design?
+  - Clock? See above
+  - Thermodynamic limit to energy efficiency?
+  - e.g. DVS (dynamic voltage scaling) and 
+  - DFS (frequency), 
+  - clock-gating and power gating. Leakage.
+  - Why are the ARMs generally more efficient?
+
+* Virtualization: support for hypervisors.
+
+
+Where and when does it all end?
+---------------------------------------------
+* Physical limits: atom size, wire domination, power density.
+* Economic limits
+   
+
+
+
+================================================================
+OUT OF SCOPE - WON'T COVER
+================================================================
+
+History
+----------------------------------------------------
+* over time 
+  - Z80
+  - Intel 8080, 8086, 80286, 386, Pentium, .... Core I7
+  - Motorola 68000
+  - IBM Alpha
+  - IBM Power
+  - Curiosity: VAX, Cray
+* In parallel:
+  - Intel
+  - ARM
+  - GPUs
+  - FPU
+  - FPGA as coprocessor? Or as fabric for (ARM) processor cores?
+
+* Specialized processors for programming systems (e.g. processor that 
+  has FORTH as its "assembly" and has a separate stack memory)?
+
+Processor Design ("idea to chip")
+--------------------------------------------------
+* Layers
+  - Specification
+  - Architecture
+  - Register Transfer (VHDL)
+  - Netlist (Gates and memories)
+  - Netlist (Transistors)
+  - Layout
+* Where do the requirements come from?
+* How are ideas "tried out"?
+* (How) do you do performance prediction? Models?
+* Is the physical layout important (length of connections, speed of light)
+* 45 nm process vs 14 nm process vs etc.
+  - What size does this refer to, and how is it reduced?
+  -  Practical impact - improved speed? power efficiency? anything else?
+  - Where are we and how far can we expect to go? 
+    
+* Research - what is currently being researched?
+ - Limits of current CPU manufacturing and design processes (few atom layers left)
+ - Quantum Computing - Differences, What will be possible and what will NOT be possible
+  
