@@ -1,0 +1,126 @@
+* Definition Achterbahn vs. andere Fahrgeschäfte
+
+* Einmal Lift + "Ausrollen" vs. zwischenlifte?
+  - mehrere Lifte 
+  - vs. 1 Lift der mehrmals befahren wird. Weichen?
+  - Im Gegensatz dazu: powered coaster
+  
+* Wagenkonfigurationen
+  - Stehen vs. Hängen
+  - Querbeschl. vs. Lotrecht  
+  - Extra Freiheitsgrade angetrieben/unangetrieben
+    Problem der "ruckartigen" Überlagerungen
+
+* Laterale Beschleunigungen Bug oder Feature?
+  . Ich finde es eher doof; macht es den Bau einfacher?
+  . Braucht halt weniger Gelenke?
+
+* Wie wird Entgleisung verhindert?
+  andere Redundanzen im Fahrwerk?
+
+* Mobile
+  - geringere Kräfte mangels Fundament
+  - kompaktere Fläche
+  - Auf/Abbauzeiten -> bedeutet konkret?
+  
+* Über-Kopf-Elemente besonders sicherheitskritisch?
+
+* Streckenführung
+  - wie beim Kunstflug => Höhe nach Fahrt
+  - Dabei Grenzen von v und g
+  - Abhängigkeit von 
+    . Gewicht (warum?)
+    . Temperatur (warum?)
+      Silver Star und Blue Fire "warmschießen" 	
+      warum? Wie geht das?
+
+  Mindestgewicht ist die Kinderachterbahn "Tausendfüssler" 
+  bei zu wenigen Fahrgästen angeblich auf der Strecke stehenbleiben
+  Diese Bahn kann dementsprechend keine leere Testfahrt machen.
+  -> doof, oder?
+
+
+
+* Unterschiedlichkeit
+  - Komplette Einzelstücke
+  - Gleiche Technik, unterschiedliche Strecken
+    (was sind dann da die Randbedingungen? v? g?)
+    Zumindest gleiche Sitze + Bügel
+  - Gleiche Strecke, aber unterschiedliches Theming
+  - Komplette Kleinserien
+  
+* Einzelstücke vs. Serie vs. Basis die 
+  konfigurier- oder theme-bar ist
+
+
+* Vorschriften
+
+* Belastungsgrenzen für die Gäste
+
+* Arten/Kategorisierung
+
+* Entw. über die Zeit
+
+* Antriebe
+
+* Anderes Design je nach Aufbaubarkeitsdauer?
+
+* Älteste
+  - Veränderung Matertialien
+    (Holzachterbahn)
+  - Geschichte
+
+* Liftsysteme
+  - mechanisch Kette 
+  - Magnetisch
+  - Trommellift?
+  - Rücklaufsperre!
+  
+* Unterschied Lift + Katapult 
+  - Linearmotoren, magnetisch?  
+  - wie kriegt man den Luftspalt möglichst klein?
+
+* Was sind Trim-Brakes?
+
+* "Airtime" 
+  - 0g vs. negativ
+  - wie weit, wie lang?
+
+* Was ist Basis der Konstruktion, und wie beeinflusst
+  das die Anlage?
+  - Höhe?
+  - Fläche?
+  - "Spektakularität"
+  
+* Konstruktionssoftware? 
+  - Lichtraumprofil
+  - Energiemanagement
+  - Beschleunigungen
+  - Belastung von Bahn und Stützen?
+    Verstärkung an besonders belasteten Stellen
+    (Nur Schienen vs. Schienen + 1 oder 2 Zusatzstreben, wie bei Kränen)
+  - Herzlinie (was ist das?)
+  - welche Parameter sind noch relevant?
+  
+* Was sind heute die zu brechenden Rekorde?
+  Was sind Grenzen (des Menschen, der Zulassbarkeit) 
+  die man nicht überschreiten kann?
+  Andere begrenzende Faktoren? Belastung v. Bahn und Stützen?
+
+* Unterschiede (Geschw., gs) im Zug vorne + hinten
+  - Zugende über die Hügelkuppe gerissen, da der 
+    Großteil des Zuges bereits nach unten beschleunigt wird
+  - Und vorne "hängt" man auf der Kuppe
+  - Airtime hinten intensiver
+  
+* Mehrere Züge auf der Bahn
+  - Sicherungssysteme, Blöcke wie bei der Bahn?
+  - "Blockbremsen"?
+  - Max?
+  
+* Sicherheitsvorschriften
+  - wer?
+  - "in D muss Bügel 4 mal rasten statt 3 mal"
+  - Was wird gemacht, dass man die Bügel nicht aus versehen
+    aufmacht/aufgehen?
+  - Kann Handraushalten gefählich sein?

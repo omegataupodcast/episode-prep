@@ -3,32 +3,42 @@
   - How did you get here...
   - Book, Podcast
 
+* Big Picture: Liberale Demokratie
+  - Warum sind BEIDE Komponenten des Wortes wichtig
 
 Was ist Populismus?
 ------------------------------------------------
 * Populismus - Definition(en)
   - Etymologie
-  - "verständlich reden" und populäre Themen?
+  - Ist "verständlich reden" bzw. über Themen die die Leute interessieren schon pop?
   - unzulässig vereinfachend?
-  - system-abschaffend?
-  - Ist Populismus immer auf Politik bezogen oder verwendet man diesen Begriff auch in Wirtschaft, Medien, Psychologie, Religion... 
-  - Populismus: Was hat Populismus mit dem politischen System zu tun? Welche Beispiele gibt es aus der Geschichte zum Populismus in autokratischen Systemen, im Feudalismus, etc. 
-  - In wie weit wird Populismus von der Kultur eines Landes beeinflusst? Platt gefragt: Ist asiatischer Populismus anders als afrikanischer oder europäischer?
-  - Was ist der Unterschied zwischen Populismus, Propaganda und Lüge?
+  - Ist Abschaffungswille d. demokratischen Systems notwendiges Kriterium?
+  - Ist Populismus immer auf Politik bezogen oder verwendet man diesen 
+    Begriff auch in Wirtschaft, Medien, Psychologie, Religion... 
+  - Ist P ein Phänomen in Demokratien oder gibt/gab es das auch in anderen
+    pol Systeme? Und wenn ja, wie prägt sich das dann (anders?) aus.
+    Welche Beispiele gibt es aus der Geschichte zum Populismus in 
+    autokratischen Systemen, im Feudalismus, etc. 
+  - In wie weit wird Populismus von der Kultur eines Landes beeinflusst? 
+    Platt gefragt: Ist asiatischer Populismus anders als afrikanischer 
+    oder europäischer?
+  - In wie weit ist Populismus ein wissenschaftlich akzeptierter, 
+    "genormter" Begriff. Weltweit, oder nur im Westen?
+  - In wie weit ist Populismus nur ein gehyptes Wort, das suggerieren soll, 
+    dass der Verwender auf der guten, demokratischen Seite steht, 
+    im Gegensatz zum Populisten? 
+  - Populismus -> Propaganda -> Lüge?
+  - Populist -> Autokrat -> Diktator  
 
 * Populismus-Forschung
-- Wie wird aktueller Populismus in demokratischen Systemen erforscht?
-- Wie kann man wissen, welche Auswirkungen Populismus hat? Man kann doch nie die "Was wäre wenn"-Frage beantworten.
-- In wie weit ist Populismus ein wissenschaftlich akzeptierter, "genormter" Begriff. Weltweit, oder nur im Westen?
-- In wie weit ist Populismus nur ein gehyptes Wort, das suggerieren soll, dass der Verwender auf der guten, demokratischen Seite steht, im Gegensatz zum Populisten?
-
-
-* Liberale Demokratie
-  - Warum sind BEIDE Komponenten des Wortes wichtig
-
+  - Wie wird aktueller Populismus in demokratischen Systemen erforscht?
+  - Wie kann man wissen, welche Auswirkungen Populismus hat? 
+    Man kann doch nie die "Was wäre wenn"-Frage beantworten.
+  - Kontrollierte Experimente?
 
 * Warum hat Rechts-Populismus soviel Zulauf, und nicht links?
-  - warum wählen Frustrierte nicht mehr SPD bzw. Dems?
+  - war das schon immer so?
+  - warum wählen "Frustrierte" nicht mehr SPD bzw. Dems?
 
 * Aktuelle Beispiele und Symptome
   - US
@@ -36,14 +46,13 @@ Was ist Populismus?
   - Ungarn
   - DE
 
-* Kontinuum Populist - Autokrat - Diktator  
-
 * Was sind die Voraussetzungen für liberale Demokratie?
   - Was ist der Grundkonsens?
   - Geht das nur wenn es Wachstum gibt und es "eh allen gut geht"?
 
 * Warum passiert das grade jetzt, überall, quasi gleichzeitig?
   Ursachen könne ja nicht in den länderspezifischen Systemen/Parteien liegen
+
 
 
 Ursachen im Detail
@@ -112,7 +121,6 @@ Ursachen im Detail
   
 Was tun dagegen?
 -----------------------------------------
-  
 * Vereinfachung des Politischen Systems. 
   - Kann das System das?
   - Oder ist es selbst-verkomplizierend?
