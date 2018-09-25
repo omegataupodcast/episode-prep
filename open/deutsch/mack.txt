@@ -146,6 +146,10 @@ Entwicklung
   - Herzlinie (was ist das?)
   - welche Parameter sind noch relevant?
   
+* Simulation / Zukunftskonzepte
+  - Wie real sind Simulatoren / Spiele wie Rollercoaster Tycoon?
+  - VR + Robocoaster als platzsparende Achterbahn denkbar / die Zukunft?
+  
 
 Outlook
 ------------------------------------------------------------
