@@ -1,46 +1,114 @@
-* Definition Achterbahn vs. andere Fahrgeschäfte
+Einführung
+----------------------------
 
-* Einmal Lift + "Ausrollen" vs. zwischenlifte?
-  - mehrere Lifte 
-  - vs. 1 Lift der mehrmals befahren wird. Weichen?
-  - Im Gegensatz dazu: powered coaster
+* Über Mack Rides und den Gast
+
+* Definition Achterbahn vs. andere Fahrgeschäfte?
+
+* Was sind Mega, was sind Hypercoaster?
+
+* Sind diese Katapult-Senkrecht-WiederRunterfall-Dinger
+  auch Achterbahnen :-) ?
   
-* Wagenkonfigurationen
-  - Stehen vs. Hängen
-  - Querbeschl. vs. Lotrecht  
-  - Extra Freiheitsgrade angetrieben/unangetrieben
-    Problem der "ruckartigen" Überlagerungen
+* Kurzer Abriss der Geschichte
+  - Veränderung Matertialien (Holzachterbahn)
+  - Geschwindigkeiten, Höhen, Gs
+  - auch im Bezug zu Mack
 
-* Laterale Beschleunigungen Bug oder Feature?
-  . Ich finde es eher doof; macht es den Bau einfacher?
-  . Braucht halt weniger Gelenke?
+
+
+Vorschriften und Prüfung
+----------------------------------------------
+
+* Wer macht die Sicherheitsvorschriften?
+
+* Was genau schreiben die vor?
+
+* Kann Handraushalten gefählich sein?
+
+* "in D muss Bügel 4 mal rasten statt 3 mal"
+
+* Was wird gemacht, dass man die Bügel nicht aus versehen
+  aufmacht/aufgehen?
 
 * Wie wird Entgleisung verhindert?
   andere Redundanzen im Fahrwerk?
 
-* Mobile
-  - geringere Kräfte mangels Fundament
-  - kompaktere Fläche
-  - Auf/Abbauzeiten -> bedeutet konkret?
-  
 * Über-Kopf-Elemente besonders sicherheitskritisch?
+  bzw. Vorschriften?
+
+* Wie oft wird geprüft
+  - Konstruktion/Herstellung/Auslieferung
+  - wiederkehrend bei stationären
+  - wiederkehrend bei mobilen
+
+
+
+Konstruktionsalternativen
+----------------------------------------------
+
+* Lift
+  - Einmal Lift + "Ausrollen" vs. Zwischenlifte?
+  - mehrere Lifte vs. 1 Lift der mehrmals befahren wird. Weichen?
+  - Im Gegensatz dazu: Powered Coaster wo immer wieder
+    gebremst und beschleunigt wird
+  - Unterschied Lift + Katapult 
+    . Linearmotoren, magnetisch?  
+    . wie kriegt man den Luftspalt möglichst klein?
+  - Liftsysteme
+    . mechanisch Kette 
+    . Magnetisch
+    . Trommellift?
+    . Rücklaufsperre!
+  - Haben alle neuen Katapulte? Oder hat
+    ein klassicher, "langsamer" Lift auch heute
+    noch seinen Charme?
+  
+* Wagenkonfigurationen
+  - Stehen vs. Hängen
+  - Querbeschl. vs. Lotrecht  
+  - Extra Freiheitsgrade 
+    . Spinning Coaster
+    . angetrieben/unangetrieben 
+    . Problem der "ruckartigen" Überlagerungen
+
+* Laterale Beschleunigungen Bug oder Feature?
+  - Ich finde es eher doof; macht es den Bau einfacher?
+  - Braucht halt weniger Gelenke?
 
 * Streckenführung
-  - wie beim Kunstflug => Höhe nach Fahrt
+  - wie beim Kunstflug => Höhe in Fahrt umwandeln
   - Dabei Grenzen von v und g
   - Abhängigkeit von 
-    . Gewicht (warum?)
     . Temperatur (warum?)
       Silver Star und Blue Fire "warmschießen" 	
       warum? Wie geht das?
+    . Gewicht (warum?)
+      Mindestgewicht ist die Kinderachterbahn "Tausendfüssler" 
+      bei zu wenigen Fahrgästen angeblich auf der Strecke stehenbleiben
+      Diese Bahn kann dementsprechend keine leere Testfahrt machen.
+       -> doof, oder?
+  - Mehrere Züge auf der Bahn
+    . Sicherungssysteme, Blöcke wie bei der Bahn?
+    . "Blockbremsen"?
+    . Max?
+  
+* Was sind Trim-Brakes?
 
-  Mindestgewicht ist die Kinderachterbahn "Tausendfüssler" 
-  bei zu wenigen Fahrgästen angeblich auf der Strecke stehenbleiben
-  Diese Bahn kann dementsprechend keine leere Testfahrt machen.
-  -> doof, oder?
+* "Airtime" 
+  - 0g vs. negativ
+  - wie weit, wie lang?
+  - Unterschiede (Geschw., gs) im Zug vorne + hinten
+    . Zugende über die Hügelkuppe gerissen, da der 
+      Großteil des Zuges bereits nach unten beschleunigt wird
+    . Und vorne "hängt" man auf der Kuppe
+    . Airtime hinten intensiver
+
+* Theming, Marketing, "Dangerous Name" :-)
 
 
-
+Entwicklung
+----------------------------------------------
 * Unterschiedlichkeit
   - Komplette Einzelstücke
   - Gleiche Technik, unterschiedliche Strecken
@@ -49,49 +117,19 @@
   - Gleiche Strecke, aber unterschiedliches Theming
   - Komplette Kleinserien
   
-* Einzelstücke vs. Serie vs. Basis die 
-  konfigurier- oder theme-bar ist
-
-
-* Vorschriften
-
-* Belastungsgrenzen für die Gäste
-
-* Arten/Kategorisierung
-
-* Entw. über die Zeit
-
-* Antriebe
-
-* Anderes Design je nach Aufbaubarkeitsdauer?
-
-* Älteste
-  - Veränderung Matertialien
-    (Holzachterbahn)
-  - Geschichte
-
-* Liftsysteme
-  - mechanisch Kette 
-  - Magnetisch
-  - Trommellift?
-  - Rücklaufsperre!
+* "Functional Core" bei Mack
   
-* Unterschied Lift + Katapult 
-  - Linearmotoren, magnetisch?  
-  - wie kriegt man den Luftspalt möglichst klein?
-
-* Was sind Trim-Brakes?
-
-* "Airtime" 
-  - 0g vs. negativ
-  - wie weit, wie lang?
-
+* Mobile
+  - geringere Kräfte mangels Fundament
+  - kompaktere Fläche
+  - Auf/Abbauzeiten -> bedeutet konkret?
+  
 * Was ist Basis der Konstruktion, und wie beeinflusst
   das die Anlage?
   - Höhe?
   - Fläche?
   - "Spektakularität"
-  
+
 * Konstruktionssoftware? 
   - Lichtraumprofil
   - Energiemanagement
@@ -102,25 +140,15 @@
   - Herzlinie (was ist das?)
   - welche Parameter sind noch relevant?
   
+
+Outlook
+------------------------------------------------------------
 * Was sind heute die zu brechenden Rekorde?
   Was sind Grenzen (des Menschen, der Zulassbarkeit) 
   die man nicht überschreiten kann?
   Andere begrenzende Faktoren? Belastung v. Bahn und Stützen?
 
-* Unterschiede (Geschw., gs) im Zug vorne + hinten
-  - Zugende über die Hügelkuppe gerissen, da der 
-    Großteil des Zuges bereits nach unten beschleunigt wird
-  - Und vorne "hängt" man auf der Kuppe
-  - Airtime hinten intensiver
+* Belastungsgrenzen für die Gäste
+
   
-* Mehrere Züge auf der Bahn
-  - Sicherungssysteme, Blöcke wie bei der Bahn?
-  - "Blockbremsen"?
-  - Max?
-  
-* Sicherheitsvorschriften
-  - wer?
-  - "in D muss Bügel 4 mal rasten statt 3 mal"
-  - Was wird gemacht, dass man die Bügel nicht aus versehen
-    aufmacht/aufgehen?
-  - Kann Handraushalten gefählich sein?
+
