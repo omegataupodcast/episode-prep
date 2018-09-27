@@ -17,7 +17,7 @@ Einführung
   auch Achterbahnen :-) ?
   
 * Kurzer Abriss der Geschichte
-  - Veränderung Matertialien (Holzachterbahn)
+  - Veränderung Matertialien (Holz->Stahl)
   - Geschwindigkeiten, Höhen, Gs
   - auch im Bezug zu Mack
 
@@ -32,7 +32,7 @@ Vorschriften und Prüfung
 
 * Kann Handraushalten gefählich sein?
 
-* "in D muss Bügel 4 mal rasten statt 3 mal"
+* "in D muss Bügel 4 mal rasten statt 3 mal" beim Silver Star?
 
 * Was wird gemacht, dass man die Bügel nicht aus versehen
   aufmacht/aufgehen?
@@ -56,8 +56,9 @@ Konstruktionsalternativen
 * Lift
   - Einmal Lift + "Ausrollen" vs. Zwischenlifte?
   - mehrere Lifte vs. 1 Lift der mehrmals befahren wird. Weichen?
-  - Im Gegensatz dazu: Powered Coaster wo immer wieder
-    gebremst und beschleunigt wird
+  - Im Gegensatz dazu: Powered Coaster 
+    . dauerhaft angetrieben
+    . immer wieder bremsen/beschleunigen
   - Unterschied Lift + Katapult 
     . Linearmotoren, magnetisch?  
     . wie kriegt man den Luftspalt möglichst klein?
@@ -87,13 +88,10 @@ Konstruktionsalternativen
   - Dabei Grenzen von v und g
   - Abhängigkeit von 
     . Temperatur (warum?)
-      Silver Star und Blue Fire "warmschießen" 	
-      warum? Wie geht das?
+      "warmschießen"? warum? Wie geht das?
     . Gewicht (warum?)
-      Mindestgewicht ist die Kinderachterbahn "Tausendfüssler" 
-      bei zu wenigen Fahrgästen angeblich auf der Strecke stehenbleiben
-      Diese Bahn kann dementsprechend keine leere Testfahrt machen.
-       -> doof, oder?
+      Braucht man dann ein Mindestgewicht? 
+      Kann man ggfs. nicht leer fahren?
   - Mehrere Züge auf der Bahn
     . Sicherungssysteme, Blöcke wie bei der Bahn?
     . "Blockbremsen"?
