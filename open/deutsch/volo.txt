@@ -1,0 +1,94 @@
+Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
+--------------------------------------------------------
+* Volocopter - Überblick
+
+* Welche Vision von Mobilität?
+  - ist es in der Luft echt einfacher als auf der Strasse?
+  - Klar, 3Dim, aber auch mehr Sicherheitsabstand
+  - Die Rolle von Autonomie?
+  - bzw. Fernsteuerung von zentraler Stelle
+    "Air traffic management (inlcuding UTM) to coordinate autonomous 
+     Volocopter fleets integration possible"
+  - Was genau ist ein Flugtaxi um Unterschied zu Flugzeugen?
+  - Flugtaxi Backlash München
+  - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
+
+* Enabling Technologies. Why now?
+
+* Performance 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
+  - Use Case?
+  - Changing batts vs charging batts?
+
+* Warum kein Flächenflieger oder etwas Klapp-flügeliges?
+  - Bspw. Lilium
+  - Ich finde ja das Gerät von opener.aero ganz cool
+
+* Bisschen Geschichte: wie kam es zum heutigen Volocopter?
+ 
+* Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
+
+* Status? Marktreife?
+  "Beim ersten autonomen Lufttaxi-Testbetrieb in der Geschichte der Luftfahrt."
+
+
+Michael Harms ist Head of Basic Aircraft Engineering
+--------------------------------------------------------
+* Warum grade diese Auslegung? 
+  - Design-Alternativen?
+  - Der "Rotorkranz" scheint das entscheidende?
+
+* Multiple redundancy in all critical components such as 
+  - propellers,
+  - motors
+  - power source
+  - (electronics, flight control, displays)
+
+* Warum grade 18 Motoren? 
+  Waren da die passenden einfach auf dem Markt verfügbar :-) ?
+
+* Kohlefaser
+
+* Rechtliche Randbedingungen
+  - derzeit Zulassung als UL 
+  - wie passt das mit Autonomie zusammen?
+  - ist das auch langfristig die Idee?
+
+* Redesign wenn UL Gewichtserhöhung kommt? 
+  - Oder nur mehr Batt?
+
+* Full aircraft emergency parachute -> wegen UL.
+
+* Eigene Avionik? 
+
+
+
+Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
+--------------------------------------------------------
+* Einfach mur ein Multicopter :-) ?
+
+* Grundlegende Struktur des FCS
+  1 triple redundant primary flight control unit
+  1 dissimilar backup flight control unit
+  1 joystick (includes friction clutch to set cruise speed)
+
+* Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
+  basically: ein iPhone
+
+* Highly reliable communication network between devices through
+  meshed polymer optic fiber network ( ́fly-by-light ́)
+
+* Softwarestruktur, Sprachen, Tools, Prozesse
+
+* UL vs. FBW - Zulassung?
+* Sicherheit und Redundanz
+
+* Options to control: Piloted, interactive one-hand control via joystick
+  - Autonomie vs. Fernsteuerung
+
+* Options
+  - Remote control (RC): already assimilable
+  - GPS point tracking: already assimilable
+  - Sense & avoid: integration possible
+  - Autonomous subfeatures: integration possible
+
+

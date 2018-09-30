@@ -48,11 +48,13 @@ Terminology
   - Memory (Data)
   - Memory (Program)
   - Program Counter
+  - Microcode
   how do those play together roughly; later explain details
+
+  - RISC cs. CISC: trade-offs? Growing together?
  
 * Variants
   - von Neumann vs. Harvard architecture
-  - RISC cs. CISC: trade-offs? Growing together?
   - 8, 16, 32, 64 bit is about what?
  
  
@@ -113,23 +115,53 @@ Optimizations in Modern Processors
 
 * Optimization in modern Processors
   - Pipelining & Instruction-Level Parallelism
-  - Caching also part of this aspect?
-  - Deeper Pipelines – Superpipelining
+  
   - Superscalar Execution - what is this?
+    
   - Branch Prediction
-    . static vs. dynamic
+    . static 
+    vs. dynamic
     . two-bit prediction scheme
+  
+  - Caching also part of this aspect?
+    adjacency
+    table of what is in the caceh
+    external mod
+    invalidation
+    special insrtru
+  
+  - Deeper Pipelines – Superpipelining
+
+  - Threads 
+    SMT
+    Hyper-Threading, 
+    SIMD
+    64 is adress
+
+
   - Speculative Execution
     . can only be done for stuff with no sideeffects, right?
-  - Explicit Parallelism – VLIW
+
   - Register Renaming
-  - Instruction Scheduling, Register Renaming & OoO Execution
-  - Threads 
-    SMT, Hyper-Threading, SIMD
+
+  - Explicit Parallelism – VLIW
+    compiler - once üroc multi
+    how important is the lang or the program
+    
+    OoO Execution
+
+  - Instruction Scheduling, Register Renaming & 
+
+
+-> How much improvements do these all bring?
+  
+     how big is microcode
+  
+  DSL
+ 
   - Multi-Core
     Identical vs specialized cores
-
-  -> How much improvements do these all bring?
+  
   
 * What is done in special-purpose processors:
   - graphics cards
@@ -145,24 +177,28 @@ Optimizations in Modern Processors
 Additional Concerns
 ----------------------------------------------------
 
-* Security
-  - EP
-  - ASLR
-  - endbrach 
-  - shadow stack
-   
 * Energy efficiency
+  - Clock? See above
   - is this only a proc h/w issue,
   - or also relates to proc design?
-  - Clock? See above
   - Thermodynamic limit to energy efficiency?
   - e.g. DVS (dynamic voltage scaling) and 
   - DFS (frequency), 
   - clock-gating and power gating. Leakage.
   - Why are the ARMs generally more efficient?
 
+* Security
+  - EP
+  - ASLR
+  - endbrach 
+  - shadow stack
+   
 * Virtualization: support for hypervisors.
 
+which of the tricks are not on the gpu
+Graphics
+Neuro
+ 
 
 Where and when does it all end?
 ---------------------------------------------
@@ -195,6 +231,7 @@ History
 * Specialized processors for programming systems (e.g. processor that 
   has FORTH as its "assembly" and has a separate stack memory)?
 
+
 Processor Design ("idea to chip")
 --------------------------------------------------
 * Layers
@@ -211,7 +248,7 @@ Processor Design ("idea to chip")
 * 45 nm process vs 14 nm process vs etc.
   - What size does this refer to, and how is it reduced?
   -  Practical impact - improved speed? power efficiency? anything else?
-  - Where are we and how far can we expect to go? 
+  - Where are we and how far can we expect to go?    
     
 * Research - what is currently being researched?
  - Limits of current CPU manufacturing and design processes (few atom layers left)
