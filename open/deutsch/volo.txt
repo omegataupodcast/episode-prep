@@ -10,20 +10,29 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     "Air traffic management (inlcuding UTM) to coordinate autonomous 
      Volocopter fleets integration possible"
   - Was genau ist ein Flugtaxi um Unterschied zu Flugzeugen?
-  - Flugtaxi Backlash München
-  - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
 
 * Enabling Technologies. Why now?
 
-* Performance 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
-  - Use Case?
-  - Changing batts vs charging batts?
-  
+* Was muss politisch bzw. infrastrukturtechnisch vorhanden sein?
+  - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
+  - Flugtaxi Backlash München
+
 * Flugprofil
   - Von wo nach wo?
   - Höhe?
+  - 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
   - Lärmbelastung?
   - Sicherheitsaspekte (e.g. Vögel)?
+  - Changing batts vs charging batts?
+
+* Wartung/Betrieb
+  - Flotten von Lufttaxis mit wirtschaftlichen zwängen
+    . Wie designt man dafür?
+    . Wieviel Wartung/Inspektion ist nötig/möglich?
+    . Macht noch wer den Rundgang wenn das mal autonom ist?
+    . Selbstprüfung?
+  - Infrastruktur?
+  - Abschätzung Betriebskosten?
 
 * Warum kein Flächenflieger oder etwas Klapp-flügeliges?
   - Bspw. Lilium
@@ -34,16 +43,15 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
   - Forschungsprojekte
   - Prototyp?
  
+* Status? Marktreife?
+  - "Beim ersten autonomen Lufttaxi-Testbetrieb in der Geschichte der Luftfahrt."
+  - Wann ist die Markteinführung geplant?
+  - Betriebsmodell? Wer genau sind die (geplanten) Kunden?
+  - Meinungen von anderen Flugzeugbauern?
+    Wann kauft Euch der Airbus :-) 
+
 * Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
 
-* Status? Marktreife?
-  "Beim ersten autonomen Lufttaxi-Testbetrieb in der Geschichte der Luftfahrt."
-  
-* Wann ist die Markteinführung geplant?
-  Oder nur als Service mit eigenen Hubs?
-
-* Meinungen von anderen Flugzeugbauern?
-  Ablehnung, Begeisterung oder sogar Versuche Volocopter aufzukaufen?
 
 
 Michael Harms ist Head of Basic Aircraft Engineering
@@ -73,23 +81,9 @@ Michael Harms ist Head of Basic Aircraft Engineering
 
 * Full aircraft emergency parachute -> wegen UL.
 
-* Eigene Avionik? 
-
 * Flugkomfort
- - UL + schallisolierung + bequem möglich?
+ - UL + Schallisolierung + bequem möglich?
  - Tradeoffs?
- 
-* Wartung/Betrieb
-  - Flotten von Lufttaxis mit wirtschaftlichen zwängen
-    - Wie designt man dafür?
-    - Wieviel Wartung/Inspektion ist nötig/möglich?
-      - Macht noch wer den Rundgang wenn das mal autonom ist?
-      - Selbstprüfung?
-  - Flugzeit begrenzt
-    - Wer/wo lädt lädt mein Lufttaxi?
-    - Flugzeit vs Ladezeit?
-    - Sicherheitsreserve?
-  - Infrastruktur?
 
 * Was ist die größte technische Herausforderung?
     
@@ -98,9 +92,16 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
 * Einfach mur ein Multicopter :-) ?
 
 * Grundlegende Struktur des FCS
-  1 triple redundant primary flight control unit
-  1 dissimilar backup flight control unit
-  1 joystick (includes friction clutch to set cruise speed)
+  # 1 triple redundant primary flight control unit
+  # 1 dissimilar backup flight control unit
+  # 1 joystick (includes friction clutch to set cruise speed)
+  - Was entscheidet über Failover zum Backup? Pilot?
+  - Wäre nicht bei primary 3x dissimilar wünschenswert für aussagekräftiges quorum?
+    . Was genau ist "dissimilar"?
+    . Gibt es Grundlegend verschiedene Arten äquivalente Regelung zu erreichen?
+    . Wie stellt man zuverlässig sicher, dass die Regelschleife stabil ist?
+  - Gibt es sinnvolle degradierte Betriebsmodi (sowas wir Airbus Alternate Law
+    /Direct Law) für einen Multicopter oder ist das alles oder nichts?
 
 * Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
   - basically: ein iPhone
@@ -116,15 +117,8 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
   - Startup: Move fast and break things. Geht das zusammen?
 
 * UL vs. FBW - Zulassung?
-* Sicherheit und Redundanz
-  - 3x gleiche primary FCU + 1 dissimilar backup (siehe Liste oben) klingt erstmal ungewöhnlich
-    - Was entscheidet über failover zum backup? Pilot?
-    - Wäre nicht bei primary 3x dissimilar wünschenswert für aussagekräftiges quorum?
-      - Wie "dissimilar" können solche Systeme denn wirklich sein?
-      - Gibt es Grundlegend verschiedene Arten äquivalente Regelung zu erreichen?
-      - Kann man mathematisch Beweisen, dass die Regelschleife stabil ist?
-  - Gibt es sinnvolle degradierte Betriebsmodi (sowas wir Airbus Alternate Law/Direct Law) für einen Multicopter oder ist das alles oder nichts?
 
+* Eigene Avionik?
   
 * Options to control: Piloted, interactive one-hand control via joystick
   - Autonomie vs. Fernsteuerung
