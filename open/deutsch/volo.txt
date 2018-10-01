@@ -23,7 +23,10 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
   - Bspw. Lilium
   - Ich finde ja das Gerät von opener.aero ganz cool
 
-* Bisschen Geschichte: wie kam es zum heutigen Volocopter?
+* Bisschen Geschichte: 
+  - Idee
+  - Forschungsprojekte
+  - Prototyp?
  
 * Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
 
@@ -72,7 +75,10 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
   1 joystick (includes friction clutch to set cruise speed)
 
 * Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
-  basically: ein iPhone
+  - basically: ein iPhone
+  - wie genau?
+  - Sensorfusion 
+  - Algorithmen?
 
 * Highly reliable communication network between devices through
   meshed polymer optic fiber network ( ́fly-by-light ́)
