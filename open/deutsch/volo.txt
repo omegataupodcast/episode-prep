@@ -16,6 +16,8 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 * Was muss politisch bzw. infrastrukturtechnisch vorhanden sein?
   - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
   - Flugtaxi Backlash München
+  - Ist die "konservative" und "langsame" Fliegerei eine gute
+    Branche für ein Startup :-) ?
 
 * Flugprofil
   - Von wo nach wo?
@@ -105,9 +107,19 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
 
 * Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
   - basically: ein iPhone
-  - wie genau?
-  - Sensorfusion 
-  - Algorithmen?
+  
+* Sensor Fusion
+    # uncertainty reduction in this case can mean 
+    # more accurate
+    # more complete
+    # or more dependable
+  - What values do you need?
+  - Welche Präzision?
+  - Wie führt das zu den Sensoren? 
+  - Ist das nicht alles quasi Standard heute?
+  - Algorithmen? Kalman?
+  
+
 
 * Highly reliable communication network between devices through
   meshed polymer optic fiber network ( ́fly-by-light ́)
