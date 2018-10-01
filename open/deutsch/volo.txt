@@ -5,6 +5,10 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 * Welche Vision von Mobilität?
   - ist es in der Luft echt einfacher als auf der Strasse?
   - Klar, 3Dim, aber auch mehr Sicherheitsabstand
+    . Wie skaliert das im Luftraum?
+    . was sind die anvisierten Stückzahlen von Euch,
+      und auch für den Markt generell? "Taxi" == viele!
+    . Ist ein fliegender "Indivitualverkehr" die Zukunft?
   - Die Rolle von Autonomie?
   - bzw. Fernsteuerung von zentraler Stelle
     "Air traffic management (inlcuding UTM) to coordinate autonomous 
@@ -35,10 +39,12 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     . Selbstprüfung?
   - Infrastruktur?
   - Abschätzung Betriebskosten?
+    Was wäre dann der Preis für die Taxikunden?
 
-* Warum kein Flächenflieger oder etwas Klapp-flügeliges?
-  - Bspw. Lilium
+* Abgrenzung zu Mitbewerber?
+  - Warum kein Flächenflieger oder etwas Klapp-flügeliges? Bspw. Lilium
   - Ich finde ja das Gerät von opener.aero ganz cool
+  - andere?
 
 * Bisschen Geschichte: 
   - Idee
@@ -48,11 +54,16 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 * Status? Marktreife?
   - "Beim ersten autonomen Lufttaxi-Testbetrieb in der Geschichte der Luftfahrt."
   - Wann ist die Markteinführung geplant?
-  - Betriebsmodell? Wer genau sind die (geplanten) Kunden?
+  - Betriebsmodell? 
+    . Wer genau sind die (geplanten) Kunden?
+    . Vermietung?
   - Meinungen von anderen Flugzeugbauern?
     Wann kauft Euch der Airbus :-) 
 
-* Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
+* Wer von Euch hat alles den UL Schein und darf das Ding aktuell fliegen :-) ?
+
+* Mittelfristig: welche Lizenz um das Ding manuell zu fliegen?
+
 
 
 
@@ -118,9 +129,9 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
   - Wie führt das zu den Sensoren? 
   - Ist das nicht alles quasi Standard heute?
   - Algorithmen? Kalman?
+
+* Security? Hacken der "Fernsteuerung"?
   
-
-
 * Highly reliable communication network between devices through
   meshed polymer optic fiber network ( ́fly-by-light ́)
 
