@@ -10,6 +10,7 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     "Air traffic management (inlcuding UTM) to coordinate autonomous 
      Volocopter fleets integration possible"
   - Was genau ist ein Flugtaxi um Unterschied zu Flugzeugen?
+  - Wie skaliert das im Lufraum - wenn tausende solcher Geräte unterwegs sind?
 
 * Enabling Technologies. Why now?
 
@@ -39,6 +40,10 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 * Warum kein Flächenflieger oder etwas Klapp-flügeliges?
   - Bspw. Lilium
   - Ich finde ja das Gerät von opener.aero ganz cool
+  
+* Wie seht Ihr Euch im Vergleich mit Mitbewerbern?
+  - Lilium, Jitpack VTOL, Uber (https://www.youtube.com/watch?v=HmIZ0jFaqzQ)
+  - EHANG 184 (https://www.youtube.com/watch?v=i3i4BBJjzw4)
 
 * Bisschen Geschichte: 
   - Idee
@@ -52,7 +57,14 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
   - Meinungen von anderen Flugzeugbauern?
     Wann kauft Euch der Airbus :-) 
 
-* Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
+* Wie soll das Gerät vermarktet werden?
+  - Verkauf, Vermietung, Leasing
+  - Preise
+  - Vertriebskanäle
+  
+* Welche Art von "Führerschein" wird benötigt?
+  - Wer von Euch hat alles den UL Schein und darf das Ding fliegen :-) ?
+  - Was kostet so ein Schein?
 
 
 
@@ -89,6 +101,8 @@ Michael Harms ist Head of Basic Aircraft Engineering
 
 * Was ist die größte technische Herausforderung?
     
+    
+    
 Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
 --------------------------------------------------------
 * Einfach mur ein Multicopter :-) ?
@@ -118,9 +132,7 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
   - Wie führt das zu den Sensoren? 
   - Ist das nicht alles quasi Standard heute?
   - Algorithmen? Kalman?
-  
-
-
+ 
 * Highly reliable communication network between devices through
   meshed polymer optic fiber network ( ́fly-by-light ́)
 
@@ -141,4 +153,6 @@ Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
   - Sense & avoid: integration possible
   - Autonomous subfeatures: integration possible
 
+* Absicherung gegen Hackerangriffe
+  - gibt es Funkschnittstellen (WLAN, Bluetooth)
 
