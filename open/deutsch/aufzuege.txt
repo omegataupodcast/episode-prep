@@ -108,6 +108,16 @@ Testturm
   - Belastung 
   - Zu schnell?
   - Mal "fallen lassen" und schauen ob die Absturzsicherung tut?
-  - Testprogramm für neue Aufzuüge?
+  - Testprogramm für neue Aufzüge?
+
+* Wieso Turm und nicht in die Tiefe? Oder eine Kombination aus beidem, um mehr und einfacher große Höhendifferenzen zu erreichen
 
 
+
+Zukunft
+----------------------
+
+* Wie realistisch ist der bereits langerhoffte Weltraumaufzug?
+  - Gibt es in diese Richtung Forschungsthemen?
+* Problematisch in Hochhäusern ist immer wieder die Rettung im Brandfall.
+  - Gibt es hier Ansätze das mit speziellen Fahrstühlen zu vereinfachen / lösen? Hermetische Abschottung?
