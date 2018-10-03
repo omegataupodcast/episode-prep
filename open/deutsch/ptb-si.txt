@@ -73,6 +73,7 @@
 
 * Die nicht SI-ler (USA, GB): 
   - sind die Einheiten wenigstens koordiniert, also von SI abgeleitet?
+  - Gibt es Ansätze die nicht SI-ler zu überzeugen, dass ein einheitliches System sinnvoller ist? Oder vielleicht schon Ideen wie und wann ein Übergang stattfinden könnte?
 
 * Gibt es noch andere, "offizielle" Einheitensysteme? Bspw. das bit?
 
