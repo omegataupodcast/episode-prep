@@ -35,7 +35,7 @@ Scientist
     . thermal - probably interesting, since going towards sun
     . comms
   - Sensors to achieve the mission on the various subs
-  
+    https://en.wikipedia.org/wiki/BepiColombo
 
 Controller
 -------------------------------
