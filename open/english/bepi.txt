@@ -1,5 +1,5 @@
 
-Scientist
+(1) Scientist
 ---------------------------------------------
 * The scientific goals of the mission
   - Mercury
@@ -20,7 +20,7 @@ Scientist
   - who is participating
   - who contributed what
 
-"Spacecraft engineer"
+(2) "Spacecraft engineer"
 --------------------------------------
 * The spacecraft
   - where does the name come from?
@@ -37,7 +37,7 @@ Scientist
   - Sensors to achieve the mission on the various subs
     https://en.wikipedia.org/wiki/BepiColombo
 
-Controller
+(3) Controller
 -------------------------------
 * The process it has gone through so far on the launch pad
 
@@ -61,7 +61,7 @@ Controller
     . what else happens during that night?
   
 
-SysAdmin in Darmstadt
+(4) SysAdmin in Darmstadt
 ----------------------------------------
 * Communication infrastructure between kourou and darmstadt
 * Comm infrastructure to the spacecraft
