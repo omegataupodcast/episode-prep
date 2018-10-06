@@ -95,7 +95,10 @@ Fertigungsverfahren, heute und morgen - CTC
   - Beispielsweise andere Wärmeausdehnungseigenschaften, geringere Steigikeit und isotropes Verhalten eines Stahlbauteils gegenüber dem sehr richtungsabhängigen Verhalten von Faserbauteilen. 
   - Bohren von Löchern für einfache Schraubverbindungen schwächt ein CFK-Bauteil enorm.
   - -> Kleben, Legen von Ösen aus den Prepregs, Verstärkung der Bauteile an Verindungsstellen ...? Was ist zu beachten?
-  
+
+* CFK und 3D-Druck: Ein guter Ansatz? Oder nur Augenwischerei?
+  - 3D-Drucker legt Fasern mit ins gedruckte Bauteil
+  - Filament entält CFK-Partikel
   
   
 #Umwelt & Nachhaltigkeit
