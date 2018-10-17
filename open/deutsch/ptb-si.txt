@@ -3,8 +3,9 @@
 * Eichung vs. Kalibrierung
 
 * Wer ist "SI"
-  - Wie wird das weltweit koordiniert?
   - Meterkonvention von 1875
+
+  - Wie wird das weltweit koordiniert?
   - Internationale Büro für Maß und Gewicht
   - Abgrenzung zur Normung (DIN, ...)
 
@@ -23,6 +24,8 @@
   - Strom A
   - Stoffmenge mol
   - Lichtstärke cd
+
+Kohärent
 
 * Abgeleitete SI Einheiten - also eigener Name, aber berechnet. 
   - gesetzliche anerkannte Einheiten
@@ -48,23 +51,32 @@
   - wie definiert
   - wie technisch festgelegt
 
+
+
+
 * Neudefinition der Einheiten ab 2019
-  - Die numerischen Werte ändern sich nicht, richtig?
   - Also: warum? 
     . Was ist das Problem mit dem aktuellen System?
     . Beim kg ist's klar, aber sonst?
+
   - Four of the SI base units – namely kg, A, K and mol – will be redefined in terms of constants
+
   - will be based on fixed numerical values of 
-    . the Planck constant (h)
     . the elementary charge (e)
+    . the Planck constant (h)
     . the Boltzmann constant (kB)
     . and the Avogadro constant (NA),
+    
   - Sind diese Konstanten absolut präzise? Gibt's da nicht auch Unsicherheit
     die sich dadurch in die SI Einheiten fortpflanzt?
   - Further, the definitions of all seven base units of the SI will also 
     be uniformly expressed using the explicit-constant formulation, 
   - was bedeutet das für die experimentelle "Messung" der Größen?
     Mir scheint, es wird komplizierter?
+  - Die numerischen Werte ändern sich nicht, richtig?
+
+* Simon: Warum wird denn das Kilogramm nicht aus Masse-artigen Naturkonstanten
+  definiert, bspw. der Protonenmasse?
 
 * Wo wird SI nicht verwendet?
   - paar Länder

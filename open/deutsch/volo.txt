@@ -2,6 +2,13 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 --------------------------------------------------------
 * Volocopter - Überblick
 
+* Wie kans zu der Idee? Erst Lösung dann Problem?
+
+* Abgrenzung zu Mitbewerber?
+  - Warum kein Flächenflieger oder etwas Klapp-flügeliges? Bspw. Lilium
+  - Ich finde ja das Gerät von opener.aero ganz cool
+  - andere?
+
 * Welche Vision von Mobilität?
   - ist es in der Luft echt einfacher als auf der Strasse?
   - Klar, 3Dim, aber auch mehr Sicherheitsabstand
@@ -15,13 +22,13 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
      Volocopter fleets integration possible"
   - Was genau ist ein Flugtaxi um Unterschied zu Flugzeugen?
 
-* Enabling Technologies. Why now?
-
 * Was muss politisch bzw. infrastrukturtechnisch vorhanden sein?
   - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
   - Flugtaxi Backlash München
   - Ist die "konservative" und "langsame" Fliegerei eine gute
     Branche für ein Startup :-) ?
+  - Harms: die Bauvorschrift war schnell fertig ... was sagt uns das?
+  - Ok, in Dubai. Aber wann sind wir in EU soweit?
 
 * Flugprofil
   - Von wo nach wo?
@@ -37,38 +44,111 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     . Wieviel Wartung/Inspektion ist nötig/möglich?
     . Macht noch wer den Rundgang wenn das mal autonom ist?
     . Selbstprüfung?
+    . Flottenmanagement!
   - Infrastruktur?
+    "automatische Massenabfertigung" (Video)
+    Fast wie so ne Seilbahn, eine nach der anderen.
   - Abschätzung Betriebskosten?
     Was wäre dann der Preis für die Taxikunden?
 
-* Abgrenzung zu Mitbewerber?
-  - Warum kein Flächenflieger oder etwas Klapp-flügeliges? Bspw. Lilium
-  - Ich finde ja das Gerät von opener.aero ganz cool
-  - andere?
+* Wie kamns zur Zusammenarbeit mit DG
+
 
 * Bisschen Geschichte: 
   - Idee
   - Forschungsprojekte
   - Prototyp?
+  - Flugerprobung - wie habt ihr das Ding gequält?
+  
+* Was sind die zentralen "Durchbruch"-Komponenten beim hochscalen den Quadcopters?
  
 * Status? Marktreife?
+  - ist das aktuelle Gerät ein "Vorserienmodell" oder 
+    das, was in Serie gehen wird?
   - "Beim ersten autonomen Lufttaxi-Testbetrieb in der Geschichte der Luftfahrt."
   - Wann ist die Markteinführung geplant?
   - Betriebsmodell? 
     . Wer genau sind die (geplanten) Kunden?
     . Vermietung?
+  - Welche Investoren?
   - Meinungen von anderen Flugzeugbauern?
     Wann kauft Euch der Airbus :-) 
+  - Wer sind die Kunden? 
+    Problem des ersten, vgl Gravity Storage.
+  
 
 * Wer von Euch hat alles den UL Schein und darf das Ding aktuell fliegen :-) ?
 
 * Mittelfristig: welche Lizenz um das Ding manuell zu fliegen?
 
 
+    
+Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
+--------------------------------------------------------
+* Überblick über das Gerät
+
+* Einfach mur ein Multicopter :-) ?
+
+* Enabling Technologies. Why now?
+
+
+* Grundlegende Struktur des FCS
+  # 1 triple redundant primary flight control unit
+  # 1 dissimilar backup flight control unit
+  # 1 joystick (includes friction clutch to set cruise speed)
+  - Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
+    . basically: ein iPhone
+  - Was entscheidet über Failover zum Backup? Pilot?
+
+  - Wäre nicht bei primary 3x dissimilar wünschenswert für aussagekräftiges quorum?
+    . Was genau ist "dissimilar"?
+    . Gibt es Grundlegend verschiedene Arten äquivalente Regelung zu erreichen?
+    . Wie stellt man zuverlässig sicher, dass die Regelschleife stabil ist?
+
+  - Gibt es sinnvolle degradierte Betriebsmodi (sowas wir Airbus Alternate Law
+    /Direct Law) für einen Multicopter oder ist das alles oder nichts?
+  
+* UL vs. FBW - Zulassung?
+  
+* Sensor Fusion
+    # uncertainty reduction in this case can mean 
+    # more accurate
+    # more complete
+    # or more dependable
+  - What values do you need?
+  - Welche Präzision?
+  - Wie führt das zu den Sensoren? 
+  - Ist das nicht alles quasi Standard heute?
+  - Algorithmen? Kalman?
+
+* Highly reliable communication network between devices through
+  meshed polymer optic fiber network ( ́fly-by-light ́)
+
+* Softwarestruktur, Sprachen, Tools, Prozesse
+  - Safety critical: DO-178C o.ä.? Wenn ja wie alt und teuer ist euer compiler? ;)
+  - Startup: Move fast and break things. Geht das zusammen?
+
+* Eigene Avionik?
+
+
+* Security? Hacken der "Fernsteuerung"?
+  
+* Options to control: Piloted, interactive one-hand control via joystick
+  - Autonomie vs. Fernsteuerung
+
+* Options
+  - Remote control (RC): already assimilable
+  - GPS point tracking: already assimilable
+  - Sense & avoid: integration possible
+  - Autonomous subfeatures: integration possible
+
 
 
 Michael Harms ist Head of Basic Aircraft Engineering
 --------------------------------------------------------
+* Flugleistungen
+
+
 * Warum grade diese Auslegung? 
   - Design-Alternativen?
   - Der "Rotorkranz" scheint das entscheidende?
@@ -99,57 +179,3 @@ Michael Harms ist Head of Basic Aircraft Engineering
  - Tradeoffs?
 
 * Was ist die größte technische Herausforderung?
-    
-Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
---------------------------------------------------------
-* Einfach mur ein Multicopter :-) ?
-
-* Grundlegende Struktur des FCS
-  # 1 triple redundant primary flight control unit
-  # 1 dissimilar backup flight control unit
-  # 1 joystick (includes friction clutch to set cruise speed)
-  - Was entscheidet über Failover zum Backup? Pilot?
-  - Wäre nicht bei primary 3x dissimilar wünschenswert für aussagekräftiges quorum?
-    . Was genau ist "dissimilar"?
-    . Gibt es Grundlegend verschiedene Arten äquivalente Regelung zu erreichen?
-    . Wie stellt man zuverlässig sicher, dass die Regelschleife stabil ist?
-  - Gibt es sinnvolle degradierte Betriebsmodi (sowas wir Airbus Alternate Law
-    /Direct Law) für einen Multicopter oder ist das alles oder nichts?
-
-* Sensors: Gyroscopes, acceleration sensors, magnetic field measurement sensors, manometers
-  - basically: ein iPhone
-  
-* Sensor Fusion
-    # uncertainty reduction in this case can mean 
-    # more accurate
-    # more complete
-    # or more dependable
-  - What values do you need?
-  - Welche Präzision?
-  - Wie führt das zu den Sensoren? 
-  - Ist das nicht alles quasi Standard heute?
-  - Algorithmen? Kalman?
-
-* Security? Hacken der "Fernsteuerung"?
-  
-* Highly reliable communication network between devices through
-  meshed polymer optic fiber network ( ́fly-by-light ́)
-
-* Softwarestruktur, Sprachen, Tools, Prozesse
-  - Safety critical: DO-178C o.ä.? Wenn ja wie alt und teuer ist euer compiler? ;)
-  - Startup: Move fast and break things. Geht das zusammen?
-
-* UL vs. FBW - Zulassung?
-
-* Eigene Avionik?
-  
-* Options to control: Piloted, interactive one-hand control via joystick
-  - Autonomie vs. Fernsteuerung
-
-* Options
-  - Remote control (RC): already assimilable
-  - GPS point tracking: already assimilable
-  - Sense & avoid: integration possible
-  - Autonomous subfeatures: integration possible
-
-

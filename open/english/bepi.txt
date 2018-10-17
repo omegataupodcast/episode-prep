@@ -1,8 +1,35 @@
+(1) Mission Analysis
+---------------------------------------------
 
-(1) Scientist
+* Introduction Pablo Muñoz
+* Responsibility: what is mission analysis and flight dynamics 
+  (Recap: because we had Rainer Kresken as a guest before)
+* Explain BepiColombo's trajectory
+  - key events / milestones
+  - speeds
+* How did you come up with this particular trajectory?
+  - what are the specific challenges for this mission?
+  - what factors in?
+    . time to target
+    . available "masses" for swing-bys
+    . energy consumption
+    . trade/off with mass of spacecraft/fuel
+    . can you design science package (weight!) independent 
+      of trajectory, or do the two trade-off all the time?
+  - which tools do you use? How do you ACTUALLY
+    go about designing the trajectory?
+* How do you navigate/monitor/control the flight? comms?
+  - maybe different in different flight phases?
+  - sensors?
+  - how much can be preplanned, how much is 
+    actively controlled, adjusted?
+
+
+(2) Scientist
 ---------------------------------------------
 * The scientific goals of the mission
   - Mercury
+  - have we been there before?
   
   . Origin and evolution of a planet close to its parent star
   . Mercury as a planet — its form, interior, structure, geology, composition and craters
@@ -13,8 +40,14 @@
     the parameters gamma and beta of the parameterized post-Newtonian 
     formalism with high accuracy.
 
-  - have we been there before?
-
+ 
+  
+  
+======================================  
+  
+  
+  
+  
   
 * Mission Overview 
   - who is participating
@@ -60,7 +93,6 @@
     . self-check?
     . what else happens during that night?
   
-
 (4) SysAdmin in Darmstadt
 ----------------------------------------
 * Communication infrastructure between kourou and darmstadt
