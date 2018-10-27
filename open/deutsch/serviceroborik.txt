@@ -1,0 +1,30 @@
+* Definition
+* Anwendungen
+* Technische Herausforderungen
+  - Laufen
+  - Greifen
+  - Komplexe Algos + Sensorik
+    vs. klevere Mechanik (Ligaments, Hand)
+    Martijn Wisse 
+* Interaktion mit dem Menschen
+  - Methoden
+  - Safety
+  - Standards?
+* Software und Modelle
+  - Regeln
+  - Planen
+  - Erkennen und Klassifizieren
+* Mechanische Aspekte
+  - Komponenten?
+  - Kraft (-> Safety)
+  - Präzision 
+* Eure Roboter 
+  (jeweise: Zweck, Innovation, Herausforderungen)
+  - Hollie 
+  - LAURON (vgl. mit den "Viechern" von dem Amis)
+  - iBOSS
+  - DEXMART
+  - ISABEL
+  - KAIRO 3
+  - ...?
+  
