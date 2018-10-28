@@ -1,4 +1,5 @@
 * Zeit(verlaufs-)messung vs. Zeitfestlegung
+  - Was unterscheidet Zeit(messung) von anderen Einheiten? (z.B. ist es relevant, dass man eine vergangene Zeitspanne nicht nochmal "nachmessen" kann?)
 
 * Was ist die Aufgabe der PTB im Zusammenhang mit "Zeit"
 
@@ -8,8 +9,9 @@
 * Verbreitung der Zeit
   - DCF 77
   - NTP Server?
-  - sonst?
+  - sonst? (Galileo?)
   - Wie wird der Delay der Weitergabesysteme berücksichtigt?
+  - Irgendwelche Probleme durch eine Abschaffung der Zeitumstellung?
 
 * Atomuhr
   - high-level: was ist das? Cs.
@@ -47,6 +49,7 @@
   - Ytterbium-Ions. Methoden, die optischen Frequenzen fehlerfrei auf 
     elektronisch zählbare Frequenzen und 1-Sekunden-Impulse zu übertragen.
   - Warum sind diese besser? Und ist das echt nötig?	
+  - Gibt es theoretische Grenzen der Präzision? Sind welche denkbar? (z.B. durch sowas wie eine "unschärferelation" für Zeitmessung oder eine Quantelung)
 
 * Was macht die PTB/Zeit noch?
   - Internationale Satellitenzeitvergleiche 
