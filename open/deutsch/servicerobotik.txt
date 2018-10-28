@@ -2,6 +2,7 @@
 * Anwendungen
   - Industrie
   - Haushalt
+  - Unterschiede zwischen Industrie- und Servicerobotik?
 * Technische Herausforderungen
   - Laufen
   - Greifen
@@ -15,6 +16,8 @@
   - Präzision 
 * Interaktion / Kooperation mit dem Menschen
   - Herausforderungen
+    - Akzeptanz (z.B. in Pflege)
+    - Uncanny valley
   - Methoden
   - Safety
   - Standards - ISO Normen
@@ -24,6 +27,7 @@
   - Erkennen und Klassifizieren
   - Programmieren von Robotern: Herstellerprogrammiersprachen vs. Open-Source (ROS) vs. selbstentwickelte Frameworks
   - Maschinelles Lernen in der Robotik
+    - Lernen vom Benutzer vs lernen im Labor? (siehe z.B. Baxter Roboter)
 * Eure Roboter 
   (jeweise: Zweck, Innovation, Herausforderungen)
   - Hollie 
