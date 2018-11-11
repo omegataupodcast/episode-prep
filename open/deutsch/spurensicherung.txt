@@ -1,49 +1,33 @@
-* Überblick
-  - Am Tatort
-  - vs. im Labor
+* Was ist Spurensicherung
 
-* Was findet sich im Spurensicherungskoffer?
-  https://de.wikipedia.org/wiki/Spurensicherungskoffer
+* Was man so aus dem Fernsehen kennt:
+  - Was findet sich im Spurensicherungskoffer?
+  - Nummerierung
 
-* Arbeitsteilung vor Ort vs. Labor am LKA
+* FG 243 (Tatortgruppe)
+  * Aufgabe 
+  * Arbeitsteilung vor Ort vs. Labor am LKA
 
 * Wie spielt das generell mit Ermittlungen zusammen
   - Beweis
   - Indiz
 
-* Was sind Spuren?
-  - Fingerabdruck
-    . Daktyloskopie
-    . Wie geht das?
-  - Blut
-    - Serologie
-    - Nachweis von Stoffen im Blut (Toxikologie)
-  - Gentest
-  - Ballistik
-    . Geschossenergie
-    . Mündungsenergie
-    . Auftreffenergie
-  - Schrift- und Urkundenanalyse
-  - Brandspuren
-  - Formspuren   
-    . Eindruck, Abdruck
-    . Gleit, Zieh
-    . Schnitt, Bohr, Säges
-    . Bruch/Riss
+* Was macht die FG243 "vor Ort"?
+  - Suche nach latenten Blutspuren an Tatorten
+  - Bedampfen von Tatorten mit einer Großraumbedampfungsanlage (Superfume) 
+    mit Cyanacrylat zur Sicherung von daktyloskopischen Spuren
+  - Latexlifting
 
-* Ich verstehe "Spuren". Was genau bedeutet "Sicherung"?
-  - Einsammeln
-  - Fotos
-
-* Welche "Fachgebiete" kommen zum Einsatz?
-  - Chemie
-  - Biologie
-  - Physik?
-  - "Detektivarbeit"?
+* Themenbereiche
+  - Serologie
+  - Fasern
+  - DNA
+  - Waffen
+  - Urkunden
+  - Brand
+  - Spreng- und Explosivstoffe
 
 * Polizist vs. Kriminaltechniker vs. "echter" Wissenschaftler?
   
-* Welche anderen Arten von Spuren
-
 * Spannende Fälle aus der Vergangenheit am LKA
   aus Sicht der Spurensicherung
