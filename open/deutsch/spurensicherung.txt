@@ -18,7 +18,11 @@
     mit Cyanacrylat zur Sicherung von daktyloskopischen Spuren
   - Latexlifting
 
-* Themenbereiche
+* "Standard"-Themenbereiche
+  - Fingerabdrücke
+  - Fuß/Schuh/Reifenabdruck
+
+* Spezielle Fachgruppen
   - Serologie
   - Fasern
   - DNA
@@ -26,7 +30,12 @@
   - Urkunden
   - Brand
   - Spreng- und Explosivstoffe
+  - Fahrzeuge
+    . Untersuchung auf Btm und Schmuggelverstecke
+    . Identifizierung verfälschter Fahrzeuge (Schlüsseluntersuchungen, 
+      Manipulation von elektr. Wegfahrsperren.....)
 
+ 
 * Polizist vs. Kriminaltechniker vs. "echter" Wissenschaftler?
   
 * Spannende Fälle aus der Vergangenheit am LKA
