@@ -1,16 +1,23 @@
 * Was ist Spurensicherung
 
-* Was man so aus dem Fernsehen kennt:
-  - Was findet sich im Spurensicherungskoffer?
-  - Nummerierung
+* Typischer Workflow:
+  - Finden und Sichern der Spuren am Tatort
+  - Auswerten den Spuren unter anderem im Labor
+  - Einschätzung durch den Sachverständigen
+  - Erstellen eines Gutachtens durch den Gutachter
+    bzw. Rechtsmedizin
+  - Verwendung all dessen im Gericht zwecks Abwägung
 
 * FG 243 (Tatortgruppe)
-  * Aufgabe 
-  * Arbeitsteilung vor Ort vs. Labor am LKA
-
-* Wie spielt das generell mit Ermittlungen zusammen
-  - Beweis
-  - Indiz
+  - Aufgabe 
+  - Arbeitsteilung vor Ort vs. Labor am LKA
+    . Was findet sich im Spurensicherungskoffer?
+    . Wann und wie kommt das LKA/243 in eine Ermittlung dazu?
+  - Einsatz vor allem bei Kapitaldelikten
+    . Raub
+    . Mord
+    . was noch?
+  - LKAs vs. BKA vs. Interpol
 
 * Was macht die FG243 "vor Ort"?
   - Suche nach latenten Blutspuren an Tatorten
@@ -18,25 +25,64 @@
     mit Cyanacrylat zur Sicherung von daktyloskopischen Spuren
   - Latexlifting
 
-* "Standard"-Themenbereiche
+* Was man so aus dem Fernsehen kennt :-)
   - Fingerabdrücke
+    . Wie werden die am Tatort erfasst?
+    . Wir werden sie abgenommen?
+    . Wie werden sie dann ausgewertet?
   - Fuß/Schuh/Reifenabdruck
-
-* Spezielle Fachgruppen
-  - Serologie
-  - Fasern
-  - DNA
-  - Waffen
-  - Urkunden
-  - Brand
-  - Spreng- und Explosivstoffe
+    . Da gibt es ja keine Datenbank an Abdrücken oder?
   - Fahrzeuge
     . Untersuchung auf Btm und Schmuggelverstecke
     . Identifizierung verfälschter Fahrzeuge (Schlüsseluntersuchungen, 
       Manipulation von elektr. Wegfahrsperren.....)
 
+---------------------------
+
+* Spezielle Fachgruppen
+  - Toxikologie
+    . Vergiftung, Drogen
+    . Untersuchung von Blut ob toxikologische Stoffe gefunden werden
+    . Untersuchung der BTMs an sich bezüglich Zusammensetzung und Wirkstoffen
+  - Fasern
+    . Finden von Fasern auf Leichen
+    . Beispielsweise durch Kampfhandlungen
+    . Abgleich mit Fasern des Täters
+    . Zusammenspiel mit Zeugen um zu erfahren was der Täter anhatte
+  - DNA
+    . Woher bekommt man DNA: Blut, Haare
+    . Abgleich mit Datenbank: Woher bekommt man diese?
+    . Verunreinigung im Labor durch Mitarbeiter: gibt es einen Mitarbeiter DNA-Datenbank?
+    . Ist das üblicherweise ganze DNA oder nur Schnipsel?
+      Welche Konsequenzen hat das für die Beweiskraft?
+    . Vorgehen bei der Sicherung, Sauberkeit
+  - Waffen
+    . Finden von Patronen am Tatort
+    . Abgleich Patrone/Kugel und Lauf
+    . Allgemein Waffenzuordnung
+    . Was ist Ballistik? Wie geht man da vor? Bezug zum Tatort? Physik?
+    . Waffengutachten, Umbau von Schreckschusspistolen  
+    . Schmauchspuren
+    . Waffensammlung am LKA
+  - Urkunden
+    . Schriftanalyse Handschriften
+    . Druckeridentifikation 
+      Nur Typ oder auch Stück?
+  - Spreng- und Explosivstoffe
+    . Analyse der Zusammensetzung von Sprengstoffen
+    . Sprengstoffspuren am Tatort
+    . "Ein Koffer wurde gefunden:" Wie geht man bei der Entschärfung vor
+      Röntgen, Wassergewehr
+    . Unkonventionelle Spreng- und Brandvorrichtungen
+  - Brand
+    . Ermittlung von Brandursachen
+    . Elektrischer Fehler, Brandbeschleuniger
+  - Zentrale 3D-Vermessung
  
 * Polizist vs. Kriminaltechniker vs. "echter" Wissenschaftler?
+  Lehrgänge, Profile
   
 * Spannende Fälle aus der Vergangenheit am LKA
   aus Sicht der Spurensicherung
+  . Kollision Überlingen
+  . Amoklauf Winnenden
