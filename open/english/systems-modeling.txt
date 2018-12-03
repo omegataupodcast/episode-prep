@@ -1,0 +1,24 @@
+* Systems Modeling - what is this?
+  - what is a system
+  - what is a model :-)
+  - system boundary
+  - system vs. context/env/plant
+* The structure 
+  - usually the hierarchical component/connector stuff
+  - interfaces & ports
+  - what goes over ports
+  - instantiation
+* Discrete vs. Continuous systems
+  - what is dense time
+* Modeling Discrete Systems
+  - State Machines
+  - Events
+* Modeling Continuous Systems
+  - Differential Equations
+* Modeling both together: hybrid systems
+* Dealing with Time
+  - Time triggered systems
+  - deadlines
+* Tools
+  - SysML (esp. State Machines)
+  - Modellica
