@@ -1,17 +1,33 @@
 * Systems Modeling - what is this?
   - what is a system
+    - Controller (usually this is what we want to build, right?)
     - Plant
-    - Controller
     - Environment
   - what is a model :-)
+    . and why do we create one.
+* The structure (high level)
   - subsystem boundaries
+  - the component/instance/connector/hierarchy idea
+* Modeling Discrete Systems (start with those, closer to what people know?)
+  - State Machines
+  - Events
+  - Actions
+* Testing them
+  - Event sequence in, assert out events, effects or state
+  - Briefly introduce the notion of temporal logic and model checking
 * Modeling Continuous Systems
-  - Differential Equations (easy to implement, hard for modelers)
-  - Differential algebraic equations (easy to model, hard for implementors)
-  - Modelica (hard to talk about the stuff below with out introducing Modelica)
+  - Differential Equations 
+    . what are those, intuitively
+    . easy to implement, hard for modelers -> why?
+  - Differential algebraic equations  
+    . easy to model, hard for implementors -> why?
+  - Modelica (hard to talk about the stuff below 
+    with out introducing Modelica)
+* Testing the
+  [no idea]
 * The structure
-  - Bottom up: Equations, connectors, components, subsystems, packages, architectures
-  - usually the hierarchical component/connector stuff
+  - Bottom up: Equations, connectors, components, 
+    subsystems, packages, architectures
   - interfaces & ports
   - what goes over ports
     - Plant: analogous to free body diagrams
@@ -19,15 +35,14 @@
   - instantiation
 * Discrete vs. Continuous systems
   - what is dense time
-    - Analogy to Rust's type system where "lifetime" is part of type
-    - In Modelica, "clock" is part of the type.
-    - Have to have a deterministic notion of simultaneity.
-* Modeling Discrete Systems
-  - State Machines
-  - Events
+    . Analogy to Rust's type system where "lifetime" is part of type
+    . In Modelica, "clock" is part of the type.
+    . Have to have a deterministic notion of simultaneity.
 * Modeling both together: hybrid systems
-  - Bouncing ball
-* Applications
+  - what is the challenge here?
+  - Example: Bouncing ball
+* Applications 
+  [we need some more of that Formula 1 stuff here :-)]
   - All this stuff is motivated by really useful applications
   - Hybrid Cars
     - Hydraulics
@@ -37,9 +52,6 @@
     - Sensors
     - Magentic motors
   - Multi-body systems
-* Dealing with Time (not sure what we would say here)
-  - Time triggered systems
-  - deadlines
 * Related tools
   - Simulink/SimScape
   - CAE/CFD/FEM
