@@ -1,24 +1,47 @@
 * Systems Modeling - what is this?
   - what is a system
+    - Plant
+    - Controller
+    - Environment
   - what is a model :-)
-  - system boundary
-  - system vs. context/env/plant
-* The structure 
+  - subsystem boundaries
+* Modeling Continuous Systems
+  - Differential Equations (easy to implement, hard for modelers)
+  - Differential algebraic equations (easy to model, hard for implementors)
+  - Modelica (hard to talk about the stuff below with out introducing Modelica)
+* The structure
+  - Bottom up: Equations, connectors, components, subsystems, packages, architectures
   - usually the hierarchical component/connector stuff
   - interfaces & ports
   - what goes over ports
+    - Plant: analogous to free body diagrams
+    - Controller: data
   - instantiation
 * Discrete vs. Continuous systems
   - what is dense time
+    - Analogy to Rust's type system where "lifetime" is part of type
+    - In Modelica, "clock" is part of the type.
+    - Have to have a deterministic notion of simultaneity.
 * Modeling Discrete Systems
   - State Machines
   - Events
-* Modeling Continuous Systems
-  - Differential Equations
 * Modeling both together: hybrid systems
-* Dealing with Time
+  - Bouncing ball
+* Applications
+  - All this stuff is motivated by really useful applications
+  - Hybrid Cars
+    - Hydraulics
+    - Clutches
+  - Robots
+    - Diodes
+    - Sensors
+    - Magentic motors
+  - Multi-body systems
+* Dealing with Time (not sure what we would say here)
   - Time triggered systems
   - deadlines
-* Tools
+* Related tools
+  - Simulink/SimScape
+  - CAE/CFD/FEM
+  - FMI
   - SysML (esp. State Machines)
-  - Modellica
