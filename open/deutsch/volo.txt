@@ -2,41 +2,37 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
 --------------------------------------------------------
 * Volocopter - Überblick
 
-* Wie kans zu der Idee? Erst Lösung dann Problem?
+* Was genau ist ein Flugtaxi im Unterschied zu Flugzeugen?
 
-* Abgrenzung zu Mitbewerber?
-  - Warum kein Flächenflieger oder etwas Klapp-flügeliges? Bspw. Lilium
-  - Ich finde ja das Gerät von opener.aero ganz cool
-  - andere?
+* Flugprofil
+  - 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
+  - Von wo nach wo?
+  - Höhe?
+  - Lärmbelastung?
+  - Sicherheitsaspekte (e.g. Vögel)?
+  - Changing batts vs charging batts?
+
+  - Infrastruktur?
+    "automatische Massenabfertigung" (Video)
+    Fast wie so ne Seilbahn, eine nach der anderen.
 
 * Welche Vision von Mobilität?
-  - ist es in der Luft echt einfacher als auf der Strasse?
-  - Klar, 3Dim, aber auch mehr Sicherheitsabstand
-    . Wie skaliert das im Luftraum?
-    . was sind die anvisierten Stückzahlen von Euch,
-      und auch für den Markt generell? "Taxi" == viele!
-    . Ist ein fliegender "Indivitualverkehr" die Zukunft?
   - Die Rolle von Autonomie?
   - bzw. Fernsteuerung von zentraler Stelle
     "Air traffic management (inlcuding UTM) to coordinate autonomous 
      Volocopter fleets integration possible"
-  - Was genau ist ein Flugtaxi um Unterschied zu Flugzeugen?
+  - ist es in der Luft echt einfacher als auf der Strasse?
+  - Klar, 3D, aber auch mehr Sicherheitsabstand
+    . Wie skaliert das im Luftraum?
+    . was sind die anvisierten Stückzahlen von Euch,
+      und auch für den Markt generell? "Taxi" == viele!
 
 * Was muss politisch bzw. infrastrukturtechnisch vorhanden sein?
-  - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
-  - Flugtaxi Backlash München
-  - Ist die "konservative" und "langsame" Fliegerei eine gute
-    Branche für ein Startup :-) ?
-  - Harms: die Bauvorschrift war schnell fertig ... was sagt uns das?
   - Ok, in Dubai. Aber wann sind wir in EU soweit?
-
-* Flugprofil
-  - Von wo nach wo?
-  - Höhe?
-  - 27km bei 70 kmh - klingt jetzt nicht soooo viel. 
-  - Lärmbelastung?
-  - Sicherheitsaspekte (e.g. Vögel)?
-  - Changing batts vs charging batts?
+  
+  - Flugtaxi Backlash München
+  - Wenn Taxi, dann muss er überall landen dürfen ... darf er?
+    . Harms: die Bauvorschrift war schnell fertig ... was sagt uns das?
 
 * Wartung/Betrieb
   - Flotten von Lufttaxis mit wirtschaftlichen zwängen
@@ -45,23 +41,8 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     . Macht noch wer den Rundgang wenn das mal autonom ist?
     . Selbstprüfung?
     . Flottenmanagement!
-  - Infrastruktur?
-    "automatische Massenabfertigung" (Video)
-    Fast wie so ne Seilbahn, eine nach der anderen.
-  - Abschätzung Betriebskosten?
-    Was wäre dann der Preis für die Taxikunden?
-
-* Wie kamns zur Zusammenarbeit mit DG
 
 
-* Bisschen Geschichte: 
-  - Idee
-  - Forschungsprojekte
-  - Prototyp?
-  - Flugerprobung - wie habt ihr das Ding gequält?
-  
-* Was sind die zentralen "Durchbruch"-Komponenten beim hochscalen den Quadcopters?
- 
 * Status? Marktreife?
   - ist das aktuelle Gerät ein "Vorserienmodell" oder 
     das, was in Serie gehen wird?
@@ -75,13 +56,41 @@ Alex Zosel ist Chief Innovation Advisor und Mitgründer von Volocopter
     Wann kauft Euch der Airbus :-) 
   - Wer sind die Kunden? 
     Problem des ersten, vgl Gravity Storage.
-  
+  - Abschätzung Betriebskosten?
+    . Was wäre dann der Preis für die Taxikunden?
+    . Ist ein fliegender "Indivitualverkehr" die Zukunft?
 
-* Wer von Euch hat alles den UL Schein und darf das Ding aktuell fliegen :-) ?
+
+
+* Abgrenzung zu Mitbewerber?
+  - Warum kein Flächenflieger oder etwas Klapp-flügeliges? Bspw. Lilium
+  - Ich finde ja das Gerät von opener.aero ganz cool
+  - andere?
+
+* Bisschen Geschichte: 
+  - Idee
+  - Forschungsprojekte
+  - Prototyp?
+  - Flugerprobung - wie habt ihr das Ding gequält?
+  
+* Was sind die zentralen "Durchbruch"-Komponenten beim hochscalen den Quadcopters?
+ 
+
+  
 
 * Mittelfristig: welche Lizenz um das Ding manuell zu fliegen?
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 Stephan Wolf ist Chief Software Advisor und Mitgründer von Volocopter
 --------------------------------------------------------
