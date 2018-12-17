@@ -1,0 +1,55 @@
+* Prinzip Stellarator
+  - Vergleich/Vor/Nachteile bzgl. Tokamak
+    (Hintergrund: die Hörer kennen Tokamaks schon)
+  - Zentrale Herausforderungen
+  - W7X: Wer steckt dahinter?
+  - Woher kommt der Name?
+
+* Status
+  - In Betrieb?
+  - Was sind die konkreten Ziele?
+    Burning Plasma? Net-Positive?
+  - Vergleicht "Reifheit" mit ITER?
+  - wie spielt das mit den anderen Fusionsreaktoren zusammen?
+  - Andere Stellaratoren auf der Welt?
+
+* Design/Auslegung der Form
+  - Wie kommmt's zu der Form
+  - wie errechnet man die?
+  - Herausforderungen beim Bau
+  
+* Gemeinsamkeiten mit Tokamak:
+  - Magnetfeld
+  - Heizung
+  - was noch?
+  - Kühlinfrastruktur
+  - Divertor
+  
+* Brennstoffe: warum zwei?
+  - Wasserstoff
+  - Helium
+  
+* Konkrete Forschungsfragen  
+  - guter Teilcheneinschluss des optimierten Magnetfeldes demonstrieren 
+    und den Teilchentransport unter kraftwerks-ähnlichen Bedingungen untersuchen
+  - das Plasma mit effektiven Heizmethoden erzeugen und aufheizen
+  - Methoden entwickeln, die Verunreinigung des Plasmas zu kontrollieren, 
+    und den Transport der Verunreinigungen untersuchen
+  - Beta-Werte (Verhältnis von Plasmadruck und Magnetfelddruck) von 4 bis 5 Prozent 
+    erreichen sowie das Beta-Limit analysieren
+  - Langzeit- bzw. quasi-stationären Betrieb demonstrieren
+  - Plasmanachfüllung, Teilchenkontrolle und Plasma-Wand-Wechselwirkung unter 
+    Dauerbetriebsbedingungen untersuchen
+  - Divertor-Studien betreiben  
+
+* Was wird aktiv geregelt und gemonitort?
+  Welche "Notfälle" gibt es, welche Schnellabschalt-Einrichtungen?
+
+* Betrieb
+  - wie nimmt man sowas schrittweise in Betrieb?
+  - "Reiniugung?"
+  - Erste Runde. Ziele? Erfolge?
+  - Zweite Runde. Ziele? Erfolge?
+    (Energien, Pulsdauern, Temperaturen, Leistung)  
+  
+  
