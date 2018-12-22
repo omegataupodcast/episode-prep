@@ -133,6 +133,7 @@ Entwicklung
   - Höhe?
   - Fläche?
   - "Spektakularität"
+  - Ablauf der Installation/des Aufbaus (Fundamente, Kräne, etc.)
 
 * Konstruktionssoftware? 
   - Lichtraumprofil
