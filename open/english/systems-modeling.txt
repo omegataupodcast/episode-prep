@@ -43,10 +43,16 @@
   - Example: Bouncing ball
 * Applications 
   [we need some more of that Formula 1 stuff here :-)]
+  
   - All this stuff is motivated by really useful applications
   - Hybrid Cars
     - Hydraulics
     - Clutches
+    -power systems?
+  - formula 1 ideas 
+    - suspension modeling 
+    - cfd 
+    - tire modelling 
   - Robots
     - Diodes
     - Sensors
