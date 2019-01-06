@@ -1,0 +1,101 @@
+Overview
+---------------------------------
+
+* What is a socio-technical system
+
+* Complexity and Adaptivity
+  - Emergence?
+  - the comparison to ant colonies
+
+* Central control vs. decentralization
+  - many local, reactive entities w/o centralized control
+
+* Definition(s) of complexity
+  - different perspectives
+    different roles (e.g. owners, customers)
+  - nobody understands everything and controls it
+
+* Def of intractability: 
+  - can't "jump" into the future, you have to go there
+
+* The grid as an example
+  - a way of approaching: self-regulating, the 50Hz, the dampfventil
+
+* Are markets the solution?
+
+* The problem sustainability
+  - of the socia-technical thing as a beast: eats and poops
+  - why did the system evolve to this point where it isn't sustainable?
+  - "control" a complex process to not self-unsustain itself
+
+* You seem to work a lot on energy, climate and the grid. Why?
+
+
+What exactly then is the research question?
+--------------------------------------
+* Semantic web
+
+* Agents
+  - how do you know which basic rules to give to them
+    or which space of rules
+
+* How do you know what to include
+  - perspectives
+  - resources
+  - rules
+
+* What kinds of rules and formlisms?
+  - if-then-else?
+  - state machines?
+  - linear equations?
+  - what else? DGLs?
+  
+* Problem of the unknown unknowns
+
+* Simulation
+  - then look at patterns.  
+  - how do you know when to stop running it?
+  - sensitivity analysis, parameter variation
+
+* What is milti-modeling?
+
+
+* Examples. 
+  - CO2 trading
+  - why specifically the energy sector as an area of focus?
+  - what else are examples of successful use?
+  - how do you define success of one of your projects?
+
+  
+  
+Insights
+---------------------------------------  
+* Insights: how do you grow a sustainable socio-technical system
+
+* Bottom up 
+  - how do you define the "botton up" rules?
+
+* Fail gracefully  
+  - meaning? many small experiments?
+  - vs. resilience?
+
+* Grow 
+  - step by step
+  - it might become sustainable, but slow?
+  
+* Together
+  - ?
+
+* What does this mean for collective rule making in governments? 
+  - where we try to centralize some decisions?
+  - are those systems too complex to be "governed"?
+  - should we simplify?
+  - Relationship to Tainter
+
+* Is evolution a little bit like machine learning? 
+  In the sense that even though it is supposed to be 
+  neutral and objective it depends on the rules 
+  (data) we use for evolving (learning)?
+
+* Relationship to technikfolgenabschätzung?
+
