@@ -1,6 +1,9 @@
 * Prinzip Stellarator
   - Vergleich/Vor/Nachteile bzgl. Tokamak
     (Hintergrund: die Hörer kennen Tokamaks schon)
+    - Vorteil: kontinuierlicher Betrieb
+    - Vorteil: kleiner Gefahr von Disruptionen
+    - Nachteil: komplexerer Aufbau ??
   - Zentrale Herausforderungen
   - W7X: Wer steckt dahinter?
   - Woher kommt der Name?
@@ -12,10 +15,12 @@
   - Vergleicht "Reifheit" mit ITER?
   - wie spielt das mit den anderen Fusionsreaktoren zusammen?
   - Andere Stellaratoren auf der Welt?
+  - Vergleich der Energiedichte: Fusion, Kernspaltung, Kohle, Verweis auf die Feuerfest-Folge
 
 * Design/Auslegung der Form
   - Wie kommmt's zu der Form
   - wie errechnet man die?
+    - Die Form wurde in den 80ern errechnet. Käme man mit der heutigen Rechenpower zum gleichen Ergebniss?
   - Herausforderungen beim Bau
   
 * Gemeinsamkeiten mit Tokamak:
@@ -24,10 +29,12 @@
   - was noch?
   - Kühlinfrastruktur
   - Divertor
+  - Tritim brüten
+  - Mischformen zwischen Tokamak und Stellarator für Demo
   
 * Brennstoffe: warum zwei?
-  - Wasserstoff
-  - Helium
+  - Wasserstoff-Isotope Deuterium und Tritium als Ausgangselemente
+  - Helium + Neutronen + kin. Energie als Produkte
   
 * Konkrete Forschungsfragen  
   - guter Teilcheneinschluss des optimierten Magnetfeldes demonstrieren 
@@ -40,14 +47,15 @@
   - Langzeit- bzw. quasi-stationären Betrieb demonstrieren
   - Plasmanachfüllung, Teilchenkontrolle und Plasma-Wand-Wechselwirkung unter 
     Dauerbetriebsbedingungen untersuchen
-  - Divertor-Studien betreiben  
+  - Divertor-Studien betreiben
+  - Studie, bzw. Ausnutzung, des Bootstrap-Stroms
 
 * Was wird aktiv geregelt und gemonitort?
   Welche "Notfälle" gibt es, welche Schnellabschalt-Einrichtungen?
 
 * Betrieb
   - wie nimmt man sowas schrittweise in Betrieb?
-  - "Reiniugung?"
+  - "Reinigung?"
   - Erste Runde. Ziele? Erfolge?
   - Zweite Runde. Ziele? Erfolge?
     (Energien, Pulsdauern, Temperaturen, Leistung)  
