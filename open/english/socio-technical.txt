@@ -50,13 +50,19 @@ What exactly then is the research question?
   - linear equations?
   - what else? DGLs?
   
-* Problem of the unknown unknowns
-
 * Simulation
   - then look at patterns.  
   - how do you know when to stop running it?
   - sensitivity analysis, parameter variation
 
+* How do you know a simulation is
+  - correct
+  - reliable/trustworthy to X%
+  - is there any notion of "proof"?
+  - Problem of the unknown unknowns
+
+
+  
 * What is milti-modeling?
 
 
