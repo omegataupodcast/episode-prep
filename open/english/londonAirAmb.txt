@@ -3,10 +3,16 @@
   - Non-profit
   - Introduction Neil Jeffers
 * Helicopter
+  - MD-902
+    . why?
+    . difference between the two? 
+    . did you consider alternatives?
+    . before the 902?
   - Systems
   - Avionics
     . Weather
     . Night
+  - anything special about NOTAR flying?
 * Medical 
   - Equipment
   - Missions
@@ -14,6 +20,7 @@
     . vs. transport patient
     . statistics
   - Coordination with other agencies or orgs
+    . who activates you?
 * Flying in the City
   - safety
     . class 1 helo
