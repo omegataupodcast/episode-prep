@@ -43,7 +43,7 @@ Overview
 
 * Emergence and self organization
   - Patterns, their generation and our understanding
-    - We are pattern creators and patter matchers. When does a novel pattern arise / is understood?
+    - We are pattern creators and patter-matchers. When does a novel pattern arise / is understood?
   - Emergence -> process of creation of patterns, that are more easily understood in their own right. it "does not exists per se its just systtems doing what they do"
   - the comparison to ant colonies, consciousness, ecosystems, societies, etc. “It emergence all the way up”  https://www.youtube.com/watch?v=uaGEjrADGPA 
 
@@ -51,7 +51,7 @@ Overview
 * The key problem : Human civilisation has emerged into a unsustainabile state.
   - of the socia-technical thing as a beast: eats and poops
   - why did the system evolve to this point where it isn't sustainable?
-  - Why is the ultimate question. I hypothesize that it is the simples and most effective way to use energy is fossil. It is a necessary stage of development. Coupled with a hyper-efficient short term optimalisation of anglo-saxon style of shareholder capitalism that exploits basic human drives such as fear, greed, sex etc. humans have  developed exponentially. Great success, but it is not coupeled to the natural systems time scales. The challange is to manage the metabolisms speed 
+  - Why is the ultimate question. I hypothesize that it is the simples and most effective way to use energy is fossil. It is a necessary stage of development. Coupled with a hyper-efficient short term optimalisation of anglo-saxon style of shareholder capitalism that exploits basic human drives such as fear, greed, sex etc. humans have  developed exponentially. Great success, but it is not coupled to the natural systems time scales. The challange is to manage the metabolisms speed 
   - "control" a complex process to not self-unsustain itself. 
 	? Control is entirely the wrong way to think about it. it shaping the evolution of something that is many orders of magnitude marger than an individual. The sustainability challenges we are facing are unprecedented in their scale and complexity.  We have to actively evolve (into) a less unsustainable state by  engineering, gardening, governing, marketing and believing ourselves into it. This requires a shared situational awareness at a societal scale, allowing for conflicting rationalities, diversity of norms and values and multitude of futures visions.
 
@@ -65,7 +65,7 @@ Overview
   - Models and simulations offer a way to help this
  
 * Def of intractability: 
-  ? This is not at the right place here ? If we want to talk about it here, we need to introduce modelling and need for prediction / forecasts / scenarions before we talk about intractability.
+  ? This is not at the right place here ? If we want to talk about it here, we need to introduce modelling and need for prediction / forecasts / scenarios before we talk about intractability.
   - can't "jump" into the future, you have to go there
 
 * The grid as an example
@@ -75,11 +75,11 @@ Overview
 
 
 * You seem to work a lot on energy, climate and the grid. Why?
-  - Infra part of infrastructure is key. Is the the thing that is "under" eveything. i tis the big, slow, boring stuff that nobody wants to talk baout, but absolutely everything depends on it.
+  - Infra part of infrastructure is key. Is the the thing that is "under" eveything. It is the big, slow, boring stuff that nobody wants to talk about, but absolutely everything depends on it.
 
 
 What exactly then is the research question?
-  - How to we shape, steer and garden socio-technical systems towards sustainability? By providing  solid, socientiffic  model-based  decision support to stakeholders when taking discrete decision that have very large and long term impacts on the world.
+  - How to we shape, steer and garden socio-technical systems towards sustainability? By providing  solid, scientiffic  model-based  decision support to stakeholders when taking discrete decision that have very large and long term impacts on the world.
  
 --------------------------------------
 * Semantic web
