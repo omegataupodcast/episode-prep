@@ -1,8 +1,8 @@
 * Systems Modeling - what is this?
   - what is a system
-    - Controller (usually this is what we want to build, right?)
-    - Plant
-    - Environment
+    . Controller (usually this is what we want to build, right?)
+    . Plant
+    . Environment
   - what is a model :-)
     . and why do we create one.
 * The structure (high level)
@@ -12,19 +12,30 @@
   - State Machines
   - Events
   - Actions
+  - Difference Equations
+  - Discrete Time (DT) Systems, DT Signal & System Models
+    . Z-Transform, transfer function
+    . DTFT, DFT, FFT, frequency response
 * Testing them
   - Event sequence in, assert out events, effects or state
   - Briefly introduce the notion of temporal logic and model checking
 * Modeling Continuous Systems
-  - Differential Equations 
+  - Linear vs. non-linear systems
+  - Continuous Time (CT) Systems, CT Signal & System Models
+    . Fourier series
+    . Fourier transform, frequency response
+    . Laplace transform, s-domain transfer function
+  - Ordinary Differential Equations (ODEs)
     . what are those, intuitively
     . easy to implement, hard for modelers -> why?
-  - Differential algebraic equations  
+    . Application: classical mechanics
+  - Differential algebraic equations (DAEs)
     . easy to model, hard for implementors -> why?
+  - Partial Differential Equations (PDEs)
+    . Applications: fluid dynamics, electrodynamics, heat transfer, quantum mechanics
+  - Stochastic Differential Equations (SDEs)
   - Modelica (hard to talk about the stuff below 
     with out introducing Modelica)
-* Testing the
-  [no idea]
 * The structure
   - Bottom up: Equations, connectors, components, 
     subsystems, packages, architectures
@@ -38,22 +49,28 @@
     . Analogy to Rust's type system where "lifetime" is part of type
     . In Modelica, "clock" is part of the type.
     . Have to have a deterministic notion of simultaneity.
-* Modeling both together: hybrid systems
+* Modeling both together: hybrid systems, mixed-signal systems
   - what is the challenge here?
   - Example: Bouncing ball
-* Applications 
+* Applications
   [we need some more of that Formula 1 stuff here :-)]
   - All this stuff is motivated by really useful applications
   - Hybrid Cars
-    - Hydraulics
-    - Clutches
+    . Hydraulics
+    . Clutches
   - Robots
-    - Diodes
-    - Sensors
-    - Magentic motors
+    . Diodes
+    . Sensors
+    . Magnetic motors
   - Multi-body systems
 * Related tools
-  - Simulink/SimScape
+  - Matlab/Simulink/SimScape
   - CAE/CFD/FEM
+    . ANSYS
+    . COMSOL Multiphysics
+  - Hardware Description Languages (Digital+Mixed-Signal)
+    . VHDL, VHDL-AMS
+    . Verilog, Verilog-AMS
+    . SystemC, SystemC-AMS
   - FMI
   - SysML (esp. State Machines)
