@@ -4,6 +4,10 @@ Overview
 - = subpoints / argumentation steps
 ? = a discussion point
 
+
+------------
+Part 1: Intro and background
+-----------
 * A preamble 
   - There will be a lots of overloaded language.
   - Complexity etc is popularly known from a physics / mathematical / network science perspective, Santa Fe institute style. Social science perspectives are far less well known
@@ -43,13 +47,13 @@ Overview
 
 * Emergence and self organization
   - Patterns, their generation and our understanding
-    - We are pattern creators and patter-matchers. When does a novel pattern arise / is understood?
+    - We are pattern creators and pattern-matchers. When does a novel pattern arise / is understood?
   - Emergence -> process of creation of patterns, that are more easily understood in their own right. it "does not exists per se its just systtems doing what they do"
   - the comparison to ant colonies, consciousness, ecosystems, societies, etc. “It emergence all the way up”  https://www.youtube.com/watch?v=uaGEjrADGPA 
 
 
-* The key problem : Human civilisation has emerged into a unsustainabile state.
-  - of the socia-technical thing as a beast: eats and poops
+* The key problem : Human civilization has emerged into a unsustainable state.
+  - of the socio-technical thing as a beast: eats and poops
   - why did the system evolve to this point where it isn't sustainable?
   - Why is the ultimate question. I hypothesize that it is the simples and most effective way to use energy is fossil. It is a necessary stage of development. Coupled with a hyper-efficient short term optimalisation of anglo-saxon style of shareholder capitalism that exploits basic human drives such as fear, greed, sex etc. humans have  developed exponentially. Great success, but it is not coupled to the natural systems time scales. The challange is to manage the metabolisms speed 
   - "control" a complex process to not self-unsustain itself. 
@@ -79,9 +83,12 @@ Overview
 
 
 What exactly then is the research question?
-  - How to we shape, steer and garden socio-technical systems towards sustainability? By providing  solid, scientiffic  model-based  decision support to stakeholders when taking discrete decision that have very large and long term impacts on the world.
+  - How to we shape, steer and garden socio-technical systems towards sustainability? By providing  solid, scientific  model-based  decision support to stakeholders when taking discrete decision that have very large and long term impacts on the world.
  
---------------------------------------
+------------
+Part 2: Modelling and tools
+-----------
+
 * Semantic web
 
 * Agents
@@ -123,8 +130,10 @@ What exactly then is the research question?
 
   
   
-Insights
----------------------------------------  
+------------
+Part 3: Insights
+
+-----------
 * Insights: how do you grow a sustainable socio-technical system
 
 * Bottom up 
