@@ -1,40 +1,43 @@
+* Introduction Robert
+
 * Mission Overview
+  - Understanding the development and evolution of missiles and reentry
+    vehicles of the Soviet Union, and 
+  - understanding their compliance with SALT II
+  - Observation from aircraft Ball/Eye
+  - plus ground-based and ship-based radars (Dane, Judy)
 
 * Aircraft
   - RC-135S Cobra Ball
-    . WIng painted black
     . The Cobra Ball monitors missile-associated signals and 
       tracks missiles during boost and re-entry phases to provide 
       reconnaissance for treaty verification and theater ballistic 
       missile proliferation.
-  - RC-135X Cobra Eye
-    . how different?
-  - Crew in the back
-  - Cobra Dane Radar on ground
-  - Cobra Judy on ship 
-  - Quick overview over the other RC-135 variants
-
-* Mission
-  - Observation of ICBMs and their reentry 
-  - Two Navs 
-  - Alerting - how much warning?
-    . what was the trigger for the launch?
-    . what happens then?
-    . radio silence?
   - Sensors
     . Cameras mostly?
     . the "towel rails" suggest other kinds of sensors.
-  - Walk us through a mission
-  - Refuelling?
-  - How long were the missions?
+  - Ball/Eye Differences?
+    . how different?
+    . saw pics with the original low bypass 
+      engines and with the R engines. Why?
+    . Wing painted black
+  - Crew structure in the back in the back
+  - Quick overview over the other RC-135 variants
+
+* Mission
+  - Alerting - how much warning?
+    . what was the trigger for the launch?
+      How did you know that "something was coming"?
+    . what happens then? Mission Walkthrough.
+    . radio silence?
   - Where was the collecting area, how long to get there from Shemya
-  - How did you know that "something was coming"?
-    And when not? Tuna patrols.
-  - Mission Timing and Precision - why?
-  - How you know when exactly to be where to 
-    record the reentry?
-  - What exactly is the goal? 
-    Size? Shape? Speed? Location?
+  - How you know when exactly to be where to record the reentry?
+  - Mission Timing and Precision ("feet and seconds") - why?
+  - What exactly is the goal? Size? Shape? Speed? Location?
+  - Tuna patrols.
+  - How long were the missions?
+  - Why two Navs 
+  - Refuelling?
   - A bit of history on this mission 1960s
     . Nancy Rae
     . Wanda Belle -> Rivet Ball 
@@ -46,7 +49,6 @@
       lead.
   - Today? Satellites?
   
-
 * Shemya
   - Where? Aleutian Islands
     Island twice as long as rwy :-)
@@ -54,7 +56,6 @@
     . route
     . refuelling
     . what if the weather is too bad to land?
-  - Crew selection
   - Weather, and Landing Challenges
     . 70mph winds + fog
     . What did you do when the weather was bad at Shemya
@@ -63,10 +64,12 @@
     . ILS?
     . Short -> Precise
     . "Navy arrival" instead of soft landing :-)
+  - Crew selection
   - Life there
     . grocery shopping
     . what do you do there?
     . supply flights?
   - Practice/Flight Training
   
-* What else did you fly?
+* What else did you fly over the years?
+  Anecdotes.
