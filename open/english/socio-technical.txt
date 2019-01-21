@@ -1,21 +1,75 @@
 Overview
 ---------------------------------
+* = main point
+- = subpoints / argumentation steps
+? = a discussion point
+
+
+------------
+Part 1: Intro and background
+-----------
+* A preamble 
+  - There will be a lots of overloaded language.
+  - Complexity etc is popularly known from a physics / mathematical / network science perspective, Santa Fe institute style. Social science perspectives are far less well known
+  - A fundamental challenge all social sciences face is "the incoherency problem": lack of a single fundamental and consistent ontology, like laws of nature. We will be talking about social systems, which are socially constructed, self referential and subjectively interpreted and  experienced and most of the listeners of OmegaTau podcast seem to be  engineering and natural sciences oeriented, many instincts might not work.
+
 
 * What is a socio-technical system
+  - We do call it socio-tech, but what we really mean isbio-geo-chemical-socio-technical systems. Humans and their technology, coevolving with the ecosystems within a chemical and geological cycles of the planet. Socio-tech means that we focus on the humans and their co-evolution with technology. Steven Pinkers wonderful paper : The cognitive niche: Coevolution of intelligence, sociality, and language poses the situation wonderfully : Natural world gives rise to th emind -> Mind creates language based on its own physical nature -> mind creates language and language creates culture -> culture is technology and changes the physical world -> changes the mind and language... An autocatalytic/ autopeietic system. : http://www.pnas.org/content/early/2010/05/04/0914630107  https://en.wikipedia.org/wiki/Autocatalysis
 
-* Complexity and Adaptivity
-  - Emergence?
-  - the comparison to ant colonies
+  - Socio-technical system is not just Social + Technical system
+    - Diverse nature of interactions
+    - Topology/structure of interactions
+    - Dynamics within the structure
+    - Evolution / change of the structure of interactions
+- Stakeholders / decision makers
+    - Multi-actor systems 
+    - Not a single individual/organization controls/determines
+    - Constant interactions
+    - Multitude of perspectives
+    - Ownership
+    - Legislation, and applicability of it to a specific party
+    - Beliefs, habits, norms, values, preferences, irrationality, cognitive biases etc 
 
-* Central control vs. decentralization
-  - many local, reactive entities w/o centralized control
 
-* Definition(s) of complexity
+* Simplicity, Complicatedness and  Complexity 
+  - Two types of simplicyt : Functional and structural. Socio-Tech is mainly about functional simplicity. "Civilization advances by extending the number of important operations which we can perform without thinking about them." -Alfred North Whitehead, 1911
+  - Complicatedness : most technical systems. Many,many things that fit together exactly one way. Very efficient, can be engineered with a reductionist approach, but fragile and really hard to understand.
+  - Complexity : systems that exhibit emergent properties, self-organize, adapt/learn, have functional hierarchies. through endless interactions of heterogeneous elements. Often "easy" to understand, very hard if not impossible to engineer. e.g. Linux kernel vs cell genome : https://www.wired.com/2010/05/linux-vs-life/  and https://www.pnas.org/content/early/2009/05/29/0903206106.abstract
+
+* Definition(s) of complexity / CAS
+  - D.C. Mikulecky, : Complexity as an inability of any one formal description being adequate to capture all relevant system properties.
+  - Kauffman CAS definition
   - different perspectives
     different roles (e.g. owners, customers)
   - nobody understands everything and controls it
+  -
 
+* Emergence and self organization
+  - Patterns, their generation and our understanding
+    - We are pattern creators and pattern-matchers. When does a novel pattern arise / is understood?
+  - Emergence -> process of creation of patterns, that are more easily understood in their own right. it "does not exists per se its just systtems doing what they do"
+  - the comparison to ant colonies, consciousness, ecosystems, societies, etc. “It emergence all the way up”  https://www.youtube.com/watch?v=uaGEjrADGPA 
+
+
+* The key problem : Human civilization has emerged into a unsustainable state.
+  - of the socio-technical thing as a beast: eats and poops
+  - why did the system evolve to this point where it isn't sustainable?
+  - Why is the ultimate question. I hypothesize that it is the simples and most effective way to use energy is fossil. It is a necessary stage of development. Coupled with a hyper-efficient short term optimalisation of anglo-saxon style of shareholder capitalism that exploits basic human drives such as fear, greed, sex etc. humans have  developed exponentially. Great success, but it is not coupled to the natural systems time scales. The challange is to manage the metabolisms speed 
+  - "control" a complex process to not self-unsustain itself. 
+	? Control is entirely the wrong way to think about it. it shaping the evolution of something that is many orders of magnitude marger than an individual. The sustainability challenges we are facing are unprecedented in their scale and complexity.  We have to actively evolve (into) a less unsustainable state by  engineering, gardening, governing, marketing and believing ourselves into it. This requires a shared situational awareness at a societal scale, allowing for conflicting rationalities, diversity of norms and values and multitude of futures visions.
+
+
+
+* Central control vs. decentralization as a way out?
+  - decentral control vs self-organization.
+  - Humans love centralised control, because it works well to reduce the  amount of choice. Niklas Luhman, autopoiesis. https://en.wikipedia.org/wiki/Niklas_Luhmann 
+  - many local, reactive entities w/o centralized control
+  - It is all about people, very often individuals or very small groups that make decisions that impact the world. most of the time it is done with very little clue, and under very narrow sets of considerations
+  - Models and simulations offer a way to help this
+ 
 * Def of intractability: 
+  ? This is not at the right place here ? If we want to talk about it here, we need to introduce modelling and need for prediction / forecasts / scenarios before we talk about intractability.
   - can't "jump" into the future, you have to go there
 
 * The grid as an example
@@ -23,16 +77,18 @@ Overview
 
 * Are markets the solution?
 
-* The problem sustainability
-  - of the socia-technical thing as a beast: eats and poops
-  - why did the system evolve to this point where it isn't sustainable?
-  - "control" a complex process to not self-unsustain itself
 
 * You seem to work a lot on energy, climate and the grid. Why?
+  - Infra part of infrastructure is key. Is the the thing that is "under" eveything. It is the big, slow, boring stuff that nobody wants to talk about, but absolutely everything depends on it.
 
 
 What exactly then is the research question?
---------------------------------------
+  - How to we shape, steer and garden socio-technical systems towards sustainability? By providing  solid, scientific  model-based  decision support to stakeholders when taking discrete decision that have very large and long term impacts on the world.
+ 
+------------
+Part 2: Modelling and tools
+-----------
+
 * Semantic web
 
 * Agents
@@ -74,8 +130,10 @@ What exactly then is the research question?
 
   
   
-Insights
----------------------------------------  
+------------
+Part 3: Insights
+
+-----------
 * Insights: how do you grow a sustainable socio-technical system
 
 * Bottom up 
