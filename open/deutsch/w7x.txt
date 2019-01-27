@@ -1,3 +1,5 @@
+> P.S. ask the lovely folks at W7X how they’re going to deal with alpha particle confinement in stellarators ;)
+
 * Prinzip Stellarator
   - Vergleich/Vor/Nachteile bzgl. Tokamak
     (Hintergrund: die Hörer kennen Tokamaks schon)

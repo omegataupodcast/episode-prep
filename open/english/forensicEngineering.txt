@@ -1,0 +1,121 @@
+* Introduction Sean
+
+* Context: mostly civil engineering
+
+------- CAUSES -------------
+
+* Structural Engineering. 
+  - art & science of molding Materials we do not fully understand; into Shapes we cannot
+	precisely analyze; to resist Forces we cannot accurately predict; all in
+	such a way that the society at large is given no reason to suspect the
+	extent of our ignorance.’
+  - Sure it should be stable ...
+  - ... but which other constraints apply? 
+    . look nice
+    . cheap
+
+* The role of design, simulation, prototyping, experience, "stories"
+  - what are the safety factors/margins
+  - what are the validatioon processes
+
+* Seven Types of Structural Failure
+  - Operations (maintenance) errors 
+  - Design errors
+  - Construction errors
+  - Material deficiencies
+  - Programming deficiencies
+  - Site selection and site development errors
+  - Fundamental errors in concept
+    "requirements errors", wrong load assumptions
+    
+    * Material specifics
+  - Steel
+  - Concrete
+  - Interactions between the two?
+  - Using the materials wrongly?
+  - How is the "correct" use (from plan to building)
+    guaranteed/checked? 
+    - And is this relative to the criticality?
+    - where are more causes? design or construction?
+
+* What are typical design errors?
+
+* What do we do? We can't just increase safety factors,
+  because of weight, cost, etc.
+  standards bc we cant test
+
+    
+* How do you make a distinction between a genuine fate-related,
+  bad-luck failure, and avoidable (careless) human or process error?
+  - Like: completely unknown effects, eg dynamic wind effects
+  - How black and white is it?
+  - You can always ultimately blame everything on humans, obviously.
+    ("autopilot failed, yes, but the pilots should have been able to cope bla bla")
+  
+
+* "Most failures occur due to trivial mistakes, generally lost in 
+  the details, and often related to ‘boring’ tasks, e.g., dead load 
+  gets calculated incorrectly, designers miss mistakes in drawings."
+  - so is this a process or tool issue?
+  - or basically unavoidable?
+
+* What are the causes of human mistakes?
+  - Anti-Authority: The rules don’t apply to me or to my special situation
+  - Impulsiveness: Hurry up! Let’s get it over with!
+  - Macho: Let me show you how the big boys work
+  - Invulnerability: Only bad, stupid, or unlucky people make errors
+  - Resignation: It doesn’t matter what I do
+
+  -> what about genuine errors? Unknown unknowns.
+  -> what about being "blinded" by expertise?
+  -> "trusting the computer"
+  -> Organizational forgetfulness?
+  
+* Doesn't the NASA examples show that even highly structured, 
+  regulated and professional orgs make mistakes? 
+  - How do you build the "meta process" that keeps the process sane?
+  - is something wrong with the "professional ethics"?
+  - At what point do we simply collide with human nature?
+  
+* What can we do?
+  - is there a certain level of problems that cannot be avoided?
+  - swiss cheese model, i35w
+  - is the current level "societally ok", so we don't have to improve
+    (compare ppl dying from car accidents)
+
+* What are the general, long-term trends? Are we making progress?    
+
+
+------- FINDING OUT -------------
+
+* Regular vs. Forensic Engineering
+  - By which rules do regular engineers work (standards, etc)
+  - How is FE different?
+
+* Activities
+  - Preliminary investigation
+  - Evidence collection 
+  - Litigation support
+  - Arbitration support
+  - Expert witness services
+
+* Why not the regular engineer
+  - jump to recommendations
+  - assumptions vs. actual loads
+    "collect and interpret physical evidence and instead relies on assumptions, 
+    there is a risk these assumptions may be called into question in the face of 
+    evidence."
+  - wider range of failure hypotheses
+
+* Walk us through an investigation
+  - how long does FE take
+  - collab w other agencies?
+ 
+* Tools used by the FE
+  - look at evidence
+  - form hypo
+  - experiments?
+  
+* How do you "proof"? Matter of statistics?
+
+* Not many accidents seem to happen - are you busy :-) ?
