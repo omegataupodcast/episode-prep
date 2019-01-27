@@ -1,4 +1,6 @@
 * Introduction Sean
+  "I can’t talk about any of the investigations I have personally undertaken 
+    because they are legally confidential"
 
 * Context: mostly civil engineering
 
@@ -28,7 +30,7 @@
   - Fundamental errors in concept
     "requirements errors", wrong load assumptions
     
-    * Material specifics
+* Material specifics
   - Steel
   - Concrete
   - Interactions between the two?
@@ -38,13 +40,11 @@
     - And is this relative to the criticality?
     - where are more causes? design or construction?
 
+* Bridges seem to be special: dynamic loads. 
+  - other special aspects?
+
 * What are typical design errors?
 
-* What do we do? We can't just increase safety factors,
-  because of weight, cost, etc.
-  standards bc we cant test
-
-    
 * How do you make a distinction between a genuine fate-related,
   bad-luck failure, and avoidable (careless) human or process error?
   - Like: completely unknown effects, eg dynamic wind effects
@@ -52,13 +52,6 @@
   - You can always ultimately blame everything on humans, obviously.
     ("autopilot failed, yes, but the pilots should have been able to cope bla bla")
   
-
-* "Most failures occur due to trivial mistakes, generally lost in 
-  the details, and often related to ‘boring’ tasks, e.g., dead load 
-  gets calculated incorrectly, designers miss mistakes in drawings."
-  - so is this a process or tool issue?
-  - or basically unavoidable?
-
 * What are the causes of human mistakes?
   - Anti-Authority: The rules don’t apply to me or to my special situation
   - Impulsiveness: Hurry up! Let’s get it over with!
@@ -70,6 +63,15 @@
   -> what about being "blinded" by expertise?
   -> "trusting the computer"
   -> Organizational forgetfulness?
+     does this relate to the 30 year cycle?
+  
+* "Most failures occur due to trivial mistakes, generally lost in 
+  the details, and often related to ‘boring’ tasks, e.g., dead load 
+  gets calculated incorrectly, designers miss mistakes in drawings."
+  - so is this a process or tool issue?
+  - or basically unavoidable?  
+  
+* Do computers/automation help, or introduce new/other risks?  
   
 * Doesn't the NASA examples show that even highly structured, 
   regulated and professional orgs make mistakes? 
@@ -78,12 +80,11 @@
   - At what point do we simply collide with human nature?
   
 * What can we do?
+  - We can't just increase safety factors because of weight, cost, etc.
   - is there a certain level of problems that cannot be avoided?
   - swiss cheese model, i35w
   - is the current level "societally ok", so we don't have to improve
     (compare ppl dying from car accidents)
-
-* What are the general, long-term trends? Are we making progress?    
 
 
 ------- FINDING OUT -------------
@@ -118,4 +119,8 @@
   
 * How do you "proof"? Matter of statistics?
 
-* Not many accidents seem to happen - are you busy :-) ?
+* Not many accidents seem to happen
+  - are you busy :-) ?
+  - What are the general, long-term trends? Are we making progress?    
+
+
