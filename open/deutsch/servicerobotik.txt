@@ -26,6 +26,7 @@
   - Programmieren von Robotern: 
     Herstellerprogrammiersprachen vs. Open-Source (ROS) vs. selbstentwickelte Frameworks
   - Maschinelles Lernen in der Robotik
+  - AR / VR Ansätze zur intuitiven Programmierung
 * Entwicklung von Roboter
   - Wie werden heutzutage Roboter entwickelt?
     - Workflow?
@@ -39,4 +40,6 @@
   - ROBINA Projekt
   - ...?
 * Ausblick in die Zukunft, was wird es in den nächsten 5 Jahren geben?
+  - Roboter im Haushalt oder weiterhin nur in der Großindustrie? 
+  - Kooperation im klassischen Handwerk, z.B. beim Schreiner?
   
