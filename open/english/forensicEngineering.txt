@@ -19,6 +19,8 @@
 * The role of design, simulation, prototyping, experience, "stories"
   - what are the safety factors/margins
   - what are the validatioon processes
+  - no real opportunity for prototypes and testing. 
+    ... but there are material/strength experiments, right?
 
 * Seven Types of Structural Failure
   - Operations (maintenance) errors 
@@ -33,24 +35,31 @@
 * Material specifics
   - Steel
   - Concrete
-  - Interactions between the two?
+
+* Bridges seem to be special: dynamic loads. 
+  - other special aspects?
+  - majority of failures are caused by external factors, 
+    e.g., flood, scour, overloading, impact.
+
+* What are typical design errors?
+
+* What are typical construction errors?
   - Using the materials wrongly?
   - How is the "correct" use (from plan to building)
     guaranteed/checked? 
     - And is this relative to the criticality?
     - where are more causes? design or construction?
 
-* Bridges seem to be special: dynamic loads. 
-  - other special aspects?
-
-* What are typical design errors?
 
 * How do you make a distinction between a genuine fate-related,
   bad-luck failure, and avoidable (careless) human or process error?
-  - Like: completely unknown effects, eg dynamic wind effects
-  - How black and white is it?
+  - Like: completely new, unknown effects (Unknown Unknowns), 
+    . eg dynamic wind effects
+  - Is it always a clear distinction?
   - You can always ultimately blame everything on humans, obviously.
     ("autopilot failed, yes, but the pilots should have been able to cope bla bla")
+    . Is the process wrong
+    . or do we make mistakes in the process. 
   
 * What are the causes of human mistakes?
   - Anti-Authority: The rules don’t apply to me or to my special situation
@@ -70,12 +79,25 @@
   gets calculated incorrectly, designers miss mistakes in drawings."
   - so is this a process or tool issue?
   - or basically unavoidable?  
+    Sean:   "Human error is unavoidable"
+    Markus: "I disagree" :-)
+
   
+    
 * Do computers/automation help, or introduce new/other risks?  
+  - produce too much confidence
   
 * Doesn't the NASA examples show that even highly structured, 
   regulated and professional orgs make mistakes? 
-  - How do you build the "meta process" that keeps the process sane?
+  - Near miss theory 
+  - Have we already over-complexified the process? 
+    . or over-complexified the buildings?
+    . How do you build the "meta process" that keeps the process sane?
+  - Key question: 
+    Is the way that we set up the contractual framework for construction 
+    projects part of the problem. A key concept in failure prevention 
+    is don’t assign risk to a party that cant manage it. Yet legal 
+    contracts do this all the time in construction projects
   - is something wrong with the "professional ethics"?
   - At what point do we simply collide with human nature?
   
@@ -86,6 +108,16 @@
   - is the current level "societally ok", so we don't have to improve
     (compare ppl dying from car accidents)
 
+  
+* Key things you can do in terms of failure prevention are not technical in nature.
+  - communication
+  - collaboration
+  - risk allocation
+  - control mechanisms. 
+  -> if we manage these human factors we will manage the  technical causes of failure.
+  Markus: I am not sure. it just says that we have good tech, and now the
+  human is "bottleneck". And we can't make the process perfect, b/c we collide
+  with human nature.
 
 ------- FINDING OUT -------------
 
