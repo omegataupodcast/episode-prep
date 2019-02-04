@@ -1,47 +1,70 @@
-> P.S. ask the lovely folks at W7X how they’re going to deal with alpha particle confinement in stellarators ;)
+*********************************************************************************
+Note: we will record in English, despite the German list of questions below :-)
+*********************************************************************************
 
-* Prinzip Stellarator
-  - Vergleich/Vor/Nachteile bzgl. Tokamak
+Theory (Dr. Ralf Kleiber)
+-------------------------------------------
+* W7X: Wer steckt dahinter?
+
+* Woher kommt der Name?
+
+* Der Stellarator
+  - Grundsätzliche Idee
+  - Gemeinsamkeiten mit Tokamak (durchsprechen)
+    . Magnetfeld
+    . Heizung
+    . Kühlinfrastruktur
+    . Divertor
+    . Tritim brüten
+    . was noch?
+  - Vor/Nachteile bzgl. Tokamak
     (Hintergrund: die Hörer kennen Tokamaks schon)
     - Vorteil: kontinuierlicher Betrieb
     - Vorteil: kleiner Gefahr von Disruptionen
     - Nachteil: komplexerer Aufbau ??
   - Zentrale Herausforderungen
-  - W7X: Wer steckt dahinter?
-  - Woher kommt der Name?
+  
+* Fusionsreaktionen
+  - Welche eignen sich prinzipiell für einen Stellarator?
+  - Warum zwei? 
+    . Wasserstoff-Isotope Deuterium und Tritium als Ausgangselemente
+    . Helium + Neutronen + kin. Energie als Produkte
+  - Welche wesentlichen Unterschiede bestehen zwischen dem fusionsfähigen
+    Plasma auf der Sonne und einem Reaktor auf der Erde?
+  - Vergleich der Energiedichte: Fusion, Kernspaltung, Kohle
+
+* The Model
+  - wie genau sieht das physikalische Modell des Plasmas aus?
+  - Wie genau sind die Vorgänge im Stellarator im Modell beschrieben?
+    . Gibt es viele Überraschungen?
+    . Was definiert die Grenzen des Modellierbaren?
+  - Welcher Zusammenhang besteht zwischen dem benutzten Modell und der
+    kinetischen Gastheorie?
+  - Welche Rolle spielen die Maxwell-Gleichungen in dem Modell?
+
+* Design/Auslegung der Form
+  - Wie erklärt sich die Bauform der Magnete?
+  - wie errechnet man die?
+    . Die Form wurde in den 80ern errechnet. Käme man mit der 
+      heutigen Rechenpower zum gleichen Ergebniss?
+
+
+Experimental (Dr. Matthias Hirsch)
+----------------------------------------
 
 * Status
   - In Betrieb?
   - Was sind die konkreten Ziele?
-    Burning Plasma? Net-Positive?
+    . Burning Plasma? 
+    . Net-Positive?
   - Vergleicht "Reifheit" mit ITER?
   - wie spielt das mit den anderen Fusionsreaktoren zusammen?
-  - Andere Stellaratoren auf der Welt?
-  - Vergleich der Energiedichte: Fusion, Kernspaltung, Kohle, Verweis auf die Feuerfest-Folge
 
-* Design/Auslegung der Form
-  - Wie kommmt's zu der Form
-  - wie errechnet man die?
-    - Die Form wurde in den 80ern errechnet. Käme man mit der heutigen Rechenpower zum gleichen Ergebniss?
-  - Herausforderungen beim Bau
-  
-* Gemeinsamkeiten mit Tokamak:
-  - Magnetfeld
-  - Heizung
-  - was noch?
-  - Kühlinfrastruktur
-  - Divertor
-  - Tritim brüten
-  - Mischformen zwischen Tokamak und Stellarator für Demo
-  
-* Brennstoffe: warum zwei?
-  - Wasserstoff-Isotope Deuterium und Tritium als Ausgangselemente
-  - Helium + Neutronen + kin. Energie als Produkte
-  
 * Konkrete Forschungsfragen  
   - guter Teilcheneinschluss des optimierten Magnetfeldes demonstrieren 
     und den Teilchentransport unter kraftwerks-ähnlichen Bedingungen untersuchen
   - das Plasma mit effektiven Heizmethoden erzeugen und aufheizen
+    . wie wird konkret geheizt?
   - Methoden entwickeln, die Verunreinigung des Plasmas zu kontrollieren, 
     und den Transport der Verunreinigungen untersuchen
   - Beta-Werte (Verhältnis von Plasmadruck und Magnetfelddruck) von 4 bis 5 Prozent 
@@ -51,15 +74,55 @@
     Dauerbetriebsbedingungen untersuchen
   - Divertor-Studien betreiben
   - Studie, bzw. Ausnutzung, des Bootstrap-Stroms
+  - Da in Greifswald kein fusionsfähiges Plasma erzeugt wird, wo genau
+    liegen die Grenzen des Experiments, was kann nicht gemessen werden?
 
-* Was wird aktiv geregelt und gemonitort?
-  Welche "Notfälle" gibt es, welche Schnellabschalt-Einrichtungen?
+* Instabilitäten
+  - Was ist das?
+  - Wie unterscheidet sich das Problem der Plasmainstabilität von dem beim
+    Tokamak?
+  - Gibt es beim Stellarator einen Regelkreis, der der Entwicklung spontaner
+    Plasmainstabilität entgegenwirkt?
+    
+* Diagnose des Plamsa 
+  - Was?
+  - Wie?    
 
+* Wandmaterial
+  - Welchen Anteil haben die Neutronen an der Schädigung des Wandmaterials?
+  - Unter der Voraussetzung dass in der Materialforschung bezogen auf das
+    Wandmaterial keine großen Fortschritte mehr gemacht werden, wie oft
+    müsste das Material eines Reaktors kommerzieller Größe getauscht werden?
+
+* Welche Vorhersagen, qualitativ als auch quantitativ, hat das
+  physikalische Modell vor Inbetriebnahme des Experiments gemacht? Und
+  welche qualitativen und quantitativen Abweichungen wurden in den ersten
+  Messläufen festgestellt und gemessen?
+
+* P.S. ask the lovely folks at W7X how they’re going to deal with alpha
+  particle confinement in stellarators ;)
+
+* Herausforderungen beim Bau (FOrm!)
+  
 * Betrieb
+  - Was wird aktiv geregelt und gemonitort?
+  - Welche "Notfälle" gibt es, welche Schnellabschalt-Einrichtungen?
   - wie nimmt man sowas schrittweise in Betrieb?
   - "Reinigung?"
   - Erste Runde. Ziele? Erfolge?
   - Zweite Runde. Ziele? Erfolge?
     (Energien, Pulsdauern, Temperaturen, Leistung)  
+
+* Beyond Wendelstein
+  - Wenn das Experiment in Greifswald abgeschlossen ist, und keine größeren
+    Überraschungen auftauchen, ließe sich damit technisch ein Reaktor mit
+    Netto-Leistungsgewinn konzipieren?
+  - Wie ist die Aussicht auf einen Demonstrationsreaktor vom Typ
+    Stellarator? Sowohl vom Stand der technischen Entwicklung, verglichen
+    mit dem Tokamak, als auch vom „politischen“ Standpunkt aus?
+  - Welches sind die größten physikalischen oder materialtechnischen
+    Probleme der Stellaratorforschung?
+  - Andere Stellaratoren?
+  
   
   

@@ -118,12 +118,16 @@
   Markus: I am not sure. it just says that we have good tech, and now the
   human is "bottleneck". And we can't make the process perfect, b/c we collide
   with human nature.
+  In software, things are now so complex that it's increasingly "unfair" to 
+  put all onto the human and the process. More automation, more proofs are crucial.
 
 ------- FINDING OUT -------------
 
 * Regular vs. Forensic Engineering
   - By which rules do regular engineers work (standards, etc)
-  - How is FE different?
+  - How is FE different? 
+    . assumption vs. evidence
+    . compliance vs. cause
 
 * Activities
   - Preliminary investigation
@@ -146,7 +150,9 @@
  
 * Tools used by the FE
   - look at evidence
-  - form hypo
+  - form hypo: 
+    . Computer modelling, finite element analysis, etc.
+    . use original plans or CAD files?
   - experiments?
   
 * How do you "proof"? Matter of statistics?
