@@ -1,0 +1,34 @@
+﻿The advantages of system modelling become greater the more multi-domain a system gets, and the more tightly-coupled the different subsystems and domains are.
+
+
+F1 is a great example of this. The car incorporates mechanical, electrical, fluid and thermal domains in a way that each can impact the others. The extreme performance pushes each subsystem to it’s limits, requiring that those interactions are fully understood. The design of the car requires maximum space for aerodynamics, and hence packaging is hugely restricted, exaggerating the relationships particularly thermal.
+
+
+During the engineering process each subsystem is analysed in detail, such as using FEA and Topology Optimisation for mechanical components; CFD for aerodynamics and cooling systems; gas dynamics within the engine and inlet/exhausts. But it is critical to understand how they interact with each other, and this is where system modelling is used.
+
+
+As an example, a single braking event before a corner involves all the systems in the car. This event might only last 1-2s, but we need to understand many factors to ensure the car behaves as we wish.
+
+
+The car has no ABS, and as we can witness during races, locking the wheels, usually the inside front, loses a driver significant time in the corner.
+
+
+The grip available in the tyres depends on tyre temperature and wear, the track conditions, and the downforce. The mass of the vehicle is not constant either due to the fuel consumption, which affects both the load on the tyres and the braking force required to decelerate.
+
+
+The effect of downforce on acceleration or deceleration of a racing car can be counter-intuitive, as the available grip, and hence acceleration or deceleration, increases with the square of velocity.
+
+
+While braking we are also changing down the gears. We might also harvest energy through the hybrid system. These, and any throttle applied, will affect the level of engine braking torque, which is applied only on the rear wheels.
+
+
+To support this rapid set of gear changes, we need to ensure the hydraulic systems has sufficient size, and remember that the same system supplies the power-steering, throttle, and DRS actuator, as well as gearbox and clutch.
+
+
+So far we have considered what affects the required force to decelerate the car; what affects the grip, or torque-capacity, of the tyres; and what affects the additional decelerating torque on the rear axle. We need a brake bias between front and rear, what this should be depends on all of these factors. Only by modelling the entire system and interactions do we get a full understanding of what the impact of each is, so we can consider it in the design and setup of the car.
+
+
+This is excluding the analysis of the braking system itself. There are dynamics between the driver applying the brake pedal and the calipers applying friction to the disk. The behaviour of the disks is dependent on the temperature, and so the dissipation of heat from the disks affects the braking event.
+
+
+The most widely used system modelling technology in F1 is Modelica. These scenarios, where all domains are interconnected, are ideal for Modelica as the complete system is solved as a single set of equations.
