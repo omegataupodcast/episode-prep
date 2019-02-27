@@ -7,48 +7,53 @@
 ------- CAUSES -------------
 
 * Structural Engineering. 
-  - art & science of molding Materials we do not fully understand; into Shapes we cannot
-	precisely analyze; to resist Forces we cannot accurately predict; all in
-	such a way that the society at large is given no reason to suspect the
+  - art & science of molding Materials we do not fully 
+    understand; into Shapes we cannot
+	precisely analyze; to resist Forces we cannot accurately 
+	 predict; all in
+	such a way that the society at large is given no reason  
+	to suspect the
 	extent of our ignorance.’
   - Sure it should be stable ...
   - ... but which other constraints apply? 
     . look nice
     . cheap
 
-* The role of design, simulation, prototyping, experience, "stories"
+* The role of design, simulation, prototyping, experience, 
+  "stories"
+  - standards
   - what are the safety factors/margins
   - what are the validatioon processes
   - no real opportunity for prototypes and testing. 
     ... but there are material/strength experiments, right?
 
 * Seven Types of Structural Failure
-  - Operations (maintenance) errors 
   - Design errors
   - Construction errors
   - Material deficiencies
+  - Operations (maintenance) errors 
+
+
   - Programming deficiencies
   - Site selection and site development errors
   - Fundamental errors in concept
     "requirements errors", wrong load assumptions
-    
-* Material specifics
-  - Steel
-  - Concrete
+
 
 * Bridges seem to be special: dynamic loads. 
   - other special aspects?
   - majority of failures are caused by external factors, 
     e.g., flood, scour, overloading, impact.
 
+
+    
+* Material specifics
+  - Steel
+  - Concrete
+
+
 * What are typical design errors?
 
-* What are typical construction errors?
-  - Using the materials wrongly?
-  - How is the "correct" use (from plan to building)
-    guaranteed/checked? 
-    - And is this relative to the criticality?
-    - where are more causes? design or construction?
 
 
 * How do you make a distinction between a genuine fate-related,
@@ -59,20 +64,32 @@
   - You can always ultimately blame everything on humans, obviously.
     ("autopilot failed, yes, but the pilots should have been able to cope bla bla")
     . Is the process wrong
-    . or do we make mistakes in the process. 
+    . or do we make mistakes in the process.  
+
+catch mistakes -> expect, complicated  
   
 * What are the causes of human mistakes?
-  - Anti-Authority: The rules don’t apply to me or to my special situation
-  - Impulsiveness: Hurry up! Let’s get it over with!
   - Macho: Let me show you how the big boys work
+  - Anti-Authority: The rules don’t apply to me or to my special 
+    situation
+  - Impulsiveness: Hurry up! Let’s get it over with!
   - Invulnerability: Only bad, stupid, or unlucky people make errors
   - Resignation: It doesn’t matter what I do
 
+forced to go around process
+
+medical
+person vs. org
+
   -> what about genuine errors? Unknown unknowns.
+
   -> what about being "blinded" by expertise?
   -> "trusting the computer"
   -> Organizational forgetfulness?
      does this relate to the 30 year cycle?
+  
+* Do computers/automation help, or introduce new/other risks?  
+  - produce too much confidence 
   
 * "Most failures occur due to trivial mistakes, generally lost in 
   the details, and often related to ‘boring’ tasks, e.g., dead load 
@@ -82,10 +99,36 @@
     Sean:   "Human error is unavoidable"
     Markus: "I disagree" :-)
 
-  
+* What are typical construction errors?
+  - Using the materials wrongly?
+  - How is the "correct" use (from plan to building)
+    guaranteed/checked? 
+    - And is this relative to the criticality?
+    - where are more causes? design or construction?  
     
-* Do computers/automation help, or introduce new/other risks?  
-  - produce too much confidence
+  
+  
+* Key things you can do in terms of failure prevention are not technical in nature.
+  - communication
+  - collaboration
+  - risk allocation
+  - control mechanisms. 
+  -> if we manage these human factors we will manage the  
+     technical causes of failure.
+  Markus: I am not sure. it just says that we have good tech, and now the
+  human is "bottleneck". And we can't make the process perfect, b/c we collide
+  with human nature.
+  In software, things are now so complex that it's increasingly "unfair" to 
+  put all onto the human and the process. More automation, more proofs are crucial.
+  
+* What can we do?
+  - We can't just increase safety factors because of weight, cost, etc.
+  - is there a certain level of problems that cannot be avoided?
+  - swiss cheese model, i35w
+  - is the current level "societally ok", so we don't have to improve
+    (compare ppl dying from car accidents)
+  
+  
   
 * Doesn't the NASA examples show that even highly structured, 
   regulated and professional orgs make mistakes? 
@@ -100,26 +143,9 @@
     contracts do this all the time in construction projects
   - is something wrong with the "professional ethics"?
   - At what point do we simply collide with human nature?
-  
-* What can we do?
-  - We can't just increase safety factors because of weight, cost, etc.
-  - is there a certain level of problems that cannot be avoided?
-  - swiss cheese model, i35w
-  - is the current level "societally ok", so we don't have to improve
-    (compare ppl dying from car accidents)
+
 
   
-* Key things you can do in terms of failure prevention are not technical in nature.
-  - communication
-  - collaboration
-  - risk allocation
-  - control mechanisms. 
-  -> if we manage these human factors we will manage the  technical causes of failure.
-  Markus: I am not sure. it just says that we have good tech, and now the
-  human is "bottleneck". And we can't make the process perfect, b/c we collide
-  with human nature.
-  In software, things are now so complex that it's increasingly "unfair" to 
-  put all onto the human and the process. More automation, more proofs are crucial.
 
 ------- FINDING OUT -------------
 
@@ -132,9 +158,22 @@
 * Activities
   - Preliminary investigation
   - Evidence collection 
+    -> assumptions?
+    during construction
+    simulate? tool,s models?
+    
+    . Computer modelling, finite element analysis, etc.
+    . use original plans or CAD files?
+    
   - Litigation support
+    -> standards?
   - Arbitration support
   - Expert witness services
+
+* Walk us through an investigation
+  - how long does FE take
+  - collab w other agencies?
+
 
 * Why not the regular engineer
   - jump to recommendations
@@ -144,20 +183,16 @@
     evidence."
   - wider range of failure hypotheses
 
-* Walk us through an investigation
-  - how long does FE take
-  - collab w other agencies?
  
 * Tools used by the FE
   - look at evidence
   - form hypo: 
-    . Computer modelling, finite element analysis, etc.
-    . use original plans or CAD files?
-  - experiments?
+   - experiments?
   
 * How do you "proof"? Matter of statistics?
 
 * Not many accidents seem to happen
+  - team?
   - are you busy :-) ?
   - What are the general, long-term trends? Are we making progress?    
 

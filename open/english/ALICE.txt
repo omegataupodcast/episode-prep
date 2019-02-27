@@ -1,0 +1,9 @@
+Two basic perspectives
+1) The science: what does ALICE do, how does this fit
+   with the standard model, and which "new science"  
+   are we hoping to find.
+2) How does the detector actually work. 
+I would like to talk about the first aspect relatively
+briefly (max. 30 minutes, maybe even before we enter
+ALICE) and then focus mostly on the second perspective.
+

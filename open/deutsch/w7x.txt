@@ -4,19 +4,12 @@ Note: we will record in English, despite the German list of questions below :-)
 
 Theory (Dr. Ralf Kleiber)
 -------------------------------------------
-* W7X: Wer steckt dahinter?
+* W7X: Who runs this?
 
 * Woher kommt der Name?
 
 * Der Stellarator
   - Grundsätzliche Idee
-  - Gemeinsamkeiten mit Tokamak (durchsprechen)
-    . Magnetfeld
-    . Heizung
-    . Kühlinfrastruktur
-    . Divertor
-    . Tritim brüten
-    . was noch?
   - Vor/Nachteile bzgl. Tokamak
     (Hintergrund: die Hörer kennen Tokamaks schon)
     - Vorteil: kontinuierlicher Betrieb
@@ -24,33 +17,88 @@ Theory (Dr. Ralf Kleiber)
     - Nachteil: komplexerer Aufbau ??
   - Zentrale Herausforderungen
   
-* Fusionsreaktionen
-  - Welche eignen sich prinzipiell für einen Stellarator?
-  - Warum zwei? 
-    . Wasserstoff-Isotope Deuterium und Tritium als Ausgangselemente
-    . Helium + Neutronen + kin. Energie als Produkte
-  - Welche wesentlichen Unterschiede bestehen zwischen dem fusionsfähigen
-    Plasma auf der Sonne und einem Reaktor auf der Erde?
-  - Vergleich der Energiedichte: Fusion, Kernspaltung, Kohle
-
+  - how do you calculate them?
+    . The shape was calculated in the '80s. If one would use 
+      today's computing power, would one get to the same result?
+  
 * The Model
-  - wie genau sieht das physikalische Modell des Plasmas aus?
-  - Wie genau sind die Vorgänge im Stellarator im Modell beschrieben?
-    . Gibt es viele Überraschungen?
-    . Was definiert die Grenzen des Modellierbaren?
-  - Welcher Zusammenhang besteht zwischen dem benutzten Modell und der
-    kinetischen Gastheorie?
-  - Welche Rolle spielen die Maxwell-Gleichungen in dem Modell?
+  - What is the relationship between the model and the
+    kinetic gas theory?
+  - what exactly does the physical model of the plasma look like?
+  - How exactly are the processes in the stellarator described by the model?
+    . Are there many surprises?
+    . What is the limits of what can be modeled?
+  - What role do the Maxwell equations play in the model?
+  
+  
+  
+* Fusionsreaktionen
+  - Which are suitable in principle for a stellarator?
+  - Warum zwei? 
+    . Hydrogen isotopes deuterium and tritium as starting elements
+    . helium + neutrons + kin. Energy as products
+  - What are the main differences between the 
+    Plasma on the sun and a reactor on earth?
+  - Comparison of energy density: fusion, nuclear fission, coal
 
-* Design/Auslegung der Form
-  - Wie erklärt sich die Bauform der Magnete?
-  - wie errechnet man die?
-    . Die Form wurde in den 80ern errechnet. Käme man mit der 
-      heutigen Rechenpower zum gleichen Ergebniss?
+
+* Design / layout of the form
+  - What explains the shape of the magnets?
 
 
 Experimental (Dr. Matthias Hirsch)
 ----------------------------------------
+
+  - Gemeinsamkeiten mit Tokamak (durchsprechen)
+    . "steam plant"
+    . magnetic fields
+    . plasma heating
+    . Divertor
+    . Tritim breeding
+    . was noch?
+    . size dependency -> the bigger the easier?
+
+
+* instabilities
+  - What are those?
+  - How does the problem of plasma instability differ 
+  from that of the Tokamak?
+  - Is there a control loop in the stellarator that counteracts 
+  the development of spontaneous plasma instability?
+
+* Betrieb
+  - What is actively controlled and monitored?
+    - vac
+    - cool
+    - mag current
+  - What "emergencies" are there, what rapid shutdown mechanisms?
+  - "Cleaning?"
+    (Energien, Pulsdauern, Temperaturen, Leistung)  
+
+  - how do you put something like this into operation step by step?
+
+
+* Konkrete Forschungsfragen  
+  - demonstrate good confinement of the optimized magnetic field 
+    and investigate particle transport under power plant-like conditions.
+  - heat the plasma with effective heating methods
+    . wie wird konkret geheizt?
+    . cooling?
+  - Develop methods to control the impurities/contamination of the plasma, 
+    and the transport of the impurities.
+  - reach beta values (ratio of plasma pressure to magnetic field pressure) 
+    of 4 to 5 percent and analyze the beta limit
+  - Demonstrate long-term or quasi-stationary operation
+  - Investigating plasma replenishment, particle control and plasma-wall 
+    interaction under continuous operating conditions
+  - Conduct Divertor studies
+  - Study, or utilization, of the bootstrap current
+
+* P.S. ask the lovely folks at W7X how they’re going to deal with alpha
+  particle confinement in stellarators ;)
+
+
+
 
 * Status
   - In Betrieb?
@@ -58,71 +106,46 @@ Experimental (Dr. Matthias Hirsch)
     . Burning Plasma? 
     . Net-Positive?
   - Vergleicht "Reifheit" mit ITER?
-  - wie spielt das mit den anderen Fusionsreaktoren zusammen?
 
-* Konkrete Forschungsfragen  
-  - guter Teilcheneinschluss des optimierten Magnetfeldes demonstrieren 
-    und den Teilchentransport unter kraftwerks-ähnlichen Bedingungen untersuchen
-  - das Plasma mit effektiven Heizmethoden erzeugen und aufheizen
-    . wie wird konkret geheizt?
-  - Methoden entwickeln, die Verunreinigung des Plasmas zu kontrollieren, 
-    und den Transport der Verunreinigungen untersuchen
-  - Beta-Werte (Verhältnis von Plasmadruck und Magnetfelddruck) von 4 bis 5 Prozent 
-    erreichen sowie das Beta-Limit analysieren
-  - Langzeit- bzw. quasi-stationären Betrieb demonstrieren
-  - Plasmanachfüllung, Teilchenkontrolle und Plasma-Wand-Wechselwirkung unter 
-    Dauerbetriebsbedingungen untersuchen
-  - Divertor-Studien betreiben
-  - Studie, bzw. Ausnutzung, des Bootstrap-Stroms
-  - Da in Greifswald kein fusionsfähiges Plasma erzeugt wird, wo genau
-    liegen die Grenzen des Experiments, was kann nicht gemessen werden?
+  - Erste Runde. Ziele? Erfolge?
+  - Zweite Runde. Ziele? Erfolge?
 
-* Instabilitäten
-  - Was ist das?
-  - Wie unterscheidet sich das Problem der Plasmainstabilität von dem beim
-    Tokamak?
-  - Gibt es beim Stellarator einen Regelkreis, der der Entwicklung spontaner
-    Plasmainstabilität entgegenwirkt?
+
+* wall material
+  - What part do neutrons play in the damage to the wall material?
+  - Assuming that no great progress is made in materials research in relation 
+    to wall material, how often would the material of a reactor of commercial 
+    size have to be exchanged?
+
+* What predictions, qualitative and quantitative, did the physical model 
+  make before the experiment was put into operation?
+  And which qualitative and quantitative deviations were detected and 
+  measured in the first measurement runs?
+
+
+* Herausforderungen beim Bau (FOrm!)
     
 * Diagnose des Plamsa 
   - Was?
   - Wie?    
 
-* Wandmaterial
-  - Welchen Anteil haben die Neutronen an der Schädigung des Wandmaterials?
-  - Unter der Voraussetzung dass in der Materialforschung bezogen auf das
-    Wandmaterial keine großen Fortschritte mehr gemacht werden, wie oft
-    müsste das Material eines Reaktors kommerzieller Größe getauscht werden?
 
-* Welche Vorhersagen, qualitativ als auch quantitativ, hat das
-  physikalische Modell vor Inbetriebnahme des Experiments gemacht? Und
-  welche qualitativen und quantitativen Abweichungen wurden in den ersten
-  Messläufen festgestellt und gemessen?
-
-* P.S. ask the lovely folks at W7X how they’re going to deal with alpha
-  particle confinement in stellarators ;)
-
-* Herausforderungen beim Bau (FOrm!)
-  
-* Betrieb
-  - Was wird aktiv geregelt und gemonitort?
-  - Welche "Notfälle" gibt es, welche Schnellabschalt-Einrichtungen?
-  - wie nimmt man sowas schrittweise in Betrieb?
-  - "Reinigung?"
-  - Erste Runde. Ziele? Erfolge?
-  - Zweite Runde. Ziele? Erfolge?
-    (Energien, Pulsdauern, Temperaturen, Leistung)  
+  - Since no fusionable plasma is produced in Greifswald, where exactly are 
+    the limits of the experiment, what cannot be measured?
+  - wie spielt das mit den anderen Fusionsreaktoren zusammen?
 
 * Beyond Wendelstein
-  - Wenn das Experiment in Greifswald abgeschlossen ist, und keine größeren
-    Überraschungen auftauchen, ließe sich damit technisch ein Reaktor mit
-    Netto-Leistungsgewinn konzipieren?
-  - Wie ist die Aussicht auf einen Demonstrationsreaktor vom Typ
-    Stellarator? Sowohl vom Stand der technischen Entwicklung, verglichen
-    mit dem Tokamak, als auch vom „politischen“ Standpunkt aus?
-  - Welches sind die größten physikalischen oder materialtechnischen
-    Probleme der Stellaratorforschung?
-  - Andere Stellaratoren?
+  - When the experiment is completed in Greifswald, and no larger
+    surprises emerge, would it be technically feasible to build a reactor 
+    with net energy output?
+  - What is the prospect of a demonstration reactor of the type
+    Stellarator? Both from the state of technical development, compared
+    with the Tokamak, as well as from the "political" point of view?
+  - Which are the largest physical or material-engineering
+    Problems of stellarator research?
+  - Other stellarators?
+  
+WOrt zum Sonntag
   
   
   

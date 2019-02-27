@@ -7,6 +7,8 @@
   - Observation from aircraft Ball/Eye
   - plus ground-based and ship-based radars (Dane, Judy)
 
+  where did names come from?
+  
 * Aircraft
   - RC-135S Cobra Ball
     . The Cobra Ball monitors missile-associated signals and 
@@ -18,28 +20,13 @@
     . the "towel rails" suggest other kinds of sensors.
   - Ball/Eye Differences?
     . how different?
+    . how many?
     . saw pics with the original low bypass 
       engines and with the R engines. Why?
     . Wing painted black
   - Crew structure in the back in the back
   - Quick overview over the other RC-135 variants
 
-* Mission
-  - Alerting - how much warning?
-    . what was the trigger for the launch?
-      How did you know that "something was coming"?
-    . what happens then? Mission Walkthrough.
-    . radio silence?
-  - Where was the collecting area, how long to get there from Shemya
-  - How you know when exactly to be where to record the reentry?
-  - Mission Timing and Precision ("feet and seconds") - why?
-  - What exactly is the goal? Size? Shape? Speed? Location?
-  - Tuna patrols.
-  - How long were the missions?
-  - How close did you get to the USSR?
-  - Why two Navs 
-  - How did you navigate? Was before GPS, right?
-  - Refuelling?
   - A bit of history on this mission 1960s
     . Nancy Rae
     . Wanda Belle -> Rivet Ball 
@@ -48,10 +35,9 @@
     . Lisa Ann - break up b/c of large radar?
       Extra engine under the wing for powering radar
       no crew contact to cockpit - b/c of radiation of radar.
-      lead.
-  - Today? Satellites?
-  
-* Shemya
+      lead.      
+    
+    
   - Where? Aleutian Islands
     Island twice as long as rwy :-)
   - A/c rotation into/out of Shemya <-> Eielson
@@ -60,18 +46,54 @@
     . what if the weather is too bad to land?
   - Weather, and Landing Challenges
     . 70mph winds + fog
+    . Short -> Precise
+
+    . ILS?
+    . support from ground
+
+    . wind shear - how do you know?
+    . "Navy arrival" instead of soft landing :-)
+
     . What did you do when the weather was bad at Shemya
       when you returned from a mission?
-    . wind shear - how do you know?
-    . ILS?
-    . Short -> Precise
-    . "Navy arrival" instead of soft landing :-)
-  - Crew selection
   - Life there
     . grocery shopping
     . what do you do there?
     . supply flights?
+  many ppl?  
+  - Crew selection
   - Practice/Flight Training
+      
+      
+
+* Mission
+  - Alerting - how much warning?
+    . what was the trigger for the launch?
+      How did you know that "something was coming"?
+    . what happens then? Mission Walkthrough.
+    . radio silence?
+
+  - Where was the collecting area, how long to get there from Shemya
+  - How close did you get to the USSR?
+  - Tuna patrols.
+
+  - Refuelling? Tankers?
+  - How you know when exactly to be where to record the reentry?
+  - Mission Timing and Precision ("feet and seconds") - why?
+  - How long were the missions?
+
+  were you intercepted?
+  - tanker for return
+  - What exactly is the goal? Size? Shape? Speed? Location?
+  - Why two Navs 
+  - How did you navigate? Was before GPS, right?
+
+  - Today? Satellites?
+    a/c still operating?
   
+* Shemya
+
 * What else did you fly over the years?
   Anecdotes.
+* still flying today?
+boook
