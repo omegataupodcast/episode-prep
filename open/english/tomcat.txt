@@ -1,12 +1,14 @@
 * Structure
   - Swing Wings
   - Wing box, pivot
+    Did that require lots of maintenance?
   - Twin Tails
   
 * Systems
   - Engines 
 	. Movable inlet ramps?
     . Tom Cruise Stall :-)
+    . Differences between TF30 and F110 very important?
   - Radar
   - which others are remarkable?
   
@@ -19,6 +21,15 @@
   - Wing sweep operation?
   - High speed handling
   - Low speed handling
+  - One Engine Flying?
+  - Ever thought about a one-wing landing like that famous F-15?
+    (does the 14 have differential elevators?)
+  - Glove vanes 
+    . what was their purpose? 
+    . Why were they removed? 
+    . What difference in performance if any did you notice? 
+  
+* How good was it, really, in BVM? 
 
 * Weapons
   - Sidewinder
@@ -36,3 +47,15 @@
 
 * Missions & Anecdotes
   - 
+  
+* Why is the 14 better than the 15 (ducks away :-))
+
+
+
+* History
+  - development timeline
+  - which other countries considered the F-14?
+    it woudl have been a good fit for the UK, Nick Anderson said.
+  - What prompted the retirement?
+    just too expensive?
+    or did the requirements change to favour the F-18?
