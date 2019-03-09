@@ -1,3 +1,40 @@
+----- NICK ----------------------------------------
+
+
+* Tomcat’s origins
+  - requirements
+  - competitors?
+  - development timeline
+  - Listener Q: If I recall it took around 3 years to go from basic sketch to first flight for 
+    the F-14. What was it about engineering back then that made development faster ? 
+    I thought computers were supposed to speed us up.. ?
+
+* Introduction into the fleet
+
+* Early Missions
+
+* which other countries considered the F-14?
+  - it woudl have been a good fit for the UK, Nick Anderson said.
+  - Why did the USAF not use the F14 (or more air forces for that matter). 
+
+* Later Missions: 
+  - Bombcat
+  - TARPS
+
+* Some “myths”
+  - Why is this aircraft so much of a cult? Is it really because of Top Gun?
+  
+* What prompted the retirement?
+  - just too expensive?
+  - or did the requirements change to favour the F-18? 
+  - There seems no real replacement for the F-14/AIM-54 combination. 
+    So could you argue, that the F-14 in its pure Fleet Defender role would
+    still be superior to the F-18 ? 
+    
+    
+
+----- OKIE ----------------------------------------
+
 * Structure
   - Swing Wings
   - Wing box, pivot
@@ -43,6 +80,13 @@
   - What was the optimal sweep for air-to-air?
   - Did you adjust the wings in a dogfight? 
 
+* Missions  
+  - Interception
+  - Fleet Defense
+  - later: Bombing
+  - later: TARPS
+
+
 * Weapons
   - Sidewinder
   - Sparrow
@@ -62,20 +106,3 @@
 * Why is the 14 better than the 15 (ducks away :-))
 
 
---------------
-
-* History
-  - development timeline
-  - which other countries considered the F-14?
-    it woudl have been a good fit for the UK, Nick Anderson said.
-  - What prompted the retirement?
-    just too expensive?
-    or did the requirements change to favour the F-18? 
-  - From Tomcat to Bombcat
-    . As the F14 took more of an attack role, did they upgrade the radar?  
-  - TARPS
-  - Why did the USAF not use the F14 (or more air forces for that matter). 
-  - There seems no real replacement for the F-14/AIM-54 combination. 
-    So could you argue, that the F-14 in its pure Fleet Defender role would
-    still be superior to the F-18 ? 
-  - Why is this aircraft so much of a cult? Is it really because of Top Gun?

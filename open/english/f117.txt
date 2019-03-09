@@ -1,0 +1,60 @@
+A bit in the same line as Mathias (first commenter): it would be interesting to hear about what it takes to keep something as obvious as flying airplanes secret. Both in terms of procedures, cover-stories and facilitites (a whole episode on the history of the Groom Lake facility, someday? Pretty Please..... :-) ). Not just from casual observers, but in terms of other traffic, ATC, spy satellites, etc.
+I was going to recommend the Ben Rich book, but of course you had already read it, Marcus. Tell me, are there any books that you HAVEN'T read ?
+
+https://www.sealevel.com/2010/04/28/harold-hal-farley-and-the-f-117/
+http://www.aerotechnews.com/blog/2017/04/07/out-of-the-black-f-117a-test-pilots-share-experiences/
+
+https://de.m.wikipedia.org/wiki/MBB_Lampyridae
+
+ There is a great book written by the creator of the F-117, Ben R Rich, and its named ”Skunk Works”. Ben took over Skunk Works after Kelly and the F-117 was his major project. The book is facinating and covers much more than just the F117, if I remember correctly the SR-71 was actually supposed to be called the RS-71 but due to a DoD typo they had to change the name which meant an update to all manuals and blueprints for the plane (I think thats how the story goes). Anyway, I think that would be a good read before hand.
+I would like to know how they tested stealth air-to-air. Did they use different platforms, and if so, which once? Were the Migs that the USAF possesed at the time involved in the testing? How close to the Have Blue concept was the F117 in terms of testing? Did they ever try any type of dog fighting with the F117 and what were the plans if they as a matter of fact had to engage with another airplane? As a fly-by-wire airplane, did the F117 have different ”laws” like the Airbus? 
+Looking forward to this episode! Great to know that some aviation content is coming up!
+
+Taking from the comments in the F15 episode, were any missions (even training, non combat) ever flown a lot "by hand" or was it always primarily about careful planning of the route to minimise exposure in the first place and pilot's role was more about following the plan?
+
+A question I always wanted to ask these guys: How much do they enjoy the cat and mouse play with the enthusiasts and public which try to find out something about those top secret projects, the wild analysis of blurred photos from some "First sightings", and all rumors, etc.. while they know the facts.
+
+ I'd love to hear about the compromises made for stealth and how they effect the flight characteristics.
+ 
+ Also, if we're concentrating on testing - were there any particularly "sticky" (ie risky/unpleasant) corners of the flight envelope (as there were on the SR-71)?
+ 
+ It would be interesting to know how they balanced minimising the radar cross section of the aircraft with the level of fly by wire tech required to make it actually fly. Is it basically the best stealth facet design and then make it work in the air or work backwards from the extreme to get a balance? 
+I would also like to hear about the process they went through making sure the solution would perform as expected before letting a human loose on it. CFD, wind tunnel, simulation etc.
+
+•Being a single seater with such an unusual design, how did the pilots prepare to fly it? If they had simulators, how did they know that they could match the flight characteristics with the unproven design of the real plane?
+•Where do you actually start when testing such a new concept/design for the first time? Nearly every other plane previously had been a derivative of the proven concept of a rounded fuselage with teardrop profile wings, but the F-117 with its faceted body/wings must have been a real challenge.
+
+Is their any fallback if „the computer“ crashes? I heared that this thing is only stable due to its processing power. Could you fly without (due to fly by wire I don’t think so)
+
+s the stealth-Technik (weiß gerade nicht wie Technik auf englisch geschrieben wird) also protecting the plane from above?
+
+if possible having some info regarding have blue/senior trend would be nice.
+
+Is flighttesting the same as other planes, or something completely different due to the stealth abilities? Or FbW? How pleased is the interviewpartner with the name F-..., instead of B-...what it really is?
+
+Oh, and Something something Area 51. *x-files theme starts playing* Even the " have blue" testbed on wikipedia is shown on Area 51.
+
+My question: was it ever painted any other colour due to a change of mission i.e. daylight operations - or was it only ever employed at night. Being so slow I assume daylight ops were unheard of despite stealth
+
+Sorry - I have another question: During the Gulf War I it was often stated that this aircraft would hit the target and be long gone before the enemy knew they were there - did it ever get caught up in the heavy flak over Baghdad by bad luck or target designation by the enemy?
+
+Not really about flight testing but I read a story (in a Skunk Works book I've forgotten the title of) that said when a model of this plane was being tested on a radar range initially the radar operators thought something was wrong bc they couldn't see it on radar. Then...
+
+...a large bird landed on top of the model which increased it's radar echo dramatically. My question is did something like that actually happen?
+
+Engine Cooling and Exhaust heat distribution system
+Is the engine inlet design prune to engine stalls. How much work has been put here. 
+
+Did the plane have its on laserdesignator and/or “targeting pod” device?
+
+Why was this called an F when it was clearly a B?
+
+How was flight testing different from non-square and angular aircraft? Where there any surprises not anticipated in simulation and modelling?
+
+Are the new stealth fighters really just as stealthy as the F-117 ? I know that faster computers refine the process but I still find it hard to believe that such a conventional shape like the F22 is just as stealth as this.
+
+wobbly gobblin
+
+flight test at night?
+f-19?
+when did "Nighthawk" come up?
