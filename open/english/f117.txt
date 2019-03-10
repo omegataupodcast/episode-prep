@@ -2,149 +2,202 @@ https://www.sealevel.com/2010/04/28/harold-hal-farley-and-the-f-117/
 http://www.aerotechnews.com/blog/2017/04/07/out-of-the-black-f-117a-test-pilots-share-experiences/
 
 
-* Intro Hal
+---------- HAL ------------------------
 
-* Skunk Works!
- 
+* Introduction Hal Farley
+
+* a bit about your career
+  - Lockheed test pilot, not AF
+  - buf AF history?
+  - did you go through the TPS?
+  - Grumman before. F-14
+  
+
+--------- The airplane ---------------
+
+* Developed by Skunk Works!
+  - a bit about the Skunk Works
+  - under Ben Rich, not Kelly Johnson
+
 * Describe the aircraft (I assume everyone has seen it)
   - very very delta
-  - v tail
-  - two engines
+  - V tail
+  - two engines (F404, like F-18)
   - faceted
+  - Size ca. like an F-15
+
+* how did you react when you saw it first :-) ?
+
+* what was the cockpit like? 
+  - Steam Gauges or screens?
+  - I think I have seen both?
+
 
 * Brief history of stealth
-  - wasn't invented by Skunk Works, was it?
-  - I think I remember something about Russia?
+  - Russia: Pyotr Ufimtsev
+  - wasn't invented by Skunk Works, was it? 
+  - But: Denys Overholser
   - https://de.m.wikipedia.org/wiki/MBB_Lampyridae
-  
-* What was the timeline
-  - start of dev
-  - flight testing
-  - intro to service
-  - end   
+  - trick 1: deflect away
+    . no 90 degrees ("cats eyes")
+    . leading edge > 50 deg
+  - trick 2: absorb
+  - works for monostatic radars; 
+    Passive (multistatic) radar, bistatic radar and especially multistatic 
+    radar systems can detect stealth aircraft
 
 * Which components were taken from other airplanes?
   - FBW F-16
-  - No chance it would continue flying w/o computers (like F-16)
-
-
-* Where did the name come from?
-  - why F and not B?
-  - why 117?
-  - when did "Nighthawk" come up? I think that was not an initial name, was it?
- 
-
-
-* Secrecy during development, test, and early ops
-  - procedures, cover-stories and facilitites 
-  - initial pictures that made the sweep look less
-  - night flying
-  - "satellite evasion"?
-  - ATC?
-  - Area 51
-  - Groom Lake
-  - Did you guys laugh about all the silly rumors?
-    F-19? UFOs?
-  - wobbly gobblin
-
-
+    . But it has a "real" stick :-)
+    . "Reprogrammed"?
+    . Does it have (degradation) laws in case of partial failures, 
+      like the Airbus?
+  - what other components have been "stolen"?
+  
 * Development History
+  - hopeless diamond
   - Senior Trend
   - Have Blue
   - What else?
 
+* Where did the name come from?
+  - why F and not B?
+  - why 117?
+  - when did "Nighthawk" come up? 
+    I think that was not an initial name, was it?
+ 
+ 
+--------- Flight Testing ---------------
+
+* What was the timeline
+  - start of dev in the 70s
+  - 81 flight testing
+  - 83 intro to service
+  - 2008 End of Service
+
+* How did you become "first flight" pilot?
+  - background/experience
+  - There were colleagues in your team, right? 
+    Morgenstern, Ferguson
+
+    
+* Secrecy during development, test, and early ops
+  - initial pictures that made the sweep look less
+  - procedures, cover-stories and facilitites 
+    . At Area 51, Groom Lake. 
+    . did testing happen at night?
+    . "satellite evasion"?
+    . What did you tell ATC?
+  - Did you guys laugh about all the silly rumors?
+    F-19? UFOs?
+
+* How did the design balance RCS vs. flight characteristics? 
+  - Was it really a compromise?
+    . To some degree it was, otherwise they'd just build a sphere.
+  -  what other constraints on the design beyond shape?
+    . engine inlet grids: enough air? What about engine stalls?
+    . flat exhausts: how did this affect engine cooling?
+
+
 * Stealth Testing
-  - the pole 
+  - The pole 
     . operators thought the system was broken b/c nothing visible
     . ... then a bird landed on it, and it lit up
     . did this actually happen :-) ?
-  - in the air?
-  - air-to-air?
   - stealthiness from all directions? also above?
+  - In-flight testing
+    . ground to air?
+    . air-to-air?
   - how much smaller was the RCS?
-    . compare to something f-16 or whatever?
+    . compare to something F-16 or whatever?
     . doesn't have to be zero to be useful
-
-* Do we know something about the relative stealthiness of the 
-  F-117, B-2, F-22 and F-35? 
-  
-* Radar reflectors for flying in "normal" airspace?  
-  
     
-* Did you ever try any air-to-air (dog) fighting?
-  - never carried a2a weapons, right?
+* First flight
+  - How much simulation before the first flight
+    CFD, Wind Tunnel, Sim
+  - single seater: was there a sim for you to familiarize yourself with the a/c?
+  - talk about the first flight.
+    . take-off w/o ADC, bit lead in nose 
+    . yawing problem -> turn on ADC earlier
+    . fins too small -> 50% bigger fins
+    . tailpipe overheat -> 15 minutes flight
+    . canopy open light
+  - visibility in cockpit?  
 
-* The flight control system
-  - taken from F-16?
-  - "Reprogrammed"?
-  - Different (degradation) laws, like the Airbus?
-  
-* Missions
-  - pre-planning vs. "improvisation"?
-  - How much was automated, did the pilot do much?
-  - More like flying an airliner?
-  
 * Flight Characteristics
+  - unstable pitch + yaw
   - it's one thing to add artificial stability through a FBW system,
-  - but you can't FBW-away turbulence and stuff from a "bad" shape.
+    . but you can't FBW-away turbulence and stuff from a "bad" shape.
   - How did it handle? 
     . speeds
     . AoA range
     . "agility"?
   - Were there unpleasant corners of the envelope?
   - Was it efficient (power to speed or something? probably not very)
+  - tuned: feels like a normal airplane
+  - Where did the name Wobbly Gobblin come from?
+  - And Stinkbug :-) ?
+  - How did the other low observability characteristics (grids on intakes,
+    flat exhausts) affect the flight characteristics?
 
-* How did the design balance RCS vs. flight characteristics? 
-  - Was it really a compromise?
-  - To some degree it was, otherwise they'd just build a sphere.
-  - what other constraints on the design?
-    - engine inlet grids
-    - flat exhausts
-    - how did this affect engine cooling?
-    - enough air? What about engine stalls?
 
-* How did the other low observability characteristics (grids on intakes,
-  flat exhausts) affect the flight characteristics?
-
-* First flight(s)
-  - how much simulation before the first flight
-    CFD, Wind Tunnel, Sim
-  - single seater: was there a sim for you to familiarize yourself with the a/c?
-  - talk about the first flight.
-  - Envelope expansion
+* Flight Testing
+  - Envelope expansion steps
+  - cooperation in testing between company and air force
   - At what point was testing handed over to the AF?
   - What was your involvement after handover?
   - was the test programme more expansive because the a/c was so 
     different from past experience?
-  - timeline
-  - surprises?
 
-* How did you get to be the person to test this airplane?    
-  - background/experience
+* Do we know something about the relative stealthiness of the 
+  F-117, B-2, F-22 and F-35? 
   
-* Weapons Sensors
-  - FLIR, DLIR
+* Radar reflectors for flying in "normal" airspace?  
+  
+* Did you ever even try any air-to-air (dog) fighting?
+  - never carried a2a weapons, right?
+
+
+------------- MISSIONS ---------------------------
+
+* Weapons/Sensors
+  - Nav: GPS + Inertial
+  - FLIR, DLIR, no radar
   - Self-designation vs. 3rd party?
   - Weapons: basically LGBs, right?
+ 
   
-* Rumors of recent use?  
-  
-* What did you do after your F-117 time?
+* Operational flying from Tonopah, later Holloman
+  - what prompted the move?
   
 * Missions
+  - typical profile?
+  - Air refuelling critical for missions, right?
+  - pre-planning vs. "improvisation"?
+  - How much was automated, did the pilot do much?
+  - More like flying an airliner?
+  
+* Operational Use
   - (I think) Panama
   - 1990s Gulf War
   - what else is publicly known?
   - did it ever fly during daylight?
-  - I think one was shot down above Bosnia. 
-    What do we know about this?
-    How/why did Stealth "fail"?
+  - One was shot down above Bosnia. 
+    . What do we know about this?
+    . How/why did Stealth "fail"?
+ 
   
-  
+------------- OUTRO ---------------------------
 
+* Rumors of recent use?  
 
+* What did you do after your F-117 time? 
+  - F-22 & F-35 first flight by others?
+  - but you did fly them, right?
 
-
+* Flying/testing the F--17 important. But Was it fun? 
+  - Is the aircraft fun to fly?
+  - Looking back, what airplane did you enjoy most?
 
 
 
