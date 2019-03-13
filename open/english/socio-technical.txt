@@ -132,41 +132,56 @@ Part 1: Intro and background
  
 * The grid as an example
   - a way of approaching: self-regulating, the 50Hz, the dampfventil
+  
 
 * Are markets the solution?
+- Markets are "societal technology" They  ae not a natural phenomenon. Like all technology, sometimes they work, and sometimes they fail spectacularly.
+- especially when they are tied to large interests that lobbies the governments, like healthcare in the US.
+- markets are often the problem, as ideology dominates reality. E.g. see excessive privatisation "because makets are awesome" in  infrastructures where natural monopolies exists, e.g. train network in the UK.
+- Markets have to be designed to match the physical aspects of the system, and the desired goal. Sometimes we get the market right, more often we get them wrong. See CO2 market.
+- Energy only markets ( where there is no way to pay for energy storage) can not deliver 100% renewables, see our upcoming paper Kraan et al. 
 
 * You seem to work a lot on energy, climate and the grid. Why?
   - Infra part of infrastructure is key. Is the the thing that is "under" eveything. 
     It is the big, slow, boring stuff that nobody wants to talk about, but 
     absolutely everything depends on it.
+    - Very lage path dependency, and thus very large effect on future.
 
 * What exactly then is the research question?
   - How to we shape, steer and garden socio-technical systems towards 
     sustainability? By providing  solid, scientific  model-based decision 
     support to stakeholders when taking discrete decision that have very 
     large and long term impacts on the world.
+   - What is the role of models in paticipative decision making proceses? And how can "qunantitative story telling" help us reach the necessary tough decision to get a more sustainable world?
  
  
 ------------
 Part 2: Modelling and tools
 -----------
+Preamble : We are in a very different world of modelling that  natual and technical sciences. Models there are about using first principles to derive prerdictions about the world that can be verified expeimentally. In our world, wher thee are no laws of nature, only socially constucted and self-referential systems, it is about making models taht helps people get insigh into their own understanding of the world, and we constantly replace the models as we get better and bette insights. A good model is one that you throw out as fast as possible.  
 
 * Semantic web
+- One of the many ways to encode knowledge, very useful bu 99.999% of humans do not get it, and is thus "useless" in social pocesses.
 
 * Agents
   - how do you know which basic rules to give to them
     or which space of rules
+  - You can never know what is the right set of rules, given the incosistency problem of social sciences, and, since we are mainly concened in representing the stakeholders beliefs about the world, the hey is, are the rules recogniseable to them?
+  - "Hey, if you believe the social world works like this, and given the physical models of reality that the social system is interacting with, what are possibel futures? " Ah, you dont like how possibilities look like, ok, which part of decision making do we need to look into moe closely?  
 
 * How do you know what to include
   - perspectives
   - resources
   - rules
+  - "Model a problem, not a system" and "All models are wrong, some ae useful.
+  - You do not know for sure, as all of this is negotiated knowledge in the participatoy prorcess. The goal is to make a "least wong, most useful model" fo the poblem at hand, which is understandeable and acceptable by the stakeholder.
 
 * What kinds of rules and formlisms?
   - if-then-else?
   - state machines?
   - linear equations?
   - what else? DGLs?
+  - All oof thse, + bayesien belif networks, MCDA, optimizations, anything that makes sense to the stakehodele that you are modelling.
   
 * Def of intractability: 
   - can't "jump" into the future, you have to go there  
@@ -175,15 +190,20 @@ Part 2: Modelling and tools
   - then look at patterns.  
   - how do you know when to stop running it?
   - sensitivity analysis, parameter variation
+  - Uncertainty is king: Not just paametric uncetainty, but also deep structual uncertainty. What is the right model of the individual? What is the effect of alternative narratives about the world? This is a great way to remove a vey important isk in social processes : we don not have to agree on who is right, we just test both plausible naratives. See http://simulation.tbm.tudelft.nl/ema-workbench/contents.html
 
 * How do you know a simulation is
-  - correct
-  - reliable/trustworthy to X%
-  - is there any notion of "proof"?
-  - Problem of the unknown unknowns
+  - correct -> obsessive verification !
+  - reliable/trustworthy to X% - Yo dont, becasue it is not.
+  - is there any notion of "proof"? - The goal of modelling is insight, not numbers. In socio-technical domain models ae are impactful/useful  are self-invalidating. 
+  - Very often it is the modelling process that brigs the greratest value.
+  - Problem of the unknown unknowns -> these you can not solve with modelling, but through deliberation about reality, using models.
 
  
 * What is milti-modeling?
+- Technical model + social models. Each model is a speciffic cimplification of reality, based on aspeciffic language. If we are to capture complexity, then Ashby's aw of requisite vaety must be respected, and we need a multitude of models, from various perspectives.
+- Separation of concerns, reuse of model building blocks.
+- notion of mulit-model ecologies.
 
 * Examples. 
   - CO2 trading
@@ -198,9 +218,14 @@ Part 3: Insights
 -----------
 
 * Insights: how do you grow a sustainable socio-technical system
+- you take an explicit normative stance
+- try to collect evidence and  model / explore the impacts of your desired actiopns to try avoid the onbvious and not so obious stpid actions
+and than just do it.
 
 * Bottom up 
   - how do you define the "botton up" rules?
+  - "emergence endineering" Satisficing, and not optimising. 
+  - 
 
 * Fail gracefully  
   - meaning? many small experiments?
@@ -223,6 +248,9 @@ Part 3: Insights
   In the sense that even though it is supposed to be 
   neutral and objective it depends on the rules 
   (data) we use for evolving (learning)?
+  - NN are a simplified abstraction about how brain mihgt work. GA's ae explicit and  simplified models  of evolutionary pocesses.
+  - ML is patten maching, evolution is patten generation, so two sides of the same coin.
+  - you can think of NNs as a universes way to understand itself
 
 * Relationship to technikfolgenabschätzung?
 
