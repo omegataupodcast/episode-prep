@@ -1,4 +1,4 @@
-Two basic perspectives
+	Two basic perspectives
 1) The science: what does ALICE do, how does this fit
    with the standard model, and which "new science"  
    are we hoping to find.
@@ -6,4 +6,72 @@ Two basic perspectives
 I would like to talk about the first aspect relatively
 briefly (max. 30 minutes, maybe even before we enter
 ALICE) and then focus mostly on the second perspective.
+
+https://en.wikipedia.org/wiki/ALICE_experiment
+https://cerncourier.com/alice-revitalised/
+https://scilogs.spektrum.de/formbar/iter-aktualisierter-forschungsplan/
+
+
+
+1
+
+* Quark Gluon Plasma
+* How is this interesting? Rel to Big Bang
+* Quantum Chromodynamics
+* ultrarelativistic collisions
+* phase transition
+* Lead ions are accelerated to more than 99.9999% of the speed of light and collisions at the LHC are 100 times more energetic than those of protons
+* temperature almost 100,000 times higher than the temperature in the core of the sun.
+* Lead Proton Collisions
+
+2
+
+* LHC vs. Experiments
+* Construction History
+* Size/Weight Detector
+* Size of the ALICE org
+
+"relies on being able to identify all of them, i.e. to determine if they
+are electrons, photons, pions, etc. and to determine their charge"
+
+* What kinds of particles?
+* How many particles can be recorded
+* What is being recorded about each of them?
+* How much "realtime" is necessary?
+
+* characteristic signatures they leave in the detector.
+
+* Subsystems / Detector Layers
+  - first a tracking system
+  - then an electromagnetic (EM) 
+  - adronic calorimeter
+  - a muon system.
+  
+* Embedded in Mag Field .5 Tesla produced by a huge magnetic solenoid bending 
+  - Momentum
+  - Charge
+  
+* But: not suitable for hadron identification as it doesn't allow
+distinguishing the different charged hadrons that are produced in Pb-Pb
+collisions.
+
+* Inner Tracking System
+  - Silicon Pixel Detector(SPD)
+  - Silicon Drift Detector(SDD)
+  - Silicon Strip Detector(SSD)
+  - Time Projection Chamber(TPC)
+  - Transition Radiation Detector(TRD) 
+  
+"eavy quarks (charm and beauty) can be identified by reconstructing the
+coordinates at which they decay." (b/c positon is time)
+  
+* Precision? 
+  - What level?
+  - Which dimensions? Position?
+    "fraction of a mill"
+  - Why is this necessary?
+
+* What is being done during the current upgrade?
+
+* The role of statistics: many experiements to resolve the data
 
