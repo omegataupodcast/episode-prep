@@ -1,0 +1,56 @@
+* Overview over the control system
+  - it's a big systems & software engineering problem
+    for communication, control loops, safety, etc.
+  - optical path, enclosure, cooling, instruments
+  - But we will focus on the optical path
+  
+* Overview over the 5-mirror optical path
+
+* Which aspects have to be controlled
+  (and which aberrations are there to control)
+  - main mirror segments
+  - alignment of the path itself
+  - adaptive optics
+  
+* Generally, what is the approach to the control of the optical path?
+  - Can the quality be derived from the image, or are special sensors 
+    needed?  
+  - phasing and diagnostic station
+
+* Is wavefront detection for the AO part of the control, or is this a system 
+  that runs "on top of" an aligned telescope?
+  Or is this "the end" of the calibration?
+  
+* The role of the M-ELT in all this
+  - what is it
+  - limitations compared to "real" system
+  - How do you artificially create the distortions?
+  
+* MAIN PART: Which error comes from which component
+  - M1 active control
+    . Edge sensors
+    . Scalloping on M1  
+  - M1 phasing measurement 
+    . segment capture
+    . stacking
+    . coherenceing
+  - Blind slew performance characterization
+  - M1 scalloping measurement
+  - M2 active control functions characterization
+  - M3 active control functions characterization
+  - M4 response (static and dynamic)
+  - M4 phasing
+  - M5 response (static and dynamic)
+  - Stroke management and offloading schemes (M4, M5, main axis)
+  - SCAO + control handover (cascade, sequential)
+  - SCAO performance (characterization of M4-5 latency, pupil motion, CCS I/F, ...)
+  - Verification of field/pupil stabilization, including low order AO for wind correction
+  - Seeing-limited performance plus acquisition sequence (pointing, focus correction)
+  - Offsetting/nodding
+  - Non-sidereal tracking performance
+  - LGS pointing and field/pupil tracking validation
+  - LGS performance characterization (jitter, instantaneous PSF, return 
+    flux at Nasmyth, elongation, LGS scattering, ...)
+
+
+
