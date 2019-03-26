@@ -32,6 +32,10 @@ Fasern und Harze - Hexcel
   - Recycling ein Thema?
   - Thermoplast: Geringere Zykluszeiten (z.B. Einsatz von Organoblechen) im Vergleich zu Duroplasten -> Kostensenkung/ Thema in der Luftfahrt?
 
+* Physikalische Eigenschaften
+ - Dichte, E-Modul, Streckgrenze, etc.
+ - Robustheit gegen 'unsachgemäße' Beanspruchung, z.B. Torsion, Biegung
+ - Wie verhält sich das Material bei Versagen (Crack propagation?, sofortiger Totalschaden?)?
 
 DLR
 ---------------------------------------------------------
