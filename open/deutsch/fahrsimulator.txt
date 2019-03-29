@@ -1,0 +1,43 @@
+* Welche Fragestellungen werden mit dem Simulator adressiert
+  - Fahrdynamik
+    . was heißt das?
+    . welche Aspekte sind da relevant?
+    . Beispiele (aus der Vergangenheit)
+  - Autonomes Fahren?
+    . reagiert das Auto richtig?
+    . reagiert der Fahrer richtig auf das (nciht) reagierende Auto?
+
+* Historische Entwicklung der Simulatoren bei Daimler
+    
+* Aspekte einer Kampagne
+  - Fragestellung
+  - Psychologen
+    . weiß man, ob die Probanden wirklich glauben,
+      in einem echten Fahrzeug zu sitzen?
+  - Szenariodesign
+    (hier können wir ruhig auch ein bisschen ins Detail)
+  - Fahren
+    . wer sind die Probanden?
+  - Auswerten   
+    
+* Der Simulator
+  - Bewegungssystem
+    . Hexapod (elektrisch + pneumatisch)
+    . Linear (konfigurierbare Richtung)
+    . Geschwindigkeiten + Kräfte
+  - Visualisierung
+    . 360 grad
+    . wie realistisch?
+  - Kabine + Fahrerfeedback
+    . austauschbar
+    . welche arten von kabinen?
+    . von der serie?
+    . wie werden lenkkräfte etc. simuliert?
+  - Regelungssoftware
+    . wie entwickelt?
+  - Scenario-Software 
+    . beschreibung von szenarien
+    . detaillierungsgrad
+    . deteministisch vs. emerging
+ 
+ 
