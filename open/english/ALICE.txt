@@ -1,4 +1,4 @@
-	Two basic perspectives
+Two basic perspectives
 1) The science: what does ALICE do, how does this fit
    with the standard model, and which "new science"  
    are we hoping to find.
@@ -13,33 +13,45 @@ https://scilogs.spektrum.de/formbar/iter-aktualisierter-forschungsplan/
 
 
 
-1
+1 The Science
+---------------------------------------------------
 
 * Quark Gluon Plasma
 * How is this interesting? Rel to Big Bang
 * Quantum Chromodynamics
-* ultrarelativistic collisions
+* Ultrarelativistic collisions
 * phase transition
-* Lead ions are accelerated to more than 99.9999% of the speed of light and collisions at the LHC are 100 times more energetic than those of protons
-* temperature almost 100,000 times higher than the temperature in the core of the sun.
 * Lead Proton Collisions
+  - Lead ions are accelerated to more than 99.9999% of the speed of light 
+  - and collisions at the LHC are 100 times more energetic than those of protons
+* temperature almost 100,000 times higher than the temperature in the core of the sun.
 
-2
+ The collaboration has been making major inroads into the understanding of the dynamics of the QGP – a state of matter that prevailed in the first instants of the universe and is recreated in droplets at the LHC.
 
-* LHC vs. Experiments
-* Construction History
-* Size/Weight Detector
-* Size of the ALICE org
+2 Overview ALICE
+-----------------------------------------------------
 
-"relies on being able to identify all of them, i.e. to determine if they
-are electrons, photons, pions, etc. and to determine their charge"
+* The ALICE experiment
+  - LHC vs. Experiments
+  - Size/Weight Detector
+  - Construction History
+  - Size/Structure of the ALICE collaboration
 
-* What kinds of particles?
-* How many particles can be recorded
-* What is being recorded about each of them?
-* How much "realtime" is necessary?
+
+* What does it do?
+  - "relies on being able to identify all of them, i.e. to determine if they
+     are electrons, photons, pions, etc. and to determine their charge"
+  - What kinds of particles?
+  - How many particles can be recorded
+  - What is being recorded about each of them?
+  - How much "realtime" is necessary?
 
 * characteristic signatures they leave in the detector.
+
+
+
+3 Detector subsystems
+----------------------------------------------------------------------------
 
 * Subsystems / Detector Layers
   - first a tracking system
@@ -55,15 +67,42 @@ are electrons, photons, pions, etc. and to determine their charge"
 distinguishing the different charged hadrons that are produced in Pb-Pb
 collisions.
 
-* Inner Tracking System
-  - Silicon Pixel Detector(SPD)
-  - Silicon Drift Detector(SDD)
-  - Silicon Strip Detector(SSD)
+EACH: 
+ - What do they record
+ - How do they do it
+ - How does it fit into the big picture
+
+* Barrel Tracking
+  - Inner Tracking System
+    . Silicon Pixel Detector(SPD)
+    . Silicon Drift Detector(SDD)
+    . Silicon Strip Detector(SSD)
   - Time Projection Chamber(TPC)
-  - Transition Radiation Detector(TRD) 
+    . large volume filled with a gas as detection medium
+    . ionize the gas atoms along their path
+    . how is the track recorded?
+  - Transition Radiation Detector(TRD)
+
+* Particle Identification
+  - "identified if their mass and charge are determined"
+  - Time of Flight
+  - High Momentum Particle Identification Detector
+  - Calorimeters
+    . Photon spectrometer
+    . Electro-Magnetic Calorimeter
+    . Photon Multiplicity Detector
+    . Forward Multiplicity Detector
+    . Muon spectrometer
   
+* Characterization of the collision
+  - Zero Degree Calorimeter
+  - V0 detector
+  - T0 detector
+
+
 "eavy quarks (charm and beauty) can be identified by reconstructing the
 coordinates at which they decay." (b/c positon is time)
+ 
   
 * Precision? 
   - What level?
@@ -71,7 +110,50 @@ coordinates at which they decay." (b/c positon is time)
     "fraction of a mill"
   - Why is this necessary?
 
-* What is being done during the current upgrade?
+
+* Data Processing / Computing
+  - detector readout
+  - event building
+  - data recording
+  - detector calibration
+  - data reconstruction
+  - physics simulation 
+  - analysis.       
 
 * The role of statistics: many experiements to resolve the data
 
+
+4 What is currently being updated?
+----------------------------------------------------------
+* How does it exploit the high luminosity?
+
+* Detector upgrades
+  - Inner Tracking System 
+    . new all-pixel silicon inner tracker based on CMOS monolithic active pixel sensor (MAPS) technology 
+      accumulate 10 times more integrated luminosity
+   . The ITS consists of seven cylindrical layers of ALPIDE chips, 
+     summing up to 12.5 billion pixels and a total area of 10 m2
+  - MFT 
+    . The new MFT detector is designed to add vertexing capabilities to the muon 
+      spectrometer and will enable a number of new measurements that are currently beyond reach
+    . The MFT consists of five disks, each composed of two MAPS detection planes, 
+      placed perpendicular to the beam axis between the IP and the hadron absorber 
+      of the muon spectrometer.
+  - TPC
+    . main device for tracking and charged-particle identification in ALICE. 
+    . new readout chambers employing a novel configuration of stacks of four GEMs 
+      have been developed during an extensive R&D programme
+  - FIT
+    . comprises two arrays of Cherenkov radiators with MCP–PMT sensors and a 
+      single, large-size scintillator ring. The arrays will be placed on both 
+      sides of the IP. 
+    
+* The newly designed ALICE readout system presents a change in approach, as all 
+  lead–lead collisions that are produced in the accelerator, at a rate of 50 kHz, 
+  will be read out in a continuous stream. 
+    
+* The significantly improved ALICE detector will allow the collaboration to collect 
+  100 times more events during LHC Run 3 compared to Run 1 and Run 2, which requires 
+  the development and implementation of a completely new readout and computing system. 
+
+* New data processing / computing system
