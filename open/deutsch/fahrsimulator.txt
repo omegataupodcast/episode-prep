@@ -26,6 +26,7 @@
     . Linear (konfigurierbare Richtung)
     . Geschwindigkeiten + Kräfte
   - Visualisierung
+    . Wie gut (oder schlecht) eignen sich VR-Brillen wie z.b. Pimax 8K oder HTC Vive als Ersatz für teure Projektionssysteme?
     . 360 grad
     . wie realistisch?
   - Kabine + Fahrerfeedback
