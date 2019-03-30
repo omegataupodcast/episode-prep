@@ -32,6 +32,9 @@
     . Hexapod (elektrisch + pneumatisch)
     . Linear (konfigurierbare Richtung)
     . Geschwindigkeiten + Kräfte
+    . Wie groß sind die Beschleunigungen? (Besonders interessant sind die negativen Beschleunigung/Bremsverhalten)
+    . Wie werden Zentripetalbeschleunigungen simuliert? (Bild auf FB zeigt eine Linearführung -> erstmal keine Rotation um exzentrische       Punkt möglich)
+    . Wie lange kann beschleunigt werden? (Länge der Linearführung ist ja begrenzt)
   - Visualisierung
     . Wie gut (oder schlecht) eignen sich VR-Brillen wie z.b. Pimax 8K oder HTC Vive als Ersatz für teure Projektionssysteme?
     . 360 grad
