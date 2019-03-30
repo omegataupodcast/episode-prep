@@ -14,13 +14,20 @@
   - Psychologen
     . weiß man, ob die Probanden wirklich glauben,
       in einem echten Fahrzeug zu sitzen?
+    . Wird während eines Experiments üblicherweise "Presence" gemessen?
+    . Wie lange dauert es, bis sich Probanden an den Simulator gewöhnt haben? Gibt es Trainingssessions vor dem Experiment?
   - Szenariodesign
     (hier können wir ruhig auch ein bisschen ins Detail)
   - Fahren
     . wer sind die Probanden?
   - Auswerten   
+    . Welche externe Validität besitzen die Ergebnisse? 
+    . Gibt es Studien die das Fahrverhalten in der Simulation und z.b. das auf einer Teststrecke vergleichen?
     
 * Der Simulator
+  - Simulator Sickness
+    . Wurden beim Design des Simulators besondere Maßnahmen ergriffen um Simulator Sickness zu vermeiden?
+    . Wie oft kommt es vor dass Teilnehmer eine Fahrt aufgrund von Simulator Sickness abbrechen müssen?
   - Bewegungssystem
     . Hexapod (elektrisch + pneumatisch)
     . Linear (konfigurierbare Richtung)
@@ -28,6 +35,16 @@
   - Visualisierung
     . 360 grad
     . wie realistisch?
+    . Gibt es Erfahrungen (pro/contra) bezüglich stereoskopischer (3D) Umgebungsvisualierung?
+    . Welche Projektions-Technik wird zur Visualisierung eingesetzt?
+    . Gibt es Probleme mit perspektivischer Verzerrung bei der Projektion?
+    . Gibt es Probleme bei der Latenz zw. Ein- und Ausgabegeäte (oder wie hoch ist die Latenz)?
+  - Auralisierung
+    . Wie wichtig (oder unwichtig) ist das Audio-Feedback des Fahrzeuges?
+    . Welche Technik wird für den Sound eingesetzt?
+  - Haptisches Feedback
+    . Welche Arten von haptischem Feedback gibt es im Simulator? 
+    . Wie wichtig sind z.B Vibrationen des Sitzes für die Validität?
   - Kabine + Fahrerfeedback
     . austauschbar
     . welche arten von kabinen?
