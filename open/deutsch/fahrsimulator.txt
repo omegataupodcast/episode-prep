@@ -2,63 +2,78 @@
   - Fahrdynamik
     . was heißt das?
     . welche Aspekte sind da relevant?
-    . Beispiele (aus der Vergangenheit)
+    . Beispiele (aus der Vergangenheit, nicht geheim)
   - Autonomes Fahren?
     . reagiert das Auto richtig?
-    . reagiert der Fahrer richtig auf das (nciht) reagierende Auto?
+    . reagiert der Fahrer richtig auf das (nicht) reagierende Auto?
+    . was noch?
 
 * Historische Entwicklung der Simulatoren bei Daimler
     
-* Aspekte einer Kampagne
-  - Fragestellung
-  - Psychologen
-    . weiß man, ob die Probanden wirklich glauben,
-      in einem echten Fahrzeug zu sitzen?
-    . Wird während eines Experiments üblicherweise "Presence" gemessen?
-    . Wie lange dauert es, bis sich Probanden an den Simulator gewöhnt haben? Gibt es Trainingssessions vor dem Experiment?
-  - Szenariodesign
-    (hier können wir ruhig auch ein bisschen ins Detail)
-  - Fahren
-    . wer sind die Probanden?
-  - Auswerten   
-    . Welche externe Validität besitzen die Ergebnisse? 
-    . Gibt es Studien die das Fahrverhalten in der Simulation und z.b. das auf einer Teststrecke vergleichen?
-    
 * Der Simulator
-  - Simulator Sickness
-    . Wurden beim Design des Simulators besondere Maßnahmen ergriffen um Simulator Sickness zu vermeiden?
-    . Wie oft kommt es vor dass Teilnehmer eine Fahrt aufgrund von Simulator Sickness abbrechen müssen?
+  - Überblick
+    . Kabine (austauschbar)
+    . Hexapod
+    . Linearsystem
   - Bewegungssystem
     . Hexapod (elektrisch + pneumatisch)
     . Linear (konfigurierbare Richtung)
     . Geschwindigkeiten + Kräfte
-    . Wie groß sind die Beschleunigungen? (Besonders interessant sind die negativen Beschleunigung/Bremsverhalten)
-    . Wie werden Zentripetalbeschleunigungen simuliert? (Bild auf FB zeigt eine Linearführung -> erstmal keine Rotation um exzentrische       Punkt möglich)
-    . Wie lange kann beschleunigt werden? (Länge der Linearführung ist ja begrenzt)
+    . Wie groß sind die Beschleunigungen? 
+      negativen Beschleunigung/Bremsverhalten
+    . Wie werden Zentripetalbeschleunigungen simuliert? 
+      erstmal keine Rotation um exzentrische Punkt möglich
+    . Wie lange kann beschleunigt werden? 
+      Länge der Linearführung ist ja begrenzt
+      ... oder wird zurückgeneigt?
   - Visualisierung
-    . Wie gut (oder schlecht) eignen sich VR-Brillen wie z.b. Pimax 8K oder HTC Vive als Ersatz für teure Projektionssysteme?
     . 360 grad
     . wie realistisch?
-    . Gibt es Erfahrungen (pro/contra) bezüglich stereoskopischer (3D) Umgebungsvisualierung?
     . Welche Projektions-Technik wird zur Visualisierung eingesetzt?
     . Gibt es Probleme mit perspektivischer Verzerrung bei der Projektion?
-    . Gibt es Probleme bei der Latenz zw. Ein- und Ausgabegeäte (oder wie hoch ist die Latenz)?
+    . Gibt es Probleme bei der Latenz zw. Ein- und Ausgabegeäte 
+      (oder wie hoch ist die Latenz)?
+    . Gibt es Erfahrungen (pro/contra) bezüglich stereoskopischer 
+      (3D) Umgebungsvisualierung?
+    . Wie gut (oder schlecht) eignen sich VR-Brillen wie z.b. Pimax 8K 
+      oder HTC Vive als Ersatz für teure Projektionssysteme?
   - Auralisierung
     . Wie wichtig (oder unwichtig) ist das Audio-Feedback des Fahrzeuges?
     . Welche Technik wird für den Sound eingesetzt?
   - Haptisches Feedback
+    . lenkkräfte?
     . Welche Arten von haptischem Feedback gibt es im Simulator? 
     . Wie wichtig sind z.B Vibrationen des Sitzes für die Validität?
-  - Kabine + Fahrerfeedback
-    . austauschbar
-    . welche arten von kabinen?
-    . von der serie?
-    . wie werden lenkkräfte etc. simuliert?
   - Regelungssoftware
     . wie entwickelt?
   - Scenario-Software 
     . beschreibung von szenarien
     . detaillierungsgrad
     . deteministisch vs. emerging
+  - Simulator Sickness
+    . Wurden beim Design des Simulators besondere Maßnahmen 
+      ergriffen um Simulator Sickness zu vermeiden?
+    . Wie oft kommt es vor dass Teilnehmer eine Fahrt aufgrund 
+      von Simulator Sickness abbrechen müssen?
+    . Wie wichtig ist die Bewegung denn überhaupt?
+ 
+ 
+* Aspekte einer Kampagne
+  - Fragestellung
+  - Psychologen
+    . weiß man, ob die Probanden wirklich glauben,
+      in einem echten Fahrzeug zu sitzen?
+    . Wird während eines Experiments üblicherweise "Presence" gemessen?
+    . Wie lange dauert es, bis sich Probanden an den Simulator gewöhnt haben? 
+      Gibt es Trainingssessions vor dem Experiment?
+  - Szenariodesign
+    (hier können wir ruhig auch ein bisschen ins Detail)
+  - Fahren
+    . wer sind die Probanden?
+  - Auswerten   
+    . Welche externe Validität besitzen die Ergebnisse? 
+    . Gibt es Studien die das Fahrverhalten in der Simulation und z.b. 
+      das auf einer Teststrecke vergleichen?
+    
  
  
