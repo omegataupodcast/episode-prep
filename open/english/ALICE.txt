@@ -110,7 +110,7 @@ coordinates at which they decay." (b/c positon is time)
     "fraction of a mill"
   - Why is this necessary?
 
-
+	
 * Data Processing / Computing
   - detector readout
   - event building
@@ -121,6 +121,9 @@ coordinates at which they decay." (b/c positon is time)
   - analysis.       
 
 * The role of statistics: many experiements to resolve the data
+
+* how to calibrate/baseline the equipment to ensure that any 
+  "noise" does not impact (no pun intended!) the measurements?
 
 
 4 What is currently being updated?
