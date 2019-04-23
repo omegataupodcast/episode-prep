@@ -1,0 +1,113 @@
+Let us try to separate the state we want to change to from the way we try to get there.
+I want to emphasize the second aspect.
+
+Where do we want to go to?
+------------------------------------------
+* Exploiting the planet less, destroying its climate less
+* Sustainable Development - Renewables
+* Different metrics for defining "success" for a country.
+
+"This major transformation will require technological advances, new concepts 
+ of welfare, diverse social innovations, and an unprecedented level of international 
+ cooperation"
+ 
+Yes. So how do we get there?
+
+
+How do we get there
+------------------------------------------
+* What has to change for this to become a success?
+  - institutions, values, laws, ... what else?
+  
+* Why is change so hard?
+  - path dependencies
+    Structured Freedom: humanity is limited in thinking by its past
+  - feedback loops
+  - bias towards keeping things as they are
+  - entrenched interests?
+  - emergent behavior that has been locked
+    in around an "chaotic attractors"
+  
+* what is transformation research and what are its constituents?
+  - innovation management
+  - natural sciences
+  - and political economy.
+  
+* why humans collectively create societies that individually they would like to change. 
+  - small decisions by rationally calculating actors may well lead to
+    misallocation effects on the macro scale that produce outcomes which the
+    same individuals would not choose 
+    -> Emergence 
+  - Here the main thrust of
+    the research lies in understanding relations between single elements and
+    the dynamics of the whole in order to understand why single elements
+    behave the way they do and how this might change. As a result, the
+    emphasis when searching for sustainable development solutions is less on
+    improving single technological products or economic incentives, and more
+    on understanding the dynamics of wider socio-technical or
+    socio-ecological systems (STS or SES) before thinking about which
+    interventions could improve sustainability.  
+  - Shouldn't it be a goal to explicitly work on reducing the complexity
+    of the societal systems we rely on?
+    Example: simpler tax laws could make it more likely that people 
+    actually invest into sustainable technoligies instead of finding
+    even more "lucrative" tax "holes"?
+  - "intrinsically social, full of uncertainties, ups and downs, twists and
+    turns and should best be viewed as a dynamic, multidimensional,
+    multi-actor and multilevel challenge that cannot be planned and
+    predicted in a linear manner"
+
+  
+* Incremental change vs. radical transformation
+  - incremental change in prevailing systems will not suffice. 
+  - "radical incremental transformation strategies"
+
+* Why is economic change the key?
+  - does this relate to "incentives"
+  - "it's the ecomomy stupid!"
+  - is't it politics that sets the rules for the economy?
+    So it is, after all, a political change?
+  
+* (My) Hypothesis: changes in the past (towards agrarian, industrial) were a "visible" 
+  step fwd, whereas the changes required today change now looks like restraint,
+  cutback. So they are hard to get buy in.
+
+* Great Mindshift - basically change the collective goals of societies and then "grow"
+  the changes bottom up: 
+  - do we have to wait for a bottom up realization? Might take (too) long.
+  - How do you accelerate this?
+  - can we deterministically do that?
+    See emergence/complexity above.
+  
+* System transformations require a build-up 
+  - in which not much is visibly happening 
+  - before tipping points are reached,
+  - after which a lot of change happens in a short period of time. 
+  - After this chaotic and contested phase 
+  - either a restabilization of the system or its collapse can follow. 
+  - Pre-development, Take-off,  Acceleration, Stabilization
+  -> What does this tell us for "managing" such processes?
+
+* Polanyi does not describe these changes as a smooth rolling out of a
+  blueprint, but as a conflict-ridden process which involved multiple
+  changes in technology, social groupings and regulation, all influencing
+  each other in a paradoxical pairing of unprecedented material production
+  capacity with unprecedented poverty. -> Tainter, Collapse
+
+* The importance of shocks - does it work as a slow change?
+  - Tainter's theory of collapse
+  - Merkel reaction to Fukushima
+
+
+Where are we
+---------------------------------------
+* The world is trying .... 
+  - SDGs
+  - what else?
+
+* Are we getting there (in time)?
+  "System transformations require a build-up " ... where are we?
+
+* how specific is the research to sustainability questions?
+
+
