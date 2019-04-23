@@ -16,8 +16,16 @@ https://scilogs.spektrum.de/formbar/iter-aktualisierter-forschungsplan/
 1 The Science
 ---------------------------------------------------
 
+* CERN
+* LHC
+* Experiments
+* ALICE
+  - Size/Structure of the ALICE collaboration
+
+heavy ion
 * Quark Gluon Plasma
 * How is this interesting? Rel to Big Bang
+
 * Quantum Chromodynamics
 * Ultrarelativistic collisions
 * phase transition
@@ -26,16 +34,16 @@ https://scilogs.spektrum.de/formbar/iter-aktualisierter-forschungsplan/
   - and collisions at the LHC are 100 times more energetic than those of protons
 * temperature almost 100,000 times higher than the temperature in the core of the sun.
 
- The collaboration has been making major inroads into the understanding of the dynamics of the QGP – a state of matter that prevailed in the first instants of the universe and is recreated in droplets at the LHC.
+ The collaboration has been making major inroads into the 
+ understanding of the dynamics of the QGP – a state of matter 
+ that prevailed in the first instants of the universe and is recreated in droplets at the LHC.
 
 2 Overview ALICE
 -----------------------------------------------------
 
 * The ALICE experiment
-  - LHC vs. Experiments
   - Size/Weight Detector
   - Construction History
-  - Size/Structure of the ALICE collaboration
 
 
 * What does it do?
@@ -52,6 +60,8 @@ https://scilogs.spektrum.de/formbar/iter-aktualisierter-forschungsplan/
 
 3 Detector subsystems
 ----------------------------------------------------------------------------
+
+10 poerr -23
 
 * Subsystems / Detector Layers
   - first a tracking system
@@ -88,8 +98,8 @@ EACH:
   - Time of Flight
   - High Momentum Particle Identification Detector
   - Calorimeters
-    . Photon spectrometer
     . Electro-Magnetic Calorimeter
+    . Photon spectrometer
     . Photon Multiplicity Detector
     . Forward Multiplicity Detector
     . Muon spectrometer
@@ -111,6 +121,11 @@ coordinates at which they decay." (b/c positon is time)
   - Why is this necessary?
 
 	
+* The role of statistics: many experiements to resolve the data
+
+* how to calibrate/baseline the equipment to ensure that any 
+  "noise" does not impact (no pun intended!) the measurements?
+
 * Data Processing / Computing
   - detector readout
   - event building
@@ -120,11 +135,7 @@ coordinates at which they decay." (b/c positon is time)
   - physics simulation 
   - analysis.       
 
-* The role of statistics: many experiements to resolve the data
-
-* how to calibrate/baseline the equipment to ensure that any 
-  "noise" does not impact (no pun intended!) the measurements?
-
+comissioning - calibrating
 
 4 What is currently being updated?
 ----------------------------------------------------------
@@ -160,3 +171,7 @@ coordinates at which they decay." (b/c positon is time)
   the development and implementation of a completely new readout and computing system. 
 
 * New data processing / computing system
+
+* maint
+* Op
+* what do you do all day?
