@@ -2,45 +2,55 @@
 
 * How did you get to fly the P-3?
   
-
 Flying the P-3
 -------------------------------
 * The Airplane
+  - describe:  
+    . aerodynamics
+    . engines
+    . handling envelope and characteristics
   - Electra Roots
   - quirks?  
   - eventual replacement?
   - what is special about the AP-3C compared to the P-3C?
-  + what is special about the P3 as an aircraft (aerodynamics, engines, handling envelope and characteristics)
 
 * Sensors
   - Radar
   - FLIR
   - MAD
-  + Acoustics - this is the "black art" of submarine hunting
+  - Acoustics - this is the "black art" of submarine hunting
+  
+* "Sensors" for flying?
+  . Night?
+  . Weather Limits?
 
-* Weapons
+* Weapons (not too detailed - classified)
+  - Kinetic!
   - Mines - we don't carry mines in the RAAF, so I can mention it, but I won't have detail
   - Torpedos
-  + Anti-ship missiles
-  + Most of the interesting weapons stuff is classified. I'd like to talk about the fact that the P3 (and its successor the P8) are kinetic weapons platforms (which a lot of people forget) and we can talk about the weapons generically (such as - what is a torpedo and how does it work), but we won't be able to go into much detail about the weapons themselves.
+  - Anti-ship missiles
   
 * Missions
-  - Collaboration cockpit crew / mission crew?
   - how long? extra crew?
-  - who do you collaborate with on those missions?
-  + Crew composition and dynamics
+  - typical day ("breakfast with the crew")
+  - Collaboration cockpit crew / mission crew?
+    . Crew composition and dynamics
 
 * What are some of the flying challenges?
   - Flying low over the sea?
-  - AFAIK the US Navy switches of two engines ... so do we. We routinelly fly with one engine "loitered" (turned off to increase fuel economy), and when we need to, we "loiter" two engines. I've done it a few times for practice and twice for real. 
+    . "blueout"?
+    . fatigue?
+    . "precise hand flying without the aid of the autopilot"
+  - Switching off engines ...
   
 * Talk a bit about your flying all around the world
-  + I'll talk about operations and exercises all over the world - anti-piracy missions off the coast of Somalia, search and rescue missions in the Southern Ocean, chasing submarines off the coast of Southern California, etc. 
-  
-  + Other possible topics:
-  + Longest/most memorable day? (link to story: http://australianaviation.com.au/2018/11/over-watch-when-a-raaf-orion-crew-answered-the-sar-call)
-  + Taking-off in the eye of a cyclone (to evacuate the aircraft - it's a great story)
-  + The best thing about flying the P3 (it's the crew!)
+  - anti-piracy missions off the coast of Somalia
+  - search and rescue missions in the Southern Ocean
+    . Longest/most memorable day? 
+    . link to story: http://australianaviation.com.au/2018/11/over-watch-when-a-raaf-orion-crew-answered-the-sar-call
+  - chasing submarines off the coast of Southern California
+  - Taking-off in the eye of a cyclone (to evacuate the aircraft - it's a great story)
+  - The best thing about flying the P3 (it's the crew!)
   
   
 Test Pilot School
@@ -58,12 +68,14 @@ Test Pilot School
   - F-15
     . "whats wrong with your face"
   - MiG 15
-    . interesting flying characteristics?  Very, can talk a bit about this - and the benefits of knowing how to read cyrillic when hopping into a Russian cockpit!
+    . interesting flying characteristics? 
+    . knowing how to read cyrillic when hopping into a Russian cockpit!
   - An-2 
     . salt lake hopping
   - Extra 300
     . you don't do much negative g in military jets, right? 
-  - HU-16  - including the time we crashed one a little bit? :-)
+  - HU-16
+    . including the time we crashed one a little bit? :-)
   - T-38
   - ASK-21 :-)
 
@@ -71,7 +83,8 @@ Test Pilot School
 
 * Are all of these owned by TPS? Or lend to it?
 
-* Compare f-15 and f-16  - We should probably not spend much time on this - I can give you a cursory comparison, but I am not an expert on either of these two jets. 
+* Compare f-15 and f-16 
+  (Newbie perspective)
 
 * The F-16 VISTA
   - how are the flight control systems different (compare to F-16 episode)
@@ -90,7 +103,9 @@ Test Pilot School
 * Relationship of flight test and science?
   
 * What did you do as a test pilot after TPS?
-  - tufting a P-3? I can talk at length about this program, including tufting and flying with Hornet chase taking video footage of the tufting while I held the P3 in a regime that induced a global airframe vibration :-)
+  - tufting a P-3? I can talk at length about this program, including tufting and 
+    flying with Hornet chase taking video footage of the tufting while I held the P3 
+    in a regime that induced a global airframe vibration :-)
 
 
 A Female Pilot in the Air Force
