@@ -15,6 +15,7 @@
 
 * Polizist vs. Kriminaltechniker vs. "echter" Wissenschaftler?
   Lehrgänge, Profile
+  Welche wissenschaftlichen Disziplinen sind am Start?
 
 * Zusammenarbeit K8'en und LKA, insbesondere FG 243
   - Arbeitsteilung vor Ort vs. Labor am LKA
@@ -24,13 +25,14 @@
     . Raub
     . Mord
     . was noch?
-  - LKAs vs. BKA vs. Interpol
+  - LKAs vs. BKA vs. Europol vs. Interpol (BPol? Zoll?)
 
 * Was macht die FG243 "vor Ort"?
   - Suche nach latenten Blutspuren an Tatorten
   - Bedampfen von Tatorten mit einer Großraumbedampfungsanlage (Superfume) 
     mit Cyanacrylat zur Sicherung von daktyloskopischen Spuren
   - Latexlifting
+  - "Eigensicherung"?
 
 
 Spezifische Fachgebiete (separate Gespräche, geplant)
@@ -38,7 +40,7 @@ Spezifische Fachgebiete (separate Gespräche, geplant)
 
 * Daktyloskopie
   - Wie werden die am Tatort erfasst?
-  - Wir werden sie abgenommen?
+  - Wie werden sie abgenommen?
   - Wie werden sie dann ausgewertet?
   - Datenbank
   - Beweiskraft
@@ -92,3 +94,6 @@ Andere Themen (ggfs. je nach Zeit und Lust)
   - Schriftanalyse Handschriften
   - Druckeridentifikation 
     Nur Typ oder auch Stück?
+* Digitalelektronik
+  - Computer (besonders auch Sicherung?)
+  - Sprengzünder (->Zusammenhang zu Sprengstoffen)
