@@ -8,6 +8,11 @@ HEATHROW
   - "stations" (arrival, departure, delivery, tower, ground/apron ...)
     . quick run through how these interact
   
+* Aircraft are guided one-by-one, but follow published procedures
+  - how much is different every day?
+    . example: Air Amb Helis :-)
+  - dealing with emergencies? 
+  
 * Major challenges:
   - enhancing the capacity of the airport
   - reducing hold times?
@@ -42,3 +47,7 @@ FAIRFORD
 * Your involvement
 * Regular Fairford tower crew enhanced?
 * Challenges with an airshow?
+  - different a/c (size, speed, capabilities)
+  - less planning, more improv?
+* How are the procedures different from a "normal" tower?
+  
