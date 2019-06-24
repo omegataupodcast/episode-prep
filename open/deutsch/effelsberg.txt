@@ -1,0 +1,30 @@
+Radioteleskop Effelsberg
+---------------------------------
+* Betreiber
+* Kurze Wiederholung: Radioastronomie
+* ZDF
+* Effelsberg - kurze Historie
+  - größtes?
+  - ist das heute noch relevant, wo man 
+    ja nur noch Interferometer baut?
+* Wellenlängen 
+  - Dish
+  - Empfänger
+  - Verarbeitungskette im Wandel der Zeit
+* Standort - Warum?
+* Qualität der Antennenoberfläche
+  - FEM - konstante Form
+* Konstruktives
+* VLBI, EHT
+* Bisschen aktuelle Forschung
+
+
+LOFAR
+----------------------------------------
+* ist was?
+* Verteilt?
+* Freqzenzen/WL?
+* ANtennen?
+* Zentraler Rechner
+* Glasfasernetz
+* Science?

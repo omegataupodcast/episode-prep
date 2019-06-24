@@ -43,52 +43,23 @@ Spezifische Fachgebiete (separate Gespräche, geplant)
   - Datenbank
   - Beweiskraft
 
-* Blut, Toxikologie
-  - Vergiftung, Drogen
-  - Untersuchung von Blut ob toxikologische Stoffe gefunden werden
-  - Untersuchung der BTMs an sich bezüglich Zusammensetzung und Wirkstoffen
-
 * DNA
   - Woher bekommt man DNA: Blut, Haare
+  - Wie extrahiert man die aus den Spuren am Tatort?
   - Abgleich mit Datenbank: Woher bekommt man diese?
-  - Verunreinigung im Labor durch Mitarbeiter: gibt es einen Mitarbeiter DNA-Datenbank?
+  - Verunreinigung im Labor durch Mitarbeiter: 
+    gibt es eine Mitarbeiter DNA-Datenbank?
   - Ist das üblicherweise ganze DNA oder nur Schnipsel?
     Welche Konsequenzen hat das für die Beweiskraft?
   - Vorgehen bei der Sicherung, Sauberkeit
+  - Beweiskraft
 
 * Waffen
   - Finden von Patronen am Tatort
   - Abgleich Patrone/Kugel und Lauf
   - Allgemein Waffenzuordnung
   - Was ist Ballistik? Wie geht man da vor? Bezug zum Tatort? Physik?
+  - Rekonstruktion der Flugbahn, Modelle, Werkzeuge
   - Schmauchspuren
+  - Beweiskraft
 
-
-Andere Themen (ggfs. je nach Zeit und Lust)
---------------------------------------------------
-* Spreng- und Explosivstoffe
-  - Analyse der Zusammensetzung von Sprengstoffen
-  - Sprengstoffspuren am Tatort
-  - "Ein Koffer wurde gefunden:" Wie geht man bei der Entschärfung vor
-     Röntgen, Wassergewehr
-  - Unkonventionelle Spreng- und Brandvorrichtungen
-* Brand
-  - Ermittlung von Brandursachen
-  - Elektrischer Fehler, Brandbeschleuniger
-  - Zentrale 3D-Vermessung
- 
-* Fuß/Schuh/Reifenabdruck
-  - Da gibt es ja keine Datenbank an Abdrücken oder?
-* Fahrzeuge
-  - Untersuchung auf Btm und Schmuggelverstecke
-  - Identifizierung verfälschter Fahrzeuge (Schlüsseluntersuchungen, 
-     Manipulation von elektr. Wegfahrsperren.....)
-* Fasern
-  - Finden von Fasern auf Leichen
-  - Beispielsweise durch Kampfhandlungen
-  - Abgleich mit Fasern des Täters
-  - Zusammenspiel mit Zeugen um zu erfahren was der Täter anhatte
-* Urkunden
-  - Schriftanalyse Handschriften
-  - Druckeridentifikation 
-    Nur Typ oder auch Stück?
