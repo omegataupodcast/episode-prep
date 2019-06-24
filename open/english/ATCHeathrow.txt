@@ -7,11 +7,25 @@ HEATHROW
   - coordination with other airspaces / ATC centers
   - "stations" (arrival, departure, delivery, tower, ground/apron ...)
     . quick run through how these interact
-  
+    . where are these ppl located?
+  - typical operation of the two runway?  
+  - hold points
+
 * Aircraft are guided one-by-one, but follow published procedures
+  - how exactly does this relationship work:
+    . what are pilots expected to do "automatically"
+    . what are controllers expected to instruct
   - how much is different every day?
     . example: Air Amb Helis :-)
   - dealing with emergencies? 
+  
+* Heathrow Tower
+  - 360 deg
+  - roles and tasks of ppl
+  - "ground" also located in tower?  
+  - what else is controlled from the tower, except the voice radio
+    . runway lighting? 
+    . approach systems (ILS)
   
 * Major challenges:
   - enhancing the capacity of the airport
@@ -22,10 +36,14 @@ HEATHROW
 * What are capacity constraints
   - one a/c on rwy
   - number of rwys
-  - separation/vortexes 
+  - separation/vortexes
+  - noise 
+    . preferred a westerly operation 
+    . what else?
   - ?
 
 * What to do
+  - continuous descent approaches 
   - introduction of Time Based Separation on approach (currently the only airport in the world using this concept and tool) 
   - Re-categorisation of wake turbulence classifications
   - Advanced airport safety nets 
