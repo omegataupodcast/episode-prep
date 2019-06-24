@@ -1,10 +1,44 @@
-It’s probably my poor descriptions of my job! I don’t actually design approaches (as in what are on Jeppesen plates, etc), but write ATC procedures, so the contents of our ATC ops Manuals. 
+HEATHROW
+--------------------------------------------
+* Heathrow from an ATC perspective
+  - busy!
+  - airspace size
+  - common airspace with other London airports?
+  - coordination with other airspaces / ATC centers
+  - "stations" (arrival, departure, delivery, tower, ground/apron ...)
+    . quick run through how these interact
+  
+* Major challenges:
+  - enhancing the capacity of the airport
+  - reducing hold times?
+  - keep capacity with declining weather?
+  ... while maintaining safety
 
-However, some of the projects I’ve been involved in over the years your listeners might find interesting...
-- introduction of Time Based Separation on approach (currently the only airport in the world using this concept and tool) 
-- Re-categorisation of wake turbulence classifications
-- Advanced airport safety nets 
-- Automatic routeing and guidance of aircraft on the ground
-- Departure Separation tool
-- Flow Control/slot times
-- Airport Collaborate Decision Making
+* What are capacity constraints
+  - one a/c on rwy
+  - number of rwys
+  - separation/vortexes 
+  - ?
+
+* What to do
+  - introduction of Time Based Separation on approach (currently the only airport in the world using this concept and tool) 
+  - Re-categorisation of wake turbulence classifications
+  - Advanced airport safety nets 
+  - Automatic routeing and guidance of aircraft on the ground
+  - Departure Separation tool
+  - Flow Control/slot times
+  - Airport Collaborate Decision Making
+  Each:    
+  . idea, insight
+  . realization
+  . tool support / procedure changes?
+  . regulatory impact?
+  . requirements on a/c and crew (enablers)
+  . successful? capacity increase?
+
+
+FAIRFORD
+---------------------------------------------
+* Your involvement
+* Regular Fairford tower crew enhanced?
+* Challenges with an airshow?
