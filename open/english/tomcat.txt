@@ -1,21 +1,24 @@
 ----- OKIE ----------------------------------------
 
+Cell # (571) 244-3005
+Home # (703) 689-0153
+
 * Introduction Okie
 
 * Flight Characteristics
-  - Wing sweep operation? Manual?
   - High speed handling
   - Low speed handling
+    "kick up spoilers"
+  - Wing sweep operation? Manual?
   - Emergencies
-    . One Engine Flying?
     . What was the emergency procedure if the wing mechanism failed? 
     . Ever thought about a one-wing landing like that famous F-15?
-      (does the 14 have differential elevators?)
     . The flat spin problem?
-  - Engines 
-	. Movable inlet ramps?
     . Tom Cruise Stall :-)
+  - Engines 
     . Differences between TF30 and F110 very important?
+	. Movable inlet ramps?
+    . One Engine Flying?
   - Glove vanes 
     . what was their purpose? 
     . Why were they removed? 
@@ -26,14 +29,39 @@
   - Approach
   - Landing
     "a handful"
+    flaps
+    wing front
     direct lift control
-   
+
+
+* Fighting the Tomcat
+  - 6.5g
+  - was it really such a great dogfighter? For example
+    agains the F-16N?
+    "should never win"
+  - Was the F-18 or the F-14 the better dog fighter? 
+  - Or was its real sweetspot the long range, BVR 
+    missile platform?  
+  - What was the optimal sweep for air-to-air?
+  - Did you adjust the wings in a dogfight? 
+    who did?
+
+  - Workshare during combat
  
 * Crew Coordination between pilot and RIO
+  - do you ever fly backseat?
   - comms
   - flying
   - missions
   - Who selects the weapon, who communicates what?
+
+* Missions  
+  - Interception
+  - Fleet Defense
+  - later: Bombing
+  - later: TARPS
+  
+* Missions & Anecdotes
 
 * Systems
   - Radar 
@@ -41,23 +69,6 @@
   - which others are remarkable?
   
  
-* Fighting the Tomcat
-  - was it really such a great dogfighter? For example
-    agains the F-16N?
-  - Was the F-18 or the F-14 the better dog fighter? 
-  - Or was its real sweetspot the long range, BVR 
-    missile platform?  
-  - Workshare during combat
-  - What was the optimal sweep for air-to-air?
-  - Did you adjust the wings in a dogfight? 
-    who did?
-
-* Missions  
-  - Interception
-  - Fleet Defense
-  - later: Bombing
-  - later: TARPS
-
 * Weapons
   - Sidewinder
   - Sparrow
@@ -65,9 +76,9 @@
   - Air-to-ground?
   - Recce pod?
   
+Life on the carrier  
+  
 * Differences from A to B (to D)
-
-* Missions & Anecdotes
 
 * Why is the 14 better than the 15 (ducks away :-))
 

@@ -19,6 +19,10 @@ How do we get there
 * What has to change for this to become a success?
   - institutions, values, laws, ... what else?
   
+* Seems to me that in many (not all) cases we know
+  (science majority) what we'd need to do. But we
+  seem to be unable to make the changes.  
+  
 * Why is change so hard?
   - path dependencies
     Structured Freedom: humanity is limited in thinking by its past
@@ -27,6 +31,7 @@ How do we get there
   - entrenched interests?
   - emergent behavior that has been locked
     in around an "chaotic attractors"
+
   
 * what is transformation research and what are its constituents?
   - innovation management
@@ -38,20 +43,24 @@ How do we get there
     misallocation effects on the macro scale that produce outcomes which the
     same individuals would not choose 
     -> Emergence 
-  - Here the main thrust of
-    the research lies in understanding relations between single elements and
+   * Me: complexity?
+  - research on understanding relations between single elements and
     the dynamics of the whole in order to understand why single elements
-    behave the way they do and how this might change. As a result, the
-    emphasis when searching for sustainable development solutions is less on
+    behave the way they do and how this might change. 
+    
+    As a result, the emphasis when searching for sustainable development solutions 
+    is less on
     improving single technological products or economic incentives, and more
     on understanding the dynamics of wider socio-technical or
     socio-ecological systems (STS or SES) before thinking about which
     interventions could improve sustainability.  
+    
   - Shouldn't it be a goal to explicitly work on reducing the complexity
     of the societal systems we rely on?
     Example: simpler tax laws could make it more likely that people 
     actually invest into sustainable technoligies instead of finding
     even more "lucrative" tax "holes"?
+    
   - "intrinsically social, full of uncertainties, ups and downs, twists and
     turns and should best be viewed as a dynamic, multidimensional,
     multi-actor and multilevel challenge that cannot be planned and
@@ -61,6 +70,10 @@ How do we get there
 * Incremental change vs. radical transformation
   - incremental change in prevailing systems will not suffice. 
   - "radical incremental transformation strategies"
+
+haben d schülerproteste den kick gegen? oder war die zeit reif und sie sind nur symptom
+
+* Can we deterministically engineer/orchestrate change in a particular direction?
 
 * Why is economic change the key?
   - does this relate to "incentives"

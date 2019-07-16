@@ -1,0 +1,140 @@
+Hilda
+-------------------------
+* Overview over ECMWF 
+  - who is behind it ("European")
+  - when was it established
+
+* What are the "medium" and "long" ranges we are talking about?
+  - Right between short-term forecasting and climate modeling?
+  - Synergies?
+
+* Why is medium forecasting needed
+
+* What "products" do you create? 
+  ... and which aspects are forecast? Temp, Hum, Rainfall, ... what else?
+
+* Who are your users?
+
+  
+
+Peter - Model
+---------------------------
+* Brief recap: how does "regular" weather forecasting work
+  - measure
+    . satellite pictures of clouds
+    . temperature, humidity, wind measured on the ground
+    . and some of these params also from satellites
+  - discretize volumes
+  - calculate forward with (approximated) physical laws
+
+* Is SEAS5 categorically different?
+  It has to be to some degree, because "regular" forecasts don't work 
+  beyond 5 days or so.
+
+* Do you also adopt ideas from climate models?
+
+* Do you run one model or several?
+
+* Components
+  - physics 
+    . which effects
+    . how are they approximated
+  - numerics
+  - Earth System?
+  - what else?
+
+* Which atmospheric processes are modeled?
+  - convection, cloud formation / coverage
+  - waves  
+  - stratospheric quasi-biennial oscillation 
+  - volcanic eruptions
+
+* Finer resolution is useful of course ... but what about
+  non-linear/chaotic effects. You can't handle those with more
+  resolution. As I understand, this is what kills the reliability
+  of regular forecasts.
+  - eg for top levels in oceans.
+  
+* How does the medium term forecast relate to short terms?
+
+  "A key requirement for seasonal forecasting is that the initialisation
+  of the re-forecasts is consistent with that of the real-time
+  forecasts, otherwise the calibration of the forecasts becomes invalid.
+  
+  
+* On the other hand: you are averaging more (I guess), so the problem of
+  "where exactly will the Cb develop" and where it will rain, consequently
+  is not one you care about.
+  
+* What are ensembles?
+  50 seems like a low number for the huge param space?
+
+
+* How did the model evolve over time?
+
+* Working towards seamless approach .... means?
+  - so it is the same approach/models then ....
+  - same model, different parametrization?
+
+* How do you (retroactively) asses the reliability?
+  - Re-forecasting.
+  - So how good are you :)?
+
+* Does climate change (ie, really long term not stable) impact
+  the way you forecast?
+
+
+
+
+ 
+* How long does a forecast run run? Since you target longer range,
+  - I guess you can afford if running the algorithms takes longer as well.
+  - release once per month. Run a month?
+  
+* hardware architecture? computers?
+  - Cray XC40
+  - Hierarchical architecture?
+  - processors
+  - storage
+  - bandwidth
+  - OS
+  - programming languages and tools?
+    . computation modules
+    . middleware
+  - utilizition ratio of the machine?
+
+* Execution 
+  - implemented in which lang?
+  - how to paralellize?
+
+
+
+Data Assimilation - Tony
+--------------------------------------------------
+* Which data sources do you use
+  - Sea: floats, buoys, ships
+  - satellite instruments (which)
+  - land: weather stations
+
+* are there standards for the kind of data? 
+  I am sure assim is automated.
+
+* "atmospheric state" vs. derivatives/history	
+
+* "assimilation is typically a sequential time-stepping procedure"?
+  -> what does this mean?
+
+* how do you decide which data to use? 
+
+* what do you do with the data before it's used?
+  - "sanity check" quality?
+  - normalize?
+  "Improving the handling of satellite signal contamination"
+
+* "Developing automated detection, correction and alarm systems to
+  monitor the quality of observations from the global network of
+  meteorological satellites.
+
+* "Assessing the relative impacts of different types of satellite
+  observations and the resulting socio-economic benefit in the wider
+  context of future mission design.

@@ -1,16 +1,31 @@
+* Historische Entwicklung der Simulatoren bei Daimler
+
+Wie nutzen
 * Welche Fragestellungen werden mit dem Simulator adressiert
+  TEstfahrer
   - Fahrdynamik
     . was heißt das?
     . welche Aspekte sind da relevant?
     . Beispiele (aus der Vergangenheit, nicht geheim)
-  - Autonomes Fahren?
+
+Verhälkt wie im AUto?
+
+  - Autonomes Fahren?		
     . reagiert das Auto richtig?
     . reagiert der Fahrer richtig auf das (nicht) reagierende Auto?
     . was noch?
+™
 
-* Historische Entwicklung der Simulatoren bei Daimler
+Rolle der FIxed Baseds
     
 * Der Simulator
+  - Haptisches Feedback
+    . lenkkräfte?
+    . Welche Arten von haptischem Feedback gibt es im Simulator? 
+    . Wie wichtig sind z.B Vibrationen des Sitzes für die Validität?
+
+
+
   - Überblick
     . Kabine (austauschbar)
     . Hexapod
@@ -18,6 +33,9 @@
   - Bewegungssystem
     . Hexapod (elektrisch + pneumatisch)
     . Linear (konfigurierbare Richtung)
+    . Unterscheid FLugsim
+      Wash out!
+    
     . Geschwindigkeiten + Kräfte
     . Wie groß sind die Beschleunigungen? 
       negativen Beschleunigung/Bremsverhalten
@@ -26,6 +44,7 @@
     . Wie lange kann beschleunigt werden? 
       Länge der Linearführung ist ja begrenzt
       ... oder wird zurückgeneigt?
+      QUerachse vs Neigung.
   - Visualisierung
     . 360 grad
     . wie realistisch?
@@ -40,10 +59,6 @@
   - Auralisierung
     . Wie wichtig (oder unwichtig) ist das Audio-Feedback des Fahrzeuges?
     . Welche Technik wird für den Sound eingesetzt?
-  - Haptisches Feedback
-    . lenkkräfte?
-    . Welche Arten von haptischem Feedback gibt es im Simulator? 
-    . Wie wichtig sind z.B Vibrationen des Sitzes für die Validität?
   - Regelungssoftware
     . wie entwickelt?
   - Scenario-Software 

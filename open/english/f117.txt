@@ -1,4 +1,9 @@
 The thing is really like to know is what it was like just to hand fly. What was it like to just fly around; heavy, nimble, responsive, what was it like when you opened the throttle and climbed? I guess; was it fun to fly?
+Taking from the comments in the F15 episode, were any missions (even training, non combat) ever flown a lot "by hand" or was it always primarily about careful planning of the route to minimise exposure in the first place and pilot's role was more about following the plan?
+ It would be interesting to know how they balanced minimising the radar cross section of the aircraft with the level of fly by wire tech required to make it actually fly. Is it basically the best stealth facet design and then make it work in the air or work backwards from the extreme to get a balance? 
+I would also like to hear about the process they went through making sure the solution would perform as expected before letting a human loose on it. CFD, wind tunnel, simulation etc.
+ •Being a single seater with such an unusual design, how did the pilots prepare to fly it? If they had simulators, how did they know that they could match the flight characteristics with the unproven design of the real plane?
+•Where do you actually start when testing such a new concept/design for the first time? Nearly every other plane previously had been a derivative of the proven concept of a rounded fuselage with teardrop profile wings, but the F-117 with its faceted body/wings must have been a real challenge.
 
 
 

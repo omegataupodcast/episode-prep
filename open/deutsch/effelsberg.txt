@@ -9,7 +9,9 @@ Radioteleskop Effelsberg
     ja nur noch Interferometer baut?
 * Wellenlängen 
   - Dish
-  - Empfänger
+  - Empfänger 
+    -> ein pixel? Viele Pixel?
+    effel pixel vs image; receivers
   - Verarbeitungskette im Wandel der Zeit
 * Standort - Warum?
 * Qualität der Antennenoberfläche

@@ -9,14 +9,21 @@ Radio Interferometry
 
 VLBI
 ---------------------------------------
+* VLBI is always an "offline" technique 
+  - in the sense that the resulting image is produced later?
+  - is this the only difference in approach compared to a "local" radio
+    interferometer such as ALMA?
+
 * Use the multiple telescopes -> VLB
   "act as a phased array, a virtual telescope which can be pointed electronically, 
    with an effective aperture which is the diameter of the entire planet"
+
 * How do you align time?
   - shared time sources is hard. GPS?
   - use of local atomic clocks?
   - or use a "spike" signal that can be used to synchronise "on sky"?
   - Can this be done computationally, in postprocessing?
+  
 * How it works
   - high-rate sampling
   - "replay" at central site with aligned time
@@ -24,28 +31,34 @@ VLBI
       this is the point of interferometry. How do you deal with this?
     . and there might be atomspheric delays as well.
   - the closure phase imaging technique 
-* VLBI is always an "offline" technique 
-  - in the sense that the resulting image is produced later?
-  - is this the only difference in approach compared to a "local" radio
-    interferometer such as ALMA?
-* what other challenges are there?
-  - location, perspective
-  - telescope sizes or technologies?
-* Some example VLBI arrays
-  - EVN
-  - VLBA
+
 * Applications
   - in astronomy
   - briefly: in geodesy
 
+* what other challenges are there?
+  - location, perspective
+  - telescope sizes or technologies?
+  
+
 EHT
 -----------------------------------
 * Who is behind it? Lots :-)
+
+History
+
 * A global VLBI array of 
   - eight stations over six geographical locations.  
   - Baseline lengths eanged from 160 m to 10,700 km toward M87
   - array with a theoretical diffraction-limit resolution of ∼25 μas  
+
+
+did you build new corr?
+
+
+
 * It's basically a VLBI-collaboration. What's special?
+  freq?
   - deployment of submillimeter dual polarisation receivers
   - increased noise in radio receiver electronics
   - increased phase fluctuations caused by atmospheric turbulence
@@ -53,16 +66,51 @@ EHT
   - highly stable frequency standards to enable very-long-baseline interferometry at 230–450 GHz,
   - higher-bandwidth VLBI backends and recorders
   - as well as commissioning of new submillimeter VLBI sites
+
+
+"VLBI Equipment"  
+  
+
+  
 * Why 1.33 mm? 
 * Why do we need so many telescopes (as opposed to few that are far apart)?
+
 * Who decides which baseline (pair) does a measurement when?
+
 * What kind of theory/modeling work was necessary in advance to make
   the observation feasible?
+  polarization fix sw
 * How did EHT profit/learn from ealier VLBI experiments?
   - Were there pathfinders before the big investment?
 
 
+
+
+Image Reconstruction
+---------------------------------------------
+Level of detail depends on whether this will be part
+of the interview with Heino, or whether I can convince
+Katie to talk about this aspect.
+---------------------------------------------
+* What kind of data is "delivered" by the telescopes?
+
+* "Image reconstruction is an ill-posed inverse problem"   
+  - What does this mean?
+  - sparsity of the uv-sampling
+* Processing steps: like with any VLBI, as discussed earlier?
+* The algorithms that were ultimately used were 
+  - a regularized maximum likelihood algorithm 
+  - and the CLEAN algorithm
+* Could we have taken the image if we hadn't know how it would look before?
+* How do you know you can "trust" the image with all the free parameters?
+  multiple independent calibration and imaging techniques
   
+
+* Some example VLBI arrays
+  - EVN
+  - VLBA
+
+   
 The "famous" observation
 ----------------------------------------
 * What exactly does the picture show?
@@ -78,27 +126,8 @@ The "famous" observation
    across the array over this
    timescale. After observations, recordings are staged at a central
    location, aligned in time, and signals from each telescope-pair
-   are cross-correlated."
+   are cross-correlated."a
 
-
-Image Reconstruction
----------------------------------------------
-Level of detail depends on whether this will be part
-of the interview with Heino, or whether I can convince
-Katie to talk about this aspect.
----------------------------------------------
-* What kind of data is "delivered" by the telescopes?
-* "Image reconstruction is an ill-posed inverse problem"   
-  - What does this mean?
-  - sparsity of the uv-sampling
-* Processing steps: like with any VLBI, as discussed earlier?
-* The algorithms that were ultimately used were 
-  - a regularized maximum likelihood algorithm 
-  - and the CLEAN algorithm
-* Could we have taken the image if we hadn't know how it would look before?
-* How do you know you can "trust" the image with all the free parameters?
-  multiple independent calibration and imaging techniques
-  
    
   
 Wrap Up
