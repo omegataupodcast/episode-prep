@@ -1,3 +1,4 @@
+* Heatblur: team and structure
 * General: what are the sources for building such a sim:
   - literature?
   - SMEs?
