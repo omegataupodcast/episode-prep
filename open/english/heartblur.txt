@@ -1,0 +1,26 @@
+* General: what are the sources for building such a sim:
+  - literature?
+  - SMEs?
+* Flight model
+  - which aspects are simulated?
+  - how did you validate?
+  - how do the algorithms look:
+    . actual CFD calculations?
+    . lookup-tables that contain the "result" of CFD sims?
+    . mixture?
+* Avionics
+  - how detailed?
+  - validation?
+  - I assume this is "nachprogrammiert" and does not sim the microprocessor in the a/c
+  - which other systems? 
+    "AWG9 we simulate the computer ..." what does this mean?
+  - INS + Navigation
+    accelerometer, gyrodrift, earth magnetiv variation, auch
+    subsystems are realistic, eg loss of INS during cat shot 
+* Visualization
+  - sources for the visuals?
+  - rendering algos?
+  - raytracing? 
+  ... or do you just supply a model to DCS and it runs the visualization?
+* What are the integration points/APIs wrt to DCS?    
+    
