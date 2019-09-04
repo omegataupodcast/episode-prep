@@ -4,9 +4,10 @@ Hilda
   - who is behind it ("European")
   - when was it established
 
+
+univeristiies?
+
 * What are the "medium" and "long" ranges we are talking about?
-  - Right between short-term forecasting and climate modeling?
-  - Synergies?
 
 * Why is medium forecasting needed
 
@@ -27,14 +28,6 @@ Peter - Model
   - discretize volumes
   - calculate forward with (approximated) physical laws
 
-* Is SEAS5 categorically different?
-  It has to be to some degree, because "regular" forecasts don't work 
-  beyond 5 days or so.
-
-* Do you also adopt ideas from climate models?
-
-* Do you run one model or several?
-
 * Components
   - physics 
     . which effects
@@ -43,11 +36,29 @@ Peter - Model
   - Earth System?
   - what else?
 
-* Which atmospheric processes are modeled?
+do you know everythign you need to knowß
+
+chaotic black swans
+
+* What are ensembles?
+  50 seems like a low number for the huge param space?
+
   - convection, cloud formation / coverage
   - waves  
   - stratospheric quasi-biennial oscillation 
   - volcanic eruptions
+
+* How do you (retroactively) asses the reliability?
+  - Re-forecasting.
+
+* Is SEAS5 categorically different?
+  It has to be to some degree, because "regular" forecasts don't work 
+  beyond 5 days or so.
+
+
+* Do you run one model or several?
+
+* Which atmospheric processes are modeled?
 
 * Finer resolution is useful of course ... but what about
   non-linear/chaotic effects. You can't handle those with more
@@ -62,31 +73,36 @@ Peter - Model
   forecasts, otherwise the calibration of the forecasts becomes invalid.
   
   
+
+
+
+* Do you also adopt ideas from climate models?
+  - Right between short-term forecasting and climate modeling?
+  - Synergies?
+
 * On the other hand: you are averaging more (I guess), so the problem of
   "where exactly will the Cb develop" and where it will rain, consequently
   is not one you care about.
+
+* Does climate change (ie, really long term not stable) impact
+  the way you forecast?
+
+
   
-* What are ensembles?
-  50 seems like a low number for the huge param space?
-
-
 * How did the model evolve over time?
 
 * Working towards seamless approach .... means?
   - so it is the same approach/models then ....
   - same model, different parametrization?
 
-* How do you (retroactively) asses the reliability?
-  - Re-forecasting.
-  - So how good are you :)?
-
-* Does climate change (ie, really long term not stable) impact
-  the way you forecast?
-
-
-
+* if you could wish, what would improve?
 
  
+ 
+   - So how good are you :)?
+* Grumpy person: you can't even predict tomorrow's weather ..... 
+
+
 * How long does a forecast run run? Since you target longer range,
   - I guess you can afford if running the algorithms takes longer as well.
   - release once per month. Run a month?
@@ -98,14 +114,21 @@ Peter - Model
   - storage
   - bandwidth
   - OS
+
+  - utilizition ratio of the machine?
+
   - programming languages and tools?
     . computation modules
     . middleware
-  - utilizition ratio of the machine?
+how big code basw
 
 * Execution 
   - implemented in which lang?
   - how to paralellize?
+
+what are you working on
+ML
+
 
 
 
@@ -130,6 +153,9 @@ Data Assimilation - Tony
   - "sanity check" quality?
   - normalize?
   "Improving the handling of satellite signal contamination"
+
+how many sats?
+how do you acrually receive dara
 
 * "Developing automated detection, correction and alarm systems to
   monitor the quality of observations from the global network of

@@ -1,6 +1,8 @@
 Let us try to separate the state we want to change to from the way we try to get there.
 I want to emphasize the second aspect.
 
+göpel: kann man nur warten bis jeder einzelne richtig habdekt? wie kann man das beschleunigen?
+
 Where do we want to go to?
 ------------------------------------------
 * Exploiting the planet less, destroying its climate less
@@ -13,16 +15,21 @@ Where do we want to go to?
  
 Yes. So how do we get there?
 
+* Seems to me that in many (not all) cases we know
+  (science majority) what we'd need to do. But we
+  seem to be unable to make the changes.  
+
 
 How do we get there
 ------------------------------------------
 * What has to change for this to become a success?
   - institutions, values, laws, ... what else?
-  
-* Seems to me that in many (not all) cases we know
-  (science majority) what we'd need to do. But we
-  seem to be unable to make the changes.  
-  
+    
+  - "intrinsically social, full of uncertainties, ups and downs, twists and
+    turns and should best be viewed as a dynamic, multidimensional,
+    multi-actor and multilevel challenge that cannot be planned and
+    predicted in a linear manner"
+
 * Why is change so hard?
   - path dependencies
     Structured Freedom: humanity is limited in thinking by its past
@@ -39,39 +46,38 @@ How do we get there
   - and political economy.
   
 * why humans collectively create societies that individually they would like to change. 
-  - small decisions by rationally calculating actors may well lead to
+
+  - Emergence: small decisions by rationally calculating actors may well lead to
     misallocation effects on the macro scale that produce outcomes which the
     same individuals would not choose 
-    -> Emergence 
-   * Me: complexity?
+    
   - research on understanding relations between single elements and
     the dynamics of the whole in order to understand why single elements
     behave the way they do and how this might change. 
     
     As a result, the emphasis when searching for sustainable development solutions 
-    is less on
-    improving single technological products or economic incentives, and more
+    is less on improving single technological products or economic incentives, and more
     on understanding the dynamics of wider socio-technical or
     socio-ecological systems (STS or SES) before thinking about which
     interventions could improve sustainability.  
     
+    Can we? Aren't they so complex?
+    
   - Shouldn't it be a goal to explicitly work on reducing the complexity
     of the societal systems we rely on?
+    
     Example: simpler tax laws could make it more likely that people 
     actually invest into sustainable technoligies instead of finding
     even more "lucrative" tax "holes"?
     
-  - "intrinsically social, full of uncertainties, ups and downs, twists and
-    turns and should best be viewed as a dynamic, multidimensional,
-    multi-actor and multilevel challenge that cannot be planned and
-    predicted in a linear manner"
 
   
 * Incremental change vs. radical transformation
   - incremental change in prevailing systems will not suffice. 
   - "radical incremental transformation strategies"
 
-haben d schülerproteste den kick gegen? oder war die zeit reif und sie sind nur symptom
+* haben d schülerproteste den kick gegen? oder war die zeit reif 
+  und sie sind nur symptom
 
 * Can we deterministically engineer/orchestrate change in a particular direction?
 
@@ -105,7 +111,8 @@ haben d schülerproteste den kick gegen? oder war die zeit reif und sie sind nur
   blueprint, but as a conflict-ridden process which involved multiple
   changes in technology, social groupings and regulation, all influencing
   each other in a paradoxical pairing of unprecedented material production
-  capacity with unprecedented poverty. -> Tainter, Collapse
+  capacity with unprecedented poverty. 
+  -> Tainter, Collapse
 
 * The importance of shocks - does it work as a slow change?
   - Tainter's theory of collapse

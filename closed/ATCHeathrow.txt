@@ -4,12 +4,15 @@ HEATHROW
   - busy!
   - airspace size
   - common airspace with other London airports?
-  - coordination with other airspaces / ATC centers
   - "stations" (arrival, departure, delivery, tower, ground/apron ...)
     . quick run through how these interact
     . where are these ppl located?
   - typical operation of the two runway?  
   - hold points
+
+
+  - coordination with other airspaces / ATC centers
+
 
 * Aircraft are guided one-by-one, but follow published procedures
   - how exactly does this relationship work:
@@ -46,11 +49,13 @@ HEATHROW
   - continuous descent approaches 
   - introduction of Time Based Separation on approach (currently the only airport in the world using this concept and tool) 
   - Re-categorisation of wake turbulence classifications
+  - Flow Control/slot times
+
+  - Airport Collaborate Decision Making
+
   - Advanced airport safety nets 
   - Automatic routeing and guidance of aircraft on the ground
   - Departure Separation tool
-  - Flow Control/slot times
-  - Airport Collaborate Decision Making
   Each:    
   . idea, insight
   . realization
@@ -62,10 +67,16 @@ HEATHROW
 
 FAIRFORD
 ---------------------------------------------
-* Your involvement
-* Regular Fairford tower crew enhanced?
+* What is RIAT?
+* Your involvement - Volunteers.
+* Why not regular Fairford tower crew?
+* How are the procedures different from a "normal" tower?
 * Challenges with an airshow?
   - different a/c (size, speed, capabilities)
   - less planning, more improv?
-* How are the procedures different from a "normal" tower?
-  
+    eg delay because of broken F16
+  - mix between takeoff/landing and use of airspace for displays
+  - holding boxes?
+* What? No Radar :-) ?
+* Departure and Arrivals Days?
+* Who is Director Krennic?

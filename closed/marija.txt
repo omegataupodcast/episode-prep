@@ -5,19 +5,21 @@
 Flying the P-3
 -------------------------------
 * The Airplane
+  - Electra Roots
   - describe:  
     . aerodynamics
     . engines
     . handling envelope and characteristics
-  - Electra Roots
+    hydraulic
   - quirks?  
-  - eventual replacement?
   - what is special about the AP-3C compared to the P-3C?
 
+* Reliability
+
 * Sensors
+  - MAD
   - Radar
   - FLIR
-  - MAD
   - Acoustics - this is the "black art" of submarine hunting
   
 * "Sensors" for flying?
@@ -32,26 +34,34 @@ Flying the P-3
   
 * Missions
   - how long? extra crew?
+    . fatigue?
+
+  - maneuver
   - typical day ("breakfast with the crew")
+
+  - team 
   - Collaboration cockpit crew / mission crew?
     . Crew composition and dynamics
 
 * What are some of the flying challenges?
   - Flying low over the sea?
     . "blueout"?
-    . fatigue?
     . "precise hand flying without the aid of the autopilot"
+    . weather limits
   - Switching off engines ...
   
 * Talk a bit about your flying all around the world
-  - anti-piracy missions off the coast of Somalia
   - search and rescue missions in the Southern Ocean
     . Longest/most memorable day? 
     . link to story: http://australianaviation.com.au/2018/11/over-watch-when-a-raaf-orion-crew-answered-the-sar-call
+  - anti-piracy missions off the coast of Somalia
   - chasing submarines off the coast of Southern California
   - Taking-off in the eye of a cyclone (to evacuate the aircraft - it's a great story)
   - The best thing about flying the P3 (it's the crew!)
   
+  - eventual replacement?
+  P8 
+ 
   
 Test Pilot School
 -------------------------------
@@ -64,27 +74,31 @@ Test Pilot School
   - flying
   
 * Which airplanes? 23
-  - F-16
-  - F-15
-    . "whats wrong with your face"
   - MiG 15
     . interesting flying characteristics? 
     . knowing how to read cyrillic when hopping into a Russian cockpit!
+
+  - T-38
+  - F-16
+  - C-12
+
+  - ASK-21 :-)
+  - F-15
+    . "whats wrong with your face"
+* Compare f-15 and f-16 
+  (Newbie perspective)
+    
   - An-2 
     . salt lake hopping
   - Extra 300
     . you don't do much negative g in military jets, right? 
   - HU-16
     . including the time we crashed one a little bit? :-)
-  - T-38
-  - ASK-21 :-)
 
 * Why fly so many airplanes? 
 
 * Are all of these owned by TPS? Or lend to it?
 
-* Compare f-15 and f-16 
-  (Newbie perspective)
 
 * The F-16 VISTA
   - how are the flight control systems different (compare to F-16 episode)

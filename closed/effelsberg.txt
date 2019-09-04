@@ -3,17 +3,30 @@ Radioteleskop Effelsberg
 * Betreiber
 * Kurze Wiederholung: Radioastronomie
 * ZDF
+  - größe
+  - fläche
+  - gewicht
+  - bewegungsgeschwindigkeiten
+  - warum außen nur gitter?
+  - 0.5 mm  
 * Effelsberg - kurze Historie
   - größtes?
   - ist das heute noch relevant, wo man 
     ja nur noch Interferometer baut?
+  - Warum genau dieser Ort?
+    Wetter?
 * Wellenlängen 
+  - Was begrenzt diese?
   - Dish
+  - auflösung
+  - strahlengang
   - Empfänger 
     -> ein pixel? Viele Pixel?
     effel pixel vs image; receivers
   - Verarbeitungskette im Wandel der Zeit
 * Standort - Warum?
+* Steuerung, Lager, etc.
+  Nachführung, wie?
 * Qualität der Antennenoberfläche
   - FEM - konstante Form
 * Konstruktives

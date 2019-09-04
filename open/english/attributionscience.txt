@@ -1,0 +1,122 @@
+* Introduction Friederike and Institute
+
+* What does attribution science try to do
+  Context: - does the climate change at all?
+           - is this change anthropogenic
+           - is a particular (extreme) weather event due to this change
+  It does not answer the second question (even though we all expect the answer is "yes"         
+
+* What is extreme weather
+  - criteria: Heat, Wind, Rain, Cold
+  - how do you define thresholds?
+  - Do you just look at meteorological numbers (temp, rain/time) 
+    or also on when/where it occurs and the economic or health impact it had?
+
+* Does global warming make extreme weather worse, or does it create more extreme 
+  weather instances. Or are the two the same :) ?
+
+* How does it work in principle
+  - Location-specific probabilities and then contrasting with what actually occurred
+  - Location specific because global warming effects the circulation.
+    (which "distributes" effects unequally)
+  - Key idea: distinguish thermodynamic (global, slow) and dynamical (circulation) 
+    causes because they are quite different.
+  - basically statistical
+  - Non-linearity: eg once a threshold is crossed, precipitation remains stable.
+  - You don't really attribute a particular event, it's still probabilitic for a class
+    ("xyz likely that this kind of event based on climate change"). 
+    You can't attribute ONE PARTICULAR event. Correct?
+  - Class of event vs. a particular event. What difference does this make? 
+    Can't any event generalized?
+
+* Is attribution the same as predicting? 
+  - predicting as in "it will happen again every x years
+  - or predicing as in "when we see this pattern in the atmo developing, 
+    event will likely happen in the new y days"
+
+* Steps
+   - Step 1: What happened?
+   - Step 2: Event definition
+   - Step 3: Model evaluation
+   - Step 4: Estimate likelihoods
+   - Step 5: Interpret and synthesize
+   - Step 6: Communication
+
+* Several different methodologies:
+  - Risk based approach. Run "current" climate model against counterfactual "natural" one.
+    . Seems like the obvious approach
+    . How do you know how a counterfactual world would have looked?
+      remove aerosols and co2. What to do about oceans sst?
+    . remove only one factor should give a more specific cause?
+  - Boulder approach: how is it different?
+    . Tries to disentangle the specific causes of a particular event.
+      How?
+    . Critic: you remove the thing of which you *claim* it is the problem. 
+      Isn't that self-fulfilling?
+  - Circulation-based approaches
+  - Storyline approaches
+
+* Evolution of climate models
+  - Climate models had to evolve to contain circulations
+  - what are "coupled" models?
+  - how do you simplify? If you run 1000s of ensembles, you can't be full detail
+
+* The role of ensemble simulations
+  - What are these?
+  - What do you vary? How do you know what to vary?
+  - How many ensembles do you typically run 
+    (I read somewhere of 17,000 real, 117,000 counterfactual)
+  - Ensembles vs. Re-analysis
+
+* Instead of using a hypothetical world (antropogenic removed) 
+  we can also just go back 50 years ... less "hypothetical". True?
+  
+* Problem of scale 
+  - There's still averaging - otherwise it would be weather.
+  - How do you represent small-scale extreme events (huge thunderstorms) if 
+    the climate models don't go down to this scale?
+  - What is a "regional climate model"?
+  - If you run local models, how do take care of the boundary conditions?
+  - Generally: how do you combine local and global models that run 
+    at different scales?
+
+* How do you get from a model run result to a probability?
+  How do you quantify uncertainty?
+
+* Do the different methodologies agree if applied to the same event?
+
+* What makes an event "easy" to attribute?
+  Are the different kinds (heat, rain, etc) differently complex to attribute?
+ 
+* How can you validate the "predictions" or attributions/probabilities 
+  of your attributions? 
+  - What's your equivalent of 3 sigma.
+  - What about built-in biases?
+  - How do you correct?
+   
+  Example: Krymsk, southwest Russia, near the Black Sea, caused by catastrophic rains 
+  in July 2012, was no exception (Fig. 1). Writing in Nature Geoscience, 
+  Meredith et al.1 now show that — exceptionally for such a localized event — it is 
+  possible to attribute this flood to climate change: they present convection-resolving 
+  simulations that suggest that incremental warming of sea surface temperature (SST) 
+  in the Black Sea over the past few decades has led to an abrupt amplification of 
+  convective precipitation.
+  -> ran a particular model. How do you ensure it is not self-fulfilling? 
+
+* Extreme weather event vs. long-term general trend: 
+  the latter's attribution is trivial with climate models. isn't it?
+
+* What is Weather@Home and how does it help?
+
+* A little bit of history
+  - How old is the field? 
+  - Key enablers
+
+* The future
+  - What is still missing from the approach
+  - what can be improved? 
+  - How?
+
+
+
+
