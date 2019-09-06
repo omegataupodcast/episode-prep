@@ -58,6 +58,7 @@
 
 * Evolution of climate models
   - Climate models had to evolve to contain circulations
+    (is this only the atmosphere, or also oceans? Gulf stream?)
   - what are "coupled" models?
   - how do you simplify? If you run 1000s of ensembles, you can't be full detail
 
