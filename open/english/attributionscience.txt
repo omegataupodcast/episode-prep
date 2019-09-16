@@ -1,10 +1,12 @@
 * Introduction Friederike and Institute
 
+----------
 * What does attribution science try to do
   Context: - does the climate change at all?
            - is this change anthropogenic
            - is a particular (extreme) weather event due to this change
   It does not answer the second question (even though we all expect the answer is "yes"         
+----------
 
 * What is extreme weather
   - criteria: Heat, Wind, Rain, Cold
@@ -73,7 +75,7 @@
   we can also just go back 50 years ... less "hypothetical". True?
   
 * Problem of scale 
-  - There's still averaging - otherwise it would be weather.
+  // - There's still averaging - otherwise it would be weather.
   - How do you represent small-scale extreme events (huge thunderstorms) if 
     the climate models don't go down to this scale?
   - What is a "regional climate model"?
