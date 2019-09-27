@@ -1,0 +1,91 @@
+* Was ist die Geodäsie?
+  https://de.wikipedia.org/wiki/Geod%C3%A4sie
+
+* Scope:
+  - "Vermessungsbüro"
+  - Vermessung der Erde und Kontinente
+  - Bindeglied zwischen Astronomie und Geophysik
+  - Betrachtung als Ebene vs. Betrachtung als Kugel
+  - Bezug zur Kartografie und den Projektionen
+
+* Kurze Betrachtung der niederen Geodäsie, zur Einordnung
+  - Thdeodolit
+  - Laser
+  - Luftbilder
+  - ... 
+  
+* Höhere Geodäsie
+  - Präzise Vermessung d Erde: welche Aspekte?
+    . Form / Geoid
+    . Bahn
+    . Höhenprofile?
+    . Positionen der Kontinente
+    . Erdmagnetfeld
+  - Referenzsysteme
+  
+* Wozu braucht man denn die genaue Form der ERde?
+  - Satellitenbahnen
+  - Angabe der Höhe NN
+
+* Techniken  
+  - Gravimetrie https://de.wikipedia.org/wiki/Gravimetrie
+  - Satellitengeodäsie https://de.wikipedia.org/wiki/Satellitengeod%C3%A4sie
+  - Astrogeodäsie https://de.wikipedia.org/wiki/Astrogeod%C3%A4sie
+  
+
+* Messung sehr großer Entfernungen durch Radiointerferometrie (VLBI)
+  https://www.bkg.bund.de/DE/Observatorium-Wettzell/Messverfahren/Radiointerferometrie/radiointerferometrie_cont.html
+  - Basis: Quasare
+  - Recap: Interferometrie
+  - Welche Baselines/Teleskope?
+  - Inwiefern ist das "andersrum" als bei der astronomischen Beobachtung mit RI?
+  - Sind die Wettzeller Teleskope ausschließlich geodätisch genutzt?
+  - Receiver/Mixer/Digitizer/Maser
+  - Korrelation / wer?/wo?
+  - International VLBI Service for Geodesy and Astronomy
+  - Was 
+    . Terrestrischen Referenzsystemen
+    . Himmelsfesten Referenzsystemen
+    . Tageslänge (LoD) bzw. Erdrotationswinkel (UT1)
+    . Polbewegung
+    . Nutation und Präzession
+    . Plattentektonik
+    . Atmosphärenparameter
+  - R1- und R4-Sessions 
+    . dauern je 24 Stunden
+    . Bestimmung der Orientierung der Erde im Raum
+      Polbewegung, Drehgeschwindigkeit und Nutation bestimmt.
+  - täglich ist Wettzell an einstündigen Messungen der Drehgeschwindigkeit 
+    beteiligt, den sogenannten Intensive-Sessions. 
+  - Etwa alle 2 Monate T2-Sessions statt, die der Beobachtung des terrestrischen 
+    Referenzrahmens dienen und an der sämtliche zur Verfügung stehende Radioteleskope 
+    teilnehmen. 
+  - Von Zeit zu Zeit werden in CRF-Sessions auch die Positionen der Radioquellen 
+    überprüft, um die Stabilität des himmelsfesten Bezugssystems (CRF) nachzuweisen.
+    
+ 
+* Entfernungsmessungen zu Satelliten mit Laserstrahlen (Laser Ranging)
+  https://www.bkg.bund.de/DE/Observatorium-Wettzell/Messverfahren/Laser-Ranging/laser-ranging_cont.html
+  - Idee einfach
+  - Implementierung/Technik?
+    . Sehr kurze, leistungsstarke Pulse
+    . Reflektierte Signal ist dennoch nur sehr schwach 
+      (wenige Photonen, im Extremfall 1 Photon).
+      Detektor empfindlich und schnell
+    . Präzise Nachführung
+    . Die Laufzeitmessung muss auf wenige Pikosekunden genau erfolgen.
+  - Welche Satelliten? 
+  - Mond?
+  - Internationalen Laser Ranging Service (ILRS) 
+  - Warum macht man das? Man muss ja die Satellitenposition sehr genau kennen. Tut man das?
+
+* Positionsbestimmung mit Hilfe satellitengestützter Navigationssysteme (GNSS)
+  https://www.bkg.bund.de/DE/Observatorium-Wettzell/Messverfahren/Global-Navigation-System/global-navigation-system_cont.html
+  - wie bekommt man Zentimeter-Genauigkeit hin, wo GPS doch nur im Meterbereich liegt?
+  - Phasenmessungen auf den Trägerwellen (L1, L2): wie geht das?
+  - Reicht die Positionsgenauigkeit der Satelliten aus dem Almanach?
+  
+* Entfernungsmessungen zu Satelliten mit Dopplertechnik (DORIS)  
+  ? 
+
+  

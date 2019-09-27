@@ -16,14 +16,17 @@
 
 * Does global warming make extreme weather worse, or does it create more extreme 
   weather instances. Or are the two the same :) ?
+  
+* What theories do we have to explain these effects?
 
 * How does it work in principle
+  - Key idea: distinguish thermodynamic (global, slow) and dynamical (circulation) 
+    causes because they are quite different.
   - Location-specific probabilities and then contrasting with what actually occurred
   - Location specific because global warming effects the circulation.
     (which "distributes" effects unequally)
-  - Key idea: distinguish thermodynamic (global, slow) and dynamical (circulation) 
-    causes because they are quite different.
   - basically statistical
+  - how do you deal with the generally chaotic nature of weather?
   - Non-linearity: eg once a threshold is crossed, precipitation remains stable.
   - You don't really attribute a particular event, it's still probabilitic for a class
     ("xyz likely that this kind of event based on climate change"). 
@@ -75,7 +78,6 @@
   we can also just go back 50 years ... less "hypothetical". True?
   
 * Problem of scale 
-  // - There's still averaging - otherwise it would be weather.
   - How do you represent small-scale extreme events (huge thunderstorms) if 
     the climate models don't go down to this scale?
   - What is a "regional climate model"?
