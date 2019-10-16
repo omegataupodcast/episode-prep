@@ -88,4 +88,9 @@
 * Entfernungsmessungen zu Satelliten mit Dopplertechnik (DORIS)  
   ? 
 
-  
+* Mit welchen (Software-)Tools arbeitet man als Geodät
+  - Gibt es öffentliche Datenbanken oder Datensätze?
+
+* Welche Herausforderungen gibt es aktuell noch? 
+  - Was wurde noch nicht exakt vermessen, da Technologie fehlt oder zu aufwändig?
+  - Wie könnten die Herausforderungen gelöst werden?
