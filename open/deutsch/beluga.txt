@@ -7,3 +7,10 @@ Einsatzszenario
 Wer hatte die Idee für die Bemalung?
 Modifikationen vom 330 im Detail
 Flugerprobung im Detail
+
+Aerodynamik und Flugleistung
+  Kraftstoffverbrauch im Vergleich zur normalen A330?
+  MTOW?
+  Welche weiteren Modifikationen waren nötig (z.B. Stabilizer am Elevator)?
+  Aus Pilotensicht: Fühlt sie sich "dick" an oder "rechnet" Fly-By-Wire die Maschine schlank?
+  
