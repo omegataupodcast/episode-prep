@@ -13,6 +13,7 @@
   - Laser
   - Luftbilder
   - ... 
+  - Bitte mal eine kurze Skizzierung geben, wie man mit so einem Theodolit auf der Straße arbeitet.
   
 * Höhere Geodäsie
   - Präzise Vermessung d Erde: welche Aspekte?
