@@ -1,16 +1,29 @@
 * Vorstellung 
   - Gast
   - Kurzer Überblick Schott als Firma
-  
-* ELT m1 Segmentspiegel
-  - was sind die Herausforderungen
+
   - Material 
     . warum grade dieses
     . Struktur?
+   * Andere Anwendungen 
+     Litho
+     Messtechnik
+     Luftfahrt
+
+durchsichtig?
+  
+* ELT m1 Segmentspiegel
+  - was sind die Herausforderungen
+    . Aberrations in Mirrors 
+    . Spherical vs. Parabolic
+
   - Prozess
     . Verflüssigen des Glasses
     . Gleichmässiges Einbringen in die Formen
     . Wie wird gleichförmig und spannungsfrei abgekühlt?
+    . größe und anzahl
+    . wie wird das nachgwese
+    . handarbeit?
   - Formen
     - Material
     - Wer stellt die her?
@@ -18,9 +31,14 @@
   - QS
     - Oberflächenmessung
     - Polieren
+bewegeb
 
-* Die anderen EWT Spiegel
+* Recoating?
+
+* Die anderen ELT Spiegel
   - wie sind die anders, und was bedeutet das für den Prozess?
 
 * Spannende Geschichten aus der Spiegelproduktion anderer Teleskope
 
+
+* 8.2 VLT
