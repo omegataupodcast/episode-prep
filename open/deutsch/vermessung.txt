@@ -1,0 +1,103 @@
+* Vorstellung
+  - Ulrich Völter
+  - intermetric
+
+* Vermessung - Grundlegender Prozess am Bsp. von Haus
+  - Grundnetz
+  - Planung -> Plan
+  - Beantragung "beim Amt"
+  - Nachmessung nach dem Bau
+
+* Arten und Abgrenzung
+  -	Ingenieurvermessung
+  - Bauvermessung
+  - Landesvermessung
+  - Katastervermessung
+  - Bodenordnung
+
+  - Bezug zu Kartographie
+  - Nieder vs. höhere Geodäsie
+  
+* Wo bekommt man existierende Pläne und Daten her?
+  "fragen bei Telekom ob es Leitungen gibt" -> kein offizieller PLan bei der Stadt?
+  
+* Was sind relevante Genauigkeiten?  
+* Wieviele Punkte?
+* Mathematische Verfahren neben der "Vermessung"  
+  - Fehlerrechnung, Genaugigkeit
+  - Ausgleichungsrechnung  
+
+* Die Erde als Kugel vs. als Ebene
+  vs. Ellipsoid -> LHC
+
+* Technologien zur Vermesseung
+  - Nivellier 
+    . was ist das
+    . bauweisen
+    . zweck
+    . vorgehen
+  - Theodolit
+    winkelmessung
+  - Tachymetrie
+    . http://www.intermetric.de/technologien/detail/tachymetrie/
+    . "Totalstation"
+    . wie wird Entfernung gemessen? Laufzeug, Phase. Reflektor?
+      Oder Laser. Reflektiert auf allem?
+  
+      "Außerdem kann ein Tachymeter eine vordefinierte Serie mehrerer Punkte
+  	   vollautomatisch vermessen. Auf diese Weise werden beispielsweise die
+       Deformationen der Bogenstaumauer des Lai da Nalps überwacht, welche
+       durch den Bau des Gotthard-Basistunnels entstehen könnten."
+     . Rechnerintegration?
+     . "Semantisches Messen"? 
+  - GPS?
+    . Erhöhung der Präzision
+  - Laserscanning
+    . http://www.intermetric.de/technologien/detail/laserscanning/
+    . funktioniert in der PRaxis wie?
+    . Absolute Koordinate - Bezugsetzung
+  - Lasertracker 
+    . http://www.intermetric.de/technologien/detail/lasertracker/
+  - Schlauchwaage
+    . http://www.intermetric.de/technologien/detail/schlauchwaage/
+
+* Bei Tunneln
+  - wie kriegt man den Punkt "vertikal nach unten" -> LHC
+  - wie kann man Richtungen "gerade" halten; Tunnelbohren
+
+* Was sind GIS?  
+  - Pläne sind nicht nur Linien
+
+* Geomonitoring - was ist das?
+
+* Beispieldomänen
+  - Im Hochbau
+  - Im Tiefbau
+  - Im Tunnelbau
+    . Durchschlagsprognosen
+    . Vortriebsvermessung
+    . geotechnische Messungen über und unter Tage
+    . Profil
+  - Beim Brückenbau
+    . Pfeiler
+    . 3D-Höhennetz
+  - Beim Eisenbahnbau
+    . Unterschied Strassenbau?
+    . besondere Standards der Bahn?
+    . besonderes bei Fester Fahrbahn
+      Genauigkeit auch krass beim LHC => Geodäsieabteilung
+
+* Beispiele
+- http://www.intermetric.de/projekte/detail/gotthard-basistunnel-schweiz/
+  intermetric EXCAVATION CONTROL iEC für die Vortriebssteuerung im Tunnelbau.
+
+- http://www.intermetric.de/projekte/detail/gleis-monitoring/
+  intermetric GEOTECHNIC MONITOR iGM für die Überwachung von bis zu 500 Sensoren.
+
+- http://www.intermetric.de/projekte/detail/lueckenschluss-der-u5-in-berlin/
+- http://www.intermetric.de/projekte/detail/neubau-bab-44-helsa/
+- http://www.intermetric.de/projekte/detail/landesmesse-stuttgart/
+
+
+* Wo nötig, entwickeln wir unsere eigenen Algorithmen, Verfahren, Programme und Messsysteme, u
+
