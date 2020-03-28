@@ -1,0 +1,45 @@
+Introduction Edda
+(Ep 94, Neutrinos)
+
+Context
+===========================================================
+- Accelerators: collide beams for particle research
+- Accelerate electromagnetically
+- currently: around 30 MV/m
+- try to improve
+- why? 
+  . Circular accelerator "resuses" RF cavities 
+  . linear does not => efficiency is important otherwise really big
+- Also: protons or electrons?
+  . protons: garbage can, variety, analysis complexity, "garbage can smasher"
+  . leptons: only one particle, precise energy, less background, "scalpel"
+- the future after LHC:
+  - FCC: 100 km ring, first ee, then hh, like LEP and LHC
+  - CLIC: linear collider of leptons ==>> this is where acceleration is crucial
+  
+New idea for acceleration: Plasma wake field
+===========================================================
+- ... because it can reach higher delta-V/m
+- how does it work in principle?
+  . recap: what is plasma
+  . why do you need the plasma?
+  . how do you create it?
+  . it's for accelerating electron beams
+  . drive beam and witness beam
+- What is AWAKE
+  . experiment/research goals, 
+  . dimensions
+  . where is it installed?
+- what are the core challenges in practice?
+  . need a proton beam => where does it come from?
+  . alternative: drive via laser. Why is protons better?
+  . how do you control?
+  . how do you monitor and measure the acceleration of electrons?
+  . hows this work on practice?
+- Current state?
+  . results so far?
+  . remainign experimental programme?
+- What has to change to make this feasible in a "real" accelerator?
+
+Are there alternative ideas for higher V/m acceleration?
+Like the drive beam idea?
