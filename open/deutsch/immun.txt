@@ -1,25 +1,32 @@
-Was ist das Immunsystem
-Gegen was schützt es
+Was ist das Immunsystem?
+Gegen was schützt es?
+  Viren? Bakterien? Protozoen? Pilze?
+  Alles außer "mechanische" Verletzungen? Vergiftung?
+Haben alle Tiere (also nicht nur Wirbeltiere) auch ein Immunsystem?
+Und Pflanzen?
 
-Was sind den Angriffe?
-Viren? Bakterien? Protozoen? Pilze?
+Was "wollen" die Viren oder Bakterien? In die Zellen eindringen? 
+Sie fressen? DNA hacken?
 
-Alles außer "mechanisch"? Vergiftung?
+Wie detektiert der Körper, dass ein Angriff stattfindet?
 
+Wie wehrt sich der Körper?
 Mechanismen
 - Enzyme
 - TZellen
 - Antikörper; neutralisierende
 - Antigene
+Was passiert chemisch? Oder biochemisch?
 
 Passiert das Zellebene? Oder größer/kleiner?
 (ganze Bereiche)
+Passiert das immer lokal? Oder kann es sein, dass mein Körper 
+etwas aus meinem rechten Ohr in meinen linken Zeh schickt, 
+wenn dieser entzündet ist? Ist das Gehirn beteiligt?
 
-Was macht der Virus? Fressen? DNA hacken?
+Was bringt Fieber als Immunreaktion?
 
-Was passiert chemisch? Oder biochemisch?
-
-Wie adaptiert es sich auf konkrete Krankheiten?
+Wie adaptiert sich das Immunsystem auf konkrete Krankheiten?
 Virus. Corona. Hinterher immun. Bei manchen. Wie lange? 
 
 Bezug Impfung
@@ -48,7 +55,4 @@ Diagnostik im Labor?
 
 Was würde passieren wenn man ne Erkältung bekommt und man kein IS hätte?
 
-
-Zoonose => unterschiede IS Tier/Mensch
-Haben Pflanzen auch so was?
 
