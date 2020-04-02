@@ -1,8 +1,7 @@
 * Einordnung: LHC, ATLAS, CMS
 * Grober Zeitstrahl von ATLAS
-* LHC als Weiterentwicklung/-nutzung von LEP
 
-* Kurzer Recap 
+* Beschreibung ATLAS
   - Identifikation von Teilchen und Kollisionsrekonstruktion
   - Bending im Magnetfeld => Impuls bzw. Energie
   - Wichtigste Komponenten
@@ -12,16 +11,18 @@
     . Magnet
     . MS
 
-* Ausgangslage
+* Ausgangslage "damals"
   - Was war der Stand der Teilchenphysik damals?
     - Entdeckung Z and W => UA1 und UA2
     - Erzählen Sie ein bisschen :-)
+
   - Was waren die größten "Maschinen"?
     . PS
     . SPS
     . LEP
     . und in USA? Tevatron?
-  - Welche Erkenntnis hat LHC + ATLAS getriggert?
+
+* Welche Erkenntnis hat die Entwicklung von LHC + ATLAS getriggert?
 
 * Was war das Ziel? 
   - Generischer Detektor? 
@@ -32,17 +33,15 @@
     Beim FCC, sollte er gebaut werden, wird das ja eher nicht der Fall sein
   - Kooperation/Abgrenzung zu CMS?
   
-  
 * Wie organisiert man so ein Projekt?
-  - Konsensfindung
-  - Geld organsieeren
-  - Leiter von ATLAS: 
-    . Physik vs. Technik vs. Projektmanagement vs. Community Management
+  - Konsensfindung der Physiker
+  - Funding
+  - Als Leiter von ATLAS: 
     . Wie kamen Sie in diese Rolle?
+    . Physik vs. Engineering vs. Projektmanagement vs. Community Management
 
 * Technisch
-  - Was musste am SPS verändert werden dass es zum LHC "passt"?
-  - Stolpersteine bei der ATLAS Entwicklung?
+  - Zentrale Herausforderungen bei der ATLAS Entwicklung?
   - Tradeoff Physik vs. Engineering+Kosten
   - Was ist herausfordernder: Planung - Bau - Inbetriebnahme?
   - Was würden Sie im Nachhinein anders machen?
@@ -52,4 +51,7 @@
   - Was sind "unverrückbare" Limitierungen?
   - New Physics?
   - Wie würde ein ATLAS-artiger Detektor für den FCC aussehen?
+    welche Detektorcapabilities haben sich signifikant weiterentwickelt?
+    
+
 
