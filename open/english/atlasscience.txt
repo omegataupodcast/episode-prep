@@ -1,37 +1,48 @@
-* Context: ATLAS
-  - context LHC
-  - what is it
-    . magnet
-    . different detectors
-  - what does it measure
-    . bending, speed, energy, momentum
-  - what is the data that comes out directly
-  
-* Clean up
-  - Structure of the data you get as a scientist
-    . particles + energies + momenta
-    . abstract from how the detector works
-  - what does the ATLAS team do to prepare the data for you
-    . self calibration
-    . identify the detector DoF => model, parameters
-  - DoF in Science (loops)
-    
-* The Model (simulation)
-  - why?
-  - fitting
-  - the role of histograms    
-    
-* What do you want to achieve
-  - Example!
-  - what is the kind of code you write?
-  - filtering
-  - summing
-  - rejecting
-  - histogramming
+* Context: Particle physics
+  - (special) relativity and quantum mechanics: why (most of) particle physics follows from these two principles
+    * properties ("quantum numbers") of particles: energy, momentum, spin, charge
+    * interactions between particles, Feynman diagrams, the Standard Model and why it is almost inevitable
+  - the Higgs boson
+    * why it is necessary
+    * why it is so mysterious (especially for theorists) and totally novel: The Hierarchy Problem
+    * what to do against this confusion: experiments!
+    * the universal experiment in particle physics: scattering and < initial state | final state > transitions, amplitudes and cross sections as observables
 
+* Context: ATLAS
+  - context LHC: a purpose-built machine for preparing the initial state
+  - what is it: a measurement device for the final state
+    * magnet
+    * different detectors: pixel detector, tracker, ECAL, muon system
+  - what does it measure
+    * bending, speed, energy, momentum -> precisely the fundamental properties from above!
+  - what is the data that comes out directly
+    * triggering
+    
+* data analysis, or "doing everything in reverse":
+  - Event reconstruction:
+    * track finding, jet clustering ("particle flow"): need to know what the signatures of particles in the detector are
+    * idea: build a higher-level representation of the event that retains the important information that is needed later, remove low-level details of the detector
+  - Calibration:
+    * offline-calibration: remove obvious detector effects. As example: jet energy scale calibration
+    * how to calibrate from data alone? usually a combination of many factors: data from testbeam (isolated test of single detector element), inter-detector calibration (e.g. jet energy works via ECAL and tracker!)
+    * systematic uncertainties of the calibration / reconstruction: identify the detector DoF => model, parameters
+  - Simulation
+    * why? need to know how certain physical processes show up at the end of the pipeline
+    * Monte Carlo event generation: scattering amplitudes ("loops"), detector simulation
+    * data / simulation scale factors (additional small corrections to remove residual differences between the simulation and the real detector, also determined during the calibration)
+  - Physics analysis and statistical modelling: up to know, everything was generic & common for all of ATLAS, now let's get more specific
+    * Example! (come back to the Higgs boson story from the beginning and explain how to do it in practice)
+      + possible decay channels of the Higgs boson and how to measure them
+    * event selection / classification
+    * discriminants
+    * extracting the results: the final fit and the role of histograms: "comparing simulation to reality"
+    * what is the kind of code you write?
+    
 * Tools and languages
   - root
   - c++
   - DSLs :-)
+  - should we mention the computing infrastructure? I.e. data storage, the LHC computing grid, ...
     
 * what exactly are you working on these days?
+  - effective field theories -> a way to parametrise deviations from the Standard Model / can come back to the very beginning
