@@ -22,11 +22,23 @@
     . LEP
     . und in USA? Tevatron?
 
-* Welche Erkenntnis hat die Entwicklung von LHC + ATLAS getriggert?
+* Randbedingung: Reuse des LEP Tunnels?
 
+* Welche Erkenntnis hat die Entwicklung von LHC + ATLAS getriggert?
+  - welche Rolle hat SSC gespielt
+    . Timeline im Vergleich
+    . War das Ansporn?
+      Niedrigere Energie,
+      aber bessere Lumi?
+    . Was passierte bei Cancellation? Alle Amis bei LHC mitgemacht :-)?
+    
 * Was war das Ziel? 
   - Generischer Detektor? 
   - Ich habe gelesen dass er für Higgs bei 100 - 150 GeV optimiert ist. Inwiefern?
+  - "The hunt for the Higgs boson became a central theme 
+     in discussions of the future of particle physics"
+  - Was noch? SUSY?
+  - How concretelly was the physics programme mapped out / known before LHC/detectors was build?
 
 * ATLAS vs. CMS  
   - Wie kommt es, dass man sich leisten wollte, zwei sehr ähnliche Detektoren zu bauen?
@@ -34,16 +46,55 @@
   - Kooperation/Abgrenzung zu CMS?
   
 * Wie organisiert man so ein Projekt?
+  - Merger von zwei Vorgänger-Proposals.
   - Konsensfindung der Physiker
+    es sind ja 1000e
+  - How do you get institutions to join? 
+    Role of subsidies or research programmes?
   - Funding
+  
+   "by contrast, the ATLAS and CMS detectors were built in a style
+    traditional in particle physics—with all partners contributing by
+    building components at their own institutes or in industries in their
+    home countries. 
+   -> ausfürhliche Specs?
+
+  
   - Als Leiter von ATLAS: 
     . Wie kamen Sie in diese Rolle?
     . Physik vs. Engineering vs. Projektmanagement vs. Community Management
 
 * Technisch
+  - Kann man bestimmte physikalische Ziele (Higgs, SUSY) an konkreten
+    technischen Ansätzen/Detektoren sehen?
+    
+    "the width of the reconstructed mass distribution, and hence the
+    signal-to-background ratio, would be limited by the electron–photon
+    energy resolution of the electromagnetic calorimeter as well as by the
+    charged-particle momentum resolution of the inner tracker and the muon
+    spectrometer."
+    
+    "at the mass of the Higgs boson (mH) was less than 135 GeV. This low end
+	of the mass range was considered to be especially difficult to probe in
+	hadron colliders unless very good photon, electron, and muon energy and
+	momentum resolution could be attained"
+
   - Zentrale Herausforderungen bei der ATLAS Entwicklung?
+  
+  - how did the design evolve over time, and why?
+    . changing needs?
+    . better (physics) ideas?
+    . better (detector) tech?
+  
   - Tradeoff Physik vs. Engineering+Kosten
+    Magnet 12 -> 8 cores
   - Was ist herausfordernder: Planung - Bau - Inbetriebnahme?
+  
+   During installation, as components were put in place and connected, the
+   experiments made extensive use of cosmic rays, which provide a
+   reasonable flux of muons even at a depth of 100 m— typically a few
+   hundred per second traversing the detectors.
+
   - Was würden Sie im Nachhinein anders machen?
 
 * Zukunft
@@ -55,3 +106,4 @@
     
 
 
+ 
