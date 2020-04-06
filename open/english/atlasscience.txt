@@ -1,0 +1,37 @@
+* Context: ATLAS
+  - context LHC
+  - what is it
+    . magnet
+    . different detectors
+  - what does it measure
+    . bending, speed, energy, momentum
+  - what is the data that comes out directly
+  
+* Clean up
+  - Structure of the data you get as a scientist
+    . particles + energies + momenta
+    . abstract from how the detector works
+  - what does the ATLAS team do to prepare the data for you
+    . self calibration
+    . identify the detector DoF => model, parameters
+  - DoF in Science (loops)
+    
+* The Model (simulation)
+  - why?
+  - fitting
+  - the role of histograms    
+    
+* What do you want to achieve
+  - Example!
+  - what is the kind of code you write?
+  - filtering
+  - summing
+  - rejecting
+  - histogramming
+
+* Tools and languages
+  - root
+  - c++
+  - DSLs :-)
+    
+* what exactly are you working on these days?
