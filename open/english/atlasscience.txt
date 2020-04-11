@@ -6,16 +6,16 @@
       spin
       charge
     * interactions between particles,  
-      Feynman diagrams, 
+      interaction diagrams (not *quite* Feynman diagrams, but something more physically relevant), 
       the Standard Model and why it is almost inevitable
+    * the universal experiment in particle physics: 
+      scattering and < initial state | final state > transitions, 
+      amplitudes and cross sections as observables
   - the Higgs boson
     * why it is necessary
     * why it is so mysterious (especially for theorists) and totally novel: 
       The Hierarchy Problem
     * what to do against this confusion: experiments!
-    * the universal experiment in particle physics: 
-      scattering and < initial state | final state > transitions, 
-      amplitudes and cross sections as observables
 
 * Context: ATLAS
   - context LHC: 
@@ -49,8 +49,6 @@
     * how to calibrate from data alone? usually a combination of many factors: 
       . data from testbeam (isolated test of single detector element)
       . inter-detector calibration (e.g. jet energy works via ECAL and tracker!)
-    * systematic uncertainties of the calibration / reconstruction: 
-      identify the detector DoF => model, parameters
   - Simulation
     * why? need to know how certain physical processes show up at the end of the pipeline
       probabilistic! because quantum level is!
@@ -60,6 +58,8 @@
     * data / simulation scale factors 
       (additional small corrections to remove residual differences between 
       the simulation and the real detector, also determined during the calibration)
+    * systematic uncertainties of the calibration / reconstruction: 
+      identify the detector DoF => model, parameters
 
   - Physics analysis and statistical modelling: up to know, everything was generic & 
     common for all of ATLAS, now let's get more specific
