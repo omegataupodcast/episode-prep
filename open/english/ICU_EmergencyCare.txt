@@ -1,1 +1,20 @@
-1. Introduction
+1. Introduction Kimon L.H. Ioannides and Junad Chowdhury
+
+2. Emergency care and intensive care
+  * What is emergency care? Everyone who comes to the hospital by ambulance or helicopter? 
+    Things like strokes as well as accidents? 
+    All ages or is there a specific emergency care for children? 
+    If a patient already is hospitalised and then gets bad suddenly, will he/she also be treated by emergency care?
+  * Is the only goal of emergency care to stabilize the patient and then transfer him/her to another part of the hospital?
+  * What is intensive care? Which patients typically go to ICU? 
+    (Accidents/after big surgeries/failure of circulation/bad breathlessness/pneumonia)
+    What is the minimum of automated monitoring a patient will have in intensive care? 
+    Breathing and circulation? Also brain function?
+    Which percentage of patients will be on ventilation?
+   
+ 3. Infectious diseases in emergency and intensive care
+    If somebody comes into emergency room what will make the doctors alert that it could be an infectous disease?
+    Which precautions are taken? Are there any standard tests that are done on everybody to prevent that infections 
+    introduced in the hospital?
+    
+    
