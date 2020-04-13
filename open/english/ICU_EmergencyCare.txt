@@ -21,7 +21,7 @@
       that using very few relatively high level rules are better than something
       more elaborate; see http://voelter.de/temp/icu.png
   * Does it happen often that somebody arrives at the emergency room 
-    and "looks" good, but if fact is in a very bad condition? 
+    and "looks" good (e.g. walks in by himself), but if fact is in a very bad condition? 
     Or the other way round?
   * As I understand, emergency care relies heavily on blood donors - 
     - what is the typical way from donor to care
@@ -31,7 +31,7 @@
   * What is intensive care? Which patients typically go to ICU? 
     - (Accidents/after big surgeries/failure of circulation/bad breathlessness/pneumonia)
   * What is the minimum of automated monitoring a patient will have in intensive care? 
-    - Breathing and circulation? 
+    - Breathing and circulation/heart function? 
     - Also brain function?
     - Which percentage of patients will be on ventilation?
   * How are patients fed in intensive care?
@@ -71,8 +71,4 @@
   * What is the difference between a ventilator and a bpap / cpap?
     
     
-    
-    
-    advanced cardiac life support and advanced airway management
-     
      
