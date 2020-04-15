@@ -1,33 +1,16 @@
 1. Introduction 
    - Kimon L.H. Ioannides
    - Junad Chowdhury
+   
 
-2. Emergency care
+2. Emergency care/intensive care basics
+
   * What is emergency care? 
     - Everyone who comes to the hospital by ambulance or helicopter? 
     - Happens already in the ambulance or helicopter, right?
     - Things like strokes as well as accidents? 
     - All ages or is there a specific emergency care for children? 
-  * If a patient already is hospitalised and then gets bad suddenly, 
-    will he/she also be treated by emergency care?
-    -> relation to intensive care
-  * Is the only goal of emergency care to stabilize the patient and 
-    then transfer him/her to another part of the hospital?
-  * What does "stabilize" mean? What are life-critical functions of the body?
-  * What is shock, and how do you deal with it?
-  * What is the standard procedure that you use if somebody arrives 
-    at the emergency room to find out how acute the situation is?
-    - How complex are the decision procedures? I remember studies that suggested
-      that using very few relatively high level rules are better than something
-      more elaborate; see http://voelter.de/temp/icu.png
-  * Does it happen often that somebody arrives at the emergency room 
-    and "looks" good (e.g. walks in by himself), but if fact is in a very bad condition? 
-    Or the other way round?
-  * As I understand, emergency care relies heavily on blood donors - 
-    - what is the typical way from donor to care
-    - and what else can be donated this way and what for?
     
-3. Intensive care
   * What is intensive care? Which patients typically go to ICU? 
     - (Accidents/after big surgeries/failure of circulation/bad breathlessness/pneumonia)
   * What is the minimum of automated monitoring a patient will have in intensive care? 
@@ -35,16 +18,31 @@
     - Also brain function?
     - Which percentage of patients will be on ventilation?
   * How are patients fed in intensive care?
-   
-4. Infectious diseases in emergency and intensive care
-  * If somebody comes into emergency room what will make 
-    the doctors alert they could have an infectous disease?
-  * Which precautions are taken? 
-    - Are there any standard tests that are done on everybody 
-      to prevent that infections introduced in the hospital?
-  * How does COVID-19 change the ECU and ICO processes?
-    
-5. Ventilation
+  
+  
+3. Procedures
+
+  * If a patient already is hospitalised and then gets bad suddenly, 
+    will he/she also be treated by emergency care?
+  * Is the only goal of emergency care to stabilize the patient and 
+    then transfer him/her to another part of the hospital?
+  * What does "stabilize" mean? What are life-critical functions of the body?
+  
+  * What is shock, and how do you deal with it?
+  
+  * Does it happen often that somebody arrives at the emergency room 
+    and "looks" good (e.g. walks in by himself), but if fact is in a very bad condition? 
+    Or the other way round?
+  
+  * What is the standard procedure that you use if somebody arrives 
+    at the emergency room to find out how acute the situation is?
+    - How complex are the decision procedures? I remember studies that suggested
+      that using very few relatively high level rules are better than something
+      more elaborate; see http://voelter.de/temp/icu.png
+      
+      
+3. Intubation/Ventilation
+
   * Why? What is wrong in the lung?
   * Difference between "supplying oxygen" and actual ventilation
   * What kinds of ventilation are done?
@@ -63,12 +61,29 @@
     example oxygen concentrators, or the equipment you get in aircraft.
   * What is the long-term impact of being ventilated? 
     What damage is done to the lungs?
+  * What is the difference between a ventilator and a bpap / cpap?
+
+
+4. Infectious diseases in emergency and intensive care
+
+  * If somebody comes into emergency room what will make 
+    the doctors alert they could have an infectous disease?
+  * Which precautions are taken? 
+    - Are there any standard tests that are done on everybody 
+      to prevent that infections introduced in the hospital?
+  * How does COVID-19 change the ECU and ICO processes?
+  
+    
+5. Additional questions by listeners
+
+  * As I understand, emergency care relies heavily on blood donors - 
+    - what is the typical way from donor to care
+    - and what else can be donated this way and what for?
+    
   * what about projects like https://corovent.com? is having a cheap purpose built 
     ventilator the key to our current situation or are cases where covid gets to a 
     ventilator stage already highly fatal, so the impact isn't that high?
   * Is it possible to build DIY-ventilators with stuff like Arduino or is it just 
     a dangerous nerd-dream ignoring the complexity involved
-  * What is the difference between a ventilator and a bpap / cpap?
-    
     
      
