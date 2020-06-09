@@ -1,0 +1,190 @@
+Mobil/Teleskopkräne
+------------------------------------
+* Grundlegendes Design
+  - Ausfahrbarer und neigbarer Arm
+  - Drehen
+  - Winde
+  - Last vs. Winkel vs. Länge
+  
+* Produktpalette
+  - Achsen
+  - Höhen
+  - Massen
+  
+* Prinzip: Stützen und Gegengewichte
+  - Gegengewichtsmassen
+    max?
+    kommen separat
+  - Stützen
+    . Räder in der Luft
+    . Matratzen
+    . Kräfte
+    . Messung der Last  
+    . Bodenstabilität, verdichtet
+    . variabel ausfahrbar, Platz
+
+* Ausfahrmechanik
+  - ein Zylinder, Locking, dedizierte Stufen
+  - Locking
+
+* Winde beschränkte Kraft
+  - Flaschenzug
+  - warum muss der haken schwer sein? (zieht seil raus!!) 
+    und bei flaschenzug immer schwerer!
+
+* Wie konstruiert man das Ding leicht? 
+  - Wie stark biegt sich das durch 
+  - Wandstärken
+  - Seildurchmesser
+
+
+* Antriebe
+  - 1 oder 2 Motoren?
+    der obere läuft ja oft im Leerlauf
+  - Motoren selber von Liebherr
+  - Offener vs. geschlossener Ölkreislauf? 
+    - Warum? Vor/Nachteile? 
+    - Drücke?
+  - Sind Winde, Drehwerk etc. brems/Verriegelbar?
+
+* Fahrgestell  
+  - Limit: Achslast 
+    . X * 12 = max
+    . aber auch gleich verteilt, Achslast!
+    . beim 1200er, Arm weg, Selbstaufstellung  
+  - Fahrquali? Autobahn? Gelände? Wendigkeit; alle Achsen lenken
+    . All-achs-Lenkung: 5 lenkprogramme
+    .   Wieviele Achsen sind anggetrieben? Hydraulisch?
+  - Neuer 600er mit einer Achse weniger ... big Deal. Warum? Enge Baustelle.
+
+* Zusätze
+  - Klappspitze
+  - Mastverlängerung
+  - Y-Dingens auf dem Arm
+    . wozu?
+    . aktive/verstellbare Komponenten?
+  - Wippe 
+    . zweite Winde - verstellbar
+    . kombunierbar?
+  - keine aktive hydraulik "Oben" - nur dämpfer  
+    Oder?
+  - In wieviel Stücken sind die Oberteile zusammengebaut?
+    Tieflader f Gegengewichte und Anbauten
+  - 2 Seile (auch von 2 Enden der Masten)
+  - Was ist in dieser "Kabeltrommel" die neben dem Arm ausfährt`?
+
+* Aufrüsten 
+  - SChnell, einfach 
+    . Ökonmisch
+    . Kann oft länger dauern als der Hub
+    . Halb aufgebaut fahren (Windpark)
+  - Gegengewicht selbst laden ... geht wie?
+  - Alleine aufbauen vs. Unterstützung durch kleinere Kran
+  - Was tut man sonst noch dafür?
+
+* Konstruktive Unterschiede kleine vs. große Kräbe  
+  - Teleskopierung per Seilzug vs. per Zylinder
+  
+* Was sind Failure Modes, und was wird dagegen getan?
+  - Überlastung
+    . Anzeige, Ampel, Stopp
+  - Wind
+    . Messer  
+  - Verwurstelte Winde
+    . Kamera
+    . never winch into the ground
+  - Seilriss => Riesiger Impuls auf den Kran   
+  
+* Sicherheit 
+  - gerechnete Sicherheitsfaktoren?
+  - Welche Art von Abnahme bei Konstruktion
+  - ... und wiederholt am Stück?
+    . Intervalle?
+    . Wer?
+  
+* Das sind alles Serienprodukte
+  - wieviele verkauft man so von den großen?
+  - gibt es auch Einzelstücke?
+  - Musste schon ein Auftrag abgelehnt werden, weil zu unrealistisch? 
+    Und falls ja: Was war der limitierende Faktor?
+   
+   
+Bedienung
+--------------------------------------------
+* Welcher Hebel tut was
+  - standardisiert?
+  - Kompensation von Schwingung
+  - was machen die anderen 100 Schalter in der Kabine
+  - was zeigen die Bildschirme an?
+  - Ein/Ausfahren des Arms ist "statisch", nicht Teil des "Fahrens"
+* Nur eine Pumpe - teilen der Kraft für Aktoren?
+* Merkt man mehr Gegengewicht beim drehen?
+* Aktuatoren steuern vs. Kartesisch?
+* Fahrerunterstützung
+  - stopschalter schaltet nicht nur winde!
+  - Kameras
+    . Rückfahrkamera :-)?
+    . Arm/Haken
+    . Winde
+  - Seilendschalter
+  - Waage
+  - Ampel
+  - Stützlasten
+  - automatisches Verfahren des Arms
+  - Fahrerkabine beweglich (holt Fahrer unten ab)
+  - Lastverfolgung der Scheinwerfer
+  - Lastbegrenzung, Programmierbare arbeitsbereichsbegrenzung
+  - Andere Sensorik?
+
+* Was zeigt Liccon im Betriebsmodus und im Rüstmodus an?
+
+* Arbeiten mit mehreren Kränen
+
+* Wie wird man Kranfahrer :)
+
+* Was ist schwieriger: oben fahren oder unten fahren
+
+   
+  
+Raupenkräne
+----------------------------------------
+* Produktpalette
+  - Höhen
+  - Massen
+* Anderes Prinzip:
+  - Gittermast
+  - Mastegeometrie
+  - Seile, weniger Hydraulik
+  - erklären wie die zUsammenspielen
+* Warum höhere Lasten?
+  - Der Kran ist immer im "Gleichgewicht" durch Verstellung der Arme != Mobilkran ?
+* Warum Raupen?  
+  - Warum keine Stützen?
+  - Kann mit Last fahren?
+* Wieviel haben die prinzipiell und technisch mit den Mobilkränen gemeinsam?
+* Ballasting
+  - Derrickballast
+  - Schwebeballast
+  - VarioTray
+  - Ballastwagen
+  - verstellbare Räder f drehen vs. Fahren
+* Masten
+  - SChwerlastspitze
+  - PowerBoom
+  - SX/SX2 System
+  - Momente ... Einfluss von SX2 auf die Momente? Welche?
+  - Windlimits
+* Mehr Aufbauafuwand?
+  - Reduktion der Transportaufwands wichtig -> Wirtschaftlichkeit
+  - Alleine aufbauen vs. Unterstützung durch kleinere Kran
+  - Selbstaufbau 
+    . Jack-Up Zylinder
+    . Raupen
+    . Baum
+* Elektronische Unterstützung
+  - Bodendruckanzeige
+  - Boom up/down Aid
+  - Crane Planner 2.0
+
+https://www.youtube.com/watch?v=mpR3KVdSzr4
+
