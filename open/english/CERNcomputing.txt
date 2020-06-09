@@ -1,0 +1,43 @@
+* Quick recap of the overall process
+  - detectors and subdetectors
+  - data storage
+  - data analysis
+
+* Where do we need computing
+  - trigger
+  - recording
+  - reduktion
+  - analysis
+  - simulation
+
+* Trigger
+  - fast!
+    how stored?
+  - lots of hardware computations (FPGAs etc)
+  - and dedicated detectors
+  - "analog processing", eg, optical summing
+
+* Recording
+  - lots of fast hard disks
+  - discuss the storage systems
+  
+* Reduction
+  - what is done?
+    . taking into account the detector's intricacies
+    . from lots of measured hits to particles
+    . ... to origin momentum vectors
+  - starts to become more computationally intensive
+  - where does this happen? At CERN or outside?
+  
+* CERN Grid
+  - explain the structure
+  - where do you get the connections from? YOu don't dig.  
+    
+* Analysis
+  - ... mostly on the machines of institutes?
+  
+* Simulation
+  - Monte Carlo
+  - GEANT 4
+  - Physics Sim
+  - vs. Detector Sim      

@@ -1,0 +1,38 @@
+https://www.helmholtz-hzi.de/de/nc/forschung/forschungsschwerpunkte/bakterielle-und-virale-krankheitserreger/epidemiologie/team/personal/infos/gerard-krause-2/
+Meyer-Herrmann
+
+- Was will man modellieren
+  . Biologische Vorgänge im Körper (das ist aber nicht Epidemiologie, oder?)
+  . die kleinskaligen Ansteckungsvorgänge (Tröpfen, Aerosole, Schmierinfektion)
+  . Aggregiertes, Ausbreitung, statistische Aussagen bzgl einer Gesellschaft
+    (im Folgenden liegt der Schwerpunkt hierauf)
+- Startpunkt: Exponentialfunktion
+  . Was wird modelliert (im Sinne von Formeln oder DGLs)
+    Bewegungsprofile?
+    Zusammentreffwahrscheinlichkeit?
+  . Was wird parametriert (bspw. Ansteckungswahrscheinlichkeit)
+  . Welche Korrekturen kann man dazu anbrigen?
+    Kein exponentielles Wachstum hält für immer an!
+- Infiefern sind die Modelle hierarchisch?
+  . also eines berechnet ein R (mikroskopisch)
+  . dieses R geht dann in das makroskopische Modell ein
+- analytische vs. numerische Modelle, Path Dependence
+- Mathematische Ansätze? Monte-Carlo zwecks Wahrscheinlichkeiten?
+- "Vertrauen" in Modelle 
+  . Stichwort 5-sigma in der Physik
+  . bzw. deren Parametrierung
+  . Sensitivitätsanalyse
+- Umgang mit dem Zufall vor allem am Anfang
+  (Stichwort: hohe Konzentration in Heisnberg)
+- Raumliche Blöcke? vs "Gesamtdeutschland"
+  Diskretisierung in Zeit und Raum?
+- Grounding der Modelle
+  . Welche Basisdaten muss ich messen?
+  . Erfahrungswerte/Historisches
+- Programmier-Werkzeuge zur Umsetzung
+- Evolution der Methodik über die Jahre?
+
+
+heterogen vs diffusion ort und alter
+gegenseitige kontrollen, „stabilität“
+vergleichsrech auf schiff, gangelt

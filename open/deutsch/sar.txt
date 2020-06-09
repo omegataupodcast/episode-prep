@@ -1,0 +1,48 @@
+* Zuständigkeit 
+  - Abgrenzung zu anderen Stellen / See
+  - Warum macht das das Militär?
+
+* Alarmierungskette
+  - Unterschied Militär/zivil
+  - ALarmquellen (ELT, PLB)
+    COSPAS/SARSAT - wie peilen die?
+    Was ist der Status von PLBs in D?
+    PLBs erlaubt?
+
+* Was passiert bei ELT Fehlauslösung? 
+  - Wann fliegt jemand los?
+  - Wer bezahlt?
+  - Wieviele Fehlalarme?
+
+* Welche Lokalisierungsmechanismen neben ELT und "Rauskucken" ausm Heli?
+  schonmal was nicht gefunden?
+
+* Zusammenspiel mit zivilen Rettungsorganisationen
+  - wann rettet der Militärische Heli?
+    Wetter, Nacht, Gelände
+  - Was für Helis
+    UH-1D & Seaking
+    H 145 & NH 90
+  - wo kommen die her? 
+  - wie sind deren Helis anders ausgestattet als die zivilen?
+
+* Bezug zu Luftraumüberwachung?
+  - wie sucht man "überfällige"
+  - Was ist überfällig? Bezug zu Flugplan?
+  
+* Was hat das ARCC an Ausrüstung? 
+  - Wie stelle ich mir die Arbeit konkret vor?
+  - Luftlagebild (welche Radarquellen?)
+  - Welche Kommunikationskanäle
+    Durch die Schnittstellen zum SInfoDADBw (Schwarzer Informationsdienst
+    Aeronautische Daten der Bundeswehr), EAD (European Aeronautical Database) und
+    dem NMOC (Network Manager Operations Center), vormals CFMU (Central Flow
+    Management Unit), werden unmittelbar die Anbindungen an die militärischen und
+    zivilen Aeronautischen Datenbanken hergestellt. 
+  
+* Internationale Koordination - ICAO?
+
+* Aufgabe in Kriegszeietn?
+
+* Beispieleinsätze
+  https://www.bundeswehr.de/resource/blob/171592/ddb055125a439971c931ad17afa78f3c/download-rccmuenster-jahresbericht2018-data.pdf 

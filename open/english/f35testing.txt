@@ -1,0 +1,96 @@
+The F-35
+===========================================
+* A little history
+* Its role
+  (in many ways the successor to the F-16)
+* Current Status
+  - introduction to air forces
+  - international customers
+* Variants
+* distinguished features
+  . fan, clutch
+  . at which weight/reserve can it hover?
+
+Flying the F-35
+=========================================
+* FCS
+* avionics
+  - screens
+    . touch useful under g? HOTAS
+    . transparent cockpit
+* helmet, no HUD
+
+
+  - data fusion and distribution
+  - less reliance on AWACS
+  - nav w/o GPS? 
+    Civilian ILS?
+
+* single seater - how good is the sim?
+  (it's a synthetic feel anyway...)
+
+* there's an automatic ejection seat mode?
+* Automatic carrier landing?
+
+* compare to F-15  and F-16 in terms of how to fly it
+  Even the F-15 and the F-16 were built so to make the flying part as simple 
+  as possible so that the pilot could focus on the mission. The F-35 
+  takes this even further. How?
+
+
+* do you feel a diff between the variants in terms of "how it flies"?
+  Or is it all hidden by the flight laws?
+  (bigger wing, tighter turning can't be hidden, right?)
+
+
+* "vertical" aspects (we've had a Harrier episode, we can compare :-)
+  How much manual?
+ 
+Testing the F-35
+=========================================== 
+* Workshare/phasing between testing at Lockheed and at the Air Force
+  - how is testing organized in the USAF
+  - ... what about Navy and Marines, you tested all F-35 variants
+* Who designs the test program?
+* Based on which standards or regs in the aircraft "certificated"?
+* Size of the test org in terms of 
+  - aircraf
+  - people
+  - flights/hours
+  - effort
+
+* what are the aspects of the airplane you guys tested
+  - ratio between flying time and prep/post time?
+  - let's spend some time to really walk through concrete milestones
+    and test objectives (to the degree they are not secret)
+    eg., how do you move towards STOVL operations
+* Were the aircraft specially equipped in some way for the test mission?
+  - did you use pre production a/c?
+  - strain gauges?
+  - a listener who worked at Edwards saw a/c without RAM?
+  - did you "kaputt-test" some of them?
+  - did you install special instrumentation for certain tests?
+    . ADP
+    . spin chute
+    . special telemetry?
+* How does a typical test flight work
+  - flight test cards
+  - coordination with ground
+    how many ppl are involved
+    tankers
+  - telemetry / realtime monitoring
+
+* what does the aircraft record, how is testing this
+  airplane different from older ones b/c of more 
+  "intelligence" in the plane
+* do you think she's beautiful :-) ?
+
+Other things you did in your career
+==========================================
+* What did you test during your F-15 testing time?
+  It was during a much later stage of the aircraft's service life.
+* F-15C and F-15E Instructor Experimental Test Pilot 
+  (we've talked to people who went through ETPS, the instructor
+  perspective is a great addition!)
+* Noble Eagle Missions
+  
