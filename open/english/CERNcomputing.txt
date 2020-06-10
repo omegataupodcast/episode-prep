@@ -1,43 +1,64 @@
 * Quick recap of the overall process
   - detectors and subdetectors
+  - terminology: computer sicence (reduction) vs physics (reconstruction)
   - data storage
-  - data analysis
+  - data processing
 
 * Where do we need computing
-  - trigger
-  - recording
-  - reduktion
-  - analysis
-  - simulation
+  - online, i.e. near the detector
+    - trigger
+    - recording // data aquisition
+  - offline, i.e. in the grid
+    - reduction // reconstruction
+    - analysis
+    - simulation
 
-* Trigger
-  - fast!
-    how stored?
-  - lots of hardware computations (FPGAs etc)
-  - and dedicated detectors
-  - "analog processing", eg, optical summing
+* trigger (online)
+  - hardware (level-1 trigger) vs software (event filter)
+  - hardware // trigger
+    . fast!
+      how stored?
+    . lots of hardware computations (FPGAs etc)
+    . and dedicated detectors
+    . "analog processing", eg, optical summing
+  - software // event filter
+    . recording (see below)
+    . simplified reduction
 
-* Recording
+* Recording // data aquisition (online)
+  - transfer from detector comonents to computers
   - lots of fast hard disks
+  - event filter
+  - transfer to CERN data centre and grid/offline world
   - discuss the storage systems
   
-* Reduction
+* Reduction // reconstruction
   - what is done?
+    . on the sub-detector level
+    . identifying objects with particles (probably)
     . taking into account the detector's intricacies
     . from lots of measured hits to particles
-    . ... to origin momentum vectors
+    . ... to origin momentum 4-vectors
   - starts to become more computationally intensive
   - where does this happen? At CERN or outside?
   
-* CERN Grid
+* Worldwide LHC Computing Grid
   - explain the structure
-  - where do you get the connections from? YOu don't dig.  
+  - why? isn't just one data centre simpler/more effective?
+  - what are the responsibilities of the components
+  - where do you get the connections from? You don't dig.
+  - coordination between experiments and computing resources
+    . data management
+    . workload management
+  - monitoring and accoutning
     
-* Analysis
-  - ... mostly on the machines of institutes?
-  
 * Simulation
   - Monte Carlo
-  - GEANT 4
-  - Physics Sim
+  - Physics Sim // event generation
   - vs. Detector Sim      
+    - GEANT 4
+    - fast simulation
+
+* Analysis
+  - ... mostly on the machines of institutes?
+  - Where does this happen
