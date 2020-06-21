@@ -62,3 +62,7 @@
 * Analysis
   - ... mostly on the machines of institutes?
   - Where does this happen
+
+* Archival
+  - Data preservation
+  - Analysis preservation
