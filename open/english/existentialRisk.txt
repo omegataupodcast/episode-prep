@@ -1,0 +1,92 @@
+Part 1 - What kinds of disasters
+-----------------------------------------
+* Existential - human race dies out
+* Civilization-ending, unrecoverable
+  - what does this mean?
+  - what is "civilization""?
+* 100% dead is waaaay worse than 99%
+* but not "just really bad" -> like new dark age
+* Why now? 
+  - Capability to self-destruct is new
+  - what characterises such events? 
+    . Why is an exponential gunfight not the problem?
+    . A few ppl with very large lever
+  - moral prog not keep up wirg tech
+  - moral progress not uniform - always assholes. 
+    but now asshole with lots of power
+
+
+Part 2 - Examples
+----------------------------------------
+* natural vs human made
+  - why only human made in book? 
+    . isn't a failure to defend against asteroid just as bad 
+      as actively causing something?
+  - asteroid etc, volcano, star explosion
+  - all relatively low risk based on past data
+* quantification 
+  - why do you give numbers?
+  - precision of numbers
+  - problem: no prior experience
+    . no experience-based probability
+    . black swans ... prob is zero based on experience
+  - so? How did you do the quantification
+
+* For each of the following: accident vs intentional
+  - Nuclear Winter
+    . almost happened in Cuba crisis
+    . what makes nukes so accident prone? 
+      short reaction time
+  - Climate Change
+    . isn't that a slow process so we can adapt?
+    . runaway, moist
+  - Biotech
+    . half natural, why classified as human made?
+    . side Q: current pandemic?
+  - AI
+    . do we really know it can become "conscious"
+    . paper clip machine
+
+* So what is the conclusion? Will we die :-) ?
+
+Part 3 - Why do we care
+----------------------------------------
+* Does it matter if we die out? 
+  - the planet and biodiversity might like it ...
+* Reasons 
+  - past: prev generartions built this for us to safeguard
+  - present: ?
+    . "life is suffering
+  - future: overall civ potential
+    . how do you justify that the value of future, 
+      unborn ppl is as valuable as current? 
+      not the same as spatial, there the person exists!
+    . suffering (cc) diff from non existence
+  - cosmic: we might be the only ones
+* isn't it just a biological/evo trick that we want to stay around?
+* Doesn't it distract from the "now, urgent" stuff?
+
+Part 4 - What do we do?
+----------------------------------------
+* tradegy of common global scale
+  - chaotic, emergence, game theory
+* different for each risk
+  - prolif control?
+  - all behave differently
+  - bio?
+  - ai?
+* why is it so hard for hum to care for long-term stuff?
+* Care!
+  - moral
+  - political
+  - societal
+* arent the things we have to do to avoid existential 
+  death also good to avoid dark ages
+* Science and Tech as risk
+  - if we don't build it sb else will
+  - the role of science vs ???
+  - "progress", exponential tech
+* Isn't it hopeless? (I am a pessimist :-)) 
+  - security-chain analogy
+* Can we affort to prepare for everything?
+* So what do we do?

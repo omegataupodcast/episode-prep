@@ -14,7 +14,7 @@ Mobil/Teleskopkräne
 * Prinzip: Stützen und Gegengewichte
   - Gegengewichtsmassen
     max?
-    kommen separat
+    kommen separat - auch wieder Achslast
   - Stützen
     . Räder in der Luft
     . Matratzen
@@ -26,6 +26,8 @@ Mobil/Teleskopkräne
 * Ausfahrmechanik
   - ein Zylinder, Locking, dedizierte Stufen
   - Locking
+  - kann man das mit Last verfahren?
+  - nur diskrete Positonen - wieviele?
 
 * Winde beschränkte Kraft
   - Flaschenzug
@@ -161,7 +163,12 @@ Raupenkräne
 * Warum Raupen?  
   - Warum keine Stützen?
   - Kann mit Last fahren?
+* nachteil: kann nicht mit Last teleskopieren
 * Wieviel haben die prinzipiell und technisch mit den Mobilkränen gemeinsam?
+* Gibt es ein theoretisches oder praktisches Limit für die Größe?
+  - Rocket Equation
+  - Aufzug: seilgewicht
+  - Man braucht zu viel Masse
 * Ballasting
   - Derrickballast
   - Schwebeballast

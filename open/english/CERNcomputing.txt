@@ -1,17 +1,7 @@
 * Quick recap of the overall process
   - detectors and subdetectors
-  - terminology: computer sicence (reduction) vs physics (reconstruction)
   - data storage
   - data processing
-
-* Where do we need computing
-  - online, i.e. near the detector
-    - trigger
-    - recording // data aquisition
-  - offline, i.e. in the grid
-    - reduction // reconstruction
-    - analysis
-    - simulation
 
 * trigger (online)
   - hardware (level-1 trigger) vs software (event filter)
@@ -24,6 +14,15 @@
   - software // event filter
     . recording (see below)
     . simplified reduction
+
+  - terminology: computer sicence (reduction) vs physics (reconstruction)
+
+
+* Where do we need computing
+  - online, i.e. near the detector
+    - trigger
+    - recording // data aquisition
+
 
 * Recording // data aquisition (online)
   - transfer from detector comonents to computers
@@ -42,15 +41,26 @@
   - starts to become more computationally intensive
   - where does this happen? At CERN or outside?
   
+trick of event filter  
+  
+  - offline, i.e. in the grid
+    - reduction // reconstruction
+    - analysis
+    - simulation  
+  
 * Worldwide LHC Computing Grid
   - explain the structure
+  - where do you get the connections from? You don't dig.
+
   - why? isn't just one data centre simpler/more effective?
   - what are the responsibilities of the components
-  - where do you get the connections from? You don't dig.
-  - coordination between experiments and computing resources
-    . data management
-    . workload management
-  - monitoring and accoutning
+   
+* Analysis
+  - ... mostly on the machines of institutes?
+  - Where does this happen
+     
+
+
     
 * Simulation
   - Monte Carlo
@@ -59,9 +69,14 @@
     - GEANT 4
     - fast simulation
 
-* Analysis
-  - ... mostly on the machines of institutes?
-  - Where does this happen
+  - coordination between experiments and computing resources
+    . data management
+    . workload management
+  - monitoring and accoutning
+
+Software!
+  parallel
+  gpus 
 
 * Archival
   - Data preservation
