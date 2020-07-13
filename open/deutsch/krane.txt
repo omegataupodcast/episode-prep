@@ -4,17 +4,18 @@ Mobil/Teleskopkräne
   - Ausfahrbarer und neigbarer Arm
   - Drehen
   - Winde
-  - Last vs. Winkel vs. Länge
   
 * Produktpalette
   - Achsen
   - Höhen
   - Massen
+
+  - Last vs. Winkel vs. Länge
+
+achse weniger gut
+
   
 * Prinzip: Stützen und Gegengewichte
-  - Gegengewichtsmassen
-    max?
-    kommen separat - auch wieder Achslast
   - Stützen
     . Räder in der Luft
     . Matratzen
@@ -22,22 +23,32 @@ Mobil/Teleskopkräne
     . Messung der Last  
     . Bodenstabilität, verdichtet
     . variabel ausfahrbar, Platz
+  - Gegengewichtsmassen
+    max?
+    kommen separat - auch wieder Achslast
 
 * Ausfahrmechanik
   - ein Zylinder, Locking, dedizierte Stufen
   - Locking
-  - kann man das mit Last verfahren?
   - nur diskrete Positonen - wieviele?
+  - kann man das mit Last verfahren?
+
+
+* Wie konstruiert man das Ding leicht? 
+  - Wie stark biegt sich das durch 
+  - Wandstärken
 
 * Winde beschränkte Kraft
   - Flaschenzug
   - warum muss der haken schwer sein? (zieht seil raus!!) 
     und bei flaschenzug immer schwerer!
-
-* Wie konstruiert man das Ding leicht? 
-  - Wie stark biegt sich das durch 
-  - Wandstärken
   - Seildurchmesser
+
+
+* Gibt es ein theoretisches oder praktisches Limit für die Größe?
+  - Rocket Equation
+  - Aufzug: seilgewicht
+  - Man braucht zu viel Masse
 
 
 * Antriebe
@@ -48,6 +59,9 @@ Mobil/Teleskopkräne
     - Warum? Vor/Nachteile? 
     - Drücke?
   - Sind Winde, Drehwerk etc. brems/Verriegelbar?
+
+
+
 
 * Fahrgestell  
   - Limit: Achslast 
@@ -62,18 +76,18 @@ Mobil/Teleskopkräne
 * Zusätze
   - Klappspitze
   - Mastverlängerung
-  - Y-Dingens auf dem Arm
-    . wozu?
-    . aktive/verstellbare Komponenten?
   - Wippe 
     . zweite Winde - verstellbar
     . kombunierbar?
+  - Y-Dingens auf dem Arm
+    . wozu?
+    . aktive/verstellbare Komponenten?
   - keine aktive hydraulik "Oben" - nur dämpfer  
     Oder?
+  - Was ist in dieser "Kabeltrommel" die neben dem Arm ausfährt`?
   - In wieviel Stücken sind die Oberteile zusammengebaut?
     Tieflader f Gegengewichte und Anbauten
   - 2 Seile (auch von 2 Enden der Masten)
-  - Was ist in dieser "Kabeltrommel" die neben dem Arm ausfährt`?
 
 * Aufrüsten 
   - SChnell, einfach 
@@ -86,6 +100,14 @@ Mobil/Teleskopkräne
 
 * Konstruktive Unterschiede kleine vs. große Kräbe  
   - Teleskopierung per Seilzug vs. per Zylinder
+
+* Das sind alles Serienprodukte
+  - wieviele verkauft man so von den großen?
+  - gibt es auch Einzelstücke?
+  - Musste schon ein Auftrag abgelehnt werden, weil zu unrealistisch? 
+    Und falls ja: Was war der limitierende Faktor?
+
+
   
 * Was sind Failure Modes, und was wird dagegen getan?
   - Überlastung
@@ -104,41 +126,38 @@ Mobil/Teleskopkräne
     . Intervalle?
     . Wer?
   
-* Das sind alles Serienprodukte
-  - wieviele verkauft man so von den großen?
-  - gibt es auch Einzelstücke?
-  - Musste schon ein Auftrag abgelehnt werden, weil zu unrealistisch? 
-    Und falls ja: Was war der limitierende Faktor?
    
    
 Bedienung
 --------------------------------------------
+* Aktuatoren steuern vs. Kartesisch?
+* Nur eine Pumpe - teilen der Kraft für Aktoren?
+
 * Welcher Hebel tut was
   - standardisiert?
-  - Kompensation von Schwingung
-  - was machen die anderen 100 Schalter in der Kabine
   - was zeigen die Bildschirme an?
   - Ein/Ausfahren des Arms ist "statisch", nicht Teil des "Fahrens"
-* Nur eine Pumpe - teilen der Kraft für Aktoren?
+  - was machen die anderen 100 Schalter in der Kabine
+
+  - Kompensation von Schwingung
 * Merkt man mehr Gegengewicht beim drehen?
-* Aktuatoren steuern vs. Kartesisch?
 * Fahrerunterstützung
+  - Waage
+  - Ampel
+  - Stützlasten
+  - automatisches Verfahren des Arms
+
+
   - stopschalter schaltet nicht nur winde!
   - Kameras
     . Rückfahrkamera :-)?
     . Arm/Haken
     . Winde
   - Seilendschalter
-  - Waage
-  - Ampel
-  - Stützlasten
-  - automatisches Verfahren des Arms
   - Fahrerkabine beweglich (holt Fahrer unten ab)
   - Lastverfolgung der Scheinwerfer
   - Lastbegrenzung, Programmierbare arbeitsbereichsbegrenzung
   - Andere Sensorik?
-
-* Was zeigt Liccon im Betriebsmodus und im Rüstmodus an?
 
 * Arbeiten mit mehreren Kränen
 
@@ -150,37 +169,25 @@ Bedienung
   
 Raupenkräne
 ----------------------------------------
-* Produktpalette
-  - Höhen
-  - Massen
+* Warum Raupen?  
+  - Warum keine Stützen?
+  - Kann mit Last fahren?
 * Anderes Prinzip:
   - Gittermast
   - Mastegeometrie
+  - verspannt
   - Seile, weniger Hydraulik
   - erklären wie die zUsammenspielen
 * Warum höhere Lasten?
   - Der Kran ist immer im "Gleichgewicht" durch Verstellung der Arme != Mobilkran ?
-* Warum Raupen?  
-  - Warum keine Stützen?
-  - Kann mit Last fahren?
 * nachteil: kann nicht mit Last teleskopieren
+* Produktpalette
+  - Höhen
+  - Massen
+  
+KG1750
 * Wieviel haben die prinzipiell und technisch mit den Mobilkränen gemeinsam?
-* Gibt es ein theoretisches oder praktisches Limit für die Größe?
-  - Rocket Equation
-  - Aufzug: seilgewicht
-  - Man braucht zu viel Masse
-* Ballasting
-  - Derrickballast
-  - Schwebeballast
-  - VarioTray
-  - Ballastwagen
-  - verstellbare Räder f drehen vs. Fahren
-* Masten
-  - SChwerlastspitze
-  - PowerBoom
-  - SX/SX2 System
-  - Momente ... Einfluss von SX2 auf die Momente? Welche?
-  - Windlimits
+
 * Mehr Aufbauafuwand?
   - Reduktion der Transportaufwands wichtig -> Wirtschaftlichkeit
   - Alleine aufbauen vs. Unterstützung durch kleinere Kran
@@ -188,6 +195,20 @@ Raupenkräne
     . Jack-Up Zylinder
     . Raupen
     . Baum
+
+
+* Ballasting
+  - Derrickballast
+  - Schwebeballast
+  - Ballastwagen
+  - VarioTray
+  - verstellbare Räder f drehen vs. Fahren
+* Masten
+  - SChwerlastspitze
+  - PowerBoom
+  - SX/SX2 System
+  - Momente ... Einfluss von SX2 auf die Momente? Welche?
+  - Windlimits
 * Elektronische Unterstützung
   - Bodendruckanzeige
   - Boom up/down Aid
@@ -195,3 +216,11 @@ Raupenkräne
 
 https://www.youtube.com/watch?v=mpR3KVdSzr4
 
+
+Elektronik
+-------------------------------
+* Was zeigt Liccon im Betriebsmodus und im Rüstmodus an?
+* Steuergeräte
+* Selbstdiagnose
+* Algorithmen
+* Safety

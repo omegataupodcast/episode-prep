@@ -1,3 +1,8 @@
+Part 0 - Big Picture
+----------------------------------------
+* Toby
+* The book
+
 Part 1 - What kinds of disasters
 -----------------------------------------
 * Existential - human race dies out
@@ -46,8 +51,11 @@ Part 2 - Examples
   - AI
     . do we really know it can become "conscious"
     . paper clip machine
+    . isnt the facebook ai algos already ai going rogue? or is it humsn profit maximazation
 
-* So what is the conclusion? Will we die :-) ?
+* So what is the conclusion? 
+  - Will we die :-) ?
+  - which one do you think is most critical?
 
 Part 3 - Why do we care
 ----------------------------------------
@@ -58,6 +66,7 @@ Part 3 - Why do we care
   - present: ?
     . "life is suffering
   - future: overall civ potential
+    . what exactly is the potential future we might be able to have
     . how do you justify that the value of future, 
       unborn ppl is as valuable as current? 
       not the same as spatial, there the person exists!
