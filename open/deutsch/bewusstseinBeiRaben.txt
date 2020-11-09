@@ -1,0 +1,100 @@
+Philosophisches
+--------------------------------------------
+
+* Was ist Bewusstsein?
+  - What is it like to ... experience/do/feel
+  - Color red: Wavelength vs. "seeing red"
+
+* Wie entsteht Bewusstsein?
+  - weiß keiner
+  - irgendwie aus der Komplexität des Gehirns?
+  - damit müsste alles Komplexe Bewusstsein haben ... seltsam.
+  - Ich habe Theorien gehört, wonach alles conscious ist, auch ein
+    Stein. Halt nur so wenig, dass man das nicht bemerkt. Meinung :-) ?
+
+* Bewusstsein in Abgrenzung zu ...
+  - Emotionen
+  - Intelligenz
+  - Kreativität
+  - Character
+  
+* Welchen Tieren unterstellt/weiß man Bewusstsein?
+  - Mücken?
+  - Meerschweinchen?
+  - Hunde?
+  - Papageien
+  - Raben
+  - Delphine
+  - Affen?
+
+* Aspekt davon: 
+  - Sensory Consciousness: was ist das?
+  - know what they know and can ponder the content of their own minds
+
+Konkreteres
+------------------------------------------------------
+  
+* Wie kann man herausbekommen ob etwas Bewusstsein hat?
+  - wir wissen es alle intuitiv über uns .... :-)
+    (wird manchmal als die "einzige Wahrheit" bezeichnet, denn wir
+    wissen alle, dass wir es haben!)
+  - Beispielhafte Tierexperimente
+  - Werkzeugbasiertes Handeln von Raben
+
+* Warum ist es bei Vögeln (vielleicht) erstaunlicher?
+  - Gehirnstrukturen im Vgl zu Säugetiere
+  - Warum verwenden Sie gerade Raben/Krähen?
+  
+* Konkretes Experiment
+  - rule-based delayed detection task -> was ist das, warum ist das aussagekräftig?
+    “After the crow initiated a trial, a brief visual stimulus of variable
+     intensity appeared. After a delay period, a rule cue informed the crow
+     how to respond if it had seen or had not seen the stimulus. [A] red cue
+     required a response for stimulus detection (“yes”), whereas a blue cue
+     prohibited a response for stimulus detection.”
+  - the internal state of the crows determined -> how?
+  - was ist "signal detection theory"?
+  - was sind "classical psychometric functions"?
+  - we recorded single-cell activity of 480 neurons -> wie wird "gemessen?"
+    . the initial sweep of activity is mainly involved in unconscious vision
+    . whereas activity correlating with consciousness is delayed relative 
+      to stimulus onset activity  
+  - Statistik/Vertrauen bei der Auswertung
+    
+* Was *genau* sind die Schlussfolgerungen, was kann man über Bewusstsein
+  sagen, was nicht.
+  - "has neurons that represent what it perceives—a hallmark of consciousness.""
+  - "neural correlate of visual consciousness" / sensory consciousness
+  - "what it is like" for a crow to be consciously aware of sensory data—remains hidden 
+  - whether pure subjective experience itself (“phenome- nal consciousness”) can #
+    and should be dissociated from its report (“access consciousness”) remains 
+    intensely debated  
+    
+* Bezug wieder zu Säufetieren:    
+  - markedly similar to findings in the primate cerebral cortex, 
+    . obwohl es den bei Vögeln in dieser Form gar nicht gibt.
+    . wie unterscheiden sich die Gehirne?
+  - This two-stage process in awareness could prove to be a general and 
+    evolutionarily stable principle of how sensory consciousness is achieved in 
+    vertebrates in general.
+    -> gemeinsame Vorfahren?
+    -> Zweimal entwickelt?
+
+  
+* Andere Krähen/Rabenexperimente
+  - Werkzeuge
+  - mehrschrittiges Ausführen von "gelernten" Plänen
+  - Igel über die Strasse begleiten :-)
+  - Wird oft als Beleg für Intelligenz/Kreativität bezeichnet <-> Bewusstsein?
+    "However, birds, and particularly corvids (such as ravens), are as cognitively 
+     capable as monkeys and even great apes.
+  -  spezifisch von Euch: "Nieder et al., who established previously that corvids, 
+     like macaques, have sensory neurons that represent numeric quantities"     
+
+
+
+falconryandme@gmail.com
+
+
+==================================================
+

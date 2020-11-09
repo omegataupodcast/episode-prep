@@ -1,0 +1,56 @@
+* Überblick Anflugtypen
+  - Sicht
+  - NDB
+  - PAR
+  - ILS
+  - GPS (Assisted)
+  - MLS
+
+* Funktionsweise ILS
+  - Localizer + Slope
+  - Equipment im Flieger
+    . Wie Anzeige im Cockpit
+    . Automatische Landung -> Autopilot
+  - Bodenequipment
+    . wo stehen die beiden Sender?
+  - Marker + DME
+  - VASI/PAPI. Related?
+
+* Prinzipieller Ansatz
+  - zwei überlagerte "Keulen"  
+  - Prinzip links/rechts und oben/unten gleich?
+  - Bezug der beiden Frequenzen von Localizer und Glideslope
+    man rastet ja nur eine
+
+* Wie funktioniert das Radiotechnisch?
+  - Aufmodulierte Signale
+  - Nebenkeulen
+
+* Wie bei VOR kein Punktsignal, sondern projiziert eine Linie!
+
+* Backcourse-Anflug
+
+* Was macht die Präzsion aus?
+  - erstmal: was ist erzielbar?
+  - "Der Grund besteht darin, dass die Signale durch rollende 
+     und fliegende Flugzeuge gestört werden können.""
+  - Bezug zu den CATs
+
+
+* Failure Modes am Bodenequipment
+  - Selbstüberwachung?
+    . NFM – Nahfeldmonitor bei CAT I
+    . zusätzlich FFM – Fernfeldmonitor bei CAT II/III
+
+* Kalibrierung
+  - Selbst
+  - Boden - Erstvermessung
+  - Luft
+  
+* Entwicklung über die Zeit
+  - Geschichte
+  - AKtuelle vs. letzte Generation
+  - Ab 1946 erfolgte weltweit die Einführung des noch heute verwendeten Systems.
+
+* Zum Abschluss: Ausflug zum VOR
+  - wie ist das technisch aufgebaut?

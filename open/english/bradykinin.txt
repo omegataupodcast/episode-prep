@@ -1,0 +1,113 @@
+Introductions
+------------------------------
+* Daniel Jacobson
+* Oak Ridge NL
+  - nuclear past :-)
+* OLCF
+
+Medical/biological perspective
+-------------------------------------------------------
+* What is the question investigated in this project?
+
+* How did you get the idea to look into it?
+
+* What is the starting point 
+  - lung fluid
+  - 9 patients vs. 40 control
+  - is this statistically significant? How do you know?
+  
+* researchers found an increased expression of enzymes that can trigger the production of 
+  bradykinin and a decreased expression of enzymes that would break down bradykinin 
+  The team also uncovered that an enzyme that forestalls the bradykinin cascade — the 
+  angiotensin-converting enzyme, known as ACE — was less expressed in COVID-19 patients
+  
+* bradykinin is a known substance
+  - what does it do?
+  - relationship to ACE/ACE2
+    "also the main receptor for Sars-Cov2" -> what does this mean?
+  - relationship to blood pressure
+  - we do have medicines, right? So that's good news!?
+* bradykinin can explain the wide variety of sympotoms 
+  - such as muscle pain, fatigue, nausea, vomiting, diarrhea, headaches, and decreased cognitive function.  
+  - do we know how bradykinin does it?
+* theory so far: cytokine storm
+  - difference? cytokines regulate immune system.
+  - what does bradykinin do?
+  
+* The lungs of COVID-19 patients are known to have an increased amount of hyaluronic acid
+  - where does this come from? Also from brady?
+  - Hyaluronic acid can absorb more than 1,000 times its own weight in water to 
+    form a hydrogel. 
+  - how does this play togetehr with the leakiness of blood vessels due to Brady?  
+  - in line with the observation that even when pumping oxy into the lungs it doesn't
+    help -> cf https://omegataupodcast.net/341-emergency-and-intensive-care-ventilation/
+
+* So what overall "working model" of SarsCOV 2 does this suggest? 
+  - and which interventions?
+  - most of them already FDA-approved pharmaceuticals
+  
+* Give us a high-level overview over the details of the process (it's not as simple
+  as the above suggests) so we can appreciate the complexity.
+  HA, RAS, BK, Vitamin D  
+  
+* “This is one of those rare times where you can really tie everything back to a eureka moment,” 
+  said Jacobson, staff scientist in ORNL’s Biosciences Division. “I was looking at data, 
+  and I suddenly saw some very distinct patterns happening in the pathways of the 
+  renin-angiotensin and bradykinin systems. That led us to do a deep dive of the gene 
+  families of the blood pressure regulatory system.” 
+  - "looking at the data" suggests some sort of manual, human analysis
+  - what exactly did the sim do, which results did it produce, and
+    what then was the human "looking" that led to Eureka?
+
+* We seem to know quite a bit about which genes regulate what. 
+  - How?
+  - I always thought gene therapy was hard because of single gene influencing 
+    multiple effects.
+  - Might the usggested interventions have unwanted effects as well?  
+
+* All of this is known "manual" analysis of how genes contribute to effects.
+  your paper has basically a citation for every step of the overall process. 
+  So we know a lot (also: impressive writing!)
+
+Computing perspective
+--------------------------------------------------
+
+* So what did the computing do?
+  - "the team compared the genes of COVID-19 patients against 
+    a control group and analyzed population-scale gene expression data — 17,000 
+    samples from uninfected individuals — to see which genes were normally 
+    co-expressed, or turned on or off at the same time.  ""
+    . what is gene expression
+    . what does it lead to?
+    . how does this relate to bradykinin?
+  - So this is basically a big data analysis of gene expression?
+    what were the analysis steps?
+  
+* Practically speaking, was the computing an enabler or an accelerator?
+  - Nine bronchoalveolar lavage (BAL) samples ...
+    However, the human reads from these samples
+    were discarded 3. Here, we analyze the human RNA-seq data from these BAL
+    samples alongside 40 controls. 
+  
+* Were there free parameters to set in the modeling? 
+  - Which? 
+  - How did you go about setting those?
+  - How do you know the model is "correct"  
+  
+* Describe Summit  
+  - largest supecomp in the US
+  - how many petaflops?
+  
+* What kind of software did you actually run?
+  - are these existing codes?
+  - what did you have to program/configure?
+  - what are the abstractions/models used to perform this analysis?
+  - is this only a statistical comparison? or a sophisticated of "mechanics"
+    
+* What goes into the prep of such a sim?
+  - What was already there?  
+  - How long did it take to preapre?
+ 
+* Next steps:
+  - experiments with drugs?
+  

@@ -55,6 +55,7 @@
   . Stichwort 5-sigma in der Physik
   . gegenseitige kontrollen, „stabilität“
   . Sensitivitätsanalyse
+    parametrierung ändern (altersgruppen, herdenimmu); massentauglichkeit
   . Vergleichsrech in anderen Kontexten: auf schiff, gangelt
   . Vorhersagen der Vergangenheit
 

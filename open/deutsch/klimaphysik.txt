@@ -1,0 +1,126 @@
+* Was ist Klima
+  - Längerfristiges Wetter
+  - Wettermittelwerte vs. Statistik?
+  - Variablen Temp, Niederschlag. Wind?
+  - meteorologische vs. systemanalytisch. 
+    Unterschied relevant warum?
+  - Welche Komponenten. Atmosphäre, klar, aber was sonst?
+    . Wassertemperaturen
+    . Eismenge (Albedo)  
+    . was noch?
+  - In Richtung Physik: thermodynamisch: offen oder geschlossen?
+  
+* Was ist Klimaphysik?
+  - Bei all diesen Modellen: chaos?  
+  - Ist diese Physik die Basis für die DGL in Klimamodellen?
+  - Welche Näherungen beschreiben die Welt gut genug?
+    Suche nach Modellen.
+
+* Klimavorhersage
+  - Vorhersage als Anfangswertproblem (Wettervorhersage)
+  - Vorhersage als Randwertproblem („Szenarien, Projektionen“)
+  - Warum ist langfristig einfacher (interne vs. externe Variabilität)
+  
+* Strahlungsbudget
+  - Grundlage klar: Kurzwellig rein -> aufwärmen -> langwellig raus
+  - Wärme und Strahlung ist nicht das gleiche ... Infrarot = Wärmestrahlung?
+  - Wärme <-> Strahlung
+  - Verhältnis rein/raus = f(Atmosphärenzusammensetzung)  
+  - Energiebilanz 
+    . Einstrahlung Querschnitt / Abstrahlung Fläche
+    . verschiedene Modelle
+      Was ist ein grauer Strahler?
+      Was für eine Bodentemperatur kommt raus bei so einfachem Modell?
+  - Strahlungstransfergleichung - präziseres Modell
+  - Troposphäre - Kühlung
+  - CO2 Strahlungsantrieb
+    Temperatur der Stratosphäre sinkt -> P ~ T^4 => weniger Abstrahlung
+    
+* Sensititivät
+  - Treibhaus -> steigende T -> mehr Abstrahlung. Gut. Klingt nach Gleichgewicht.
+    Aber auch Eisschmelze. Albedo runter. Mehr Erwärmung. Schlecht.
+  - Kern von Klimamodellen ist, das richtig abzuschätzen.    
+  - Lambda
+  - TCR: Atmosphäre, Ozean, Jahrzehnte, nicht-Gleichgewicht
+  - ECS: Atmosphäre, Ozean, Jahrhunderte bis Jahrtausende
+  - ESS: Atmosphäre, Ozean, Biosphäre, Cryosphäre, Jahrhunderttausende  
+  - ECS
+    . ist was?
+    . wie bestimmt man das?
+  - Strahlung vs. Konvektion, Manabe
+  - Gekoppelte Klimamodelle -> numerisch!
+    siehe ECMWF Episode. Recap: was geht rein?
+  - CMIP
+  - Eigentlich müsste man einfach nur im Modell das CO2 verdoppeln, und es 
+    dann laufen lassen, bis ein neues Gleichgewicht erreicht ist.
+    So macht man es aber in der Praxis meisten nicht, warum?
+    Beim gekoppelten Modell dauert es viele Jahrhunderte, bis ein neues 
+    Gleichgewicht erreicht ist. So viel Rechenzeit können wir uns nicht leisten.
+    -> Die Gregory Methode
+  - Historische Messdaten und Emergent Constraints
+
+* Rückkopplungen
+  - Ein Rückkopplungs-Prozess ist eine Antwort des Klimasystems 
+    auf Erwärmung der Oberflächentemperatur, die dann die Strahlungsenergiebilanz 
+    so beeinflusst, dass sie die Antwort des Klimasystems auf den Antrieb verändert.
+  - positive sind schlecht.
+  - Rückkopplungsparameter eines jeden Effekts hilft, zu entscheiden,
+    welche Prozesse ich berücksichtigen muss im Modell
+  - Welche Rückkopplungen gibt es?
+    . Wasserdampf 
+      Physik: Dampfdruck Ozeane
+      Clausius-Clapeyron :-)
+    . Temperaturgradient 
+    . Eis-Albedo
+	. Wolken
+	  Twomey Effekt (Schiff, Aerosol)
+	. Ozeanzirkulation
+
+* -sphären
+  - Ozeane
+    . wichtigstes, neben der Atmo
+    . Masse ~250 Mal die der Atmosphäre.
+    . Ein Großteil dieser Energie wird durch Verdunstungskühlung balanciert, 
+      daher ist er die Hauptquelle für Wasserdampf und Wärme in der Atmosphäre.
+    . In der Arktis entspricht eine gegebene Änderung in Salinität also einer 
+      viel größeren Temperatur- änderung als in den Tropen.
+    . Zirkulationen
+    . Salzgehalt, Temp
+    . Farbe (Abstrahlung)
+    .  Die thermohaline Zirkulation
+    . Cryo: beeinflusst was/wie?
+      Warum ist das Eis Süsswasser?
+    . Was beeinflusst den Meeresspiegel?
+      Eisschild-Dynamik ist komplex, nichtlinear, und Prognosen sehr
+      unsicher. Eigendynamische Prozesse der Eisschilde sind langsam aber vermutlich kaum aufzuhalten.
+  - Biosphäre (ozeanisch / terrestrisch) Cryosphäre
+  - Pedosphäre (Böden)
+  - Lithosphäre (Erdkruste und -Mantel)
+  
+* Kreisläufe
+  - Wasserkreislauf
+    . Gleichgewicht aus Niederschlag und Verdunstung
+    . Höhere Temp bedeutet mehr absolute Speicherkap
+      -> Hydrologische Sensititivität
+    . Energiebeschränkung des globale Niederschlags??
+      Was macht CO2?  
+     . Die zweite Schlüsselfrage lautet: Wie werden sich die globalen Niederschlagsmuster ändern? Was vermuten Sie?
+       a) Es wird überall etwas mehr regnen (ca. 2%/K).
+       b) Der zusätzliche Niederschlag kommt vor allem den Wüstenregionen zugute.
+       c) Der zusätzliche Niederschlag fällt vor allem da, wo es jetzt schon viel regnet, Wüsten bleiben unverändert.
+       d) Da wo es jetzt schon viel regnet, regnet es noch mehr, und Wüsten trocknen noch mehr aus.
+       d. Warum?
+  - CO2 Kreislauf
+    . Chemische Reaktionen
+      Atmung Mensch
+      Photosynthese
+    . Gebunden in Pflanzen
+    . In den Ozeanen: Kohlensäure
+    . Kalk
+    . Biologische Pumpe
+    . Gibt es da nicht-Linearitäten?
+    
+* Erdsystemgeschichte
+  - Orbitparameter, Plattentektonik, Ozeane, Eisschilde und Biosphäre sind 
+    die Schlüsselfaktoren die das Klima im Verlauf der Erdgeschichte geformt haben.
+    
