@@ -1,34 +1,37 @@
 * Überblick Anflugtypen
   - Sicht
-  - NDB
-  - PAR
+  - NDB /* ist eigentlich kein Anflug, sondern nur eine Navigationsanlage... ansonsten gehört noch VOR und DME zu den Navigationsanlagen
+  - PAR /* gibts bei der DFS natürlich nicht mehr
   - ILS
   - GPS (Assisted)
-  - MLS
+  - MLS /* war mal angedacht, wurde aber von der GPS-Euphorie verdrängt
 
 * Funktionsweise ILS
-  - Localizer + Slope
+  - Localizer + Slope /* bietet irre viel Stoff, denke das wird der Hauptteil
   - Equipment im Flieger
-    . Wie Anzeige im Cockpit
-    . Automatische Landung -> Autopilot
+    . Wie Anzeige im Cockpit /* da kann ich Details zum klassischen Kreuzzeiger nennen und vielleicht auch mit einen kleinen Piloten-Irrtum korrigieren :-)
+    . Automatische Landung -> Autopilot /* da kann ich weniger zu sagen, weil ich kein Pilot bin
   - Bodenequipment
-    . wo stehen die beiden Sender?
-  - Marker + DME
-  - VASI/PAPI. Related?
+    . wo stehen die beiden Sender? /* kann man auch jede Menge Details zu erzählen
+  - Marker + DME /* DME kann bei ILS eine Sepzialfunktion übernehmen... kann man auch recht viel drüber erzählen
+
+  - VASI/PAPI. Related? /* heikles Thema... im Grunde sind ILS und PAPI nicht verkoppelt... aber 
 
 * Prinzipieller Ansatz
-  - zwei überlagerte "Keulen"  
+  - zwei überlagerte "Keulen"  /* gehört ja schon irgendwie zu Funktionsweise oben... aber man kann oben etwas oberflächlicher drüber weggehen un dhier mehr ins Detail
   - Prinzip links/rechts und oben/unten gleich?
-  - Bezug der beiden Frequenzen von Localizer und Glideslope
+  - Bezug der beiden Frequenzen von Localizer und Glideslope /* ja, kann man mal erwähnen, hier gibt es nicht so viel Stoff
     man rastet ja nur eine
 
 * Wie funktioniert das Radiotechnisch?
-  - Aufmodulierte Signale
+  - Aufmodulierte Signale /* das kommt dann automatisch bei Funktionsweise und so
   - Nebenkeulen
 
-* Wie bei VOR kein Punktsignal, sondern projiziert eine Linie!
+/* Ganz wichtiges Thema: was für ein Umfeld benötigt ILS?
 
-* Backcourse-Anflug
+* Wie bei VOR kein Punktsignal, sondern projiziert eine Linie! /* da müsstest Du nochmal genau sageb, was Du damit meinst.. VOR hat ja mit ILS direkt nichts zu tun
+
+* Backcourse-Anflug /* ja kann man ein paar Worte zu sagen, aber nucht sehr viel
 
 * Was macht die Präzsion aus?
   - erstmal: was ist erzielbar?
@@ -36,21 +39,35 @@
      und fliegende Flugzeuge gestört werden können.""
   - Bezug zu den CATs
 
+/* hier sollte man noch über Zuverlässigkeitsanforderungen sprechen (was ist das? wie stelle ich sicher, dass die Kiste nicht so oft ausfällt und was mache ich, wenn sie das doch tut), hier kommt dann auch nichmal die Sprache auf das örtliche Umfeld des ILS
 
-* Failure Modes am Bodenequipment
+
+* Failure Modes am Bodenequipment /* 
   - Selbstüberwachung?
     . NFM – Nahfeldmonitor bei CAT I
     . zusätzlich FFM – Fernfeldmonitor bei CAT II/III
 
 * Kalibrierung
   - Selbst
-  - Boden - Erstvermessung
+  - Boden
   - Luft
+
+
+
+/* welche Hersteller nimmt die DFS und warum? 
   
+/* Vielleicht noch Organisation der terrestrischen Navigation in der DFS und interne Einordnung bzw. Ablauf/Inhalte meiner Aufgabe? Die ist nämlich sehr vielschichtig. Bis ein ILS mal steht, sind deine Nerven blank.
+
+
+/* "Marktöffnung und Privatisierung der Navigation, Stichwort: Verkehrsflughäfen / Regionalflughäfen...bestimmt interessant, weil das nur wenige wissen... wie wird das Zeug finanziert?
+
 * Entwicklung über die Zeit
   - Geschichte
   - AKtuelle vs. letzte Generation
   - Ab 1946 erfolgte weltweit die Einführung des noch heute verwendeten Systems.
 
-* Zum Abschluss: Ausflug zum VOR
-  - wie ist das technisch aufgebaut?
+/* Zukünftige Entwicklung (vor dem Hintergrund von GPS)? Warum gibt es ILS überhaupt noch? Warum nutzt keiner GPS für Landungen (GBAS, CATI, CAT II/III) in Deutschland? Wo gibt es GBAS in Deutschland?
+
+
+Alles in allem sind die Themen so vermischt und untereinander abhängig, dass man keine exakte Reihenfolge einhalten kann. Man wird auch mal thematisch abweichen und kurz hin und her springen müssen und manches auch mal doppelt ansprechen. erst oberflächlich und dann später vertieft.
+Wird sich alles ergeben, denke ich.
