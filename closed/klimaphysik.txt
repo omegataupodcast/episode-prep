@@ -1,3 +1,5 @@
+* Vorstellung
+
 * Was ist Klima
   - Längerfristiges Wetter
   - Wettermittelwerte vs. Statistik?
@@ -22,19 +24,21 @@
   - Warum ist langfristig einfacher (interne vs. externe Variabilität)
   
 * Strahlungsbudget
-  - Grundlage klar: Kurzwellig rein -> aufwärmen -> langwellig raus
-  - Wärme und Strahlung ist nicht das gleiche ... Infrarot = Wärmestrahlung?
-  - Wärme <-> Strahlung
-  - Verhältnis rein/raus = f(Atmosphärenzusammensetzung)  
   - Energiebilanz 
     . Einstrahlung Querschnitt / Abstrahlung Fläche
     . verschiedene Modelle
       Was ist ein grauer Strahler?
       Was für eine Bodentemperatur kommt raus bei so einfachem Modell?
+  - Verhältnis rein/raus = f(Atmosphärenzusammensetzung)  
   - Strahlungstransfergleichung - präziseres Modell
   - Troposphäre - Kühlung
   - CO2 Strahlungsantrieb
     Temperatur der Stratosphäre sinkt -> P ~ T^4 => weniger Abstrahlung
+
+  - Grundlage klar: Kurzwellig rein -> aufwärmen -> langwellig raus
+  - Wärme und Strahlung ist nicht das gleiche ... Infrarot = Wärmestrahlung?
+  - Wärme <-> Strahlung
+    
     
 * Sensititivät
   - Treibhaus -> steigende T -> mehr Abstrahlung. Gut. Klingt nach Gleichgewicht.
@@ -59,6 +63,9 @@
     -> Die Gregory Methode
   - Historische Messdaten und Emergent Constraints
 
+
+
+
 * Rückkopplungen
   - Ein Rückkopplungs-Prozess ist eine Antwort des Klimasystems 
     auf Erwärmung der Oberflächentemperatur, die dann die Strahlungsenergiebilanz 
@@ -67,17 +74,17 @@
   - Rückkopplungsparameter eines jeden Effekts hilft, zu entscheiden,
     welche Prozesse ich berücksichtigen muss im Modell
   - Welche Rückkopplungen gibt es?
+    . Eis-Albedo
     . Wasserdampf 
       Physik: Dampfdruck Ozeane
       Clausius-Clapeyron :-)
     . Temperaturgradient 
-    . Eis-Albedo
 	. Wolken
 	  Twomey Effekt (Schiff, Aerosol)
-	. Ozeanzirkulation
 
 * -sphären
   - Ozeane
+	. Ozeanzirkulation
     . wichtigstes, neben der Atmo
     . Masse ~250 Mal die der Atmosphäre.
     . Ein Großteil dieser Energie wird durch Verdunstungskühlung balanciert, 
@@ -98,6 +105,15 @@
   - Lithosphäre (Erdkruste und -Mantel)
   
 * Kreisläufe
+  - CO2 Kreislauf
+    . Chemische Reaktionen
+      Atmung Mensch
+      Photosynthese
+    . Gebunden in Pflanzen
+    . In den Ozeanen: Kohlensäure
+    . Kalk
+    . Biologische Pumpe
+    . Gibt es da nicht-Linearitäten?
   - Wasserkreislauf
     . Gleichgewicht aus Niederschlag und Verdunstung
     . Höhere Temp bedeutet mehr absolute Speicherkap
@@ -110,17 +126,12 @@
        c) Der zusätzliche Niederschlag fällt vor allem da, wo es jetzt schon viel regnet, Wüsten bleiben unverändert.
        d) Da wo es jetzt schon viel regnet, regnet es noch mehr, und Wüsten trocknen noch mehr aus.
        d. Warum?
-  - CO2 Kreislauf
-    . Chemische Reaktionen
-      Atmung Mensch
-      Photosynthese
-    . Gebunden in Pflanzen
-    . In den Ozeanen: Kohlensäure
-    . Kalk
-    . Biologische Pumpe
-    . Gibt es da nicht-Linearitäten?
     
 * Erdsystemgeschichte
   - Orbitparameter, Plattentektonik, Ozeane, Eisschilde und Biosphäre sind 
     die Schlüsselfaktoren die das Klima im Verlauf der Erdgeschichte geformt haben.
     
+Deine Programme    
+verwendung
+fortran
+schwäbisch "bissle"

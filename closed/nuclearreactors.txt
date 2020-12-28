@@ -11,29 +11,20 @@ Current Situation and Recap
     . how to safely shut the thing down and cool remaining heat after shutdown
     . waste and proliferation
 
-* Recap of the currently most-used reactor types
-  - https://en.wikipedia.org/wiki/Generation_II_reactor
-  - pressurized water reactor (siedewasser/druckwasser)
-  
 Newer Designs
 ----------------------------------------------------  
 * why are we talking: newer designs are (designed to be)
+  - lower cost (construction/operation?)
   - less (or shorter lived) waste
   - more efficient
-  - easier/self shutdown
   - less technically complex
-  
-* Generation IV
-  - recap of older generations and their distinction
-  - GIF
-    . who is behind this?
-    . which countries perform active research and engineering?
-
+  - safer (passive safety)
+    
 * Which parameters are varied with newer designs?
   - Neutron Spectrum (Thermal / Fast)
   - Coolant	
     . normally water
-    . using metallic sodium as a coolant. 
+    . using gas, liquid salt or liquid metals as a coolant. 
     . Supercritical-water-cooled reactor
   - Temperature
     . more efficient through higher temp: why?
@@ -43,30 +34,32 @@ Newer Designs
     . Waste burner
     . Breeding; what is this?
   - Power
-    . small modular reactors
+    . small/micro/modular reactors
     . How small can they get, sensibly?
     . On a truck, backyard
 
 * Talk about a few example designs
-  - Very-high-temperature reactor (VHTR)
+  mainly
+  - Very-high-temperature gas reactor (VHTGR)
   - Molten-salt reactor (MSR)
+  others 
   - Supercritical-water-cooled reactor (SCWR)
   - Gas-cooled fast reactor (GFR)
   - Sodium-cooled fast reactor (SFR)
   - Lead-cooled fast reactor (LFR)
 
 * How/why are they safer?
-  - still have very high pressures that might "explode"
+  - still have very high pressures that might "explode", right?
   - or salt that will react with water 
   - passive safety
-    Emergency Draining System designed for the MSFR
-  - negative temperature coefficient
-  - negative void coefficients
-  - lower fissile inventory
-  - no initial criticality reserve
-  - simplified fuel cycle
-  - can we also manage / understand them better? Eg,
-    measure neutron flux in the core
+    e.g., Emergency Draining System designed for the MSFR
+    . negative temperature coefficient
+    . negative void coefficients
+    . lower fissile inventory
+    . no initial criticality reserve
+    . simplified fuel cycle
+  - can we also manage / understand them better? 
+    Eg, measure neutron flux in the core
   - wouldn't overall safety be higher if we continued to improve
     existing reactor designs (because we know more about them)
 
@@ -75,9 +68,9 @@ Newer Designs
   - or to the control systems, "user interface" and training of staff?
 
 * What is the current state of development of these?
+  - GIF
   - I read a lot about cancellations ...
-  
-* Other Initiatives beyond GIF
+  - Other Initiatives beyond GIF
   - small nuclear power plant in your backyard
   - Your research, the offshore floating nuclear power plant
 
@@ -87,23 +80,27 @@ The role of fission in the future energy mix
   large-scale reduction of energy use (and potentially (perceived) quality of life) is
   very hard to achieve, see Corona experience. Threatens democracy in the worst case.
 
-* What about the politcal feasibility? 
-  - Are people still willing to "buy into" them or is the image destroyed?
-  - Different in different countries I guess
-
 * are these new reactors economically feasible 
   - *without* the implicit subsidies we have (had) for fission so far?
   - in competition with renewables?
   - How accessible will the technology be for developing countries?
 
+* What about the politcal feasibility? 
+  - Are people still willing to "buy into" them or is the image destroyed?
+  - Different in different countries I guess
+
 * final storage problem is less
   - but still there
   - tear down, activated material
 
-* proliferation?
+* proliferation? 
+  - not your area,
+  - but we should acknowledge the topic still exists, right?
 
 * Should we rather invest in (and wait for) fusion?
+
 * Let's say we replace all fossile plants with nuclear ones, how long would the fuel last?
+
 * what about your perspective on catastrophic risks? 
   - Also in comparison to deaths from bad coal air or climate change?
   - what is the bound of the safety analysis. 

@@ -1,0 +1,124 @@
+Einleitung
+-------------------------------------------------
+
+* Vorstellung Thomas Wunderlich
+  - Wie kriegt man diesen Job :-) ?
+  - Ihr seid zu zweit?
+
+* Das Schiff Polarstern
+  - Zahlen, Daten, Fakten
+  - Besatzung vs. Gäste/Wissenschaftler
+  - bissle Historie
+  
+* Aufgaben: Forschung und Versorgung
+  
+
+MOSAIC
+-------------------------------------------------
+* Zweck der Mission
+  - Untersuchtung des Arktischen Klimas im Winter
+  - Datensammlung für Modellierung -> weitere Episode
+  - Einfrieren im Eis
+  - Verständnis der Drift? Das geht doch einfacher!
+  - Was ist eine gute Einfrier-Location?
+
+* Wer steht dahinter? 
+  AWI + viele andere
+
+* Timeline und Meilensteine
+
+* COVID Konsequenzen  
+
+* Schiff als Basis
+  - plus a distributed regional network of observational sites was set up on the 
+    sea ice in an area of up to ~50 km distance from RV Polarstern
+
+* Unterstützung durch andere Schiffe
+  - Kapitan Dranitsyn (+ Admiral Makarow zum Tanken)
+  - Akademik Fedorov
+  - Sonne und Meteor
+
+* Herausforderungen aus Nautischer Sicht
+  - Besteht eine technische Gefahr für das Schiff die gemanagt werden muss?
+  - Welche Maschinen bleiben an?
+  - Vereisung der Props?
+  - Versorgung?
+  - Sicherheit an Bord und auf dem Eis?
+
+* Aufgabe des Kapitäns 
+  - Verantwortung für das Schiff, klar, aber was noch?
+  - Arbeitsteilung mit Markus Rex
+  
+Das Schiff
+-------------------------------------------------
+  
+* Eisbrecher
+  - Funktionsprinzip / wesentliche Eigenschaften
+    . Bug!
+      Durch verbesserte Bugformen brauchen moderne Eisbrecher nur noch die 
+      Hälfte der Maschinenleistung früherer eisbrechender Schiffe
+      -> HSVA Episode
+    . Dickere wandstärke
+    . Geschützte Antriebe und Steuerflächen
+    . bis zu welcher Dicke Eis / Eisklasse?
+    . nicht nur brechen sondern auch runterdrücken -> Fahrrinne
+      für Polarstern weniger wichtig, da kein Begleiteisbrecher
+    . Ein Auftürmen des gebrochenen Eises zu Schollen vor dem Bug würde den 
+      Eisbrecher stark behindern oder zum Stillstand zwingen. 
+    . kontinuierliches fahren vs. vor/zurück rammen
+      ist 1.5m durchfahren viel? Eisklasse?
+   . Eisbrecher vs. eisbrechendes Schiff?
+  - Vgl. mit 
+    . den Atomeisbrechern der Russen
+      Andere Mechanismen: Stampfen, Atomeisbrecher Heißwasser schmelzen
+  
+* Herausforderungen des Schifffahrens im Eis
+  - langsam; wie schnell?
+  - stellt man einfach den Autopilot ein und schaut zu? Oder aktiver?
+  - Wieviel Crew aktiv beteiligt am Fahren?
+  - woher weiß man, wo das dünnste eis ist?
+    . Scouting via Heli? Wie stellt der das fest?
+  - kann das schiff (ungewollt) festgefrieren? Was ist dann der Plan?
+    Üblicherweise werden bei Eisbrechern senkrechte Bordwände vermieden, 
+    um die Zerstörung des Schiffes durch Presseis zu vermeiden.
+
+* Generell wie wird gesteuert? Steuerrad? Joystick?
+  . Wieviel Automation auf der Brücke?
+
+* Wie fahren sich solche Schiffe im normalen Wasser? viel Rollen?
+
+* Überblick über die Ausrüstung
+  - Labore, Kühlräume
+  - Helis
+  - Krane
+  - Winden
+  - A Frame
+  - Beiboote? Pistenbullys
+  - Arbeitsdeck beheizbar. COol :-)
+  - Tauchrobotor?
+
+* Wem gehört das Schiff und wie läuft der Betrieb?
+
+* Was wurde bei der Grundüberholung 2001 gemacht
+
+
+Andere Spannende Fahrten?
+------------------------------------
+
+
+
+Leben und Wohnen im Eis
+-------------------------------------------------
+* Wieviel "Crew Comforts" gibts auf dem Schiff?
+* Wifi? Satellite? Kommunikation mit zu Hause?
+* Crew Rotation
+* Dunkelheit
+* Rolle des Kapitäns?  
+
+Outro
+--------------------------------------
+* Wie lange wirds die Polarstern noch geben?
+* Nachfolger: canceled nach 10 Jahren
+
+
+
