@@ -4,6 +4,7 @@ Einleitung
 * Vorstellung Thomas Wunderlich
   - Wie kriegt man diesen Job :-) ?
   - Ihr seid zu zweit?
+  - Wie baut man die Erfahrung auf
 
 * Das Schiff Polarstern
   - Zahlen, Daten, Fakten
@@ -21,6 +22,7 @@ MOSAIC
   - Einfrieren im Eis
   - Verständnis der Drift? Das geht doch einfacher!
   - Was ist eine gute Einfrier-Location?
+  - grösste Exp aller Zeiten
 
 * Wer steht dahinter? 
   AWI + viele andere
@@ -38,16 +40,29 @@ MOSAIC
   - Akademik Fedorov
   - Sonne und Meteor
 
+* Versorgung durch Flugzeuge
+  - Welche 
+  - Landebahnbau
+  - Änderungen durch COVID
+
 * Herausforderungen aus Nautischer Sicht
   - Besteht eine technische Gefahr für das Schiff die gemanagt werden muss?
   - Welche Maschinen bleiben an?
   - Vereisung der Props?
   - Versorgung?
+    . Proviant
+    . Ersatzteile
   - Sicherheit an Bord und auf dem Eis?
+  - Eisbeobachtung / Eisdicke -- tun kann man ja aber eh nichts.
 
 * Aufgabe des Kapitäns 
   - Verantwortung für das Schiff, klar, aber was noch?
   - Arbeitsteilung mit Markus Rex
+  - Zusammenspiel mit der Fahrtleitung ("Mission Control" :-)
+    
+* Notfälle 
+  - welche werden geplant
+  - und was gibt es für Pläne?
   
 Das Schiff
 -------------------------------------------------
@@ -75,10 +90,12 @@ Das Schiff
 * Herausforderungen des Schifffahrens im Eis
   - langsam; wie schnell?
   - stellt man einfach den Autopilot ein und schaut zu? Oder aktiver?
+  - "Taktisches Fahren"
   - Wieviel Crew aktiv beteiligt am Fahren?
   - woher weiß man, wo das dünnste eis ist?
     . Scouting via Heli? Wie stellt der das fest?
-  - kann das schiff (ungewollt) festgefrieren? Was ist dann der Plan?
+  - kann das schiff (ungewollt) festgefrieren
+  - oder steckenbleiben? Was ist dann der Plan? Wie kommt man wieder raus?
     Üblicherweise werden bei Eisbrechern senkrechte Bordwände vermieden, 
     um die Zerstörung des Schiffes durch Presseis zu vermeiden.
 
@@ -104,19 +121,33 @@ Das Schiff
 
 Andere Spannende Fahrten?
 ------------------------------------
-
+* Arktis oder Antarktis?
+  - Was ist interessanter? 
+  - Unterschiede?
 
 
 Leben und Wohnen im Eis
 -------------------------------------------------
 * Wieviel "Crew Comforts" gibts auf dem Schiff?
+  - Monontonie Aufbrechen
+  - Rolle von gutem Essen
 * Wifi? Satellite? Kommunikation mit zu Hause?
 * Crew Rotation
+  - Wie hast Du Dich vorbereitet?
+  - Übergabe?
 * Dunkelheit
 * Rolle des Kapitäns?  
+* Arbeitszeiten an Bord
+  - Besatzung vs. Wissenschaftler
+  - Geregelter Arbeitstag?
+
+* wetterbedingungen d f d arbeiten zu gefährlich sind
+* Was ist schlimmer: abschied zu hause vs abschied schiff
+
 
 Outro
 --------------------------------------
+* Welche Veränderungen hast Du über Deine Karriere in der (Ant)Arktis beobachtet?
 * Wie lange wirds die Polarstern noch geben?
 * Nachfolger: canceled nach 10 Jahren
 
