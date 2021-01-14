@@ -34,6 +34,7 @@
   . Was wird parametriert (bspw. Ansteckungswahrscheinlichkeit)
   . Welche Korrekturen kann man dazu anbrigen?
     Kein exponentielles Wachstum hält für immer an!
+- Modellieren mit dem SIR-Modell mit Differentialgleichungen
 
 - Infiefern sind die Modelle hierarchisch?
   . also eines berechnet ein R (mikroskopisch)
