@@ -50,6 +50,7 @@ MOSAIC
   - Welche Maschinen bleiben an?
   - Vereisung der Props?
   - Versorgung?
+    . Sprit
     . Proviant
     . Ersatzteile
   - Sicherheit an Bord und auf dem Eis?
@@ -82,6 +83,7 @@ Das Schiff
       Eisbrecher stark behindern oder zum Stillstand zwingen. 
     . kontinuierliches fahren vs. vor/zurück rammen
       ist 1.5m durchfahren viel? Eisklasse?
+      - rammen: wie geht vor/zurück? verstellprop?
    . Eisbrecher vs. eisbrechendes Schiff?
   - Vgl. mit 
     . den Atomeisbrechern der Russen
@@ -94,6 +96,7 @@ Das Schiff
   - Wieviel Crew aktiv beteiligt am Fahren?
   - woher weiß man, wo das dünnste eis ist?
     . Scouting via Heli? Wie stellt der das fest?
+    . wie geht das nachts? Schneinwerfer?
   - kann das schiff (ungewollt) festgefrieren
   - oder steckenbleiben? Was ist dann der Plan? Wie kommt man wieder raus?
     Üblicherweise werden bei Eisbrechern senkrechte Bordwände vermieden, 
@@ -131,6 +134,7 @@ Leben und Wohnen im Eis
 * Wieviel "Crew Comforts" gibts auf dem Schiff?
   - Monontonie Aufbrechen
   - Rolle von gutem Essen
+  - Sauna?
 * Wifi? Satellite? Kommunikation mit zu Hause?
 * Crew Rotation
   - Wie hast Du Dich vorbereitet?
@@ -142,8 +146,10 @@ Leben und Wohnen im Eis
   - Geregelter Arbeitstag?
 
 * wetterbedingungen d f d arbeiten zu gefährlich sind
+
 * Was ist schlimmer: abschied zu hause vs abschied schiff
 
+* Was war das blödeste was ihr vergessen habt mitzunehmen?
 
 Outro
 --------------------------------------
