@@ -1,0 +1,74 @@
+* Wissenschafliche Idee der Mission
+  "What are the *causes* and *consequences* of an *evolving* 
+   and diminished Arctic sea ice cover?"
+  . grand challenge of climate science
+  . sea ice as an integrator of change
+  . memory and inertia
+ - Daten für Modelle
+ - Zusammenhang Daten und Modell - Parameterwerte
+
+* Warum ist das grade in den arktischen Bereichen
+ - so wichtig (Bedeutung f d Wetter)
+ - so schwierig ranzukommen
+  . sonst Schiffe, Flugzeuge, Wetterballone
+  . und Satellit natürlich. Auch da gibt's weniger.
+  
+* What are the seasonallyRvarying energy sources, mixing processes, and interfacial 
+  fluxes that affect the surface heat budget of Arctic atmosphere, ocean and sea ice?  
+  - heat and momentum budget
+  - energy budget from sea ice and ocean
+  - steady-state 0 W/m2 per year energy flux; even 1 W/m2 over 30 years can explain ice reduction
+  - uncertainty in any of the fluxes can influence a lot
+  - model: basically a flux balance model, right?
+  - atmospheric: transient cyclones, Rossby waves.
+  - up/down short/long range radiation.
+  - Water ponds, albedo
+  - energy transport up from the lower oceans
+  - transmission of energy through leads
+  - Einfluss der Wolken
+  - Struktur der atmosphärischen Grenzschicht
+  - Wetterfronten
+  - Vertikale Durchmischung
+  - Obere Schichten des Ozeans
+  - Wie ist die Variabilität über das Jahr relevant für die Modelle? Reicht nicht der SChnitt?
+
+
+  - ist das modell hier ein analytisches? Oder auch schon numerisch? 
+  - Näherungen?
+  - Wie wurde experimentell vorgegangen?
+ 
+* How does sea ice formation, drift, deformation and melting couple to atmospheric, 
+  oceanic and ecosystem processes? 
+  - Bewegung des Eises durch Atmo und Ozean Antrieb
+  - Unterschiedliche Eisdicken
+  - Einfluss von Öffnungen Winter und Sommer
+  - Eisexport aus der Arktis -> wichtiger Faktor für die Modellierung
+  - Und erzeugt "Anhäufungen" -> andere Struktur, andere Reflektivitäten
+  - Impulstransfer von der Atmosphäre aufs Eis
+  - Rauhigkeit und Reibungskoeffizient für Koppelung Eis/Wasser
+  - Floe Size
+  - Rheologie/Fließverhalten des Eises, interne Reibungen
+  - Formation of Leads
+  - Interaktion Eis/Wellen
+
+* What are the processes that regulate the formation, properties, precipitation and 
+  life time of Arctic clouds and their interactions with aerosols, boundary layer 
+  structure and atmospheric fluxes?
+  
+  - Einfluss Wolken generell
+    . Strahlungstransfer
+    . Feuchtigkeitstransport
+    . Strukturierung der Atmo-Schichtung
+  - Wolkenformen
+    . Low Level Stratus, Nebel. Supercooled.
+    . Synoptic Storms
+    . Quiescent ice clouds
+
+
+* How do ongoing changes in the Arctic climate system impact large scale heat,
+  momentum and mass fluxes and how do these changes feed back into the Arctic 
+  climate and ecosystem?
+  
+  
+  
+  

@@ -17,8 +17,14 @@
    . Messen und dann handeln?
    . generell in der Wissenschaft: Rolle von Modell/Vorhersage vs Experiment/Daten
 
-- Startpunkt: Exponentialfunktion
-  . Warum?
+- Startpunkte: 
+  . Exponentialfunktion: Parameter?
+  . Logistikfunktion: Parameter?
+  . SIR Modell: Parameter?
+  . SIDARTHE: Susceptible, Infected, Diagnosed, Ailing, Recognized, Threatened, Healed, Extinct
+  . ... sind dann immer DGLs, oder?
+  
+- In Realistischen Modellen: 
   . Was wird modelliert (im Sinne von Formeln oder DGLs)
     Covid:
     Model dynamics => diff e?
