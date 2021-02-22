@@ -1,0 +1,84 @@
+* Was ist das zu lösende Problem
+  - Schnellflug vs. Langsamflug
+  - Dicke, Wölbung
+  - Ansätze
+    - Wölbklappen
+    - Flächenklappe
+    - Teleskopflügel 
+    - Nasenklappe! (Airliner, F-16)
+
+* Wölbklappe ist ne starre Form hinten die geklappt wird.
+  Warum reicht das vorne nicht?
+
+* Lösungsidee
+  - Flexibles Profil an der Nase
+    . grob, wieviel % der Tiefe werden geklappt?
+  - und in Kombo mit Wölbklappe
+  - Konsquenz f cw, ca, polare, andere?
+
+* Kurze Projektbeschreibung
+ 
+* Herausforderung 1: Profiloptimierung
+  - wie wird normalerweise ein Profil gerechnet
+  - automatische Optimierung. Wie?
+  - Man braucht ja begrenzte Anzahl v Parametern dass das läuft... woher?
+  - Separat für die verschiedenen Teilprofile über die Spannweite?
+  - Windkanal?
+  - Gekoppeltes DLM Aerodynamikmodell
+
+  
+* Herausforderung 2: Formtreue  
+  - Kontrollierte Krafteinleitung
+  - Compliant Mechanism - was das?
+  - Auch hier: automatische Optimierung
+    - FEM Solver
+    - Was ist FEM
+    - was ist Solver Adjoint-Solver
+    - dann darauf optimierung
+    - Constraints
+      . Formtreue
+      . Spannungen?
+  - "Grow the material"
+    erode( dünner) intermediate und dilate (dicker
+  - Off the shelf code vs. eigener Code. Unterschiede?
+
+  - 6 einzelne Mechanismen statt einer  
+  - kann man das herstellen? Fertigungstoleranzen?
+  - wieviel "Anlenkungen" über die Spannweite wird man haben?
+ 
+  - Parameterstudien:
+	Anzahl Aktuationspunkte pro Rippe
+	Rippenabstand/Anzahl
+	Schalenbelegung
+ 
+ 
+
+* Leistungserwartung
+  - Polare im Vergleich zu 29
+    GZ steigt um ca. 3 Punkte
+    Besseres Steigen + 20 km/h schneller im Schnellflug
+  - Wie macht man so eine Vergleichsrechnung?
+
+* Demostratoren
+  - 1 und 2
+  - Learnings?
+
+* Herausforderungen sonstige
+  - Material für die Biegung
+  - Lack
+  - Beulen bei Flügeldurchbiegung
+  - Abdichtungen?
+  - Ermüdung
+  - Antriebskräfte? Kopplung mit WK?
+  - Steifigkeit
+    . Aeroelastic tailoring  
+    . Flattern - besodnere Probleme?
+  - Sehr dünner Flügel (weil ja wölbbar) - baubar?
+  - Zusätzliches Gewicht?
+  - Da ist ja sonst das Wasser ... was tun?
+  
+  
+* Status des Projekts
+  - Next steps?
+  - Prototyp?
+
