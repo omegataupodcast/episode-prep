@@ -64,10 +64,24 @@
     . Synoptic Storms
     . Quiescent ice clouds
 
+  - Radiation Budgets depend on cloud parametrization
+  - One!of!the!strongest!global!impacts!in! CO2Rdoubling! experiments! is! seen! in! the! partitioning! of! high! latitude! cloud! phase
+  -  Clouds! and! cloud! feedbacks! are! the! largest! contributors! to! uncertainty! in! our! understanding! of! climate! sensitivity
+  - the! partitioning! of! phase,! sustaining! supercooled! liquid! water! in! the! presence! of! ice,! representing! cloud! dynamical! responses,! and! capturing! the! interactions! among! clouds,! boundary! layer,! aerosol radiation,! and! surface! processes.
+  - A! significant! driver! of! the! large! uncertainties! associated! with! clouds,! particularly! in! the! central! Arctic,! is! a! general! lack!of!observations!
+    -> dann kann man parametrieren auch wenn man die Mech nicht genau kennt
+  - The! persistence! of! stratified! layers! of! supercooled! cloud! liquid! water,! in! spite! of! the! general! tendency! for! water! to! freeze,! has! been! one! of! the! primary! puzzles! of! Arctic! clouds.
+  - Underlying!the!issue!of!Arctic!clouds!and!precipitation!is!their!interactions!with!aerosols.!Arctic!aerosol!populations! are!complex!due!to!marked!temporal!and!vertical!variability,!and!disparate!potential!origins.!
+
 
 * How do ongoing changes in the Arctic climate system impact large scale heat,
   momentum and mass fluxes and how do these changes feed back into the Arctic 
   climate and ecosystem?
+  - Atmospheric! and! oceanic! transport! of! heat! from! lower! latitudes! to! the! Arctic! is! a! key! driver! of! the! Arctic! climate! system;! in! annual! means,! lateral! heat! transport! exceeds! the! downward! solar! radiation.
+  During! this! century,! the! largeRscale! Arctic! circulation! has! changed! from! a! zonally! dominated! circulation! type,! which! can!be!well!characterized!by!the!Arctic!Oscillation!(AO),!to!a!more!meridional!pattern,!the!Arctic!Dipole!(AD),!where! a! highRpressure! center! is! typically! located! in! the! Canadian! Arctic! and! a! low! in! the! Russian! Arctic
+  The! AO! and! AD! closely! interact! with! synopticRscale! cyclones,! which! are! responsible! for! the! majority! of! heat! and! freshwater!transport!to!the!Arctic.!
+  A! statistically! significant!increasing!trend!in!the!frequency!of!cyclones!entering!the!Arctic!during!recent!decades!has!been!detected
+  The! strong! decline! in! autumn! sea! ice! over! the! last! decades! has! intensified! interest! in! the! interactions! between! sea! ice! conditions! and! the! atmosphere!
   
   
   
