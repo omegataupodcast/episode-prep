@@ -24,7 +24,6 @@
   - Man braucht ja begrenzte Anzahl v Parametern dass das läuft... woher?
   - Separat für die verschiedenen Teilprofile über die Spannweite?
   - Windkanal?
-  - Gekoppeltes DLM Aerodynamikmodell
 
   
 * Herausforderung 2: Formtreue  
@@ -39,12 +38,14 @@
       . Formtreue
       . Spannungen?
   - "Grow the material"
-    erode( dünner) intermediate und dilate (dicker
-  - Off the shelf code vs. eigener Code. Unterschiede?
+  - kann man das herstellen? Fertigungstoleranzen?
+    erode( dünner) intermediate und dilate (dicker)=
 
   - 6 einzelne Mechanismen statt einer  
-  - kann man das herstellen? Fertigungstoleranzen?
   - wieviel "Anlenkungen" über die Spannweite wird man haben?
+
+  - Off the shelf code vs. eigener Code. Unterschiede?
+
  
   - Parameterstudien:
 	Anzahl Aktuationspunkte pro Rippe
@@ -73,6 +74,7 @@
   - Steifigkeit
     . Aeroelastic tailoring  
     . Flattern - besodnere Probleme?
+    . Gekoppeltes DLM/FEM Aerodynamikmodell
   - Sehr dünner Flügel (weil ja wölbbar) - baubar?
   - Zusätzliches Gewicht?
   - Da ist ja sonst das Wasser ... was tun?
