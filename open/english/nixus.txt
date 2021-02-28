@@ -15,7 +15,7 @@
   - What triggered it
   - Who is behind it except you
     . Dagfinn Gangsaas fbw
-    . Jack Payne test pilot (perlan)
+    . Jim Payne test pilot (perlan)
     . Loek Boermans
   - Designed for which weather / use case?
     probably different than the OLC-based weather model used in 
@@ -91,6 +91,9 @@
   - how/why is flap segementation a safety aspect?
   
 * Experience, performance?  
+  - how do you go about flight testing this?
+    you have to rely on FBW from the start
+    professional: Jim Payne
   - how many hours?
   - whats state of testing? vne limite?
   - role of existing models now in flight test?
