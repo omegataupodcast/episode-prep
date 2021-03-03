@@ -1,9 +1,32 @@
-* Luftkampf-Grundausbildung. Passiert das schon in der "Flugschule"?
+* Was ist Luftkampf
+  - Zweck
+  - Bissle Historie
+  - Zwei Arten:
+    . BVR
+    . Dogfight
 
-* Was passiert dann im Verband?
+* Missionen in denen Luft-Luft relevant werden könnte  
+  - Abfangen von Bombern und deren Begleitjägern
+  - Begleitschutz von Angriffsformationen
+  - Air Supremacy
+  - Wild Weasel hat die Lw nicht, richtig?
 
-* Red Flag
-  - bissle erzählen!
+* Als Abgrenzung: EF hat auch andere Mission (A2G)
+
+* Ausbildung
+  - Wann in der Ausbildung wird das relevant?
+  - Bezug zum Kunstflug?
+  - Was genau muss man lernen
+    . g Tolerance
+    . Sit Awareness
+    . HOTAS
+    . Sensorik
+    . Waffenparameter
+    Wir reden über diese Dinge ja dann noch
+  - Passiert das schon in der "Flugschule"?
+  - Was passiert dann im Einsatzverband?
+
+* Ausbildung vs. Recurrent Training
 
 * Training in DE
   - Was für Gegenden sind geeignet
@@ -11,41 +34,74 @@
   - Lufträume
   - Auch über dem Meer? Ist das ein Grund für die Lage von Laage :-) ?
 
-* Luftkampf in Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
+* Weitere Trainingsgelegenheiten
+  - Luftkampf in Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
+  - DACT mit anderen NATO Partnern
+  - Die Aufgaben von Aggressors
+    . Foreign Tactics
+    . Replicate Perf Characteristiscs
+  - Großübungen wie Red Flag
 
-* Welche Überwachung/Aufzeichnung zwecks Debrief?
+* BVR
+  - Szenarien im Bezug auf obige Missionen
+  - Sensorik
+    . Radar
+    . NVG/Infrarot
+    . RWR
+  - HUD Symbology
+  - Manöver und Taktiken TODO*****************************************************
+  - Waffen am EF
+    . AMRAMM  
+    . MBDA Meteor 
+  - Gegenmaßnahmen
+    . Radar Jamming
+    . Flare
+    . Manövrierung
+  - Wie funktioniert das, wenn man zu mehrt ist? 
+    . Formation
+    . Abstimmung
+    . Datenaustausch zwischen EF?
+  - Was macht nen Flieger zu nem guten BVR'er
+    (aerodynamisch/strukturell/Leistung - gute Sensorik und long-range Waffen ist ja klar)
+    . Sensor Fusion, SA
+    
+    
+* Dogfight
+  - Szenarien im Bezug auf obige Missionen
+  - Sensorik 
+    . Mark 1 Eyeball
+    . RWR
+  - Manöver und Taktiken TODO*****************************************************
+    . Energy Management
+  - Waffen
+    . AIM 9?
+    . ASRAAM
+    . IRIS-T
+    . Kanone
+  - Gegenmaßnahmen
+    . Chaff
+    . Manövrierung
+  - Wie wehrt man um's Eck schießende LFK ab, wie bspw. AIM 9X
+  - Wie funktioniert das zu mehrt? 
+  - Was macht nen Flieger zu nem guten Dogfighter
+    (aerodynamisch/strukturell/Leistung - gute Sensorik ist ja klar)
+    . Abhängigkeit von der Höhe, Dichte
+    . Schub/Gewicht + Flächenbelastung
 
-* Missionen in denen Luft-Luft relevant werden könnte  
-  - Abfangen von Bombern und deren Begleitung
-  - Begleitschutz von Angriffsformationen
-  - Air Supremacy
-  - Wild Weasel hat die Lw nicht, richtig?
+     
+* Rolle von AWACS
+  - mündliche "Steuerung"
+  - Datenaustausch
+
+* Inwieweit sind Taktiken standardisiert
+  - bei der NATO standardisiert? 
+  - Spezielle Lw Tricks?
+
+* Welche Überwachung/Aufzeichnung zwecks Debrief bei Übungen?
+
   
-* Sensorik
-  - Radar
-  - NVG/Infrarot
-  - Mark 1 Eyeball
 
 https://de.wikipedia.org/wiki/Eurofighter_Typhoon#Sensorfusion
-  
-* Waffen am EF
-  - Kanone
-  - AIM 9?
-  - AMRAMM  
-  - ASRAAM
-  - IRIS-T
-  - MBDA Meteor 
-  
-* Datenaustausch
-  - AWACS
-  - Austausch mit anderen EF
-  
-* Manöver und Taktiken
-  - BVR
-  - Dogfight
-  
-* BVR zu mehrt
+https://en.wikipedia.org/wiki/Basic_fighter_maneuvers#:~:text=Two%2Dcircle%20flow%20is%20a,to%20maximize%20their%20turn%20rate.&text=However%2C%20if%20one%20fighter%20goes,it%20becomes%20two%2Dcircle%20flow.
 
-* Dogfight zu mehrt
 
-* Was macht nen Flieger zu nem guten BVR, Dogfighter
