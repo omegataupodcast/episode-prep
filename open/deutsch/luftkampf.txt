@@ -1,6 +1,10 @@
+* Vorstellung 
+  - Gast
+  - Verband 
+
 * Was ist Luftkampf
   - Zweck
-  - Bissle Historie
+  - Bisschen Historie
   - Zwei Arten:
     . BVR
     . Dogfight
@@ -14,32 +18,33 @@
 * Als Abgrenzung: EF hat auch andere Mission (A2G)
 
 * Ausbildung
-  - Wann in der Ausbildung wird das relevant?
+  - Wann in der Ausbildung wird Luftkampf relevant?
   - Bezug zum Kunstflug?
   - Was genau muss man lernen
     . g Tolerance
     . Sit Awareness
-    . HOTAS
     . Sensorik
     . Waffenparameter
+    . HOTAS
     Wir reden über diese Dinge ja dann noch
-  - Passiert das schon in der "Flugschule"?
+  - Passiert Ausbildung schon in der "Flugschule"?
   - Was passiert dann im Einsatzverband?
 
 * Ausbildung vs. Recurrent Training
 
-* Training in DE
+* Training in Deutschland
   - Was für Gegenden sind geeignet
-  - Welche höhen
+  - Welche Höhen
   - Lufträume
   - Auch über dem Meer? Ist das ein Grund für die Lage von Laage :-) ?
 
 * Weitere Trainingsgelegenheiten
-  - Luftkampf in Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
+  - Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
+  - Deci?
   - DACT mit anderen NATO Partnern
   - Die Aufgaben von Aggressors
     . Foreign Tactics
-    . Replicate Perf Characteristiscs
+    . Abbilden von Performance und Taktiken der Gegner
   - Großübungen wie Red Flag
 
 * BVR
@@ -49,19 +54,20 @@
     . NVG/Infrarot
     . RWR
   - HUD Symbology
-  - Manöver und Taktiken TODO*****************************************************
-  - Waffen am EF
+  - Manöver und Taktiken 
+    <TODO Da bereite ich noch etwas vor>
+  - Waffen am EF für BVR
     . AMRAMM  
     . MBDA Meteor 
   - Gegenmaßnahmen
     . Radar Jamming
     . Flare
-    . Manövrierung
+    . Ausweichmanöver
   - Wie funktioniert das, wenn man zu mehrt ist? 
     . Formation
     . Abstimmung
     . Datenaustausch zwischen EF?
-  - Was macht nen Flieger zu nem guten BVR'er
+  - Was macht ein Flugzeug zu nem guten BVR'er
     (aerodynamisch/strukturell/Leistung - gute Sensorik und long-range Waffen ist ja klar)
     . Sensor Fusion, SA
     
@@ -71,10 +77,11 @@
   - Sensorik 
     . Mark 1 Eyeball
     . RWR
-  - Manöver und Taktiken TODO*****************************************************
+  - Manöver und Taktiken
     . Energy Management
+    <TODO Da bereite ich noch etwas vor>
   - Waffen
-    . AIM 9?
+    . AIM 9X?
     . ASRAAM
     . IRIS-T
     . Kanone
