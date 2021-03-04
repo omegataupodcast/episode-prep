@@ -87,7 +87,7 @@
     . Kanone
   - Gegenmaßnahmen
     . Chaff
-    . Manövrierung
+    . Ausweichmanöver
   - Wie wehrt man um's Eck schießende LFK ab, wie bspw. AIM 9X
   - Wie funktioniert das zu mehrt? 
   - Was macht nen Flieger zu nem guten Dogfighter
@@ -95,7 +95,6 @@
     . Abhängigkeit von der Höhe, Dichte
     . Schub/Gewicht + Flächenbelastung
 
-     
 * Rolle von AWACS
   - mündliche "Steuerung"
   - Datenaustausch
@@ -107,8 +106,4 @@
 * Welche Überwachung/Aufzeichnung zwecks Debrief bei Übungen?
 
   
-
-https://de.wikipedia.org/wiki/Eurofighter_Typhoon#Sensorfusion
-https://en.wikipedia.org/wiki/Basic_fighter_maneuvers#:~:text=Two%2Dcircle%20flow%20is%20a,to%20maximize%20their%20turn%20rate.&text=However%2C%20if%20one%20fighter%20goes,it%20becomes%20two%2Dcircle%20flow.
-
 
