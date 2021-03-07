@@ -1,0 +1,109 @@
+* Vorstellung 
+  - Gast
+  - Verband 
+
+* Was ist Luftkampf
+  - Zweck
+  - Bisschen Historie
+  - Zwei Arten:
+    . BVR
+    . Dogfight
+
+* Missionen in denen Luft-Luft relevant werden könnte  
+  - Abfangen von Bombern und deren Begleitjägern
+  - Begleitschutz von Angriffsformationen
+  - Air Supremacy
+  - Wild Weasel hat die Lw nicht, richtig?
+
+* Als Abgrenzung: EF hat auch andere Mission (A2G)
+
+* Ausbildung
+  - Wann in der Ausbildung wird Luftkampf relevant?
+  - Bezug zum Kunstflug?
+  - Was genau muss man lernen
+    . g Tolerance
+    . Sit Awareness
+    . Sensorik
+    . Waffenparameter
+    . HOTAS
+    Wir reden über diese Dinge ja dann noch
+  - Passiert Ausbildung schon in der "Flugschule"?
+  - Was passiert dann im Einsatzverband?
+
+* Ausbildung vs. Recurrent Training
+
+* Training in Deutschland
+  - Was für Gegenden sind geeignet
+  - Welche Höhen
+  - Lufträume
+  - Auch über dem Meer? Ist das ein Grund für die Lage von Laage :-) ?
+
+* Weitere Trainingsgelegenheiten
+  - Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
+  - Deci?
+  - DACT mit anderen NATO Partnern
+  - Die Aufgaben von Aggressors
+    . Foreign Tactics
+    . Abbilden von Performance und Taktiken der Gegner
+  - Großübungen wie Red Flag
+
+* BVR
+  - Szenarien im Bezug auf obige Missionen
+  - Sensorik
+    . Radar
+    . NVG/Infrarot
+    . RWR
+  - HUD Symbology
+  - Manöver und Taktiken 
+    <TODO Da bereite ich noch etwas vor>
+  - Waffen am EF für BVR
+    . AMRAMM  
+    . MBDA Meteor 
+  - Gegenmaßnahmen
+    . Radar Jamming
+    . Flare
+    . Ausweichmanöver
+  - Wie funktioniert das, wenn man zu mehrt ist? 
+    . Formation
+    . Abstimmung
+    . Datenaustausch zwischen EF?
+  - Was macht ein Flugzeug zu nem guten BVR'er
+    (aerodynamisch/strukturell/Leistung - gute Sensorik und long-range Waffen ist ja klar)
+    . Sensor Fusion, SA
+    
+    
+* Dogfight
+  - Szenarien im Bezug auf obige Missionen
+  - Sensorik 
+    . Mark 1 Eyeball
+    . RWR
+  - Manöver und Taktiken
+    . Energy Management
+    <TODO Da bereite ich noch etwas vor>
+  - Waffen
+    . AIM 9X?
+    . ASRAAM
+    . IRIS-T
+    . Kanone
+  - Gegenmaßnahmen
+    . Chaff
+    . Ausweichmanöver
+  - Wie wehrt man um's Eck schießende LFK ab, wie bspw. AIM 9X
+  - Wie funktioniert das zu mehrt? 
+  - Was macht nen Flieger zu nem guten Dogfighter
+    (aerodynamisch/strukturell/Leistung - gute Sensorik ist ja klar)
+    . Abhängigkeit von der Höhe, Dichte
+    . Schub/Gewicht + Flächenbelastung
+
+* Rolle von AWACS
+  - mündliche "Steuerung"
+  - Datenaustausch
+
+* Inwieweit sind Taktiken standardisiert
+  - bei der NATO standardisiert? 
+  - Spezielle Lw Tricks?
+
+* Welche Überwachung/Aufzeichnung zwecks Debrief bei Übungen?
+
+  
+

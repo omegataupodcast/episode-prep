@@ -1,111 +1,117 @@
-mention the idaflieg talk
-refer to concordia ep
+* Who are you 
+  - background
+  - previous work
 
-you experience 
-not that much glider
-28 meter
-
-- What is Nixus
-- Who owns/financed it? Why? History?
-  rest of the team?
-  dagfinn gangsaas fbw
-  jack payne test pilot (perlan)
-  Loek Boermans
-- Fuselage of the 30/32
+* 10,000 ft view
+  - What is the goal of the project
+    . open class
+    . 28m
+    . FBW
+    . why not add the fbw to existing wings, was there also "wing innovation"? which?
+    . thin high aspect wing
+    . high loading
+    . existing fuselage of an ASH 30 - why?
+      why two seater
+  - What triggered it
+  - Who is behind it except you
+    . Dagfinn Gangsaas fbw
+    . Jim Payne test pilot (perlan)
+    . Loek Boermans
+  - Designed for which weather / use case?
+    probably different than the OLC-based weather model used in 
+    the design of the Ventus 3
   
-- thinner wing 
-  good for aerodynamics
-  but also possible bc of fbw
-- wingspan?
-- fbw system - why?
-- fbw controls what?
-- discrete flap settings or continuous
-- based on which inputs/parameters?
-- high aspect ratio wing -> mechnaical challanges?
-- how are the airfoils designed? how are they different? yours or loeks?
-  turbulators
-- why no bends :-) ?
-- why not add the fbw to existing wings, was there also "wing innovation"? which?
-- why the ash 30?
-- mechanical backup?
-- lift plateau in the polar - how do you design this?
-- aspect ratio 53 - how to get it stiff? - eta 52, concordia 57
-- prepregs in the wing. What is this? why? challenge?
+* Structure and Aerodynamics
+  - why is a thinner wing better
+    . flapped of course for slow flight
+    . only possible because of FBW, no mechanics?
+  - why do you want high aspect
+    . aspect ratio 53 - how to get it stiff? - eta 52, concordia 57
+  - why do you want high loading    
+    . not just in wing, but 2 seater + motor -> heavy fuselage 
+      -> bending moment on wing 950kg w/o water
+  - how do you build such a thing but still stiff wing?
+    . prepregs in the wing. 
+    . What is this? 
+    . why? challenge?
+    . other tricks to build strcuture?
+    . 183 layers of carbon at inner spar
+  - materials
+    . high strength fibers -> challenge beyond price? 
+      stiffness & tensile strength
+    . relationship to x-57; material data  
+  - how are the airfoils designed? 
+    . how are they different, new?
+    . lift plateau in the polar - how do you design this?
+    . iterative airfoil design - what do you optimize for?
+  - why no SH-style bends :-) ?
+  - non-linear elastic vortex lattice method
+  - automatic fem model generation?
 
-- experience, performance?  
+* Build this thing yourself?
+  - Built your own autoclave
+  - molds
 
-- reduction of adverse yaw
-- custom control laws - less rudder. 
-- why not do the other surfaces with fbw?
+* Structure test
+  - 16 ft of flex
+  - The failure :-(
+  - What happend? How did you figure it out?
 
-- fist glider with fbw
-- focus on record flights -> why?
-- expect better perf b/c of fbw flaps?
-
-
-- what is the max wing loading?
-  optimized for great weather?
-
-- non-linear elastic vortex lattice method
-- why two seater
-- iterative airfoil design - what do you optimize for?
-- designing a flapped profile - which airfoil do you optimize?
-  high speed, high lift?
-  what flight profile / weather model did you use? -> v3 design
-- fbw lets you go thin -> good for high speed, then flaps for high lift?
-- prepregs: what other tricks to build sctructure?
-- relationship to x-57; material data
-- wing much thinner than traditional -> see inner wing shape :-)
-- what was first: thing wing -> fbw or fbw -> thin wing
-- automatic fem model generation?
-- 2 seater + motor -> heacy fuselage -> bending moment on wing 950kg w/o water
-- high strength fibers -> challenge beyond price? stiffness & tensile strength
-
-- how long to design and build
-- build autoklave, molds
-- 183 schichten Kohle. Precision to get strenght?
-
-- load test. how did you do it? what happend? why? analysis? cad? build?
-  rebuild. Flex of 16ft
+* FBW
+  - fist glider with fbw
+    . akafliegs are also going in this dir
+  - controls what? 
+    . flaps
+    . ailerons
+    . but not tail, why?
+  - benefits
+    . reduction of adverse yaw 
+      less rudder
+      how?
+    . load alleviation, flutter supp
+    . custom control laws
+      example?
+      change in flight
+    . auto flap setting
+      discrete flap settings or continuous?
+      flap settings based on which input params?
+      expect better perf b/c of fbw flaps?
+  - mechanical backup?
+    . how does this not interfere with the FBW?
+    . is this the way to get "force feedback?"
+    . there's still a flap handle, right?
+      but unconnected mechanically. 
+  - what is harder to get right:
+    mechanical mixer or FBW flight law?
+  - architecture, redundancy. 3 computers, 3 buses.
+    what actuators?
+    what sensors?
+  - which programming languages, hardware.  
+    Servo Temperature. Cabling? Connectors!
+  - how/why is flap segementation a safety aspect?
   
-- why fbw. flap optimization. Avoid mixer. Chamge in flight!  
-  load alleviation, flutter supp, accessibility, 
-- architecture, redundancy. 3 comp, 3 bus. acutator red?	
-  actuators, sensors. which computers. 
-- still 1 mech aileron
-- which prog lang, hardware. Servos. Servo Temperature. Cabling? Connectors!
-- wnich is simpler? mech mxier? fbw?
-- certificated how?
-- experimental not in cs22. Wing loading too high, stall speed too high
-  what is approach speed?
-  
-  
-- preliminary eval of the idea? Experiences? Performance? Handling?
-- what about force feedback?
-  rolls nicely, no stall surprises
-how many hours?
-whats state of testing? vne limite?
-role of exiting models now in flight test?
-
-fbw in production airplanes
-prepregs what is benefit of prepregs?
-
-what are the optimization goals?
-
-how did you get the idea? auto drive for flap handle in sergios ash 30
-
-how is mech mixed with fbw
-tehre's still a flap handle, right?
-
-what bus?
-what more safety designs? segmented flap vs. fbw?
-
-what laws? vgl airbus
-ever had a failure? How to land with failed?
+* Experience, performance?  
+  - how do you go about flight testing this?
+    you have to rely on FBW from the start
+    professional: Jim Payne
+  - how many hours?
+  - whats state of testing? vne limite?
+  - role of existing models now in flight test?
+  - rolls nicely, no stall surprises
+  - ever had a failure in the FBW?
   
   
-did some one already accuse of taking the pilot skill out of flying?
+* From here
+  - certificated how?
+  - experimental not in cs22. 
+    Wing loading too high, stall speed too high 
+    what is approach speed?
+  - fbw in series gliders?
+  - prepregs in glider manufacturing?
+  - what did you learn, what would you do differntly in the your next one?
 
-- Other projects you've designed
+* Did some one already accuse of taking the pilot skill out of flying?  
 
-what did you learn, what would you do differntly in the your next one?
+* Other projects you've designed
+
+Related: mention the idaflieg talk, refer to concordia ep
