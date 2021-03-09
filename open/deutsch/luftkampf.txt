@@ -7,7 +7,7 @@
   - Bisschen Historie
   - Zwei Arten:
     . BVR
-    . WVR aka Dogfight
+    . WVR aka Dogfight (BFM Basic Fighter Maneuvers)
 
 * Missionen in denen Luft-Luft relevant werden könnte  
   - OCA & DCA (Offensive / Defensive Counter-Air)
@@ -39,6 +39,7 @@
   - Lufträume
   - Auch über dem Meer? Ist das ein Grund für die Lage von Laage :-) ?
   - Training mit internationelen Partnern: Fighter Weapon School mit UK (Cobra Warrior etc.)
+  - Training mit Radar in Deutschland: ist da nicht der Radarschirm voll mit Echos von den vielen Airlinern, GA, bis hin zum Segler? (in normalen pre Corona Zeiten:-)
 
 * Weitere Trainingsgelegenheiten
   - Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
@@ -53,7 +54,7 @@
   - Szenarien im Bezug auf obige Missionen
   - Sensorik
     . Radar
-      - welche Modi sind momentan verfügbar (RWS, TWS) und welche werden effektiv genutzt? 
+      - welche Modi sind momentan verfügbar (RWS, TWS, Home on Jam?) und welche werden effektiv genutzt? 
       - Leistung EF CAPTOR-M im Bezug auf neue US AESA Systeme
       - daraus folgernd wird CAPTOR-E Mk.1 ein großer Leistungsprung?
       - Bekämpfen von mehreren Zielen gleichzeitig
@@ -69,6 +70,9 @@
   - HUD Symbology
   - Manöver und Taktiken 
     <TODO Da bereite ich noch etwas vor>
+    . Hot/Cold Aspect
+    . Einfluss kinetischer Energie (speed/altitude) des Jets beim Raketenabschuss (LFK Reichweite)
+    . Einfluss von Wetter (Wind, in Höhen?) auf den LFK und in wie weit wird das berücksichtigt?
   - Waffen am EF für BVR
     . AMRAMM  
     . MBDA Meteor 
@@ -94,8 +98,10 @@
   - Sensorik 
     . Mark 1 Eyeball
     . RWR
+    . Helmvisir
   - Manöver und Taktiken
     . Energy Management
+    . Lag, Pure & Lead Pursuit
     <TODO Da bereite ich noch etwas vor>
   - Waffen
     . AIM 9 L / X?
@@ -119,9 +125,11 @@
 * Inwieweit sind Taktiken standardisiert
   - bei der NATO standardisiert? 
   - Spezielle Lw Tricks?
+  - wann werden welche Auslasten unter welchen Bedingungen abgeworfen?
 
 * Welche Überwachung/Aufzeichnung zwecks Debrief bei Übungen?
-  - Luftkampftrainingssystem Diehl FPR in der NATO kompatibel
-
-  
+  - Luftkampftrainingssystem Diehl FPR in der NATO kompatibel?
+   
+* Thema Waffensicherheit
+  - Master Armament Switch / Weight on wheels --> großer Aufwand bis überhaupt eine Waffe abgefeuert werden kann zur Sicherheit
 
