@@ -7,15 +7,16 @@
   - Bisschen Historie
   - Zwei Arten:
     . BVR
-    . Dogfight
+    . WVR aka Dogfight
 
 * Missionen in denen Luft-Luft relevant werden könnte  
+  - OCA & DCA (Offensive / Defensive Counter-Air)
   - Abfangen von Bombern und deren Begleitjägern
   - Begleitschutz von Angriffsformationen
   - Air Supremacy
-  - Wild Weasel hat die Lw nicht, richtig?
+  - SEAD or DEAD aka Wild Weasel hat die LW nicht, richtig? Doch ECR Tornado :-) (das einzige was die LW der NATO anbieten kann :-)
 
-* Als Abgrenzung: EF hat auch andere Mission (A2G)
+* Als Abgrenzung: EF hat auch andere Mission (A2G, Recce)
 
 * Ausbildung
   - Wann in der Ausbildung wird Luftkampf relevant?
@@ -37,6 +38,7 @@
   - Welche Höhen
   - Lufträume
   - Auch über dem Meer? Ist das ein Grund für die Lage von Laage :-) ?
+  - Training mit internationelen Partnern: Fighter Weapon School mit UK (Cobra Warrior etc.)
 
 * Weitere Trainingsgelegenheiten
   - Labrador? Oder ist das mehr was für die tieffliegenden Tornados?
@@ -45,29 +47,44 @@
   - Die Aufgaben von Aggressors
     . Foreign Tactics
     . Abbilden von Performance und Taktiken der Gegner
-  - Großübungen wie Red Flag
+  - Großübungen wie Red Flag, Frisian Flag, Tiger Meet
 
 * BVR
   - Szenarien im Bezug auf obige Missionen
   - Sensorik
     . Radar
-    . NVG/Infrarot
+      - welche Modi sind momentan verfügbar (RWS, TWS) und welche werden effektiv genutzt? 
+      - Leistung EF CAPTOR-M im Bezug auf neue US AESA Systeme
+      - daraus folgernd wird CAPTOR-E Mk.1 ein großer Leistungsprung?
+      - Bekämpfen von mehreren Zielen gleichzeitig
+    . NVG
+    . Infrarot
+      hier wäre interessant, warum der PIRATE EF IR Sensor initial und vor 
+      allem nach der Erprobung durch die LW für die Schweiz Kampagne damals 
+      nicht in Frage kam? (Budget?, kein Nutzen?)
     . RWR
+    . Targeting Pod 
+      Gerade hier der Nutzen bei A2A interessant. 
+      Gegner/unbekanntes Objekt (QRA) indentifizieren mit Pod? Wie gut geht das?  
   - HUD Symbology
   - Manöver und Taktiken 
     <TODO Da bereite ich noch etwas vor>
   - Waffen am EF für BVR
     . AMRAMM  
     . MBDA Meteor 
-  - Gegenmaßnahmen
-    . Radar Jamming
-    . Flare
-    . Ausweichmanöver
+  - Gegenmaßnahmen 
+    . Radar Jamming 
+    . Chaff
+    . Manövrierung
+    . Wo dürfen in Deutschland/Europa Chaff/Flare verwendet werden (über See?) Gerade das Chaff Zeug ist ja nicht so gesund :-)
   - Wie funktioniert das, wenn man zu mehrt ist? 
     . Formation
     . Abstimmung
-    . Datenaustausch zwischen EF?
-  - Was macht ein Flugzeug zu nem guten BVR'er
+    . Datenaustausch zwischen EF? 
+        - DataLink: welche Daten
+        - MIDS
+    . IFF
+  - Was macht nen Flieger zu nem guten BVR'er
     (aerodynamisch/strukturell/Leistung - gute Sensorik und long-range Waffen ist ja klar)
     . Sensor Fusion, SA
     
@@ -81,12 +98,12 @@
     . Energy Management
     <TODO Da bereite ich noch etwas vor>
   - Waffen
-    . AIM 9X?
+    . AIM 9 L / X?
     . ASRAAM
     . IRIS-T
     . Kanone
   - Gegenmaßnahmen
-    . Chaff
+    . Flare
     . Ausweichmanöver
   - Wie wehrt man um's Eck schießende LFK ab, wie bspw. AIM 9X
   - Wie funktioniert das zu mehrt? 
@@ -104,6 +121,7 @@
   - Spezielle Lw Tricks?
 
 * Welche Überwachung/Aufzeichnung zwecks Debrief bei Übungen?
+  - Luftkampftrainingssystem Diehl FPR in der NATO kompatibel
 
   
 
