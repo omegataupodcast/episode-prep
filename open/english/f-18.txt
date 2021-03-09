@@ -1,210 +1,147 @@
-f18 is a very good aircraft. Handles well, natural feel, doesn’t bite
-the pilot when mishandled. Massive envelope. It’s always interesting
-hearing comparisons with F16. Very very different.
-
 * A little bit of F-18 history
-  - YF-17
-  - F-18
-  - who uses it AUS/CAN/FIN/CH/SPAIN/KUWAIT/MALAYS
-  
-* mission a2a and a2g 
-  did you fly both?
-  which squadrons?
-  
-redesign e/f
-weights
-fbw
-geometry LEX wing fold
-
-range problem
-slats and flaps
-harv up to 65 deg
-
-service entry 1978
-marines just retired now.
-
-where were you stationed? carrier tours?
-A/C differences?
-Weapons
-
-
-  
+  - same generation as F-16, service entry in 1978
+  - YF-17 in LWF competition with F-16
+  - Evolve to F-18
+  - Navy's first FBW, right?
+    dynamically unstable?
+  - ailerons? diff elevators? both?
+  - fixed intakes.
+  - engines 1:1 t/w
+  - Marines retired just this Feb
+  - and future: the e/f
+    . 30% bigger
+    . not that many common parts
+  - who uses/used it Australia, Canada, Finland, Switzerland, Spain, Kuwait, Malaysia
   
 * What makes it a (good) carrier airplane
+  - slow approach speed, big wing and flaps
+  - strong gear for "controlled crashes"
   - hook
-  - strong gear
-  - slow approach speed
   - 2 engines (F-35 first Navy airplane with 1 engine?)
+  - wing fold
+  - tie downs
   
 * Flight Characteristics
+  A quote I read: "F-18 is a very good aircraft. Handles well, 
+  natural feel, doesn’t bite the pilot when mishandled. Massive 
+  envelope. It’s always interesting hearing comparisons with F16. 
+  Very very different."
+
+  - Power-to-Weight ratio? Not quite like F-15 or 16, right?
+  - Not enough fuel - always reported as an issue
+  - NASA Test pilot once told me, his grandma could land it. 
+    Could she? (Maybe really easier than F-16 because wider
+    gear and no flare needed)
+
   - High AoA 
-    . operationally useful
-  - Power2Weight ratio? Not quite like F-15 or 16, right?
-  - Not enough fuel
-  - Could your grandma land it?
-  
-* Radar features	
-  Ground Mapping
-  
-* The ladder ... could you lower it from the cockpit?  
-  
-* Nav Systems
-  GPS?
-  
-* Plastic airplane ... did you ever lose something?  
-  
-* Missions
-  - A2G
-  - A2G
-  - Like F-16, a classic Multi Role 
-  
-* Let's walk through a carrier landing
-  - in the Barrel
+    . operationally useful range? 35?
+      dependency on weight?
+      reminds me of Finnish F-18 demo at 2019 air tattoo
+    . LEX
+      lex vortexes hit rudder so you retain authority
+    . how is this tactically useful?
+      isn't it risky to go to low energy? re-accelerate?
+
+  - how different does it handle depending on weight/load?
+  - Talk about the "mech mode" in the FBW system
 
 * Cockpit
-  - How long to get HOTAS
-  - how quickly would you forget the not-so-often-used features?
-  - Task saturation from upfront panel, radar, formatrion
+  - Screens, at least in the C/D
+  - How long to learn HOTAS
+    . how quickly would you forget the not-so-often-used features?
 
+* Weapons
+  - Gun
+  - AIM 7/9
+  - The "usual" A2G stuff, plus HARM
 
-* Blues
-  - modifications (spring!)
-  - how do you learn to be a Blue Angel
+* Avionics and Sensors  
+  - Radar APG 65 features	
+    A2G mapping mode. position target relative to ground 
+    building/bridge.
+  - Ground Mapping
+  - FLIR pod
+  - ECM  
+  - NVGs
+    
+* Your pre-Blues Career
+  - squadrons
+  - missions 
+    . Like F-16, a classic Multi Role Fighter
+    . a2a and a2g 
+    . did you fly both?
+    . what is more interesting?
+    . which requires more training?
+
+* Aspects of Carrier Flying
+  (we've had a two-hour episode on flying from carriers,
+   so we've covered the basics)
+  - how is taxiing on the carrier?
+  - Launch hands-off -> automation?
+  - stores eject button if soft cat shot
+  - rather short final - why?
+  - how does the Hornet handle on the ball
+  - approach via AoA instead of speed - why?
+    . 8.1 aoa. Maintenance Subpage. 3250 trim. 
+  - HUD (and other) indications on approach
+  - interaction with LSO
+  - automatic landing?
+  - Did you have a night in the barrell?
+  - The ladder ... could you lower it from the cockpit?  
+
+  
+* Blue Angels
+  - Basically like the Thunderbirds, just from the Navy :-)
+    . There is friendly competition with the Air Force
+    . And occasional joint training, eg just recently at El Centro
+    . Seriously: Blues structurally similar to thunderbirds - Differences?
+
+  - Aircraft mods
+    . Spring on the stick
+    . Gun -> Smoke tank.
+    . What is the smoke oil?
+    . where exactly does the smoke oil hit the engine?
+    . how is the pipe laid from the gun in the nose?
+    . how do you activate the smoke?
+    
+  - Your flying
+    . how was the first two-seater flight in the "old" season?
+    . which positions did you fly?
+      which are harder?
+      challenge of number 3 position?
+      Slot: Role of Safety officer in flight
+    . why primarily left turns in the show?
+ 
+  - how do you learn this kind of flying?
+    . new guys travel with the team at end of previous season
+    . first flight in the two seater in the diamond
+
+    . how to do precision formation stuff
+    . checkpoints on the airplane ("Flying paint")
+    . 25kg on stick
+    . fly without gsuit
+    . flying is hard - mental prep?
+    . Training officer: How does the training work at El Centro?
+    . how much tighter is the formation towards the end of the season?
+      how close do you get?
+      Is this closer than the Thunderbirds :-) ?
+      so do you ever "trade paint"?
+    . how much concentration is needed after two seasons?
+      Think about groceries during the show?
+    . the role of trust in the team
+
   - Flying vs. "Show"
-  - Competition with the USAF
-  - left wingman
-  - slot
+    . You're a bit of a rock star
+    . Pacing of the season
+    . what do you do off season?
+
+  - Weekly Routine
+    - weekly program at the Blues
+    - How to adapt to new show site
+      impact of wind, elevation
   
-  strong landing gear
-  does the a/c have a "key"
-  landing is just a crash - no flare
-  
-launch hands off - how much automation?
-how is taxiing on the carrier?
+  - Who does a better show? TBirds or Blues?
 
-night cat.
-night landing.
-
-interaction with LSO
-aoproach via aoa instead of speed
-
-how was the hornet on the ball
-8.1 aoa. Maintenance Subpage. 3250 trim. 
-
-carrier landing training
-
-ECM
-
-Gun, Smoke tank.
-What is the smoke oil?
-how do you activate the smoke?
-Radar APG 65
-A2G mapping mode. position target relative to ground building/bridge.
-Surface search. 
-
-fixed intakes.
-tie downs on gear.
-hard points.
-weapons
-flir pod
-Helmet mounted cueing system (in the EF, not the C, right?)
-wing fold
-ailerons? diff elevators?
-dynamically unstable?
-"mech mode" fbw
-
-NVGs
-weekly program at the blues
-
-rate fight vs. radius fight
-hornet benefit to fly slow - but isn't it risky to go to low energy? re-accelerate?
-
-35 aoa possible - but what to do with that taxitally
-
-reminds me of finnish f18 demo at 2019 air tattoo
-
-role of fuel dump on landing
-
-engines
-> 1:1 t/w
-
-where exactly does the smoke oil hit the engine?
-how is the pipe laid from the gun in the nose?
-
-  
-  
-  
-blues:
-flying is hard
-mental aspect
-pacing
-show / rock star
-how to adapt to new show site
-impact of wind, elevation
-why primarily left turns
-challenge of number 3 position?
-
-slot pilot.
-Also Trainign officer. How do you go about at El Centro?
-Role of Safety officer in flight:
-
-What is different/harder: solos or diamond?
-"prison cell" 
-
-who does a better show? TBirds or Blues?
-
-how to do precision formation stuff
-checkpoints on the airplane
-Flying paint
-Lex fence underneath "hornet"
-  cut off via wing -> gives a line.
-  and then follow "out" until nose aligned with nozzles
-  and the step in slowly.
-
-yellow lex bolt for 360
-really really close!
-so do you ever "trade paint"?
-
-how much tighter is the formation towards the end of the season?
-
-aoa: b/c lex vortexes hit rudder so you retain authority
-
-built-in ladder
-
-blues structurally similar to thunderbirds - diff?
-automatic landing f-18
-
-Max usable real world aoa and influence of height, weight and configuration on it.
-
-rather short final
-
-life on carrier
-
-25kg on stick
-stores eject button
-hud indications during landing
-fly without gsuit
-10/11/12 jets assigned
-
-first seat in the two seater in the diamond
-new guys travel with the team
-the role of trust in the team
-
-saw the blues when you were 14
-  genuinly happy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* How did you get into flying?
+  - saw the Blues when you were 14
+  - You seem genuinely happy about having done that.
