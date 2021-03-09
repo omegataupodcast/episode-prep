@@ -178,6 +178,8 @@ Max usable real world aoa and influence of height, weight and configuration on i
 
 rather short final
 
+life on carrier
+
 
 
 
