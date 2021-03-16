@@ -41,7 +41,7 @@
       lex vortexes hit rudder so you retain authority
     . how is this tactically useful?
       isn't it risky to go to low energy? re-accelerate?
-
+    . did you ever depart it?
   - how different does it handle depending on weight/load?
   - Talk about the "mech mode" in the FBW system
 
@@ -129,6 +129,7 @@
     . how much concentration is needed after two seasons?
       Think about groceries during the show?
     . the role of trust in the team
+    . how do you "escape" from formation, and what triggers it?
 
   - Flying vs. "Show"
     . You're a bit of a rock star
