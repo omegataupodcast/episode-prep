@@ -1,3 +1,9 @@
+Rex:
+
+* Wie kamst Du zu dem Job?
+  - Erfahrung
+  - Hintergrund
+
 * Wissenschafliche Idee der Mission
   Generelle Frage: "What are the *causes* and *consequences* of an *evolving* 
                     and diminished Arctic sea ice cover?"
@@ -12,6 +18,49 @@
  - so schwierig ranzukommen
   . sonst Schiffe, Flugzeuge, Wetterballone
   . und Satellit natürlich. Auch da gibt's weniger.
+
+* Entscheidung welche Scholle
+
+* What are the seasonally varying energy sources, mixing processes, and
+interfacial fluxes that affect the surface heat budget of Arctic
+atmosphere, ocean and sea ice?  
+
+* How does sea ice formation, drift, deformation and melting couple to
+atmospheric, oceanic and ecosystem processes? 
+
+* What are the processes that regulate the formation, properties,
+precipitation and life time of Arctic clouds and their interactions with
+aerosols, boundary layer structure and atmospheric fluxes?
+
+* How do ongoing changes in the Arctic climate system impact large scale
+heat, momentum and mass fluxes and how do these changes feed back into
+the Arctic climate and ecosystem?
+
+* Getier
+
+* planung der Mission
+
+* Die verschiedenen Disziplinen und "cities"
+  - Ballon
+  - Schneewaage
+  - Ocean Flux Buoy
+  - Met messturm
+  - Eisdickensensor
+  - Mikeowellenradar, Scatterometer
+  - Eisbohrkerne
+  - Laser-Niederschlagsmesser
+  
+
+* paar anekdoten ausm buch
+  
+  
+  
+  
+  
+  
+  
+Helge:
+  
   
 * What are the seasonally varying energy sources, mixing processes, and interfacial 
   fluxes that affect the surface heat budget of Arctic atmosphere, ocean and sea ice?  
