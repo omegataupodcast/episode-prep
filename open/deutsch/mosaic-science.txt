@@ -1,17 +1,26 @@
 Rex:
 
+Duzen!
+
 * Wie kamst Du zu dem Job?
   - Erfahrung
   - Hintergrund
 
+* Missionablauf schon mit Thomas!
+
+* planung der Mission
+
 * Wissenschafliche Idee der Mission
   Generelle Frage: "What are the *causes* and *consequences* of an *evolving* 
                     and diminished Arctic sea ice cover?"
+  daten vs. mechanismen
+ - Sammeln von Daten für Modell-Parametrierung
+ - Zusammenhang Daten und Modell - Parameterwerte
+
   . grand challenge of climate science
   . sea ice as an integrator of change
   . memory and inertia
- - Sammeln von Daten für Modell-Parametrierung
- - Zusammenhang Daten und Modell - Parameterwerte
+
 
 * Warum ist das grade in den arktischen Bereichen
  - so wichtig (Bedeutung f d Wetter)
@@ -19,26 +28,34 @@ Rex:
   . sonst Schiffe, Flugzeuge, Wetterballone
   . und Satellit natürlich. Auch da gibt's weniger.
 
+
 * Entscheidung welche Scholle
 
+
+Jeweils: welche Experimente
+
+- heat budget
 * What are the seasonally varying energy sources, mixing processes, and
 interfacial fluxes that affect the surface heat budget of Arctic
 atmosphere, ocean and sea ice?  
 
+- sea ice
 * How does sea ice formation, drift, deformation and melting couple to
 atmospheric, oceanic and ecosystem processes? 
 
+- clouds
 * What are the processes that regulate the formation, properties,
 precipitation and life time of Arctic clouds and their interactions with
 aerosols, boundary layer structure and atmospheric fluxes?
 
+- großräumige strömungen
 * How do ongoing changes in the Arctic climate system impact large scale
 heat, momentum and mass fluxes and how do these changes feed back into
 the Arctic climate and ecosystem?
 
 * Getier
 
-* planung der Mission
+ganzes jahr das gleiche
 
 * Die verschiedenen Disziplinen und "cities"
   - Ballon
@@ -50,10 +67,15 @@ the Arctic climate and ecosystem?
   - Eisbohrkerne
   - Laser-Niederschlagsmesser
   
+  ganze zeit dort
+  
+* ALltag des Exp Leiter
+
+* Herausfordernde Momemente als Exp Leiter
 
 * paar anekdoten ausm buch
   
-  
+* Buch  
   
   
   

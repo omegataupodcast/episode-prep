@@ -1,54 +1,88 @@
-* Die zentrale Bedeutung der Exp Funktion und warum wir sie so schwer verstehen.
-* woran zeigt sich Beschleunigung und woher kommt sie? Beispiele, Mechanismen.
-* Wann und warum endet sie wieder?
-* ist das versagen d regierung wegen exp fun bei Corona? Wirklich?
-  Versagt doch auch bei vielen anderen Dingen.
+* Christian: zentrale These: Beschleunigung
+* Markus: zentrale (sich vergrößernden, beschleunigende) Komplexität
+
+
+* Die zentrale Bedeutung der Exp Funktion 
+  - woran zeigt sich Beschleunigung und woher kommt sie? 
+  - Beispiele
+  - Mechanismen wodurch sie entsteht
+    (generation x entwickelt generation x+1)
+    (bei viren einfach die Anzahl bei gleicher Rate)
+  - Wann und warum endet sie wieder?
+
+* Die Welt beschleunigt sich - ist das nur wegen der Exp Fun?
+
+* Warum wir sie so schwer verstehen.
+
+* Die verschlafene Digitalisierung und die Ignoranz von "Neuland"
+  ist der Bildung. 
+  - das hat doch nix mit Exponentialfunktion und "schnell" zu tun. 20 Jahre?  
+  - Ist wirklich nur die Telekom-Lobby schuld? Oder gibt's hier ein
+    kulturelles Problem?
+  - Welche Rolle spielen Medien und Clickbait und Aufmerksamkeitsökonomie?
+  - politische und bildungselite immer noch in der vergangenheit, zu langsam
+  - lehrplan. stolz auf keine ahnung von digital
   
-* politische und bildungselite immer noch in der vergangenheit, zu langsam
-  lehrplan. stolz auf keine ahnung von digital
-  bezug zu wissenschaftsskepsis
+* Bezug zu Wissenschaftsskepsis? Und Expertenmisstrauen?
+  - werden wir maschinen glauben wenn sie richtige aber unerklärliche 
+    vorhersagen machen? ist nicht wissenschaft jetzt 
+    schon so eine maschine? klimawandel
+
+* Ist das versagen d regierung wegen exp fun bei Corona? Wirklich?
+  Versagt doch auch bei vielen anderen Dingen. Klima!
+  - erkenntnis vs umsetzungsproblem 
   
-sinnloser grstaltungsdrang. kann ja nicht einfach tun was wiss sagt
+* Ist das Problem nicht einfach Komplexität?
+  - sinnloser grstaltungsdrang. kann ja nicht einfach tun was wiss sagt   
+  - Politik kann interessensausgleich, aber keine komplexen Probleme lösen.
+  - Attraktoren optimiert in Richtung DIktatur vermeiden, egal was es kostet;
+  - wie wollen wir jemand die komplexe, weltweite Klimakrise lösen
+    wenn wir an einer (literally!) berechenbaren Krise wie Corona scheitern?
 
-unwillen verantwortung zu übernehmen , sogar wenn die mehrheit das will!
-- medientheater
-- impfgegner -> gibt's da eigentlich informationen über ausländische cyber-mitmischung? viel besser kann man den Feind nicht schädigen.
+* Ist die Welt generell so komplex, dass sie normale Menschen die ein Leben
+  mit Job und Kind und zu wenig Kohle und kranken Eltern haben keine
+  Resourcen haben sie zu verstehen? Entsteht dadurch u.a. der Glaube an
+  einfache Lösungen und damit an Verschwörungserzählungen und Populisten?
+ 
+  
+* Haben wir den Kampf um den Unterschied zwischen Meinung und Fakten und
+  wissenschaftlichen Erkenntnissen verloren? Darf jeder einfach so einen
+  Satz einleiten mit "Für mich ist ..." oder "Meiner Meinung nach ..."
+  und dann einfach Fakten bestreiten? Was sind Fakten, was ist Wahrheit :-) ?
+  Weil die DInge so komplex sind dass Leute sie einfach nicht mehr verstehen.  
+  
+* Was müsste passieren dass das "alles besser wird"?
+  - Es müsste mal ne echte Krise geben ... ich dachte Corona wäre eine.
 
-so lange laufen lassen bis es so schlimm ist dass ma nicht mehr anders kann. Vorher müsste man verantwortung übernehmne was man sich nicht traut.
-- sind die Leute feige?
-- oder ist das System irgendwie schuld?
+* Warum handelt die Politik nicht "richtig" wenn das Volk das doch will?
+  - unwillen verantwortung zu übernehmen , sogar wenn die mehrheit das will!
+  - Verantwrotungsdiffusion. "Ländersache" es fehlt positives "Leadership".
+  - Aber können solche im Parteiensystem überhaupt "heranwachsen"?
 
-Verantwrotungsdiffusion. "Ländersache" es fehlt positives "Leadership".
-Aber können solche im Parteiensystem überhaupt "heranwachsen"?
+  - so lange laufen lassen bis es so schlimm ist dass ma nicht mehr anders kann. Vorher müsste man verantwortung übernehmne was man sich nicht traut.
+    . sind die Leute feige?
+    . oder ist das System irgendwie schuld?
 
-Lobbyinteressen telekom verhindert Breitbandausbau? 
-
-werden wir maschinen glauben wenn sie richtige aber unerklärliche vorhersagen machen? ist nicht wissenschaft jetzt schon so eine maschine? klimawandel
-
-umgang/erkennung v desinformation 
-
-
-Path Dependence.
-
-
-* Wahlsysteme - inwiefern ist ein Wahlergebnis wirklich der "Wille des Volkes",
-  kommt ja vielleicht was anderes raus wenn man anders "misst"
-* Ist unsere Demokratie zu langsam für die immer schneller werdende Welt?  
-  Kann man sie refactoren dass sie schneller wird?
 * Haben wir uns als Gesellschaft zu verkomplexifiziert, dass wir quasi 
   handlungsunfähig sind weil Entscheidungen entweder nie Zustande kommen
   oder dann so viele ungeplante Folgen haben (Emergence!) dass auch nix
   vernünftiges rauskommt. Bezug zu Tainter's Collapse  
+
+* umgang/erkennung v desinformation -> wenn ich Russland wäre, würde ich
+  einfach nur Impfskepsis streuen.
+
+* Fehlt an solidarität. impfen. verloren glaube an staat
+
+* Ist unsere Demokratie zu langsam für die immer schneller werdende Welt?  
+  Kann man sie refactoren dass sie schneller wird?
+
 * Damit zusammenhängend: wäre es nicht das allerwichtigste, mal unsere
   Regelungen und Gesetze zu entschlacken, damit man überhaupt wieder
   handlungsfähig wird und einem nicht die Komplexität alles kaputt macht?
   Und können wir das überhaupt? Oder gibt es inzwischen so viele Leute
   die genau von dieser Komplexität profitieren dass sie verhindern werden,
   dass man vereinfacht (offensichtliches Bsp: Steuerberater)?
-* Ist die Welt generell so komplex, dass sie normale Menschen die ein Leben
-  mit Job und Kind und zu wenig Kohle und kranken Eltern haben keine
-  Resourcen haben sie zu verstehen? Entsteht dadurch u.a. der Glaube an
-  einfache Lösungen und damit an Verschwörungserzählungen und Populisten?
+
 * Und führt die Komplexität und das nicht-Verständnis nicht dazu, dass
   Leute Mauschelei und Korruption unterstellen, unabhängig davon ob es
   sie wirklich gibt? Frei nach Larry Lessig in Republic Lost.
@@ -60,15 +94,6 @@ Path Dependence.
   an Wiederwahl? Corona demonstriert dass das System (vielleicht) dazu
   geeignet ist Interessenausgleich bzw. Kompromisse herbeizuführen, dabei
   aber fast egal ist ob das Ergebnis auch Sinn macht.
-* Wie kann es sein, dass unser System sogar bei einem so akuten, tödlichen
-  und fast mit mathematischer Präzision vorhersagbaren Problem wie COVID
-  nicht die richtigen Entscheidungen trifft? Und wenn das so ist, haben
-  wir überhaupt eine Chance das Klimaproblem zu lösen (ich denke: nein!)  
-* Welche Rolle spielen die Medien und ihr Clickbait/Emotions/Aufregungs-Bias?
-* Haben wir den Kampf um den Unterschied zwischen Meinung und Fakten und
-  wissenschaftlichen Erkenntnissen verloren? Darf jeder einfach so einen
-  Satz einleiten mit "Für mich ist ..." oder "Meiner Meinung nach ..."
-  und dann einfach Fakten bestreiten? Was sind Fakten, was ist Wahrheit :-) ?
 * Kann eine Demokratie wie unsere mit dem (meiner Diagnose nach) immer 
   weiter verbreiteten Vertrauensverlust in der Mitte umgehen? Mit 10% 
   radikalen rechts und links die das System "umsturzen" wollen kommmen

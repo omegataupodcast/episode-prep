@@ -3,20 +3,23 @@
   - previous work
 
 * 10,000 ft view
-  - What is the goal of the project
-    . open class
-    . 28m
-    . FBW
-    . why not add the fbw to existing wings, was there also "wing innovation"? which?
-    . thin high aspect wing
-    . high loading
-    . existing fuselage of an ASH 30 - why?
-      why two seater
-  - What triggered it
   - Who is behind it except you
     . Dagfinn Gangsaas fbw
     . Jim Payne test pilot (perlan)
     . Loek Boermans
+  - What is the goal of the project
+    . existing fuselage of an ASH 30 - why?
+      why two seater
+    . open class
+    . 28m
+    . FBW
+  - why do you want high aspect
+    . aspect ratio 53 - how to get it stiff? - eta 52, concordia 57
+    . why not add the fbw to existing wings, was there also "wing innovation"? which?
+    . thin high aspect wing
+  - What triggered it
+
+    . high loading
   - Designed for which weather / use case?
     probably different than the OLC-based weather model used in 
     the design of the Ventus 3
@@ -25,8 +28,10 @@
   - why is a thinner wing better
     . flapped of course for slow flight
     . only possible because of FBW, no mechanics?
-  - why do you want high aspect
-    . aspect ratio 53 - how to get it stiff? - eta 52, concordia 57
+  - how are the airfoils designed? 
+    . how are they different, new?
+    . lift plateau in the polar - how do you design this?
+    . iterative airfoil design - what do you optimize for?    
   - why do you want high loading    
     . not just in wing, but 2 seater + motor -> heavy fuselage 
       -> bending moment on wing 950kg w/o water
@@ -36,21 +41,19 @@
     . why? challenge?
     . other tricks to build strcuture?
     . 183 layers of carbon at inner spar
+
   - materials
     . high strength fibers -> challenge beyond price? 
       stiffness & tensile strength
     . relationship to x-57; material data  
-  - how are the airfoils designed? 
-    . how are they different, new?
-    . lift plateau in the polar - how do you design this?
-    . iterative airfoil design - what do you optimize for?
-  - why no SH-style bends :-) ?
-  - non-linear elastic vortex lattice method
-  - automatic fem model generation?
 
 * Build this thing yourself?
   - Built your own autoclave
   - molds
+
+  - why no SH-style bends :-) ?
+  - non-linear elastic vortex lattice method
+  - automatic fem model generation?
 
 * Structure test
   - 16 ft of flex
@@ -65,6 +68,22 @@
     . ailerons
     . but not tail, why?
   - benefits
+	- what sensors?
+
+    "I need to correct you there, all six flaps have ..."
+    
+  - mechanical backup?
+    . how does this not interfere with the FBW?
+    . is this the way to get "force feedback?"
+    . there's still a flap handle, right?
+      but unconnected mechanically.     
+    
+    . auto flap setting
+      discrete flap settings or continuous?
+      flap settings based on which input params?
+      expect better perf b/c of fbw flaps?
+ 
+ 
     . reduction of adverse yaw 
       less rudder
       how?
@@ -72,30 +91,23 @@
     . custom control laws
       example?
       change in flight
-    . auto flap setting
-      discrete flap settings or continuous?
-      flap settings based on which input params?
-      expect better perf b/c of fbw flaps?
-  - mechanical backup?
-    . how does this not interfere with the FBW?
-    . is this the way to get "force feedback?"
-    . there's still a flap handle, right?
-      but unconnected mechanically. 
-  - what is harder to get right:
-    mechanical mixer or FBW flight law?
+
   - architecture, redundancy. 3 computers, 3 buses.
     what actuators?
-    what sensors?
+  - how/why is flap segementation a safety aspect?
+  - what is harder to get right:
+
   - which programming languages, hardware.  
     Servo Temperature. Cabling? Connectors!
-  - how/why is flap segementation a safety aspect?
   
+    mechanical mixer or FBW flight law?
+    
 * Experience, performance?  
+  - how many hours?
+  - whats state of testing? vne limite?
   - how do you go about flight testing this?
     you have to rely on FBW from the start
     professional: Jim Payne
-  - how many hours?
-  - whats state of testing? vne limite?
   - role of existing models now in flight test?
   - rolls nicely, no stall surprises
   - ever had a failure in the FBW?
