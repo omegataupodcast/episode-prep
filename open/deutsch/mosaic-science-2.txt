@@ -1,0 +1,139 @@
+* Dein Hintergrund
+  - theoretischer Biophysik - was das?
+  - AWI: dann globale Klimamodelle
+  - Vorhersage von Meereis
+    . was will man da vorhersagen?
+    . numerisch? parametrisch?
+  - PPP / YOPP
+  - Bezug zur MOSAIC Planung
+  - Nahtlose Meereisvorhersage
+    . theoretischen Grenzen der Vorhersagbarkeit von Meereis 
+    . Evaluations- und Kalibrierungsmethoden 
+  - Hobbies
+    . atmosphärischen Strahlung 
+    . statistischen Methoden
+    
+* Planung MOSAIC
+  - wie MOSAiC gestaltet werden müsste, damit Modelle und Vorhersagen den
+    größten Nutzen daraus ziehen könnten  
+    . gib mal das eine oder andere Beispiel.
+  - Sea Ice Drift Forecast Experiment ...
+    . Konsens-Vorhersagen ... während MOSAiC für logistische Planung 
+  - Sea Ice
+    . wo wir in diesem Bereich derzeit stehen, 
+    . wo die theoretischen Grenzen der Vorhersagbarkeit von Meereis liegen, 
+    . und auf welche Weise weitere Fortschritte möglich sein sollten
+    -> Bsp.
+  - Hast Du aufgrund Deiner "Hobbies" auch Ideen zur Atmosphäre?
+
+
+* Ähnlich wie MOSAIC: SHEBA
+  - 1997/8 -> "alte Arktis"    
+  - ähnlicher Ansatz: Vermessung einer Säule, Ozean bis obere Atmo
+  - Erfolg!
+    . Strahlungsmessungen 
+    . Turbulenzmessungen 
+    . bessere Parametrisierungen von Mischwolken 
+      -> realistischere Strahlungsbilanz und dadurch 
+         realistischere Meereis- und Schneeverteilung 
+         im Klimamodell
+  MOSAIC = SHEBA++
+  - (besserer Name, kein Katzenfutter!)         
+  - 20 Jahre neuere Exp
+  - mehr Disziplinen: Bsp?
+  - größeres verteiltes Netz -> nicht Punkt, sondern 40km Gitterzelle
+  - Mehr Eisdynamik - Eisdrucksensoren am Polarstern Rumpf
+  - Vermessung von Oberflächentopografie
+  - mehr Messungen im Ozean 
+  Nachteile
+  - ganze Saison (Polarstern musste weg wegen Spitzbergen Tausch)
+  - Polarstern driftete "zu schnell"
+  - keine Flugzeugkampagne wegen Corona
+
+
+  
+* Rollentrennung Modellierer vs. Expedition
+  - nicht auf dem Schiff
+  - Experimentatoren bissle mehr Generalisten, Modellierer Spezialisten
+    (ISS Wissenschaftler-Vergleich)  
+  - Zusammenspiel mit Experimentatoren:
+    ... wichtige Details, die bei der genauen Interpretation der 
+        Daten am Ende wichtig sind, unbekannt sein. Solche 
+        Schwierigkeiten sind übrigens eine generelle Herausforderung, 
+        wenn es darum geht, Beobachtungsdaten und Modelle zusammenzubringen
+        
+    
+* Modellentwickler vs. Modellverwender
+  - Unterschied!
+  - Du bist primär Verwender    
+    . theoretischen Grenzen der Vorhersagbarkeit zu ergründen: wie?
+    . die Sensitivität des Klimas auf einzelne „Treiber“ zu bestimmen: wie?
+    . die Rolle verschiedener Rückkopplungsmechanismen zu entwirren: wie? 
+    . die Rolle von internen Klimaschwankungen zu verstehen: wie?
+    . Geoengineering-Methoden zu testen: wie?
+    
+* Wollen wir über paar Details reden?
+  - Aber auch Entwickler: AWI klimamodell: z.B. haben wir im Rahmen meiner Nachwuchsgruppe die
+  Meereiskomponente des AWI-Klimamodells durch eine deutlich modernere
+  Komponente ausgetauscht, und dann genau unter die Lupe genommen,
+  welche Vorteile (oder auch nicht) sich daraus ergeben
+
+* Warum sind Daten so wichtig von der Arktis 
+  ... schwer hinzukommen, siehe Gespräch mit Markus Rex
+  - Problem: man muss viel parametrisieren, sonst könnte man 
+    ja einfach "rechnen", Wetter funktioniert ja überall gleich!
+  - Direkt – also physikalisch sehr exakt – lassen sich im Prinzip die
+    Bewegungen der Luft und des Wassers simulieren (Navier-Stokes-Gleichungen)  
+    
+    Da Parametrisierungen immer auch ein gutes Stück auf Empirie 
+    basieren, sind sie meist weniger universell, als die grundlegende 
+    Physik an sich,
+    
+  - kleinskaliges wird parametriert - Konzept klar!
+    Zum Beispiel kann der turbulente Transport von Wärme von einer 
+    Schicht der Modellatmosphäre in die nächste Schicht in Abhängigkeit 
+    zur Temperaturdifferenz und zur Windgeschwindigkeit sowie der 
+    Windgeschwindigkeitsdifferenz gesetzt werden. 
+    ... auf Basis von Parametern
+  - Oder Dinge die wir einfach nicht genau kennen:
+    . Wolkenphysik (einschließlich Interaktion mit Aerosolen); 
+    . Strahlungsübertragung; 
+    . Effekte von Eis und Schnee; 
+    . Vegetation (man versuche mal, einen Baum zu simulieren!); 
+
+  - Polarregionen
+    . schwerer zu erreichen wegen Messung
+    . Polargebiete meist nicht im Fokus standen bei der 
+      Entwicklung von Wetter- und Klimamodellen  
+    . dort sehr unterschiedliche Bedingungen herrschen
+    
+    Beispiele:
+    . Meereis + Schnee
+    . Die bodennahe Inversion (hat Markus Rex erwähnt)
+      kriegen Modelle nicht gut hin wegen zu grober 
+      vertikaler Auflösung
+    . Die Wolken mit Eis und unterkühlten Wasser
+    . Interaktion Wolken + Inversion
+    . Ähnliche Probleme auch im Ozean?
+
+    -----> inwiefern helfen hier MOSAIC Daten?
+    
+
+* Was ist jetzt der Plan mit den MOSAIC Daten
+  - 
+
+  
+* Satellitenkomponente   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
