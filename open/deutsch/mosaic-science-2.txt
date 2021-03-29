@@ -120,20 +120,46 @@
     
 
 * Was ist jetzt der Plan mit den MOSAIC Daten
-  - 
+  - Die „klassische Wertschöpfungskette
+    Beob -> Verstehen -> Parameter -> Modell++
+  - Systematische Fehleranalyse 
+    . Anfangszustände operationeller Vorhersagen analysieren / Assimilation
+    . Vorhersagen an sich  / Modelle
+        
+        Übrigens weisen Klimamodelle oft sehr ähnliche systematische 
+        Fehler auf, wie Wettervorhersagemodelle, die sich dann auch 
+        schon auf kurzer Zeitskala feststellen lassen
+    . Über PPP/YOPP sind operationelle Vorhersagezentren von Anfang 
+      an bei MOSAiC mit ins Boot geholt worden
+      Ein etwas ernüchterndes Ergebnis: Mischwolken sind noch 
+      ein ähnlich großes Problem, wie zu Zeiten von SHEBA!!
+    . CMIP Coupled Model Intercomparison Project  
+      Da CMIP-artige „freie“ Simulationen jedoch nicht die gleiche 
+      Realisierung der chaotischen Zufallsschwankungen 
+      . warum?
+      . -> Statistik
+    . o	Eine aktuell zunehmend verfolgte Strategie ist es, 
+      Klimamodellen die Großwetterlage aufzuprägen durch 
+      sogenanntes „Nudging“       
+      
+  - Die in-situ-Daten der MOSAiC-Expedition werden dafür 
+    genutzt, Satellitendaten zu validieren und zu kalibrieren („CalVal“).       
+    
+  - Sensoren, die auch auf aktuellen oder zukünftigen Satelliten 
+    verbaut sind/werden, wurden vor Ort über dem Meereis installiert, 
+    sodass diese ständig – von Wolken und anderen atmosphärischen 
+    Effekten ungestört – messen konnten
 
-  
-* Satellitenkomponente   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+  -  Satellitendaten für Datenassimilierung haben es über Meereis und 
+     Schnee besonders schwer: 
+     . Wolken vs Oberfläche (in optisch und infra)
+     . Stichwort Inversion
+     . Schmelztümpel von offenem Wasser sehr schlecht zu unterscheiden. 
+     . Was hat MOSAIC hier getan?
+     
+Die MOSAiC-Daten werden spätestens ab Januar 2023 für jedermann frei
+verfügbar gemacht. Optimierungen des Datensatzes werden wohl auch
+darüber hinaus noch andauern. Der Datensatz wird mit großer Sicherheit
+über Jahrzehnte eine enorm wertvolle Grundlage für die Erforschung des
+polaren Klimas (und Klimawandels) sowie für die Weiterentwicklung von
+Wetter- und Klimamodellen sein     
