@@ -1,5 +1,6 @@
-* Christian: zentrale These: Beschleunigung
-* Markus: zentrale (sich vergrößernden, beschleunigende) Komplexität
+zentrale These:
+* Christian:  Beschleunigung
+* Markus: (sich vergrößernden, beschleunigende) Komplexität
 
 
 * Die zentrale Bedeutung der Exp Funktion 
@@ -8,73 +9,71 @@
   - Mechanismen wodurch sie entsteht
     (generation x entwickelt generation x+1)
     (bei viren einfach die Anzahl bei gleicher Rate)
+    (bei computern entwicklung von x+1 mit x)
   - Wann und warum endet sie wieder?
 
-* Die Welt beschleunigt sich - ist das nur wegen der Exp Fun?
+* Warum wir sie als Menschen so schwer verstehen.
 
-* Warum wir sie so schwer verstehen.
+* Die Welt beschleunigt sich - ist das nur wegen der Exp Fun?
+  - mehrere, sich gegenseitig befruchtende Exp Fun?
+  - oder auch wegen globalisierung?
 
 * Die verschlafene Digitalisierung und die Ignoranz von "Neuland"
   ist der Bildung. 
   - das hat doch nix mit Exponentialfunktion und "schnell" zu tun. 20 Jahre?  
   - Ist wirklich nur die Telekom-Lobby schuld? Oder gibt's hier ein
     kulturelles Problem?
-  - Welche Rolle spielen Medien und Clickbait und Aufmerksamkeitsökonomie?
   - politische und bildungselite immer noch in der vergangenheit, zu langsam
   - lehrplan. stolz auf keine ahnung von digital
   
-* Bezug zu Wissenschaftsskepsis? Und Expertenmisstrauen?
-  - werden wir maschinen glauben wenn sie richtige aber unerklärliche 
-    vorhersagen machen? ist nicht wissenschaft jetzt 
-    schon so eine maschine? klimawandel
-
-* Ist das versagen d regierung wegen exp fun bei Corona? Wirklich?
-  Versagt doch auch bei vielen anderen Dingen. Klima!
-  - erkenntnis vs umsetzungsproblem 
-  
-* Ist das Problem nicht einfach Komplexität?
-  - sinnloser grstaltungsdrang. kann ja nicht einfach tun was wiss sagt   
-  - Politik kann interessensausgleich, aber keine komplexen Probleme lösen.
-  - Attraktoren optimiert in Richtung DIktatur vermeiden, egal was es kostet;
-  - wie wollen wir jemand die komplexe, weltweite Klimakrise lösen
-    wenn wir an einer (literally!) berechenbaren Krise wie Corona scheitern?
-
 * Ist die Welt generell so komplex, dass sie normale Menschen die ein Leben
   mit Job und Kind und zu wenig Kohle und kranken Eltern haben keine
   Resourcen haben sie zu verstehen? Entsteht dadurch u.a. der Glaube an
   einfache Lösungen und damit an Verschwörungserzählungen und Populisten?
+  
+* Bezug zu Wissenschaftsskepsis und Expertenmisstrauen?
+  - werden wir maschinen glauben wenn sie richtige aber unerklärliche 
+    vorhersagen machen? ist nicht wissenschaft jetzt 
+    schon so eine maschine? 
+
+* Ist das versagen d regierung wegen exp fun bei Corona? Wirklich?
+  Versagt doch auch bei vielen anderen Dingen. Klima!
+  - erkenntnis vs umsetzungsproblem
+  
+* Ist das Problem nicht einfach Komplexität?
+  - sinnloser gestaltungsdrang. kann ja nicht einfach tun was Wissenschaft sagt   
+  - Politik kann interessensausgleich, aber keine komplexen Probleme lösen.
+    Einzige Erklärung für "seltsame" Beschlüsse
+  - Attraktor der Demokratie: Richtung Diktatur vermeiden, egal was es kostet;
+  - wie wollen wir jemand die komplexe, weltweite Klimakrise lösen
+    wenn wir an einer (literally!) berechenbaren Krise wie Corona scheitern?
  
-  
 * Haben wir den Kampf um den Unterschied zwischen Meinung und Fakten und
-  wissenschaftlichen Erkenntnissen verloren? Darf jeder einfach so einen
-  Satz einleiten mit "Für mich ist ..." oder "Meiner Meinung nach ..."
-  und dann einfach Fakten bestreiten? Was sind Fakten, was ist Wahrheit :-) ?
-  Weil die DInge so komplex sind dass Leute sie einfach nicht mehr verstehen.  
-  
+  wissenschaftlichen Erkenntnissen verloren? 
+  - Darf jeder einfach so einen Satz einleiten mit 
+    "Für mich ist ..." oder "Meiner Meinung nach ..."
+    und dann einfach Fakten bestreiten? 
+  - Was sind Fakten, was ist Wahrheit :-) ?
+  - Weil die DInge so komplex sind dass Leute sie einfach nicht mehr verstehen.  
+  - Welche Rolle spielen Medien und Clickbait und Aufmerksamkeitsökonomie 
+    in dieser Gemengelage?
+   
 * Was müsste passieren dass das "alles besser wird"?
   - Es müsste mal ne echte Krise geben ... ich dachte Corona wäre eine.
 
 * Warum handelt die Politik nicht "richtig" wenn das Volk das doch will?
-  - unwillen verantwortung zu übernehmen , sogar wenn die mehrheit das will!
+  - Unwillen verantwortung zu übernehmen , sogar wenn die mehrheit das will!
   - Verantwrotungsdiffusion. "Ländersache" es fehlt positives "Leadership".
   - Aber können solche im Parteiensystem überhaupt "heranwachsen"?
-
-  - so lange laufen lassen bis es so schlimm ist dass ma nicht mehr anders kann. Vorher müsste man verantwortung übernehmne was man sich nicht traut.
-    . sind die Leute feige?
-    . oder ist das System irgendwie schuld?
 
 * Haben wir uns als Gesellschaft zu verkomplexifiziert, dass wir quasi 
   handlungsunfähig sind weil Entscheidungen entweder nie Zustande kommen
   oder dann so viele ungeplante Folgen haben (Emergence!) dass auch nix
   vernünftiges rauskommt. Bezug zu Tainter's Collapse  
 
-* umgang/erkennung v desinformation -> wenn ich Russland wäre, würde ich
-  einfach nur Impfskepsis streuen.
-
-* Fehlt an solidarität. impfen. verloren glaube an staat
-
 * Ist unsere Demokratie zu langsam für die immer schneller werdende Welt?  
-  Kann man sie refactoren dass sie schneller wird?
+  Kann man sie refactoren dass sie schneller, transparenter, 
+  lösungsorientierter wird?
 
 * Damit zusammenhängend: wäre es nicht das allerwichtigste, mal unsere
   Regelungen und Gesetze zu entschlacken, damit man überhaupt wieder
@@ -83,21 +82,6 @@
   die genau von dieser Komplexität profitieren dass sie verhindern werden,
   dass man vereinfacht (offensichtliches Bsp: Steuerberater)?
 
-* Und führt die Komplexität und das nicht-Verständnis nicht dazu, dass
-  Leute Mauschelei und Korruption unterstellen, unabhängig davon ob es
-  sie wirklich gibt? Frei nach Larry Lessig in Republic Lost.
-* Sind Bürgerräte eine echte Alternative? Oder ein Workaround "um" das
-  kaputte System? Denn eigentlich ist die Idee, Leute aus der Mitte des
-  Volks abzuordnen um Entscheidungen zu treffen ja für beide die gleiche.
-* Wie können wir die Incentives im politischen System so setzen, dass 
-  Politiker mehr an echter Lösungsfindung interessiert sind statt primär
-  an Wiederwahl? Corona demonstriert dass das System (vielleicht) dazu
-  geeignet ist Interessenausgleich bzw. Kompromisse herbeizuführen, dabei
-  aber fast egal ist ob das Ergebnis auch Sinn macht.
-* Kann eine Demokratie wie unsere mit dem (meiner Diagnose nach) immer 
-  weiter verbreiteten Vertrauensverlust in der Mitte umgehen? Mit 10% 
-  radikalen rechts und links die das System "umsturzen" wollen kommmen
-  wir ja irgendwie klar. Aber wenn die Mitte den Glauben verliert? Was dann?
 
 
 
