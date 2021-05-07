@@ -1,0 +1,102 @@
+> Sorry for the delayed response. I should have a bit better availability
+> in the next couple weeks. I suppose it depends on what you'd like to
+> focus on. I really enjoy long form podcasts because they afford the
+> opportunity to dig deeper on complicated topics. 
+
+That is dangerous to say, I might exploit this :-)
+
+
+
+* Quick recap of your career
+
+* What did you fly operationally?
+
+* Test Pilot school - memorable moment?
+
+* The F-22
+  - What was the philosophical idea behind the f-22?
+    - F-16 it was the LWF, basically a lesson learned from the not-so-super F-4 in Vietnam
+    - Which experience guided the F-22? Operation Desert Storm?
+  - Purpose: Air Superiority, F-15 replacement
+    . A2G? "F-22E Strike Raptor" :-)
+  - Generations F-16 -> F-22 -> F-35. Differences. 
+    . sidestick - does it move
+    . cockpit view compared to F-16 or F-15
+  - Aiframe
+    . wing etc.
+    . leading-edge flaps, flaperons, ailerons, rudders on the canted vertical stabilizers,
+    . how does speed brake work? do you feel any change in attitude?
+  - How do you use with Thrust Vectoring
+    . thrust vector only in pitch (unlike X-31)
+    . "supermaneouverability"
+      capable of flying at trimmed alpha of over 60° while maintaining roll
+      control and performing maneuvers such as the Herbst maneuver (J-turn)
+      and Pugachev's Cobra.[103] T
+  - Supercruise
+    . how fast?
+    . how? Just engines? (internal weapons)
+    . useful for what?
+  - Can you tell about the use of stealth?
+    . what technique to achieve stealth? RAM or shape?
+    . internal weapons bay
+  - Advanced Technology Anti-G Suit
+    . The o2 issue. What was it, and has it been resolved?
+  - Sensors
+	. AN/ALR-94 electronic warfare system
+	  a passive radar detector with more than 30 antennas blended into the wings 
+	  and fuselage for all-round radar warning receiver (RWR) coverage. 
+	. AN/AAR-56 infrared and ultraviolet Missile Launch Detector (MLD)
+	  uses six sensors to provide full spherical infrared coverage
+	. AN/APG-77 active electronically scanned array (AESA) radar
+	  low-observable, active-aperture, electronically scanned array that 
+	  can track multiple targets under any weather conditions. The radar changes 
+	  frequencies more than 1,000 times per second to lower interception probability 
+	  and has an estimated range of 125–150 mi (201–241 km) 
+	. Communication/Navigation/Identification (CNI) suite. 
+  - What is "sensor fusion"
+    . Can you say how this is then improved on in the 35?
+    . It is said that the F-22 can serve as a "Mini AWACS" - means?
+    . Wouldn't a two-seater be useful?
+  - Operational Test? 
+    . What did you do?
+    . You also flew the F-117?
+  - Why only 180 airframes?
+    (leading into the next topic)
+
+* Future aircraft (incl. the F-35)
+  - Which experience did the F-35 grow out of?     
+  - What did we learn for the air force from more recent conflicts?
+  - Where does future a/c development go?
+    . USAF is buying more F-15 (career starting to look like the B-52 :-)) 
+    . Now there's talk about a cheaper 4.5 gen to replace F-16 b/c F-35 too expensive?
+
+	  Background: I fly gliders. The actual aerodynamic improvement, the pure gliding
+	  performance, has been developing over the last 30 years, but relatively slowly. However,
+	  what has changed a lot is "electronics" and virtual stuff:
+	  - GPS and gliding computers (focus on the flying task instead of navigation)
+	  - better weather forecasts, weather live view in flight
+  	  - "Radar" to see other gliders in the vicinity and their climb rate
+  	  - online platforms to see other people's flights and learn from them
+      - future: automatic flap control to configure an optimal wing all the time
+  
+    ... so, do air forces need higher performing aircraft, or better "Intelligence
+        in the air", sensors, situational awareness, etc.
+  
+* AlphaDogfight 
+  - name sounds like IBM's Alpha ...
+  - quick recap; all fights won
+  - realistic? 
+  - how about putting AI into a real airplane 
+  - relationship between human pilots and AI, AI in the cockpit
+  - thoughts on "autonomous killing"
+  
+* Your current work as a DARPA program manager
+  - quick recap: what is DARPA
+  - how does it work, what is its role?
+  - temporary assignment
+  - what do you do as a program manager?
+    . generate ideas?
+    . select ideas?
+    . shepherd projects through bureaucracy?
+  - cool stuff you are working on?
+
