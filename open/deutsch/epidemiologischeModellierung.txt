@@ -1,0 +1,85 @@
+- Was will man modellieren
+  . Biologische Vorgänge im Körper 
+    (das ist aber nicht Epidemiologie, sondern computational biology oder sowas?)
+  . die kleinskaligen Ansteckungsvorgänge (Tröpfen, Aerosole, Schmierinfektion)
+    (ist das dann nicht Physik :-) ?
+  . Aggregiertes, Ausbreitung, statistische Aussagen bzgl einer Gesellschaft
+    und die Auswirkung von Interventionen
+    (das ist der Kern, oder? Im Folgenden jedenfalls liegt der Schwerpunkt hierauf)
+
+- Kurzer Überblick über einige Ihrer Simulationen, damit wir dann die 
+  Detaildiskussionen darauf beziehen können
+  - CovidSim auf jeden Fall
+  - 4Flu wäre glaube ich gut als Vergleich zu CovidSim
+  - Welcher wäre noch gut als Vergleich? Hanta? Schis-2-HIV? SIM-STH?
+
+- Warum modellieren? Gibt es Alternativen?
+   . Messen und dann handeln?
+   . generell in der Wissenschaft: Rolle von Modell/Vorhersage vs Experiment/Daten
+
+- Startpunkt: Exponentialfunktion
+  . Warum?
+  . Was wird modelliert (im Sinne von Formeln oder DGLs)
+    Covid:
+    Model dynamics => diff e?
+    welche Arten von Bevölkerungsgruppen werden modelliert?
+    Interventionen, wie werden diese errechnet und welche werden berücksichtig?
+    Detection
+    Incidences
+    Parameters
+    Start Values
+    Bewegungsprofile?
+    Zusammentreffwahrscheinlichkeit?
+    Politische Effekte (USA: "Masken sind für Liberals")
+  . Was wird parametriert (bspw. Ansteckungswahrscheinlichkeit)
+  . Welche Korrekturen kann man dazu anbrigen?
+    Kein exponentielles Wachstum hält für immer an!
+- Modellieren mit dem SIR-Modell mit Differentialgleichungen
+
+- Infiefern sind die Modelle hierarchisch?
+  . also eines berechnet ein R (mikroskopisch)
+  . dieses R geht dann in das makroskopische Modell ein
+
+- analytische vs. numerische Modelle
+  . Path Dependence
+  . Reflexive Dinge (A beinflusst B, B beeifnlusst A)
+
+- Bayesian => Update der Parameter basierend auf Messung?
+  
+- Mathematische Ansätze? Monte-Carlo zwecks Wahrscheinlichkeiten?
+
+- Korrekte Implentneriung von Modellen
+  . Ganz blöd: wie schreibt man Unit Tests?  
+    (tut das Modell das was ich denke das es tun soll)
+    
+- Dann: "Vertrauen" in Modelle 
+  . Stichwort 5-sigma in der Physik
+  . gegenseitige kontrollen, „stabilität“
+  . Sensitivitätsanalyse
+    parametrierung ändern (altersgruppen, herdenimmu); massentauglichkeit
+  . Vergleichsrech in anderen Kontexten: auf schiff, gangelt
+  . Vorhersagen der Vergangenheit
+
+- Umgang mit dem Zufall vor allem am Anfang
+  (Stichwort: hohe Konzentration in Heisnberg)
+
+- Raumliche Blöcke? vs "Gesamtdeutschland"
+  Diskretisierung in Zeit und Raum?
+
+- Grounding der Modelle
+  . Welche Basisdaten muss ich messen?
+  . Erfahrungswerte/Historisches
+
+- Problem der Vorhersage: was passiert wenn sich parameter ändern
+  . man kann nie sagen das X passiert, sondern
+  . unter Annahmen A, B und C, dann wird X passieren
+
+- Programmier-Werkzeuge zur 
+  . Entwicklung/Evaluation der Modelle
+  . Umsetzung für die "Endnutzer"
+    Kommunikation
+    Komplexit#t vs vereinfachung vs. ratschlag
+    Visualisierung? Text?
+  
+- Evolution der Methodik über die Jahre?
+
