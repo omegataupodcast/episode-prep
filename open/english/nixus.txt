@@ -41,6 +41,10 @@
     . why? challenge?
     . other tricks to build strcuture?
     . 183 layers of carbon at inner spar
+  - boundary layer control
+    . how does it work?
+    . is it controlled by computer or manually?
+    . How big is the effect? Glide ratio, sink rate...
 
   - materials
     . high strength fibers -> challenge beyond price? 
