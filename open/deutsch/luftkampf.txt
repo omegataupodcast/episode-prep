@@ -29,6 +29,8 @@
     . Waffenparameter
     . HOTAS
     Wir reden über diese Dinge ja dann noch
+  - Wieviel echtes Fliegen (an Ruder und Knüppel) wird abverlangt
+    VERSUS Fly-By-Wire fliegt und der Pilot operiert die Mission?
   - Passiert Ausbildung schon in der "Flugschule"?
   - Was passiert dann im Einsatzverband?
 
@@ -42,6 +44,7 @@
   - Training mit internationelen Partnern: Fighter Weapon School mit UK (Cobra Warrior etc.)
   - Training mit Radar in Deutschland: ist da nicht der Radarschirm voll mit Echos von den vielen Airlinern, GA, bis hin zum Segler? (in normalen pre Corona Zeiten:-)
   - Wie übt man Zielen und wie bewertet man "Treffer" wenn man keine Range-Infrastruktur hat?
+  - Gibt es eine Art Übungsmunition?
   - Limits bei der Übung vs. Echt? Höhe? Abstand?
 
 * Weitere Trainingsgelegenheiten
