@@ -32,6 +32,11 @@
 
 * Radar & Cabin Equipment
   - whats in the radome
+  - physical dimensions and aerodynamic properties of the disc
+    diameter, weight
+    produces lift?
+    how much drag
+    influence on rudder or elevator
   - what kind? analog, digital?
 	. electronically phased/scanning?
   - performance numbers (as far as public)
