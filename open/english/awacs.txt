@@ -1,9 +1,79 @@
-* Mission
-  - for NATO in regular peacetime
-  - what would happen in an air campaign
-* Crew Structure
-* Detecting enemy fighters vs. coordinating friendlies
-* Equipment must be old .... radar, ac
-* pilots: boring, how important is precision
-* what kinds of pizza do you deliver?
+* Overview over NATO AEW
+  - Mission overview (more details later)
+    . what kinds of pizza do you deliver?
+    . where do I order?
+  - Multi-Country. Organized how?
+    . NATO's Airborne Early Warning & Control Programme
+  - how many a/c?
+    . 14 Boeing E-3A in Geilenkirchen
+    . 7 E-3D in Waddingten (operated by RAF)
+  - A Bit of history
+    . 35 years this year? - nice livery!
+    . Why did NATO decide to do AEW itself? 
+      ANd not all kinds of other things?
+    
+   
+* Aircraft
+  - E-3, which variant?
+  - Airframe 707 (not 135)  
+    . how is it different from 707 except the radome?
+    . Rather old. 
+	  Production ended in 92
+      Maintenance?
+    . Engines
+      E-3D has newer engines
+    . Where do the pilots come from?
+      Previous experience?
+      Do you do your own training?
+    . Cockpit: analog gauges or glass? 
+      It a weird hybrid like the SOFIA 747SP: systems old,
+      flight engineer, but still glass avionics
+  - Engine upgrade in the cards?
+
+* Radar & Cabin Equipment
+  - whats in the radome
+  - what kind? analog, digital?
+	. electronically phased/scanning?
+  - performance numbers (as far as public)
+  - specific capabilities (as far as public)  
+    . vertical range?
+  - Systems suite beyond the radar
+    . There must have been upgrades since the 1980s....
+    . Planned future upgrades?
+  - Cabin equipment
+    . personnel, roles, crew structure
+    . consoles, what do operators have available in terms of equipment?
+    . how do ATC-ers interact with the radar?
+
+* Mission in Detail
+  - Detecting bogeys
+  - And controlling friendlies
+    . Air-to-air engagements (vector to bogey)
+    . Air-to-ground: orchestrate forces?
+      but no ground surveillance capability, right?
+      this was formerly the E-8, is it still in use?
+  - How do you communicate with "clients"?
+    Just radio or also data?
+  - Airspace Organization when controlled by AWACS
+  - Are there sometimes multi-AWACS in the air in the same theater?
+  - Coordinate with other entities? Ground? Civ ATC?
+      
+  - Missions for NATO in regular peacetime (like now)
+  - What would happen in an air campaign
+    compare to Red Flag
+  - Do you forward-locate to other air bases?
+ 
+* Piloting 
+  - seems rather repetitive, basically fly circles?
+  - what kind of flying precision is required?
+  - Who decides where you fly your circles?
+    what kind of ATC coordination is needed?
+  - do you notice the radome? Envelope restrictions?
+  - range/endurance
+      air refuelling?
+      multiple crews??
+  - Coordination with the mission commander?
+          
+* Example Missions in the past 
+  
 
