@@ -1,0 +1,103 @@
+* Vorstellung Schmidbauer (Firma) und Stefan
+
+* Hintergrund: der Transport in Neustadt
+  - um was ging's?
+  - von wo nach wo
+  - wie kam das Teil in Kehlheim an?
+  - und woher kam es
+    . Schiffsroute
+  - was genau war das?
+  - Gewichte, Maße
+  - neue Rekorde in D
+  
+* Hübe
+  - Hafen: CC8800
+    . ein Kran: waagerecht nach waagerecht
+    . Leistungen? 700 t bei 26 m
+    . Eurer oder geliehen? Planen-Schilder suggerieren letzteres :-)
+  - Raffinerie
+    . Zwei Kräne, CC8800 und was?
+    . Denn: "aufstellen"
+    . Geht wie?  
+  
+* Vorbereitung des Transport
+  - Streckenplanung  
+    . Breite
+    . Steigungen
+    . Höhe
+    . Gewichte bei Brücken etc.
+    . Auf Basis welcher Karten? 
+      Steht ja in Google Maps nicht drin
+    . Erkundungen?
+    . Wer macht das? Ihr oder Dienstleister?
+  - Genemigungen
+    . Nur nachts?
+  
+* Warum SPMT
+  - was ist das?
+  - Nachteil sehr langsam
+  - Vorteil präzise
+    . seitwärts fahren, Hundegang
+  - Ebene Fläche machbar
+    . automatisch?
+  - Zwei parallel - keine Kippgefahr
+  - Nachteil: laaaangsam :-)
+  - Abwägung zum Tieflader bzw. Zugmaschinen-basiert?
+    . Habt ihr zusätzlich gezogen oder geschoben
+
+* Ablauf eines Transports an sich
+  - Wieviele Leute steuern/überwachen den SPMT
+  - Support-Equipment (Werkstattwagen?)
+  - ABschnittsweise SPerrung / Umleitung 
+    . Vorberietung der Route, abmontieren.
+  - Verkehrstechnik Dienstleister vs. Polizei
+
+* Dieser Transport und Herausforderungen
+  - Strecke, Dauer
+  
+
+
+
+Herausforderungen durch schlchtes Wetter; Grip, Wind.
+"Es gab einige herausfordernde Überquerungen"
+  Brückengewichte
+  Eisenbahn
+  Anstieg - Welteburger Berg
+  Querneigung
+  Strassenstabilität?
+  Unterlegplatten
+  Platten bei Brücken zur Lastverteilung
+  
+
+Was für andere Auflagen gibts bspw?
+
+Verkehrstechnik Firmen
+
+2x22 achsen
+Kranwagen, Hubsteiger, Montagewagen
+Mobile Fahrstrassen z "ABkürzung"
+Kiesbett über SChienen
+
+Umletitungen
+Wieviel Redundanz in den Achsen? Kann man ne kaptute auch mal anheben?
+
+Gerade halten der Fläche: regelung von Hand oder automatisch?
+Vorne/Hinten, Links rechts.
+Messen des Drucks in den Achsen
+Brücken/Rampen?
+
+Warum die Holzbalken in der kUrve?
+Zugmaschine am SPMT?
+
+Brückengewichtslimit
+
+12T pro Achse? Oder Sondergenehmiging?
+
+Bei der Konstruktion von Teilen muss doch letztendlich Kran und Transportstrecke
+berücksictigt werden. Wenn es keinen WEg gibt (abh v. Masse) dann kann man das Teil
+nicht bauen -> wann wird das geplant?
+
+Wasserwaage improvisiert :-)))
+
+Aufgeschüttetes Kies
+
