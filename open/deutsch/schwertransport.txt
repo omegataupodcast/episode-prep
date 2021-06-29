@@ -53,6 +53,14 @@
   - Abwägung zum Tieflader bzw. Zugmaschinen-basiert?
     . Habt ihr zusätzlich gezogen oder geschoben
 
+* ALternativen zum SPMT
+  * Viel-Achs-Tieflader ohne Antrieb, mit Zugmaschinen
+  * Ziehen mit mehreren vs. Ziehen und schieben?
+  * Spezialvorrichtungen
+    - Bladelifter
+    - "Hängende" Transformatoren
+    - WKA-Turmsegment-Transporter
+
 * Ablauf eines Transports an sich
   - Wieviele Leute steuern/überwachen den SPMT
   - Support-Equipment (Werkstattwagen?)
