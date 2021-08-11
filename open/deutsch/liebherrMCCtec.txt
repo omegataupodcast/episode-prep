@@ -1,0 +1,31 @@
+* Hafenkrane und Schiffskrane
+  - Mobil auf Rädern (viele!)
+  - Mobil auf Schienen
+  - Fest auf Schiffen
+  - Fest auf Plattformen
+
+* Welche Lastbereiche
+  - in Abgrenzung von LTM und LR
+  - Ausladungen?
+
+* Grundlegende Design-Prinzipien
+  - Grundsätzlich ein Seilkran, kein Hydraulikkran
+  - Turm statt Gegenausleger: Warum? Platz?
+  - Dafür muss es massiver sein, oder? 
+  - Aber Gewicht ist egal auf Schiffen?
+
+* Herausforderung der bewegten Plattform Schiff
+  - Konsequenzen
+
+* Wie kommt der Kran aufs Schiff?
+  - Schiff kommt nach Rostock, Montage
+  - Kran fährt komplett per Schiff zum Zielschiff
+  - Einzelteile per Schiff oder LKW etc., Montage vor Ort
+
+* Serie vs. Einzelstück?
+
+* Der TCC 78000
+  - ist das der größte Hafenkran ever? In D? In EUR?
+  - Beschreibung, Dimensionen, Lasten
+  - Durchsprechen der Komponenten, Gelenke, Winden
+  - Geschäftsmodell dieses Hakens im Hafen

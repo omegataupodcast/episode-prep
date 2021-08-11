@@ -105,6 +105,8 @@
   - Manöver und Taktiken
     . Energy Management
     . Lag, Pure & Lead Pursuit
+    . Vorgerfertigte Verfahren/Schemas vs. Improv?
+    . AIrspeed vs. Nose Position?
     <TODO Da bereite ich noch etwas vor>
   - Waffen
     . AIM 9 L / X?
