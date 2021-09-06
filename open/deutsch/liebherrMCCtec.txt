@@ -23,6 +23,7 @@
   - Einzelteile per Schiff oder LKW etc., Montage vor Ort
 
 * Serie vs. Einzelstück?
+  - Wiederverwendung von Komponenten
 
 * Der TCC 78000
   - ist das der größte Hafenkran ever? In D? In EUR?

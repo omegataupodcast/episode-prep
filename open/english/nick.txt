@@ -1,0 +1,227 @@
+* Introduce Nick 
+  - APG - Plane Tales
+  - Virgin 340
+  - RAF, OT 172, Phantom, Tornado, 
+* Flew F-18 with the RAAF
+  - how did that come about?
+  - you're partially Australian?
+  - These were A models, right? 
+    When was this in the evolution of the Hornet?
+  - Which a/c did the Hornets replace?
+    
+-- Chat about your experience, quirks and you did listen to Jerry. --
+
+* Two seater used in Australia for missions?
+  Fuel reduction problem.
+
+* Were you there when the Hornets got delivered? 
+  - How fast did they come in? 
+  - Dribble.  
+  - Who got to fly?
+  - What did the other guys fly?
+
+	When our squadron, No 77, got our first Hornets they only arrived in a
+	dribble and, of course, everyone wanted to play with them.  The first
+	one was in continual demand and all the pilots and engineers were vying
+	with each other for play time.  In the end the Boss took all the pilots
+	away to Melbourne where the Aussie Hornets were being assembled, so that
+	the engineers could have some quality time playing with the airframe.
+
+* Carbon Fibre was new. These days it is considered a challenge
+  in airliners with maintenance and stuff. 
+  
+  - How was it back then?
+
+	It used to amuse me that when we first got the aircraft, nobody was sure
+	how durable the carbon fibre would be when those big booted engineers
+	started stomping around on top.  They made them all pull soft covers
+	onto their work boots so they wouldn’t scratch.  It was a bit like
+	having a brand new car… after a couple of years and the tears had been
+	shed over the first little dink or scratch, you don’t really worry any
+	more!
+
+  - Carbon and Faraday? Lightning?
+
+	One of our guys pulled up at night off a bombing range, quite fast,
+	straight into a thunderstorm full of hail! Every slight imperfection
+	where the edges of a carbon fibre panel protruded into the slipstream
+	the top layers were striped off wrecking a large proportion of the
+	airframe. Plastic aircraft are great but they have disadvantages.  I got
+	hit by lightning once and it blew the back corners of my elevons apart
+	so they  resembled big paint brushes with strands of carbon waving on
+	the slipstream!
+
+* HOTAS - how hard to learn and retain?
+
+	HOTAS was all well and good but with over 20 different selections that
+	could be made from the throttle alone, I always found it difficult
+	remembering how to select stuff if I'd not used recently or when doing a
+	mission type that I hadn't done for a while. We used to joke that if we
+	took 2 weeks leave we had to learn to fly it all over again!
+
+* Cockpit design and layout
+ 
+  - Upfront controller
+
+	I hope things have improved but when flying close air support one of the
+	hardest things was trying to type in the string of numbers for the
+	target's lat/long that the forward air controller passed into the Up
+	Front Controller so we could attack... it all whilst doing 540 kts at
+	150 ft organising a 4 ship to hit the target on time, getting the right
+	weapons selected and the attack profile sorted.  
+ 
+  - Upfront Panel arm in the air
+  - Missing the "just a navigator" :-)
+
+	Whats more, that keyboard was high… just below the HUD and so your
+	arm was suspended up in the air with nothing to rest on.  In the
+	turbulence of overland low level flying or when pulling G it was so
+	easy to miss a key and put the wrong number in!  Nightmare!  That
+	and night low level ship strikes were always tough for a single seat
+	jet... task saturation was a real danger and for some missions I
+	missed not having a back seater. 
+
+  - Master Arm
+
+	Master Arm and master modes nearby, flown 1000 miles, tanked and in the
+	pop so reach for the Master Arm and it was easy to accidentally change
+	modes from GA to NAV when reaching for the MA and ruin an attack. 
+	Rowey, an old friend with me on 77 Sqn said it was easy to cock things
+	up and have to reselect and redesignate the target meanwhile throwing
+	your tanks off by mistake (joking)!
+
+	F18 guys converting to the F35 strike fighter are finding it a bit
+	difficult as the F35 has many of the same kind of switches but they
+	all do different things!
+
+  - Dropping programs
+	
+	Easy to get the dropping programs mixed up dropping retards on a
+	slick programme ending up with a bomb that lands about 450 ft short.
+
+  - Fuel Indicators
+    
+    Fuel gauges small and easy to ignore plus easy to move the bingo bug
+    so it doesn’t come on… leading to some embarrassing moments.
+	
+
+* A2A refuelling? Harder than in the Phantom?
+
+	Air to Air refuelling was a bit of a nightmare and the drogue used
+	to love to whip right around the fuselage banging on everything (AOA
+	vanes and pitot tubes) it could as it went.
+	
+* No GPS at the time. INS.
+ 
+  - Maps out of date :-)
+
+	Going back a bit but... in Australia we had problems when updating
+	the inertial navigation system from ground features because
+	sometimes the Nav error got worse, not better!  We discovered that
+	the maps of Australia were quite old and when we measured the
+	lat/long of a feature on the map, it wasn't actually where it really
+	was and if we used it to update the kit we actually introduced an
+	extra error! Probably not a problem nowadays with GPS!
+
+* Ladder 
+  - did you actually use it?
+  - how else could you get down?
+
+  I always thought the ladder was crap. In the Phantom it lowered itself
+  as we climbed out. The Hornet needed someone to lower it from under
+  the LEX and if they didn't know how we used to have to jump down 10 ft
+  off the wing or slide down a wing tank… usually landing in a heap! 
+  The steps were also out of sight when climbing down, and you had to
+  feel around with your foot to find them.  A friend who did a US Navy
+  exchange told me of a guy who did a back somersault onto his head,
+  luckily still protected by his helmet, when climbed off the Lex
+  assuming someone had lowered his steps and they hadn’t.
+
+* Moving Map?
+
+  - Film.
+  - You've actually reached the edge of of the world.
+  
+	On our early models the moving map was actually a roll of film
+	projected up into the back of the central TV tab and overlayed with
+	electronic symbology. It was hilarious and a bit disconcerting when
+	we flew off the edge of the map and didn't know where we were... we
+	felt a bit like early sailors exploring the unknown and I was always
+	waiting for a picture of a sea monster come up!
+
+* Radar
+  
+  - ground mapping to help landing 
+  - inofficial instrument approach - allowed?
+
+	The F18 had a great air to ground mapping radar which used doppler
+	beam sharpening, comparing the radial velocity of features on the
+	ground to build a 3D picture of the earth's surface. We even used it
+	to designate the start of the runway and then allowed the symbology
+	in the HUD to guide us down to it. That gave us the chance to do an
+	unofficial instrument approach in bad weather! The only problem was
+	that because DBS needed a radial velocity it didn't work within 7°
+	of the noise so as soon as we pointed at the runway we relied on the
+	INS not to drift... something it loved to do!
+
+* Sim visuals?
+  not moving
+
+	The simulator visuals were very realistic. Sometimes, at the end of
+	a session, the instructor would freeze the box when you were upside
+	down and then tell you to get out! It used to freak me out as it
+	really felt like I would fall out of the cockpit! 😳
+
+* AUS is large. Transits? Boredom?
+
+	On transits when we were bored we used to lock up to civil airliners
+	and shoot them down and then find trucks on the ground to lock to
+	and bomb them... the bombing computer used to compute a solution for
+	moving vehicles, it even gave us their speed along the highways. I
+	often wondered if it would set of any speed trap radar detectors the
+	drivers might have!
+	
+* High AoA 
+  - Departure?
+
+  - Did the software work reliably?
+
+	Early models prone to departure, particularly the 2 seaters. Some
+	guys sat in a spinning tub well below 10,000ft and nearly brought
+	the farm.  In one combat mission a mate tried to pull a rolling guns
+	jink into an attacking A4 using lots of rudder and the F18 departed
+	snapping through 270 in pitch and 180 in roll until it was pointing
+	vertically down and he went from 540 to 60 knots in a blink.  The A4
+	guy asked if he was ok… after recovering he said sure, but I bet you
+	couldn’t track us could you?  Sometimes, however, it was sluggish to
+	roll at high AOA and would sometimes roll the wrong way.  Much
+	improved after various flight control software upgrades.
+
+* Hard to feel your speed, the noise was constant  above 250 knots.
+
+* Oxygen
+
+	The oxygen system was Navy but had no flow indication so it wasn’t
+	easy to spot a failure.  Tell hypoxia story.  Follow up with fatal
+	hypoxia event that the RAAF had story ending with… a wingman was
+	sent off to find guy who was hypoxic and was chasing him in burner
+	disappearing into a dow when his leader told him to drop his tank to
+	save fuel… but remember the jettison limits of 550 knots and M0.9. 
+	The reply came back, well it’s 580 knots and 1.1 now!
+
+* Cat
+
+	First Cat shot, Rowdy forgot to put his feet flat on the floor and
+	left his toes on the rudder pedals.  During the cat shot his legs
+	flew up and pushing them back down he put brakes on.  Burst both
+	main tyres as he launched and left the deck smothered in blue smoke.
+	 Diverted, got new tyres and eventually headed back to his carrier. 
+	Arrived back descending down below a low cloud layer and forgot to
+	slow to pattern speed, arriving overhead at 600ft 540 knots.  He had
+	to do a full break over the carrier to get his speed back to pattern
+	speed for his first attempt at a carrier landing!
+	
+* So, summing up ... did you like the Hornet?
+  
+* After that you flew the F.3, right?	
+	
