@@ -1,0 +1,73 @@
+* Brief Intro Antoine
+  (we'll talk about your pre-Airbus experience towards the end of the conversation)
+  - flight and ground test
+  - Managing >100 flight test professionals
+
+* What is the current product line of Airbus helicopters
+  (to demonstrate the range of flight test challenges)
+
+* How do test pilots and test engineers collaborate
+  - before the campaign (while it is designed)
+    . probably also other engineers involved? 
+      how does the knowledge about what needs testing 
+      in a particular new helo get to the FT community?
+  - during the campaign
+  - during the flights
+  
+
+* Is there a distinction in flight test responsibilities 
+  between civilian and military?
+  - and operationally? 
+    Coordination with the flight test folks of "the customer"?
+  - everything in Donauwörth?
+  
+* Production flight test vs. development flight test
+
+* Research and development themes and prototyping 
+  - what are some of these themes and prototypes you have worked on?
+  - what are the main things of helo innovation currently?
+    . Fenestron is no longer "new", right?
+    . 5 blade rotor - why? what is advantageous?
+    . is it mostly software and avionics? Examples?
+  QUESTION: Can you mention a few in advance so I can prepare?
+
+* QUESTION: Can we walk through in detail through a particular test campaign?
+  - talk through specific test points and challenges,
+  - and also about the analysis that leads to those 
+  (I would love to explore this in real detail, 30 or 45 minutes)
+
+* You landed on Aconcagua, together with Alexander Neuhaus
+  - how hight?
+  - what is the challenge?
+  - With how much power reserves did you land?
+  - What is the flying challenge 
+    . except having no reserves?
+    . strong wind - good or bad? (transition lift)
+    . role of avionics and autopilot
+  - Prep?
+  - Safety gates and strategies
+  - Ecureuil still has overall record (2005), right?
+    
+
+* What are some of the routine test points, and which special 
+  instrumentation/sensors are used?
+  - strains
+  - vibrations 
+  
+* Special airspace and "range instrumentation" to do the work?
+  
+* Is the City Airbus also part of your responsibility?
+
+* Talk about previous experience
+  - RNLAF
+    - Talk a bit about your role(s) there.
+  - ETPS 
+    - Talk about the FTE track at the school?
+
+* "At the moment flight test experience on 60+ rotary wing and fixed 
+   wing aircraft incl. First Flights."
+   et's geek out a bit over some of the helos you have flown. 
+  - How are they different?
+  - Quirks?
+
+     

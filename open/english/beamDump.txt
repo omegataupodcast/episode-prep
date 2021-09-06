@@ -1,0 +1,99 @@
+* Introduction Marco
+
+* What does the Targets group do
+  - what are targets
+  - those as a particle source 
+    (fixed target impact of beam)
+  - those for controlling the beam
+    (collimators, scrapers)
+  - those for dumping the beam 
+    (focus of this discussion)
+  - How many of those do you have at LHC complex?  
+  
+* Beam dump, why
+  - Lifecyle of LHC (fill, science, dump)  
+  - But also "emergency" dump triggered by protection system
+  - 200 dump events per year (surprised, would have expected more.)
+
+* General idea
+  - lot of mass
+  - beam impacts
+  - heats up target via particle showers
+  - sizes, masses, dimensions
+  
+    
+* How do you get the beam into the dump
+  - kicker magnets
+    . small but fast vertical kicker
+    . then larger horiz kicker that is always energized
+    . precisely delineated mag fields required!
+  - 3 rounds of beam after trigger
+    . why?
+    . the entire LHC ring is emptied in just 86 μs
+  - beam gap for kicker rampup
+  - dilution of beam for impact, circular
+    . what happens to dump if these fail?
+    . oh, and what happens to LHC if kickers fail?  
+
+
+* General challenges of LHC beam dump
+  - how much power/energy is transported by beam into the target
+    and what does it depend on?
+  
+	# 560 MJ during LHC Run 3, roughly corresponding to the energy
+	# required to melt 2.7 tonnes of copper. Released in a period of
+	# just 86 μs, this corresponds to a peak power of 6.3 TW or, put
+	# differently, 8.6 billion horse power. 
+  
+  - does the target expand when the beam impacts? 
+    . Loud? Flash? Ever filmed?
+  - heat capacity of target
+    . core heats to 1500 C, expands, 
+    . but cannot really because of mass around it.
+    . mech stress
+    
+    # Although the steel vessel is responsible for absorbing just 5% of
+    # the deposited energy, the short timescales involved lead to a
+    # semi-instantaneous rise in temperature of more than 150 C,
+    # generating accelerations up to 2000 g and forces of several hundred
+    # tonnes. 
+    
+  - slow down "stepwise", different materials, which?
+  - cooling to keep material stable and to be ready for next dump in time
+    (is the cooling active?)
+  - activation/radiation
+    (the large concrete/steel blocks around it, only for rad or also for heat?)
+
+
+* You built a new LHC dump in the current shutdown. What is different?
+  - gap between beam and dump
+  - purpose of entry window
+  - what materials are stacked?
+  - conductivity of heat to the outer layers. How?
+  - failure modes of target? -> sensors in the dump; which and why? 
+  - the old one had moved by a few cm. 
+    Why? sims to find out? What done differently now?
+  - How do you transport it down to the cavern?
+
+
+* Internal (PS, or was it SPS?) vs. external (LHC) beam dumps
+  - what is (interestingly) different in (S)PS dump?
+    # 4.4 m of isostatic graphite, 20 cm of a molybdenum alloy and 40 cm of pure tungsten
+  - Cooling: 
+    . copper-alloy jacket
+    . stainless-steel cooling pipes and the copper alloy
+    . air-cooled
+    . seamless 15 mm-thick stainless-steel hollow cylinder
+    . massive, multi-layered external shield comprising an inner 
+      layer of 50 cm of concrete, followed by 1 m of cast iron and 
+      an external layer 40 cm of marble)
+  - sinusoidal
+  - which of the two is more challenging? Why?
+
+* Challenges from HL-LHC
+  - more energy
+  - higher freq of dumps
+  - cavern size as a limit?
+  
+* What about the even higher energies in FCC?
+  
