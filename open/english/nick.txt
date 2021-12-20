@@ -2,12 +2,14 @@
   - APG - Plane Tales
   - Virgin 340
   - RAF, OT 172, Phantom, Tornado, 
+  
 * Flew F-18 with the RAAF
-  - how did that come about?
   - you're partially Australian?
+  - how did that come about?
+  - Which a/c did the Hornets replace?
+    Mirage
   - These were A models, right? 
     When was this in the evolution of the Hornet?
-  - Which a/c did the Hornets replace?
     
 -- Chat about your experience, quirks and you did listen to Jerry. --
 
@@ -17,8 +19,6 @@
 * Were you there when the Hornets got delivered? 
   - How fast did they come in? 
   - Dribble.  
-  - Who got to fly?
-  - What did the other guys fly?
 
 	When our squadron, No 77, got our first Hornets they only arrived in a
 	dribble and, of course, everyone wanted to play with them.  The first
@@ -26,6 +26,10 @@
 	with each other for play time.  In the end the Boss took all the pilots
 	away to Melbourne where the Aussie Hornets were being assembled, so that
 	the engineers could have some quality time playing with the airframe.
+
+  - Who got to fly?
+  - What did the other guys fly?
+
 
 * Carbon Fibre was new. These days it is considered a challenge
   in airliners with maintenance and stuff. 
@@ -61,7 +65,9 @@
 
 * Cockpit design and layout
  
-  - Upfront controller
+   - Upfront controller
+  - Upfront Panel arm in the air
+
 
 	I hope things have improved but when flying close air support one of the
 	hardest things was trying to type in the string of numbers for the
@@ -70,18 +76,8 @@
 	150 ft organising a 4 ship to hit the target on time, getting the right
 	weapons selected and the attack profile sorted.  
  
-  - Upfront Panel arm in the air
-  - Missing the "just a navigator" :-)
-
-	Whats more, that keyboard was high… just below the HUD and so your
-	arm was suspended up in the air with nothing to rest on.  In the
-	turbulence of overland low level flying or when pulling G it was so
-	easy to miss a key and put the wrong number in!  Nightmare!  That
-	and night low level ship strikes were always tough for a single seat
-	jet... task saturation was a real danger and for some missions I
-	missed not having a back seater. 
-
-  - Master Arm
+ 
+ - Master Arm
 
 	Master Arm and master modes nearby, flown 1000 miles, tanked and in the
 	pop so reach for the Master Arm and it was easy to accidentally change
@@ -93,7 +89,18 @@
 	F18 guys converting to the F35 strike fighter are finding it a bit
 	difficult as the F35 has many of the same kind of switches but they
 	all do different things!
+ 
+  - Missing the "just a navigator" :-)
 
+	Whats more, that keyboard was high… just below the HUD and so your
+	arm was suspended up in the air with nothing to rest on.  In the
+	turbulence of overland low level flying or when pulling G it was so
+	easy to miss a key and put the wrong number in!  Nightmare!  That
+	and night low level ship strikes were always tough for a single seat
+	jet... task saturation was a real danger and for some missions I
+	missed not having a back seater. 
+
+ 
   - Dropping programs
 	
 	Easy to get the dropping programs mixed up dropping retards on a
@@ -104,6 +111,17 @@
     Fuel gauges small and easy to ignore plus easy to move the bingo bug
     so it doesn’t come on… leading to some embarrassing moments.
 	
+
+* Oxygen
+
+	The oxygen system was Navy but had no flow indication so it wasn’t
+	easy to spot a failure.  Tell hypoxia story.  Follow up with fatal
+	hypoxia event that the RAAF had story ending with… a wingman was
+	sent off to find guy who was hypoxic and was chasing him in burner
+	disappearing into a dow when his leader told him to drop his tank to
+	save fuel… but remember the jettison limits of 550 knots and M0.9. 
+	The reply came back, well it’s 580 knots and 1.1 now!
+
 
 * A2A refuelling? Harder than in the Phantom?
 
@@ -123,19 +141,6 @@
 	was and if we used it to update the kit we actually introduced an
 	extra error! Probably not a problem nowadays with GPS!
 
-* Ladder 
-  - did you actually use it?
-  - how else could you get down?
-
-  I always thought the ladder was crap. In the Phantom it lowered itself
-  as we climbed out. The Hornet needed someone to lower it from under
-  the LEX and if they didn't know how we used to have to jump down 10 ft
-  off the wing or slide down a wing tank… usually landing in a heap! 
-  The steps were also out of sight when climbing down, and you had to
-  feel around with your foot to find them.  A friend who did a US Navy
-  exchange told me of a guy who did a back somersault onto his head,
-  luckily still protected by his helmet, when climbed off the Lex
-  assuming someone had lowered his steps and they hadn’t.
 
 * Moving Map?
 
@@ -164,14 +169,6 @@
 	of the noise so as soon as we pointed at the runway we relied on the
 	INS not to drift... something it loved to do!
 
-* Sim visuals?
-  not moving
-
-	The simulator visuals were very realistic. Sometimes, at the end of
-	a session, the instructor would freeze the box when you were upside
-	down and then tell you to get out! It used to freak me out as it
-	really felt like I would fall out of the cockpit! 😳
-
 * AUS is large. Transits? Boredom?
 
 	On transits when we were bored we used to lock up to civil airliners
@@ -181,12 +178,24 @@
 	often wondered if it would set of any speed trap radar detectors the
 	drivers might have!
 	
+
+* Sim visuals?
+  not moving
+
+	The simulator visuals were very realistic. Sometimes, at the end of
+	a session, the instructor would freeze the box when you were upside
+	down and then tell you to get out! It used to freak me out as it
+	really felt like I would fall out of the cockpit! 😳
+
+
+	
+	
 * High AoA 
   - Departure?
 
   - Did the software work reliably?
 
-	Early models prone to departure, particularly the 2 seaters. Some
+	DONE Early models prone to departure, particularly the 2 seaters. Some
 	guys sat in a spinning tub well below 10,000ft and nearly brought
 	the farm.  In one combat mission a mate tried to pull a rolling guns
 	jink into an attacking A4 using lots of rudder and the F18 departed
@@ -199,15 +208,20 @@
 
 * Hard to feel your speed, the noise was constant  above 250 knots.
 
-* Oxygen
+* Ladder 
+  - did you actually use it?
+  - how else could you get down?
 
-	The oxygen system was Navy but had no flow indication so it wasn’t
-	easy to spot a failure.  Tell hypoxia story.  Follow up with fatal
-	hypoxia event that the RAAF had story ending with… a wingman was
-	sent off to find guy who was hypoxic and was chasing him in burner
-	disappearing into a dow when his leader told him to drop his tank to
-	save fuel… but remember the jettison limits of 550 knots and M0.9. 
-	The reply came back, well it’s 580 knots and 1.1 now!
+  I always thought the ladder was crap. In the Phantom it lowered itself
+  as we climbed out. The Hornet needed someone to lower it from under
+  the LEX and if they didn't know how we used to have to jump down 10 ft
+  off the wing or slide down a wing tank… usually landing in a heap! 
+  The steps were also out of sight when climbing down, and you had to
+  feel around with your foot to find them.  A friend who did a US Navy
+  exchange told me of a guy who did a back somersault onto his head,
+  luckily still protected by his helmet, when climbed off the Lex
+  assuming someone had lowered his steps and they hadn’t.
+
 
 * Cat
 

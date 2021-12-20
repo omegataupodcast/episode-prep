@@ -1,0 +1,71 @@
+* What is the general idea? 
+  - extract the carbon from the air
+  - and then where does it go?
+
+* How does it work
+  - fan pumps air into ...
+  - filter made of?
+  - capture CO2 on filter
+  - close chamber, heat, concentrate
+  - Adsorption, Desorption
+  
+* The actual machines
+  - How big are these machines? 
+  - How do they look, components?
+  - What other infra is needed? 
+    . The towers
+    . Process hall 
+    . Control systems. 
+  
+* What chemical or physical processes are used?
+  - what is the sorbent?
+
+* Ingredients for operation
+  - Electrical energy 
+  - Heat for desorption
+
+* Options of where it goes?
+  - Geo storage
+    . What are the conditions for geological storage?
+    . In what state is it stored there?
+    . How is it turned into stone?
+  - What else could one do with the CO2?
+
+* History of the approach
+  - initial idea by whom, when?
+  - when/how did Climeworks get involved?
+  - what is Climeworks' innovation?
+
+* How did the tech evolve over the geneation(s)?
+  - Sealings
+  - less steel
+  - better sorbents
+
+* Plants and development
+  - First plan in Switzerland
+  - Arctic Fox
+  - Orca
+
+* Maintenance, long term operation?
+
+* Capabilities and efficiencies
+  - how much CO2 can be removed per <useful unit of size>
+  - Total energy/CO2 balance of operating the machines and building the plant
+    . 90% sounds almost too good to be true. Is this independently measured?
+    . What does this assume? Eg, green electrical power?
+  - What kind of scale up would be needed to have a real impact on climate change?
+    how many machines/square km/investment to compensate for all of humanities' emissions?
+
+* Economics
+  - 5-700 $ per ton -> That's too expensive, isn't it?
+  - How does this number come down? What does it depend on? Use of the collected CO2?  
+  - What about economic break-even? What does this depend on?
+  - Aren't trees the better carbon-out-of-the-air-extractors?
+
+* Plan for scaling up? Technically and financially.
+
+* How do you see removal vs. avoidance in the overal 
+  climate-catastrophe-avoidance strategy?
+  - your perspective
+  - does the IPCC report say something about this?
+
